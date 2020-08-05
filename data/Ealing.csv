@@ -1,0 +1,653 @@
+,price,address,postcode,number_bedrooms
+6,625000.0,"Longfield House, 18-20 Uxbridge Road, Ealing, W5",W5,3.0
+7,425000.0,"Horn Lane, London, W3",W3,1.0
+9,660000.0,"Wilkinson Way, London, W4",W4,4.0
+11,330000.0,"Buckingham Avenue, Perivale, Greenford, UB6",UB6,2.0
+13,375000.0,"Bollo Lane, London, W4",W4,1.0
+16,605000.0,"Bridge Road, Southall, Middlesex, UB2",UB2,3.0
+17,490000.0,"Bridge Road, Southall, Middlesex, UB2",UB2,2.0
+18,329000.0,"Clement Close, London, W4",W4,2.0
+19,450000.0,"The Green, Ealing, W5",W5,2.0
+22,849950.0,"Fowlers Walk, W5",W5,3.0
+23,425000.0,"Fells Haugh, Horn lane, Acton, W3",W3,2.0
+25,570000.0,"Central London Apartments, Victoria Road, London, W3",W3,1.0
+28,848750.0,"Drayton Gardens, W13",W13,5.0
+29,399950.0,"Grange Park, Ealing, W5",W5,1.0
+30,1595000.0,"Buxton Gardens, Acton, W3",W3,4.0
+31,400000.0,"Browning Avenue, London, W7",W7,2.0
+32,645000.0,"Northcote Avenue, London, W5",W5,3.0
+33,350000.0,"Allington Close, Greenford, UB6",UB6,2.0
+35,385000.0,"Rowan Close, Ealing, W5",W5,2.0
+37,700000.0,"Welsby Court, W5",W5,3.0
+38,2500000.0,"Madeley Road, Ealing W5",W5,5.0
+39,650000.0,"Culmington Road, Ealing, W13",W13,3.0
+43,560000.0,"Islip Manor Road, Northolt, Middlesex, UB5 5DY",UB5,4.0
+45,170000.0,"Damsonwood Road, Southall, UB2",UB2,1.0
+47,550000.0,"1 Northcote Avenue, Ealing Broadway, W5",W5,2.0
+51,499950.0,"Westcott Crescent, Hanwell, London, W7 1PA",W7,2.0
+52,395000.0,"Bridge Road, Southall, Middlesex, UB2",UB2,1.0
+55,550000.0,"Northfield Ave, W13",W13,2.0
+56,420000.0,"Rochester House, 66 Little Ealing Lane, Ealing, W5",W5,1.0
+57,399950.0,"Northfields Ave, W13 ",W13,1.0
+60,530000.0,"Goodhall Street, Willesden Junction, NW10",NW10,3.0
+64,485000.0,"Hawtrey Avenue, Northolt, Middlesex, UB5 5JB",UB5,3.0
+66,435000.0,"Colonnade Gardens, London, W3",W3,1.0
+67,524950.0,"Wadham Gardens, Greenford, Middlesex, UB6",UB6,3.0
+68,590000.0,"Burwell Avenue, Greenford, Middlesex, UB6",UB6,4.0
+69,320000.0,"Rowan Close, Ealing, W5",W5,1.0
+70,210000.0,"Queens Road, Southall, UB2",UB2,1.0
+74,350000.0,"St. Pauls Close, London, W5",W5,1.0
+76,1600000.0,"Hartington Road, W13",W13,5.0
+78,525000.0,"Pitshanger Lane, London, W5",W5,2.0
+79,230000.0,"Barbican Road, Greenford, Middlesex, UB6",UB6,2.0
+80,425000.0,"Shakespeare Road, Hanwell, W7",W7,2.0
+81,445000.0,"Allison Road, W3",W3,2.0
+82,375000.0,"Tentelow Lane, Norwood Green, Southall, UB2 4LQ",UB2,2.0
+83,675000.0,"Woodcroft, Greenford, Middlesex, UB6",UB6,3.0
+84,475000.0,"Mount Avenue, Ealing, W5",W5,2.0
+88,1100000.0,"Summerlands Avenue, Acton, London, W3",W3,7.0
+89,600000.0,"Oak Cottages, Hanwell, W7",W7,2.0
+90,725000.0,"Hastings Road, W13",W13,3.0
+92,395000.0,"Samuelson House, Greenview Court, Southall, London, UB2",UB2,1.0
+93,360000.0,"Greenview Court, Merrick Road, Southall, London, UB2",UB2,1.0
+95,650000.0,"Denbigh Road, Ealing, W13",W13,3.0
+96,775000.0,"Priory Road, Bedford Park borders, Chiswick, London, W4",W4,3.0
+97,550000.0,"Killowen Avenue, Northolt, UB5",UB5,3.0
+98,230000.0,"Nicholas Close, Greenford, UB6",UB6,1.0
+100,625000.0,"The Park, Ealing, W5",W5,2.0
+103,375000.0,"Adelaide Road, Ealing, W13",W13,2.0
+108,425000.0,"Cumberland Road, W7",W7,1.0
+109,285000.0,"Madeley Road, W5",W5,0.0
+113,400000.0,"Madeley Road, W5",W5,1.0
+114,395000.0,"Shaftesbury Gardens, NW10",NW10,2.0
+120,430000.0,"Gunnersbury Lane, Acton, W3",W3,2.0
+121,460000.0,"Merrick Road,
+Southall,
+UB2",UB2,2.0
+125,230000.0,"Nicholas Close, Greenford, UB6",UB6,1.0
+126,286000.0,"Gurnell Grove, Ealing, W13",W13,2.0
+128,625000.0,"Glade Lane, Norwood Green, Southall, Middlesex, UB2 4PL",UB2,4.0
+131,550000.0,"Derwentwater Road, London, W3",W3,2.0
+141,425000.0,"Horn Lane, Acton, London, W3",W3,1.0
+144,2500000.0,"Esmond Road, London, W4",W4,6.0
+146,340000.0,"Wedmore Road, Greenford, UB6",UB6,2.0
+148,900000.0,"Drayton Gardens, Ealing, W13",W13,4.0
+150,395000.0,"Merrick Road, 
+Southall, 
+London,
+UB2 4AT",UB2,1.0
+154,1300000.0,"First Avenue, London, W3",W3,5.0
+155,419950.0,"Broughton Road, Ealing, W13",W13,1.0
+156,375000.0,"Hazelmere Drive, Northolt, UB5",UB5,2.0
+157,600000.0,"Alacia Court, Palmerston Road, London, W3",W3,2.0
+161,350000.0,"Connell Crescent, W5",W5,2.0
+163,750000.0,"Muirfield, East Acton W3 7NR",W3,3.0
+164,599950.0,"Niagara Avenue, Ealing, W5",W5,2.0
+165,659950.0,"Sudbury Heights Avenue, Greenford, UB6",UB6,4.0
+167,375000.0,"Millet Road, Greenford, Middlesex, UB6 9SJ",UB6,2.0
+168,575000.0,"Kingfield Road, London, W5",W5,1.0
+169,950000.0,"Perivale Lane, Greenford, Middlesex, UB6",UB6,4.0
+170,860000.0,"Cantley Road, London, W7",W7,4.0
+171,2750000.0,"St. Leonards Road, Ealing, W13",W13,6.0
+172,390000.0,"Azalea Close, London, W7",W7,2.0
+173,445000.0,"Carlyle Road, W5",W5,2.0
+174,1300000.0,"Meadvale Road, London, W5",W5,4.0
+175,699000.0,"Bromyard Avenue, Acton, W3",W3,2.0
+176,340000.0,"Garrick Close, W5",W5,1.0
+188,332000.0,"Lapis Close, London, NW10",NW10,1.0
+191,400000.0,"Shadwell Drive, Northolt, UB5",UB5,3.0
+193,1000000.0,"Weston Road, W4",W4,4.0
+195,1000000.0,"Church Path, London  W4",W4,4.0
+199,450000.0,"Queens Terrace Cottages, Boston Road, Hanwell, W7 3TS",W7,2.0
+201,525000.0,"Grange Road, Ealing, W5",W5,2.0
+202,450000.0,"Willow Road, Ealing, W5",W5,2.0
+203,575000.0,"Cedar Grove, Ealing, W5",W5,3.0
+206,440000.0,"Cavalier House, W5",W5,1.0
+207,950000.0,"Wellington Road, W5",W5,4.0
+208,320000.0,"Beaconsfield Road,
+Southall,
+UB1",UB1,1.0
+209,395000.0,"Beaconsfield Road,
+Southall,
+UB1",UB1,2.0
+210,98750.0,"Beaconsfield Road,
+Southall,
+UB1",UB1,2.0
+211,80000.0,"Beaconsfield Road,
+Southall,
+UB1",UB1,1.0
+212,65625.0,"Beaconsfield Road,
+Southall,
+UB1",UB1,0.0
+213,480000.0,"Aspire at St Bernards Gate, Uxbridge Road, 
+Southall,
+London,
+UB2 4FY",UB2,2.0
+214,101875.0,"Aspire at St Bernards Gate, Uxbridge Road, 
+Southall,
+London,
+UB2 4FY",UB2,2.0
+215,629950.0,"Mansell Road, London, W3",W3,3.0
+217,335000.0,"Bromyard House, Bromyard Avenue, Acton, London, W3",W3,1.0
+219,585000.0,"Queens Drive, Ealing, W3",W3,3.0
+222,700000.0,"Noel Road, London, W3",W3,3.0
+224,300000.0,"80 Dabbs Hill Lane, Northolt, UB5",UB5,2.0
+225,600000.0,"Steele Road, London, W4",W4,2.0
+226,399950.0,"Rosemont Court, Acton, London, W3",W3,2.0
+227,335000.0,"Greenview Court, 
+Merrick Road,
+Southall, 
+London, 
+UB2 4AB",UB2,1.0
+230,625000.0,"Montague Avenue, Hanwell, W7",W7,3.0
+233,1100000.0,"Twyford Abbey Road, West Twyford , London, NW10",NW10,6.0
+236,500000.0,"North Road, Southall, London, Uk, UB1",UB1,3.0
+238,399950.0,"Rosemont Court, W3",W3,2.0
+245,635000.0,"Sydney Road, W13",W13,2.0
+256,500000.0,"Stephenson Road, London, W7",W7,3.0
+257,615000.0,"Bollo Lane, 
+Acton, 
+W3 8QT",W3,2.0
+258,590000.0,"Southfield Road, Chiswick, London, W4",W4,2.0
+259,415000.0,"Townshend House, Rosemont Road, Acton, London, W3",W3,1.0
+260,1350000.0,"Montpelier Road , Ealing, London, W5",W5,3.0
+268,850000.0,"Eaton Rise , Ealing , London, W5",W5,2.0
+271,267500.0,"Girtin House, Academy Gardens, Northolt, UB5",UB5,2.0
+273,565000.0,"Ruislip Road, Greenford, UB6",UB6,3.0
+280,350000.0,"Pelham Place, London, W13",W13,2.0
+283,375000.0,"Spencer Road, Acton, London, W3",W3,1.0
+285,1500000.0,"Montpelier Road, Ealing, London, W5",W5,3.0
+286,400000.0,"Oaklands Road, W7",W7,2.0
+287,500000.0,"Westcott Crescent, Hanwell, Ealing, W7",W7,3.0
+289,699950.0,"Allenby Close, Greenford UB6",UB6,4.0
+290,2250000.0,"The Avenue, London, W4",W4,6.0
+291,625000.0,"Danemead Grove, Northolt, UB5",UB5,5.0
+292,370000.0,"Bronnley Court, Acton, London , W3",W3,1.0
+293,190000.0,"Willowbrook Road, Southall, UB2",UB2,2.0
+294,325000.0,"Western Avenue, Greenford, UB6",UB6,1.0
+295,1900000.0,"Rusthall Avenue, Chiswick, London, W4",W4,4.0
+298,775000.0,"Rusthall Mansions, South Parade, W4",W4,2.0
+303,500000.0,"Convent Gardens, W5",W5,2.0
+304,699950.0,"Whellock Road, London, W4",W4,2.0
+305,585000.0,"Corfton Road, W5",W5,2.0
+313,675000.0,"Whitton Drive, Greenford, Middlesex, UB6",UB6,5.0
+318,350000.0,"Bromyard Avenue, London, W3",W3,1.0
+319,395000.0,"Uxbridge Road, Southall, Southall, UB1 3EW",UB1,3.0
+321,850000.0,"Airedale Road, Ealing, London, W5 4SD",W5,6.0
+326,625000.0,"Thackeray Court, W5",W5,2.0
+327,630000.0,"Fletcher Road, London, W4",W4,2.0
+330,2750000.0,"Warwick Road, Ealing, W5",W5,6.0
+333,650000.0,"Bollo Lane, London, W4",W4,2.0
+336,525000.0,"Brouncker Road, London, W3",W3,2.0
+337,475000.0,"Pinewood Grove, Ealing, W5",W5,2.0
+338,700000.0,"Southfield Road, Chiswick, London, W4",W4,2.0
+339,385000.0,"Hanger Lane, London, W5",W5,2.0
+340,450000.0,"Bromyard Avenue, London, W3",W3,2.0
+345,515000.0,"Kenilworth Road, Ealing, W5",W5,1.0
+349,950000.0,"Grasmere Avenue, Acton, London, W3",W3,3.0
+351,315000.0,"Brendon Court, St. Mary's Avenue North, Norwood Green, UB2",UB2,3.0
+353,435000.0,"The Vale, Acton, London, W3",W3,2.0
+357,699000.0,"Bromyard Avenue, Acton, W3",W3,2.0
+361,650000.0,"Uxbridge Road, Ealing, London, W5",W5,2.0
+363,449950.0,"Seaford Road, London, W13",W13,2.0
+367,320000.0,"Jefferson Close, W13",W13,1.0
+369,459950.0,"Kingston Close, Northolt, Middlesex, UB5 5AN",UB5,3.0
+373,400000.0,"Cumberland Road, W7",W7,2.0
+378,399000.0,"Greenview Court, 
+Merrick Road,
+Southall, 
+London, 
+UB2 4AB",UB2,2.0
+379,560000.0,"Greenview Court, 
+Merrick Road,
+Southall, 
+London, 
+UB2 4AB",UB2,3.0
+380,489000.0,"Greenview Court, 
+Merrick Road,
+Southall, 
+London, 
+UB2 4AB",UB2,2.0
+381,499000.0,"Greenview Court, 
+Merrick Road,
+Southall, 
+London, 
+UB2 4AB",UB2,3.0
+383,1250000.0,"Campbell Road, W7",W7,5.0
+384,3495000.0,"Edgehill Road, Ealing, W13",W13,7.0
+392,240000.0,"Featherstone Road, Southall, UB2",UB2,1.0
+394,475000.0,"Moat Farm Road, Northolt, UB5",UB5,3.0
+395,1375000.0,"Antrobus Road, W4",W4,4.0
+399,1250000.0,"Melbury Avenue, Norwood Green, UB2",UB2,5.0
+400,550000.0,"Killowen Avenue, Northolt, UB5",UB5,3.0
+404,500000.0,"Allenby Road, Southall, UB1",UB1,3.0
+407,525000.0,"Chiswick, Chiswick, London, W4",W4,1.0
+408,699950.0,"Springfield Road, Hanwell, W7",W7,3.0
+410,1250000.0,"Whitehall Gardens, Acton, London, W3",W3,4.0
+414,350000.0,"Heathfield Road, London, W3",W3,1.0
+415,450000.0,"York Avenue, Hanwell, W7",W7,3.0
+416,749950.0,"Lanark Close, W5",W5,5.0
+417,1200000.0,"Marlborough Crescent, Chiswick, London, W4",W4,2.0
+419,510000.0,"Kenmure Mansions, W5",W5,3.0
+421,550000.0,"Northcote Avenue, Ealing, W5",W5,2.0
+422,625000.0,"Lilac Gardens, W5",W5,3.0
+424,269950.0," Dacre Close, Greenford, UB6",UB6,1.0
+425,335000.0,"Bromyard House, Bromyard Avenue, London, W3",W3,1.0
+427,460000.0,"Rosemont Road, W3, Acton, London, W3",W3,2.0
+428,440000.0,"Connell Crescent, London, W5",W5,2.0
+429,525000.0,"Balmain Close, Grange Road, Ealing, W5",W5,2.0
+430,85000.0,"STUNNING NARROWBOAT - Anfauglir, High Line Yachting, Northolt, Middx, UB5 6AG",UB5,1.0
+434,749950.0,"Lanark Close, W5 ",W5,5.0
+435,399950.0,"West Park Road, Southall, Middlesex, UB2",UB2,2.0
+438,775000.0,"Fairlawn Avenue, W4",W4,3.0
+439,274950.0,"Shelley Close, Greenford UB6",UB6,2.0
+440,550000.0,"Northcote Apartments, 1a Northcote Avenue, Ealing, W5",W5,2.0
+441,749950.0,"Thackery Court, Ealing, London, W5",W5,3.0
+443,550000.0,"Madeley Road, Ealing, W5",W5,1.0
+448,899950.0,"Clitherow Avenue, W7",W7,5.0
+450,330000.0,"Buckingham Avenue, Perivale, Greenford, UB6",UB6,2.0
+455,375000.0,"Western Avenue, London, W3",W3,2.0
+458,415000.0,"Lovelace House, Ealing, W13",W13,2.0
+461,650000.0,"Thorpe Hall Mansions, Eaton Rise, London, W5",W5,3.0
+468,350000.0,"Taywood Road, Northolt, UB5 6GW",UB5,2.0
+470,385000.0,"West Park Road, Southall, UB2",UB2,2.0
+471,269950.0,"Academy Gardens, Northolt, UB5",UB5,2.0
+472,1695000.0,"Haven Lane, London, W5",W5,6.0
+473,310000.0,"The Grove, London, W5",W5,1.0
+474,570000.0,"Greenford Road, Ealing, Greenford, UB6",UB6,4.0
+476,525000.0,"Balmain Close, Ealing, London, W5",W5,2.0
+477,500000.0,"Gunnersbury Avenue, Ealing, London, W5",W5,2.0
+485,550000.0,"Mount Park Road, W5",W5,2.0
+487,1100000.0,"1 Evershed Walk, London, W4",W4,2.0
+488,725000.0,"Donne Court, Bollo Bridge Road, Acton, London, W3",W3,3.0
+489,325000.0,"Birkbeck Road, Acton, London, W3",W3,1.0
+491,500000.0,"Seaford Road, Ealing, W13",W13,2.0
+497,600000.0,"Dordrecht Road, Acton, London, W3",W3,2.0
+498,480000.0,"Napier House, Bromyard Avenue, Acton, London, W3",W3,2.0
+499,699950.0,"Acton Lane, London, W4",W4,2.0
+504,935000.0,"Drayton Avenue,W13",W13,4.0
+508,435000.0,"Merrick Road, 
+Southall, 
+London,
+UB2 4AT",UB2,2.0
+509,375000.0,"St. Marys Road, Ealing, W5",W5,1.0
+510,380000.0,"Merrick Road, 
+Southall, 
+London,
+UB2 4AT",UB2,1.0
+511,425000.0,"Junction Road, W5",W5,2.0
+512,460000.0,"Merrick Road, 
+Southall, 
+London,
+UB2 4AT",UB2,2.0
+513,520000.0,"Bromyard House, Bromyard Avenue, Acton, W3",W3,2.0
+514,375000.0,"Hastings Road, W13",W13,1.0
+516,430000.0,"Merrick Road, 
+Southall, 
+London,
+UB2 4AT",UB2,2.0
+518,365000.0,"Merrick Road, 
+Southall, 
+London,
+UB2 4AT",UB2,1.0
+519,375000.0,"Merrick Road, 
+Southall, 
+London,
+UB2 4AT",UB2,1.0
+520,345000.0,"Carlton Road, Chiswick, W4",W4,1.0
+521,455000.0,"Merrick Road, 
+Southall, 
+London,
+UB2 4AT",UB2,2.0
+522,500000.0,"Ealing Village, W5",W5,3.0
+523,575000.0,"Stanley Gardens, ACTON, London, UK, W3",W3,2.0
+525,465000.0,"One West Point, Acton, W3",W3,1.0
+526,1100000.0,Third Avenue W3,W3,4.0
+527,900000.0,"Greenford Avenue, Hanwell, W7",W7,5.0
+528,850000.0,"Kerrison Villas, London, W5",W5,2.0
+533,575000.0,"Felix Road, West Ealing, London. W13",W13,2.0
+534,1050000.0,"Curzon Road, W5",W5,4.0
+535,270000.0,"Long Drive, Greenford, UB6",UB6,1.0
+536,739950.0,"Fowlers Walk, Pitshanger, W5",W5,2.0
+538,1200000.0,"Somerset Road, London, W4",W4,4.0
+540,600000.0,"Merrick Road, 
+Southall, 
+London,
+UB2 4AT",UB2,3.0
+541,360000.0,"Merrick Road, 
+Southall, 
+London,
+UB2 4AT",UB2,1.0
+542,475000.0,"Flat 8, 5 Hillcrest Road, Ealing, W5",W5,2.0
+543,610000.0,"Bollo Lane, 
+Acton, 
+W3 8QT",W3,2.0
+545,209950.0,"Baird Avenue, Southall, UB1",UB1,2.0
+546,365000.0,"Merrick Road, 
+Southall, 
+London,
+UB2 4AT",UB2,1.0
+548,395000.0,"Merrick Road, 
+Southall, 
+London,
+UB2 4AT",UB2,1.0
+549,315000.0,"Merrick Road, 
+Southall, 
+London,
+UB2 4AT",UB2,0.0
+551,485000.0,"Merrick Road, 
+Southall, 
+London,
+UB2 4AT",UB2,2.0
+553,310000.0,"Merrick Road, 
+Southall, 
+London,
+UB2 4AT",UB2,0.0
+554,390000.0,"Merrick Road, 
+Southall, 
+London,
+UB2 4AT",UB2,1.0
+556,310000.0,"Merrick Road, 
+Southall, 
+London,
+UB2 4AT",UB2,0.0
+557,480000.0,"Merrick Road, 
+Southall, 
+London,
+UB2 4AT",UB2,2.0
+559,372000.0,"Aspire at St Bernards Gate, Uxbridge Road, 
+Southall,
+London,
+UB2 4FY",UB2,1.0
+560,360000.0,"Aspire at St Bernards Gate, Uxbridge Road, 
+Southall,
+London,
+UB2 4FY",UB2,1.0
+561,600000.0,"Merrick Road, 
+Southall, 
+London,
+UB2 4AT",UB2,3.0
+562,645000.0,"Merrick Road, 
+Southall, 
+London,
+UB2 4AT",UB2,3.0
+563,299000.0,"Merrick Road, 
+Southall, 
+London,
+UB2 4AT",UB2,0.0
+564,799950.0,"Chiswick Green Studios, 1 Evershed Walk, London, W4",W4,2.0
+565,330000.0,"Azalea Close, London, W7",W7,2.0
+568,615000.0,"Ravenor Park Road, Greenford, UB6",UB6,3.0
+569,1325000.0,"Waldemar Avenue, Ealing, W13",W13,5.0
+570,475000.0,"Woodlands Road, Southall, Middlesex, UB1 1EF",UB1,4.0
+573,350000.0,"Ruislip Road, Northolt, UB5",UB5,2.0
+574,420000.0,"Northfield Avenue, W13",W13,2.0
+575,1000000.0,"Church Path, London  W4",W4,4.0
+577,629950.0,"Chinnor Crescent, Greenford, UB6 9NX",UB6,4.0
+585,350000.0,"Graham Court, Eastcote Lane, Northolt, Middex, UB5",UB5,2.0
+587,550000.0,"Gunnersbury Ave, W5",W5,2.0
+589,354950.0,"Salisbury Road,  Southall, UB2",UB2,3.0
+590,425000.0,"Cleveley Crescent,  Ealing, W5",W5,2.0
+591,600000.0,"Sutherland Road, Ealing, W13",W13,2.0
+593,420000.0,"Hereford Road, London, W3",W3,1.0
+594,749950.0,"Cranmer Avenue, Ealing, W13",W13,3.0
+595,488250.0,"Hereford Road, London, W3",W3,1.0
+596,670000.0,"Ridley Avenue, Ealing, W13",W13,3.0
+597,349950.0,"Azalea Close, Hanwell, London, W7 3QA",W7,2.0
+601,984950.0,"Filmworks,
+56-61 New Broadway,
+Ealing,
+London,
+W5",W5,2.0
+602,1349950.0,"Craven Avenue, W5",W5,4.0
+603,575000.0,"Bruce Court, Underhill Gardens, Ealing, W5",W5,2.0
+604,550000.0,"Stephenson Street, London, NW10 6TX",NW10,2.0
+605,230000.0,"Garden Close, Northolt UB5 5ND",UB5,2.0
+607,230000.0,"Garden Close, Northolt, Middlesex, UB5 5ND",UB5,2.0
+608,775000.0,"Woodgrange Avenue, London, W5",W5,3.0
+610,900000.0,"Lindfield Road, London, W5",W5,4.0
+611,420000.0,"Windmill Court, Windmill Road, Ealing, W5",W5,2.0
+612,970000.0,"Kingsley Avenue, London, W13",W13,3.0
+613,380000.0,"Napier House, Bromyard Avenue, Acton , London, W3",W3,1.0
+616,1250000.0,"Rothschild Road, London, W4",W4,3.0
+618,2000000.0,"Esmond Road, Bedford Park, Chiswick, W4",W4,6.0
+619,945000.0,"The Chapel, Goldsmiths Buildings, East Churchfield Road, London W3",W3,2.0
+625,699950.0,"Whellock Road, London, W4",W4,2.0
+626,779950.0,"Whitehall Road, Hanwell, W7",W7,4.0
+628,1500000.0,"Montpelier Road, London, W5",W5,3.0
+629,390000.0,"Wessex Lane, Greenford, Middlesex, UB6",UB6,3.0
+630,1500000.0,"1 Montpelier Road, Ealing , London, W5",W5,3.0
+631,565000.0,"Chinnor Crescent, Greenford, UB6",UB6,3.0
+633,550000.0,"Valetta Road, London, W3",W3,2.0
+634,384950.0,"Grasgarth Close, London, W3",W3,2.0
+638,925000.0,"Montpelier Road, Ealing , London, W5",W5,3.0
+640,1050000.0,"Summerlands Avenue, London, W3",W3,4.0
+642,639950.0,"Green Lane, Hanwell, W7",W7,3.0
+643,485000.0,"Essex Road, Acton, W3",W3,1.0
+644,485000.0,"Seaford Road, Ealing, W13",W13,2.0
+650,800000.0,"Haven Green, Ealing, Greater London. W5",W5,3.0
+651,390000.0,"Courtfield Gardens, W13",W13,1.0
+654,915000.0,"Fowlers Walk, W5",W5,3.0
+656,1850000.0,"Carbery Avenue, London, W3",W3,5.0
+659,675000.0,"Bedford Road, W13",W13,2.0
+660,720000.0,"Doris Ashby Close, Greenford, Middlesex, UB6",UB6,4.0
+670,525000.0,"Weston Road, London, W4",W4,2.0
+671,450000.0,"Mattock Lane, W5",W5,2.0
+673,424950.0,"Inglis Court 15 Creffield Road, London, W5",W5,1.0
+674,260000.0,"Westgate House, West Gate, Ealing, W5",W5,0.0
+675,1375000.0,"Antrobus Road, W4",W4,4.0
+676,675000.0,"Eden Studios, 20-24 Beaumont Road, London, W4",W4,2.0
+677,550000.0,"Northcote Avenue, W5",W5,2.0
+678,660000.0,"Helena Court, Eaton Rise, Ealing, W5",W5,2.0
+679,370000.0,"Uxbridge Road, W3",W3,1.0
+680,455000.0,"Maple Avenue, London, W3",W3,3.0
+681,1650000.0,"Byron Road, Ealing, W5",W5,5.0
+687,2000000.0,"The Avenue, Ealing, W13",W13,5.0
+689,1425000.0,"Princes Gardens, Ealing, W5",W5,5.0
+690,1750000.0,"Ranelagh Road, Ealing, W5",W5,4.0
+692,500000.0,"The Firs, Eaton Rise, Ealing, W5",W5,2.0
+696,385000.0,"Clerkenwell House, Chevy Road, Uxbridge Road, Southall, UB1",UB1,2.0
+697,299950.0,"Tulk House, Hilda Road, Southall, UB1",UB1,1.0
+698,299950.0,"Tulk House, Chevy Road, Uxbridge Road, Southall, UB1",UB1,1.0
+699,525000.0,"Albany Road, W13",W13,2.0
+701,485000.0,"Willow Road, Ealing, Greater London. W5",W5,2.0
+702,999950.0,"St Dunstans Road, Hanwell, W7",W7,4.0
+707,750000.0,"Whitehall Gardens, London, W3",W3,3.0
+709,575000.0,"Kings Court, W5",W5,2.0
+711,465000.0,"Lawrence Road, W5",W5,2.0
+712,400000.0,"Bromyard House, Bromyard Avenue, London, W3",W3,2.0
+713,850000.0,"St Kilda Road, W13",W13,3.0
+717,699500.0,"Birkbeck Road, London, W3",W3,2.0
+718,600000.0,"Greenford Gardens, Greenford, Middlesex, UB6",UB6,4.0
+719,675000.0,"Eden Studios, 20-24 Beaumont Road, London, W4",W4,2.0
+721,265000.0,"Academy Gardens, Northolt, UB5",UB5,2.0
+723,615000.0,"The Avenue, Ealing, W13",W13,2.0
+724,650000.0,"Studland Road, W7",W7,4.0
+726,274950.0,"Grange Court, Old Ruislip Road, Northolt, Middlesex, UB5",UB5,2.0
+728,285000.0,"Farrier Road, Northolt, Middlesex, UB5 6TY",UB5,2.0
+729,975000.0,"Christopher Avenue, Hanwell, W7",W7,5.0
+731,1550000.0,"Queens Gardens, Ealing, W5",W5,4.0
+732,345000.0,"Newbury Way, Northolt, Middlesex, UB5",UB5,3.0
+733,3300000.0,"Marlborough Crescent, Bedford Park, Chiswick, London, W4",W4,6.0
+735,750000.0,"Chesham Terrace, Ealing, W13",W13,3.0
+736,550000.0,"Thorpe Hall Mansions, Eaton Rise, Ealing, W5",W5,3.0
+737,550000.0,"Windmill Lane, UB2",UB2,4.0
+744,485000.0,"Leamington Park, North Acton, London, W3",W3,2.0
+746,600000.0,"Felix Road, W13",W13,2.0
+747,675000.0,"Knightsbridge House, Acton Lane, Chiswick, W4",W4,2.0
+748,375000.0,"Jordan Road, Perivale, UB6 7BY",UB6,1.0
+751,900000.0,"Summerlands Avenue, Acton, London, W3",W3,3.0
+752,555000.0,"Ealing,
+London,
+W13 0TH",W13,2.0
+754,1000000.0,"The Avenue, Bedford Park, W4",W4,2.0
+755,227500.0,"Ealing,
+London,
+W13 0TH",W13,2.0
+756,427500.0,"Ealing,
+London,
+W13 0TH",W13,1.0
+757,106875.0,"Ealing,
+London,
+W13 0TH",W13,1.0
+759,510000.0,"Mattock Lane, Ealing, W13",W13,2.0
+763,1375000.0,"Chatsworth Gardens, London, W3",W3,5.0
+766,725000.0,"Berrymede Road , Chiswick, London, W4",W4,2.0
+767,225000.0,"Lamb Close, Northolt, UB5",UB5,1.0
+769,925000.0,"Willcott Road, London, W3",W3,3.0
+770,625000.0,"South Parade, Turnham Green, London, W4",W4,2.0
+771,320000.0,"Buckingham Avenue, Perivale, Greenford, UB6 7RA",UB6,1.0
+772,1599000.0,"Dashwood House, Dickens Yard, Longfield Avenue, London, W5",W5,3.0
+773,965000.0,"Somerset Road, London, W4",W4,3.0
+779,450000.0,"Bromyard House, W3",W3,2.0
+780,299950.0,"Ross Court, Cleveland Road, Ealing, W13",W13,0.0
+781,475000.0,"Carlyle Road, Ealing, W5",W5,2.0
+785,2950000.0,"North Avenue, Ealing, London, W13",W13,5.0
+789,430000.0,"Opal House, Agate Close, Park Royal, NW10 7FB",NW10,2.0
+790,193500.0,"Opal House, Agate Close, Park Royal, NW10 7FB",NW10,2.0
+794,699950.0,"Moyne Place, Ealing, London, NW10",NW10,3.0
+797,2600000.0,"Kingsbridge Avenue, Ealing Common , London, W3",W3,8.0
+800,425000.0,"Hereford Rd, W3",W3,2.0
+802,465000.0,"Camborne Avenue, Ealing, W13",W13,1.0
+803,675000.0,"Uxbridge Road, Ealing, W5 2SU",W5,3.0
+808,105625.0,"Aspire at St Bernards Gate, Uxbridge Road, 
+Southall,
+London,
+UB2 4FY",UB2,2.0
+809,1225000.0,"Cowper Road, London, W3",W3,4.0
+811,550000.0,"Madeley Road, Ealing, London, W5",W5,2.0
+813,450000.0,"Brentvale Avenue, Southall, UB1",UB1,3.0
+816,465000.0,"Lawrence Road, W5",W5,2.0
+819,2999000.0,"Perryn Road, London, W3",W3,6.0
+820,995000.0,"Shirley Road, London, W4",W4,4.0
+821,269950.0,"Southall, UB1",UB1,1.0
+822,2000000.0,"The Avenue, W13",W13,5.0
+823,375000.0,"Hangerview Way, West Acton, W3",W3,1.0
+825,425000.0,"Junction Road, W5",W5,2.0
+827,725000.0,"Langdale Gardens, Perivale, Greenford, UB6",UB6,6.0
+832,470000.0,"Huxley Gardens, Ealing, London, NW10",NW10,2.0
+833,400000.0,"Southfield Road, Bedford Park Borders, Chiswick, W4",W4,1.0
+835,475000.0,"Drew Gardens , Greenford, UB6",UB6,3.0
+838,675000.0,"Argyle Road, W13",W13,3.0
+840,950000.0,"Gunnersbury Lane, Acton, London, W3",W3,4.0
+843,470000.0,"Bollo Bridge Road, London, W3",W3,2.0
+844,425000.0,"Huxley Gardens , Ealing , London , NW10",NW10,2.0
+845,230000.0,"Pegasus Court, 194 Horn Lane, London, W3",W3,2.0
+846,360000.0,"ST BERNARD'S GATE, UXBRIDGE ROAD, SOUTHALL, UB2",UB2,1.0
+847,480000.0,"ST BERNARD'S GATE, UXBRIDGE ROAD, SOUTHALL, UB2",UB2,2.0
+851,535000.0,"Mattock Lane, Ealing, W5",W5,2.0
+852,650000.0,"St. Albans Avenue, Chiswick, London, W4",W4,2.0
+853,499950.0,"Hanwell, W7 1JS",W7,2.0
+854,425000.0,"Bordars Walk, Hanwell, W7",W7,4.0
+855,309950.0,"Horn Lane, Acton, London, W3",W3,1.0
+856,435000.0,"Dryden Avenue, Hanwell, London, W7 1ES",W7,3.0
+858,455000.0,"Shakespeare Road, Hanwell, W7",W7,2.0
+859,725000.0,"Essex Park Mews, London, W3",W3,3.0
+860,1595000.0,"St. Albans Avenue, Chiswick W4 ",W4,5.0
+861,469950.0,"Boileau Road, Ealing, W5",W5,1.0
+862,1400000.0,"Southfield Road, Chiswick , London, W4",W4,7.0
+863,399950.0,"The Broadway, Ealing, London, W5",W5,1.0
+865,1800000.0,"Gunnersbury Lane, Acton, London , W3",W3,11.0
+868,395000.0,"Longfield House, W5",W5,2.0
+872,700000.0,"Fowlers Walk, W5",W5,2.0
+873,495000.0,"Woodbury Court, 2 Woodbury Park Road, London, W13",W13,2.0
+875,2500000.0,"Esmond Road, London, W4",W4,6.0
+876,700000.0,"Lammas Park Road, Ealing, London, W5",W5,3.0
+877,450000.0,"Hartington Road, West Ealing, London, W13",W13,2.0
+878,285000.0,"Victoria Road, Acton, London, W3",W3,0.0
+880,700000.0,"Welsby Court, Eaton Rise, London, W5",W5,2.0
+882,650000.0,"St. Margarets Road, London, W7",W7,2.0
+884,1350000.0,"Church Road, Hanwell, London, W7 3BP",W7,4.0
+890,375000.0,"Regina Road, London, W13",W13,1.0
+891,499950.0,"Regina Road, London, W13",W13,2.0
+892,350000.0,"Buckingham Close, Ealing, London, W5",W5,1.0
+893,290000.0,"Acton House, 253 Horn Lane, Acton, London, W3",W3,1.0
+894,200000.0,"Pegasus Court, London, W3 6PT: ** CLOSE TO TOWN CENTRE- MUST BE VIEWED**",W3,1.0
+897,600000.0,"Steele Road, London, W4",W4,2.0
+899,745000.0,"The Common, Ealing, W5",W5,2.0
+900,670000.0,"Ridley Avenue, Ealing, W13",W13,3.0
+902,435000.0,"Graham Road, London, W4",W4,1.0
+903,300000.0,"Church Road, Northolt, UB5 5AE",UB5,2.0
+908,275000.0,"Kensington Lodge, Dolphin Road, Northolt, Middlesex, UB5",UB5,1.0
+909,875000.0,"Skyline House, Dickens Yard, Longfield Avenue , London, W5",W5,2.0
+911,425000.0,"York Road, London, W3",W3,2.0
+912,900000.0,"Ainsdale Road, London, W5",W5,3.0
+914,699950.0,"Twyford Abbey Road, London, NW10",NW10,3.0
+915,495000.0,"Makepeace Road, Northolt, London, Uk, UB5",UB5,3.0
+917,525000.0,"Millet Road, Ealing, Greenford, UB6",UB6,3.0
+921,849950.0,"Mervyn Road, Ealing, W13",W13,3.0
+924,725000.0,"Bedford Road, West Ealing, London, W13",W13,3.0
+925,350000.0,"Allington Close, Greenford, UB6",UB6,2.0
+926,1000000.0,"Blakesley Avenue, London, W5",W5,2.0
+927,245000.0,"Perry Avenue, London, W3",W3,0.0
+928,450000.0,"Perivale Grange, UB6",UB6,2.0
+929,220000.0,"19-21 Western Road, Southall, UB2",UB2,1.0
+930,950000.0,"Summerlands Avenue, Acton, London, W3",W3,3.0
+931,765000.0,"Greystoke Park Terrace, W5",W5,4.0
+933,380000.0,"Southall, UB1",UB1,2.0
+934,350000.0,Southall UB1,UB1,1.0
+935,440000.0,"Southall, UB1",UB1,2.0
+936,390000.0,"Southall, UB1",UB1,2.0
+937,925000.0,"Acton Lane, London, W4",W4,4.0
+939,262500.0,"Beaconsfield Road,
+Southall,
+UB1",UB1,0.0
+940,875000.0,"Allison Road, Acton, London, W3",W3,3.0
+942,66250.0,"Beaconsfield Road,
+Southall,
+UB1",UB1,0.0
+945,329950.0,"Buckingham Avenue, Perivale, Greenford, Middlesex, UB6",UB6,2.0
+950,950000.0,"Kingsdown Avenue, London, W13",W13,3.0
+951,351000.0,"Billington Mews, W3",W3,3.0
+952,424999.0,"Balfour Road, London, W13",W13,1.0
+953,425000.0,"Lynton Road, London, W3",W3,1.0
+956,250000.0,"Fordhook Avenue, W5",W5,0.0
+959,1499950.0,"King Edwards Gardens, Acton, W3",W3,6.0
+963,2850000.0,"Queen Annes Grove, London, W4",W4,5.0
+967,475000.0,"Winchester Street, Acton, London, W3",W3,2.0
+969,675000.0,"4 Mattock Lane, Ealing, W5",W5,2.0
+970,925000.0,"Allan Way, Acton, London, W3",W3,4.0
+973,450000.0,"Haslemere Avenue, W7",W7,2.0
+974,355000.0,"Chadwick Close, London, W7",W7,2.0
+977,425000.0,"Westgate House, Ealing, W5",W5,1.0
+978,329950.0,"Buckingham Avenue, Perivale UB6",UB6,2.0
+983,650000.0,"Derwentwater Road, London W3 6DF",W3,4.0
+987,599000.0,"The Grove, Ealing, W5",W5,2.0
+988,299950.0,"Greenford Avenue, Hanwell, London, England, W7 3QS",W7,1.0
+992,569000.0,"Granville Gardens, Ealing, W5",W5,2.0
+996,395000.0,"Samuelson House, Greenview Court, Southall, London, UB2",UB2,1.0
+997,400000.0,"Samuelson House, Greenview Court, Southall, UB2",UB2,1.0
+998,1099950.0,"Whitehall Gardens, London, W3",W3,3.0
+999,450000.0,"Plumpton Close, Northolt, UB5",UB5,3.0
+1001,299995.0,"Westgate House, Ealing, W5",W5,0.0
+1002,270000.0,"Allington Close, Greenford, UB6",UB6,1.0
+1003,2850000.0,"Queen Anne's Grove, London, W4",W4,5.0
+1004,3475000.0,"Queen Anne's Grove, London, W4",W4,5.0
+1005,2250000.0,"Liverpool Road, London, W5",W5,6.0
+1007,575000.0,"Park Hill, W5",W5,2.0
+1008,769000.0,"Gunnersbury Lane, London, W3",W3,3.0
+1009,295000.0,"Thorpe Hall, Eaton Rise, W5",W5,1.0
+1010,1195000.0,"Brunswick Road, Ealing, W5",W5,4.0
+1015,665000.0,"One West Point, Acton, W3",W3,2.0
+1019,499999.0,"Arc Tower, Uxbridge Road, London, W5",W5,1.0
+1020,399000.0,"Argyle Road, Ealing W13",W13,2.0
+1022,379950.0,"Greenford Road, Greenford, Middlesex, UB6 8RQ",UB6,3.0
+1023,739950.0,"Cumberland Road, Hanwell, London, W7 2EB",W7,3.0
+1024,499950.0,"Stanley Gardens, London, W3",W3,2.0
+1025,2500000.0,"Madeley Road, Ealing W5",W5,5.0
+1026,499950.0,"Stanley Gardens, London, W3",W3,2.0
+1027,1850000.0,"Elers Road, London, W13",W13,5.0
+1028,489500.0,"The Verdean, Joseph Avenue, Acton, London, W3",W3,1.0
+1029,590000.0,Edmunds House Colonial Drive W4,W4,1.0
+1031,485000.0,"One West Point, Acton, W3",W3,1.0
+1032,675000.0,"Lynton Road, London, W3",W3,2.0
+1033,950000.0,"Mervyn Road, Ealing, London, W13 9UN",W13,4.0
+1034,1599000.0,"Dickens Yard, Ealing, W5",W5,3.0
+1035,900000.0,"Weston Road, London, W4",W4,3.0
+1036,700000.0,"Park Hill, Ealing, W5",W5,2.0
+1038,1150000.0,"Curzon Road, Ealing, W5",W5,4.0
+1039,475000.0,"Marnham Crescent, Greenford, UB6",UB6,2.0
+1041,525000.0,"Cavalier House, 46-50 Uxbridge Road, London, W5",W5,2.0
+1043,450000.0,"Eaton Rise, Ealing, London, W5",W5,1.0
+1046,599000.0,"The Grove, W5",W5,2.0
+1048,530000.0,"Cavalier House, 46-50 Uxbridge Road, Ealing, W5",W5,2.0

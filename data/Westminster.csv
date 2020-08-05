@@ -1,0 +1,803 @@
+,price,address,postcode,number_bedrooms
+0,675000.0,"Great Western Road, Notting Hill, London, W11",W11,2.0
+2,599950.0,"Ashmore Road, London, W9",W9,2.0
+3,3500000.0,"Devonshire Place, W1G 6JN",W1G,4.0
+4,440000.0,"MARBLE ARCH APARTMENTS, HARROWBY STREET, London, W1H",W1H,0.0
+5,2700000.0,"Marconi House, 335 Strand, London, WC2R",WC2R,3.0
+6,575000.0,"Inverness Place, London, W2",W2,1.0
+8,465000.0,"Westbourne Terrace,W2,W2",W2,1.0
+10,925000.0,"Castellain Mansions, Castellain Road, London, W9",W9,3.0
+11,1800000.0,"Abell House, John Islip Street, SW1P",SW1P,3.0
+12,700000.0,"Cambridge Square, Hyde Park Estate, London, W2",W2,2.0
+13,950000.0,"Castellain Mansions, Castellain Road, Maida Vale, London, W9",W9,3.0
+14,495000.0,"Homer Street, London, W1H",W1H,1.0
+15,3750000.0,"St John's Wood Terrace, St John's Wood, London, NW8 ",NW8,5.0
+17,975000.0,"Regent House, Wellington Place, London, NW8",NW8,2.0
+21,575000.0,"Shelley House, Churchill Gardens Estate, London, SW1V",SW1V,2.0
+22,1250000.0,"THE QUADRANGLE TOWER, CAMBRIDGE SQUARE, London, W2",W2,3.0
+23,1695000.0,"St Petersburgh Place, Bayswater, W2",W2,3.0
+25,425000.0,"Frampton Street, London NW8",NW8,1.0
+27,650000.0,"Abbey Road,St John's Wood,NW8",NW8,1.0
+28,899000.0,"Balmoral Apartments, 2 Praed Street, London, W2",W2,2.0
+29,835000.0,"11 Sheldon Square, Paddington, London, W2",W2,2.0
+31,850000.0,"Whitcomb Street, Covent Garden, London, WC2H",WC2H,1.0
+32,815000.0,"Westbourne Grove, London, W2",W2,2.0
+33,1795000.0,"St Ann's Terrace, St John's Wood, London, NW8",NW8,3.0
+34,899000.0,"Balmoral Apartments, London, W2",W2,2.0
+35,625000.0,"Sheridan Buildings, Martlett Court, Covent Garden, London, WC2B",WC2B,1.0
+36,3950000.0,"South Eaton Place, Belgravia, SW1W",SW1W,4.0
+37,485000.0,"Prince Albert Road, St John's Wood, London, NW8",NW8,1.0
+38,675000.0,"Great Western Road, Notting Hill, London, W11",W11,2.0
+39,485000.0,"Edgware Road, Hyde Park Estate, London, W2",W2,1.0
+40,1795000.0,"St. Ann's Terrace, St. John's Wood, London, NW8",NW8,2.0
+41,850000.0,"Marlborough, Maida Vale, W9",W9,2.0
+42,700000.0,"Great Titchfield Street, Fitzrovia, London W1",W1,3.0
+43,1900000.0,"Bowland Yard, London, SW1X",SW1X,2.0
+44,2950000.0,"Kendal Street, Hyde Park, W2",W2,5.0
+45,1250000.0,"Marconi House, 335 Strand, London, WC2R",WC2R,2.0
+46,950000.0,"Castellain Road, Maida Vale, London, W9",W9,3.0
+47,850000.0,"Castellain Road, Maida Vale, London, W9",W9,2.0
+48,1250000.0,"Quadrangle Tower, Cambridge Square, London, W2",W2,3.0
+49,8995000.0,"Blandford Street, Marylebone, London, W1U",W1U,3.0
+51,500000.0,"Portnall Road, London, W9 ",W9,2.0
+52,625000.0,"Fifth Avenue, Queens Park Estate, London W10",W10,2.0
+53,439950.0,"Denholme Road, Maida Vale, W9",W9,1.0
+54,1295000.0,"Abinger Mews, Maida Vale, W9",W9,3.0
+55,625000.0,"CHARLBERT COURT, CHARLBERT STREET, NW8 7BY",NW8,2.0
+57,1700000.0,"Berkeley Street, Mayfair, W1J",W1J,2.0
+58,3500000.0,"Nottingham Place, London, W1U",W1U,3.0
+59,985000.0,"Blandford Street, London, W1U",W1U,1.0
+60,1050000.0,"Hepworth Court, Grosvenor Waterside, Gatliff Road, London SW1W",SW1W,2.0
+62,899000.0,"THE WATER GARDENS, London, W2",W2,2.0
+63,699999.0,"Shroton Street, Regent's Park, NW1",NW1,2.0
+65,750000.0,"Park Road, St John's Wood, London, NW8",NW8,2.0
+66,1150000.0,"Finchley Road, St John's Wood, London, NW8",NW8,3.0
+67,3200000.0,"Fountain House, Park Street, Mayfair, London, W1K",W1K,2.0
+68,275000.0,"Orsett Terrace, Queensway, London, W2",W2,0.0
+69,3200000.0,"Park Street, Mayfair, London, W1K",W1K,2.0
+70,749950.0,"MORTIMER COURT, ABBEY ROAD, NW8 9AB",NW8,2.0
+72,425000.0,"Frampton Street, London NW8",NW8,1.0
+73,1250000.0,"Quadrangle Tower, Cambridge Square, W2",W2,3.0
+76,3700000.0,"ABBEY LODGE, PARK ROAD, NW8 7RJ",NW8,4.0
+80,550000.0,"Sevington Street, Maida Vale, London, W9",W9,1.0
+81,925000.0,"Castellain Mansions,Maida Vale, W9,W9",W9,3.0
+82,850000.0,"Castellain Mansions,Maida Vale W9,W9",W9,2.0
+84,925000.0,"Castellain Mansions, Castellain Road, Maida Vale, London, W9",W9,3.0
+85,1700000.0,"Kingston House East, Knightsbridge, SW7",SW7,2.0
+86,849950.0,"Second Avenue, North Kensington, London, W10",W10,2.0
+89,850000.0,"Castellain Mansions, Castellain Road, Maida Vale, London, W9",W9,2.0
+91,900000.0,"Consort Rise House, 199-203 Buckingham Palace Road, Belgravia, London, SW1W",SW1W,2.0
+94,1285000.0,"St. Lukes Yard, London, W9",W9,3.0
+95,649500.0,"Regent House,St Johns Wood,NW8",NW8,1.0
+96,899000.0,"Balmoral Apartments, 2 Praed Street, Paddington, London, W2",W2,2.0
+98,2495000.0,"Bryanston Mansions, York Street, Marylebone, London, W1H",W1H,3.0
+99,1075000.0,"St. Georges Square, Pimlico, SW1V",SW1V,2.0
+101,699950.0,"Warwick Avenue, London, W9",W9,1.0
+102,599000.0,"Wilkins House Churchill Gardens, London, SW1V",SW1V,2.0
+103,475000.0,"Townshend Court, St Johns Wood NW8",NW8,1.0
+106,1000000.0,"Goldney Road, London, W9",W9,3.0
+108,4000000.0,"Victoria Street, Westminster, London, SW1H",SW1H,3.0
+110,1450000.0,"2 Hyde Park Square, London, W2",W2,2.0
+111,890000.0,"3 Merchant Square, London, W2",W2,1.0
+112,2950000.0,"Capener's Close, Kinnerton Street, London, SW1X",SW1X,3.0
+113,535000.0,"Craven Terrace, Lancaster Gate, London, W2",W2,1.0
+114,810000.0,"Dixon Butler Mews, Maida Vale, London, W9",W9,3.0
+115,2150000.0,"Maida Avenue, Little Venice, London, W2",W2,3.0
+116,3295000.0,"The Galleries, 9 Abbey Road, London, NW8",NW8,4.0
+117,3300000.0,"Chester Row, Belgravia, London, SW1W",SW1W,3.0
+118,385000.0,"Marylands Road, London, W9",W9,1.0
+119,8500000.0,"HERTFORD STREET,  LONDON,  W1J",W1J,5.0
+120,945000.0,"Upper Tachbrook Street, London, SW1V",SW1V,3.0
+125,3500000.0,"Devonshire Close, Marylebone, London, W1G",W1G,4.0
+129,425000.0,"Shirland Road, Welford Lodge, London, W9",W9,1.0
+133,1603000.0,"Dahlia House, London, W2",W2,2.0
+136,750000.0,"Clifton Gardens,Little Venice,W9",W9,2.0
+138,2350000.0,"John Islip Street, London, SW1P",SW1P,2.0
+140,995000.0,"Montagu Mews North, Marylebone, London, W1H",W1H,1.0
+141,600000.0,"Emanuel House 18 Rochester Row, London, SW1P",SW1P,1.0
+142,2700000.0,"John Islip Street, London, SW1P",SW1P,3.0
+143,575000.0,"Alderney Street, Pimlico, London, SW1V",SW1V,1.0
+144,2495000.0,"Hanway Place, London, W1T",W1T,2.0
+146,650000.0,"CAMBRIDGE STREET, SW1V",SW1V,2.0
+148,1200000.0,"Lauderdale Mansions, Maida Vale, W9",W9,3.0
+149,3250000.0,"The Courthouse, Horseferry Road, Westminster, London, SW1P",SW1P,5.0
+150,950000.0,"Ormonde Terrace, London, NW8 ",NW8,2.0
+151,899950.0,"Elgin Avenue, Maida Vale, London, W9",W9,2.0
+153,2495000.0,"Bryanston Mansions, York Street, London, W1H",W1H,3.0
+154,850000.0,"11 Sheldon Square, London, W2",W2,2.0
+157,2495000.0,"York Street, Marylebone, W1H",W1H,3.0
+158,975000.0,"St Johns Building,  79 Marsham Street , Westminster, London SW1P",SW1P,2.0
+159,485000.0,"Derrycombe House, Great Western Road, London, W2",W2,2.0
+160,8000000.0,"Hamilton Terrace, London, NW8",NW8,5.0
+161,2495000.0,"Bryanston Mansions, York Street, Marylebone, London, W1H",W1H,3.0
+162,825000.0,"Charlwood Street, Pimlico, London, SW1V",SW1V,1.0
+163,735000.0,"MORETON PLACE, SW1V",SW1V,1.0
+164,1950000.0,"9 Millbank, Westminster, London, SW1P",SW1P,2.0
+166,699950.0,"Abbey Road, St Johns Wood NW8",NW8,2.0
+167,3999000.0,"Hyde Park Square, Hyde Park, London, W2",W2,4.0
+168,9250000.0,"Whitehall Place, London, SW1A",SW1A,3.0
+169,675000.0,"Semley House, Semley Place, London, SW1W",SW1W,2.0
+170,995000.0,"Melcombe Court, Dorset Square, Marylebone, London, NW1",NW1,2.0
+171,2750000.0,"North Gate, Prince Albert Road, London, NW8",NW8,3.0
+173,625000.0,"THE QUADRANGLE TOWER, CAMBRIDGE SQUARE, London, W2",W2,1.0
+174,7250000.0,"Marylebone High Street, Marylebone, London, W1U",W1U,3.0
+176,1575000.0,"Weymouth Mews, Marylebone, London, W1G",W1G,2.0
+177,2850000.0,"Chesterfield House, Chesterfield Gardens, Mayfair, London, W1J",W1J,3.0
+178,3999999.0,"Hyde Park Square, London, W2",W2,4.0
+179,850000.0,"Canalside Walk, Paddington, W2",W2,1.0
+180,1899995.0,"Westbourne Terrace, London, W2",W2,3.0
+181,3250000.0,"Westbourne Park Road, London, W2",W2,3.0
+183,700000.0,"Wilkie House, St Johns Wood, NW8",NW8,3.0
+184,580000.0,"Oslo Court, St Johns Wood, London, NW8",NW8,1.0
+185,5450000.0,"Ebury Street, Belgravia, London, SW1W",SW1W,5.0
+188,3500000.0,"Cleveland Terrace, Bayswater, London, W2",W2,3.0
+190,1495000.0,"The Water Gardens, Edgware Road, W2",W2,3.0
+191,2295000.0,"Sheldon Square, Paddington, W2",W2,3.0
+192,1250000.0,"Elizabeth Court, Palgrave Gardens, Marylebone, NW1",NW1,3.0
+193,1695000.0,"Clarence Gate Gardens, Glentworth Street, Marylebone, NW1",NW1,3.0
+194,1345000.0,"Chesterfield House, Chesterfield Gardens, Mayfair, W1J",W1J,1.0
+195,1300000.0,"The Water Gardens, Burwood Place, Hyde Park Estate, W2",W2,2.0
+196,3495000.0,"Sussex Place, Tyburnia, W2",W2,3.0
+197,1200000.0,"Paddington Exchange, 6 Hermitage Street, London, W2",W2,2.0
+198,435000.0,"Forset Court, Edgware Road, London, W2",W2,0.0
+199,890000.0,"3 Merchant Square, Paddington, London, W2",W2,1.0
+200,500000.0,"Abbey Lodge, Park Road, London, NW8",NW8,2.0
+202,1900000.0,"George Street, Marylebone, W1U",W1U,3.0
+203,1000000.0,"Gloucester Place, Marylebone, London, W1U",W1U,2.0
+204,2500000.0,"Pollen Street, Mayfair, London, W1S",W1S,2.0
+205,725000.0,"Rutland Gate, Knightsbridge, London, SW7",SW7,0.0
+206,137500.0,"Grosvenor Waterside (25%), Belgravia, London, SW1W",SW1W,1.0
+207,525000.0,"Alderney Street, Pimlico, London, SW1V",SW1V,1.0
+208,600000.0,"Warwick Way, Pimlico, London, SW1V",SW1V,1.0
+209,1100000.0,"All Souls Place, Marylebone, London, W1B",W1B,2.0
+210,1495000.0,"Hereford Road, London, W2",W2,2.0
+211,730000.0,"Harland House, 30-34 Woodfield Place, London, W9",W9,2.0
+212,1075000.0,"Grosvenor Gardens, London, SW1W",SW1W,2.0
+213,529000.0,"Walterton Lodge 113-117 Road, London, W9",W9,1.0
+214,900000.0,"Kensington Gardens Square, Bayswater, W2",W2,2.0
+215,1775000.0,"Hereford Road, London W2",W2,2.0
+216,735000.0,"Talbot Road, London, W2",W2,3.0
+217,895000.0,"Carlisle Place, SW1P",SW1P,1.0
+218,460000.0,"DENSHAM HOUSE, ST JOHN'S WOOD, NW8 7NT",NW8,1.0
+220,585000.0,"Rossmore Court, NW1",NW1,1.0
+221,485000.0,"Park West, Edgware Road, W2",W2,1.0
+222,12950000.0,"Old Queen Street, London, SW1H",SW1H,5.0
+223,1300000.0,"Baker Street, London, NW1",NW1,2.0
+224,750000.0,"Charlwood Street, SW1V",SW1V,2.0
+225,950000.0,"The Water Gardens, Paddington, London W2",W2,2.0
+226,750000.0,"Clarendon Street, Pimlico, London, SW1V",SW1V,2.0
+227,1900000.0,"CHEVALIER HOUSE, BROMPTON ROAD, London, SW3",SW3,1.0
+228,450000.0,"Harewood Avenue, Marylebone, London, NW1",NW1,1.0
+229,1100000.0,"Norfolk Place, Paddington, London, W2",W2,3.0
+230,16000000.0,"Knightsbridge, Knightsbridge, London, SW7",SW7,4.0
+231,1000000.0,"Gloucester Place, Marylebone, London, W1U",W1U,2.0
+232,499950.0,"Portnall Road, Maida Vale, W9",W9,2.0
+233,3000000.0,"Regent Lofts, 16 Marshall Street, London, W1F",W1F,3.0
+234,1100000.0,"Norfolk Place, Paddington, London  W2",W2,3.0
+236,7100000.0,"Eaton Terrace, Belgravia, London, SW1W",SW1W,5.0
+237,650000.0,"1 Collingwood House, 103 New Cavendish Street, London, W1W 6XH",W1W,2.0
+238,579950.0,"St. Marys Square, W2",W2,3.0
+240,475000.0,"Tachbrook Street, SW1V",SW1V,1.0
+241,3000000.0,"Marshall Street, Soho, W1",W1,3.0
+243,1295000.0,"Westminster Gardens, Marsham Street, London, SW1P",SW1P,2.0
+245,2500000.0,"Cambridge Street, London, SW1V",SW1V,3.0
+246,975000.0,"Sheldon Square, W2",W2,2.0
+248,5250000.0,"Wesley Street, Marylebone, London, W1G",W1G,5.0
+249,850000.0,"Eccleston Square, Pimlico, Westminster, London, SW1V",SW1V,2.0
+250,3000000.0,South Wharf Road London W2,W2,5.0
+251,3300000.0,"Westbourne Terrace, London, W2",W2,3.0
+252,1500000.0,"Gloucester Mews West, London, W2",W2,3.0
+253,675000.0,"Caxton Street, Westminster, London, SW1H 0PX",SW1H,1.0
+255,3000000.0,"Whitehall Court, Westminster, SW1A",SW1A,3.0
+257,3600000.0,"Park Road, St John's Wood, London, NW8",NW8,2.0
+258,499950.0,"Elgin Avenue, London, W9 ",W9,2.0
+260,650000.0,"New Cavendish Street, Fitzrovia, London, W1W",W1W,2.0
+261,1050000.0,"Montagu Square, Marylebone, London, W1H",W1H,3.0
+262,1050000.0,"1 Brymon Court, 31-32 Montagu Square, London, W1H 2LH",W1H,3.0
+263,575000.0,"Dufours Place, Soho, London, W1",W1,1.0
+264,2660000.0,"Moxon Street, London, W1U",W1U,1.0
+265,5000000.0,"Newton Road, W2",W2,4.0
+268,2250000.0,"The Brassworks, Frederick Close, W2",W2,2.0
+269,7100000.0,"Eaton Terrace, Belgravia, London, SW1W",SW1W,5.0
+270,1050000.0,"Crawford Street, London, W1H",W1H,2.0
+271,719000.0,"Hallam Street, Fitzrovia, W1",W1,1.0
+272,500000.0,"Craven Hill Gardens,London W2,W2",W2,1.0
+273,6500000.0,"Albert Hall Mansions, Kensington Gore, SW7",SW7,4.0
+274,1100000.0,"Westcliffe Apartments, South Wharf Road, Paddington, W2",W2,2.0
+275,950000.0,"Paddington,London W2,W2",W2,1.0
+276,725000.0,"Shirland Road, London, W9",W9,2.0
+278,1900000.0,"IMPERIAL COURT, ST JOHN'S WOOD, NW8 7PT",NW8,2.0
+279,785000.0,"Sutherland Avenue, London, W9",W9,2.0
+280,655000.0,"THE QUADRANGLE TOWER, CAMBRIDGE SQUARE, London, W2",W2,1.0
+281,470000.0,"Park West, Hyde Park Estate, London, W2",W2,1.0
+282,1100000.0,"Sutherland Avenue, Maida Vale, London, W9",W9,1.0
+283,950000.0,"Ormonde Terrace, London, NW8 ",NW8,2.0
+285,915000.0,"97 Regency Street, Westminster, SW1P",SW1P,2.0
+286,1000000.0,"Portsea Place, Hyde Park, W2",W2,2.0
+287,599950.0,"Fermoy Road, Maida Vale, London, W9",W9,2.0
+288,1000000.0,"Leith Mansions, Grantully Road, London, W9",W9,3.0
+289,625000.0,"Lanark Road, Little Venice, London, W9",W9,1.0
+290,470000.0,"Park West, Hyde Park, London, W2",W2,1.0
+292,500000.0,"Torridon House,London,NW6",NW6,2.0
+293,495000.0,"Fermoy Rd, London, W9",W9,1.0
+294,875000.0,"4 Elizabeth Court, Westminster, London, SW1P",SW1P,1.0
+296,750000.0,"Upper John Street, London, W1F",W1F,0.0
+297,785000.0,"Sutherland Avenue, Little Venice, London, W9",W9,2.0
+299,2250000.0,"Apartment 13, Langham Street, Great Portland Street, Fitzrovia, London, W1W",W1W,2.0
+300,2300000.0,"Southwick Yard, Hyde Park, W2",W2,4.0
+301,2250000.0,"Frederick Close, Hyde Park, W2",W2,2.0
+303,2495000.0,"Knox Street, London, W1H",W1H,4.0
+304,1850000.0,"Market Place, Marylebone, London, W1W",W1W,2.0
+306,2250000.0,"Bentinck Street, Marylebone, London, W1U",W1U,2.0
+307,1100000.0,"Hepworth Court, London, SW1W",SW1W,2.0
+308,995000.0,"Queens Gardens, London, W2",W2,2.0
+309,800000.0,"Bronwen Court, Grove End Road, London, NW8",NW8,3.0
+310,1285000.0,"Abinger Mews, Maida Vale, London, W9",W9,4.0
+312,410000.0,"Kensington Garden Square, Bayswater, London, W2",W2,0.0
+314,1325000.0,"Sandringham Court, 99 Maida Vale, London, W9",W9,3.0
+315,450000.0,"Regency Street, SW1P",SW1P,1.0
+318,3495000.0,"Palace Place, London, SW1E",SW1E,3.0
+319,2750000.0,"Cumberland Street, London, SW1V",SW1V,5.0
+320,525000.0,"Westcliffe Apartments, 1 South Wharf Road, London, W2",W2,0.0
+321,450000.0,"Fifth Avenue, London, W10",W10,1.0
+322,625000.0,"Bradiston Road, Maida Vale, London, W9",W9,2.0
+323,2500000.0,"Belgrave  Gardens, St Johns Wood, London, NW8",NW8,6.0
+325,1425000.0,"Chilworth Street, Paddington, London, W2",W2,2.0
+328,2250000.0,"Bentinck Street, London, W1U",W1U,2.0
+329,1000000.0,"Peninsula Apartments, London, W2",W2,2.0
+330,550000.0,"Grosvenor Waterside, Belgravia, London, SW1W",SW1W,1.0
+331,1850000.0,"Market Place, Marylebone, London, W1W",W1W,2.0
+332,950000.0,"Sutherland Avenue, Maida Vale, London, W9",W9,2.0
+333,1200000.0,"King Street, London, WC2E",WC2E,1.0
+334,550000.0,"Belgrave Road, Pimlico, London, SW1V",SW1V,1.0
+335,2650000.0,"Hyde Park Square, Hyde Park, London, W2",W2,3.0
+336,850000.0,"Westside Court, Elgin Avenue, London, W9",W9,2.0
+338,500000.0,"Swallow Court, Admiral Walk, London, W9",W9,1.0
+339,1395000.0,"Glentworth Street, London, NW1",NW1,3.0
+340,1050000.0,"Vincent Square, London, SW1P",SW1P,2.0
+341,1880000.0,"Marconi House, Strand, London, WC2R",WC2R,2.0
+344,680000.0,"Alexandra Court, W9",W9,2.0
+346,950000.0,"Ormonde Terrace, Primrose Hill, London, NW8",NW8,2.0
+347,5500000.0,"Wilfred Street, St James's Park, SW1E",SW1E,4.0
+348,1100000.0,"Central Tower, 300 Vauxhall Bridge Road, Pimlico, London, SW1V",SW1V,3.0
+349,900000.0,"Luxborough House, Luxborough Street, London, W1U",W1U,2.0
+350,1100000.0,"Newcastle House, Luxborough Street, W1U",W1U,2.0
+351,1100000.0,"Dorset Street, London, W1U",W1U,2.0
+352,625000.0,"Albany Court,, Palmer Street, St James Park, London, SW1H",SW1H,2.0
+353,830000.0,"Harrowby Street, London, W1H",W1H,2.0
+354,750000.0,"Randolph Avenue, Maida Vale, London, W9",W9,1.0
+355,450000.0,"Shirland Road, Maida Vale, London, W9",W9,1.0
+356,1100000.0,"Hamilton Terrace,St John's Wood,NW8",NW8,2.0
+357,2950000.0,"Grosvenor Square, Mayfair, London, W1K",W1K,2.0
+358,479950.0,"Victoria Rise, London, SW4",SW4,2.0
+359,565000.0,"Portnall Road, London, W9",W9,2.0
+361,795000.0,"Wymering Mansions, Wymering Road, W9",W9,2.0
+364,450000.0,"Hormead Road, London, W9",W9,2.0
+365,1550000.0,"Seymour Place, London, W1H",W1H,3.0
+366,1900000.0,"Bryanston Square, Marylebone, London, W1H",W1H,3.0
+367,725000.0,"Romney House, 47 Marsham Street, Westminster, London SW1P",SW1P,1.0
+368,2100000.0,"Ebury Street, Belgravia, London, SW1W",SW1W,2.0
+369,1000000.0,"Portsea Hall, Portsea Place, London, W2",W2,2.0
+370,500000.0,"Dixon Butler Mews, Maida Vale, London, W9",W9,2.0
+371,450000.0,"John Aird Court, London, W2",W2,1.0
+372,1860000.0,"1 Kings Gate Walk, Victoria, SW1",SW1,2.0
+373,1900000.0,"Princes Square, London, W2",W2,3.0
+375,810000.0,"Dixon Butler Mews, Maida Vale, London, W9",W9,3.0
+376,585000.0,"The Colonnades, 34 Porchester Square, London, W2",W2,3.0
+377,800000.0,"Churton Street, SW1V",SW1V,2.0
+378,430000.0," Page Street,  Westminster, SW1P",SW1P,1.0
+383,635000.0,"Albany Court, Palmer Street, St. James's Park, London, SW1H",SW1H,1.0
+384,1860000.0,"Kings Gate Walk, Victoria, London, SW1E",SW1E,2.0
+385,2500000.0,"Cubitt Building, London, SW1W",SW1W,3.0
+386,1250000.0,"Westbourne Terrace, London, W2",W2,2.0
+387,4750000.0,"Ossington Street, London, W2",W2,5.0
+388,800000.0,"Chilworth Mews, Bayswater, London, W2",W2,2.0
+391,699950.0,"Marconi House, 335 Strand, London, WC2R",WC2R,0.0
+393,2999999.0,"Blomfield Road, Little Venice, London, W9",W9,4.0
+394,595000.0,"Pimlico, London, SW1V",SW1V,1.0
+395,550000.0,"Dudley Court, Upper Berkeley Street, London, W1H",W1H,1.0
+396,600000.0,"Shirland Road, Maida Vale, London, W9",W9,2.0
+397,650000.0,"Sutherland Avenue, Maida Vale, London, W9",W9,2.0
+398,375000.0,"Rossmore Court, Park Road, London, NW1",NW1,0.0
+400,4750000.0,"Shepherd Street, Mayfair, London, W1J",W1J,3.0
+401,895000.0,"Gloucester Terrace, London, W2",W2,2.0
+402,700000.0,"Orsett Terrace, Bayswater, W2",W2,2.0
+403,1500000.0,"Bayswater Road, London, W2",W2,3.0
+404,450000.0,"ALMA SQUARE, ST JOHN'S WOOD, NW8 9QA",NW8,1.0
+405,1250000.0,"Queens Gardens, Lancaster Gate, London, W2",W2,2.0
+406,550000.0,"Porchester Square, Paddington, W2",W2,1.0
+407,3950000.0,"Aldridge Road Villas, London, W11",W11,6.0
+408,895000.0,"Clifton Court, Northwick Terrace, London, NW8",NW8,2.0
+409,425000.0,"Cambridge Street, London, SW1V",SW1V,1.0
+411,1850000.0,"Market Place, Marylebone, London, W1W",W1W,2.0
+413,1125000.0,"Hamilton Terrace,St Johns Wood,NW8",NW8,2.0
+416,545000.0,"Ashmore Road, Maida Vale, London, W9",W9,2.0
+417,695000.0,"25 PORCHESTER PLACE, London, W2",W2,1.0
+418,1110000.0,"Gillingham Street, SW1V",SW1V,2.0
+419,400000.0,"Johnson Lodge, Admiral Walk, Royal Oak, W9",W9,1.0
+420,2999999.0,"Blomfield Road, Little Venice, London, W9",W9,4.0
+421,1495000.0,"Baker Street, Marylebone, London, W1U",W1U,2.0
+422,525000.0,"Goodwood Court, 54-57 Devonshire Street, London, W1W",W1W,0.0
+426,535000.0,"Lutyens House, Churchill Gardens, London, SW1V",SW1V,2.0
+427,550000.0,"Denbigh Street, London, SW1V",SW1V,1.0
+428,1500000.0,"Porchester Gate, Bayswater Road, London, W2",W2,3.0
+429,2650000.0,"Warwick Way, London, SW1V",SW1V,4.0
+430,935000.0,"Sheldon Square, Paddington Basin, London, W2",W2,2.0
+431,1855000.0,"Horseferry Road,
+London,
+SW1P",SW1P,2.0
+432,225000.0,"Warwick Avenue, Little Venice, London, W9",W9,0.0
+433,750000.0,"CHAPTER STREET, SW1P",SW1P,1.0
+434,2190000.0,"Horseferry Road,
+London,
+SW1P",SW1P,2.0
+435,1860000.0,"Kings Gate Walk, Westminster, London, SW1E",SW1E,2.0
+436,1955000.0,"Horseferry Road,
+London,
+SW1P",SW1P,2.0
+439,1580000.0,"Horseferry Road,
+London,
+SW1P",SW1P,2.0
+440,1800000.0,"Abell House, John Islip Street, SW1P",SW1P,3.0
+441,2590000.0,"Moxon Street, W1 U",W1,1.0
+442,4450000.0,"Moxon Street, W1U",W1U,2.0
+443,1550000.0,"Whitehall, Westminster, London, SW1A",SW1A,3.0
+448,2500000.0,"Gatliff Road, Grosvenor Waterside, Chelsea, London, SW1W",SW1W,3.0
+450,2350000.0,"Portman Square, Marylebone W1H",W1H,3.0
+453,895000.0,"Fielding Court, 28 Earlham Street, London, WC2H",WC2H,1.0
+455,4200000.0,"Randolph Avenue, Little Venice, London, W9",W9,3.0
+456,800000.0,"St Stephens Gardens, Notting Hill, London, W2",W2,2.0
+459,1275000.0,"Westbourne Gardens, London, W2",W2,2.0
+461,595000.0,"VAUXHALL BRIDGE ROAD, SW1V",SW1V,2.0
+465,850000.0,"Morshead Road, Maida Vale, W9",W9,2.0
+466,779995.0,"Devonshire Street, London, W1W",W1W,1.0
+467,450000.0,"Westbourne Terrace, London, W2",W2,0.0
+470,1295000.0,"Grosvenor Waterside, 9 Gatliff Road, London, SW1W",SW1W,2.0
+471,695000.0,"Shirland Road, Maida Vale, London, W9",W9,2.0
+472,3250000.0,"Pearson Square, London, W1T",W1T,2.0
+474,825000.0,"Hallam Street, Marylebone, London, W1W",W1W,1.0
+475,775000.0,"Marylands Road, London, W9",W9,2.0
+476,975000.0,"DEVONPORT, 23 SOUTHWICK STREET, London, W2",W2,3.0
+477,850000.0,"Beverly House, 133 Park Road, St Johns Wood NW8",NW8,1.0
+478,850000.0,"Lyons Place,
+London,
+NW8",NW8,1.0
+479,2600000.0,"Bolsover Street, London, W1W",W1W,3.0
+480,435000.0,"Rogers House Page Street,  Westminster, SW1P",SW1P,1.0
+481,900000.0,"Chippenham Mews, London, W9",W9,2.0
+484,650000.0,"St Georges Drive, Pimlico, London, SW1V",SW1V,2.0
+485,1100000.0,"Newcastle House, Luxborough Street, W1U",W1U,2.0
+486,1250000.0,"Rodney Court, London, W9 ",W9,3.0
+487,899500.0,"Finch Lodge, London, W9 ",W9,2.0
+489,1345000.0,"Sutherland Street, Pimlico, SW1V",SW1V,3.0
+490,1090000.0,"West End Gate, Marylebone, W2",W2,1.0
+491,1000000.0,"Peninsula Apartments, 4 Praed Street, London, W2",W2,2.0
+492,1250000.0,"Rodney Court, 6-8 Maida Vale, London, W9",W9,3.0
+498,3495000.0,"Palace Place, London, SW1E",SW1E,3.0
+499,5750000.0,"Clifton Hill, St John's Wood, London, NW8",NW8,6.0
+500,595000.0,"Hanson Street, Fitzrovia, London W1",W1,1.0
+501,2950000.0,"Balcombe Street, London, NW1",NW1,4.0
+502,1200000.0,"Sutherland Avenue, London, W9",W9,1.0
+505,1325000.0,"Walpole Mews, London, NW8",NW8,2.0
+506,1495000.0,"Hamilton Terrace, London, NW8",NW8,2.0
+507,1350000.0,"Langham Street, 36-40 Langham Street, Fitzrovia, London, W1W",W1W,1.0
+509,1450000.0,"Blandford Street, Marylebone, London, W1U",W1U,2.0
+510,675000.0,"Formosa Street, London, W9",W9,1.0
+511,1200000.0,"Ralph Court, Bayswater, W2",W2,3.0
+512,4200000.0,"Randolph Avenue, Little Venice, London, W9 1DW",W9,5.0
+513,435000.0,"Ashmore Road, Maida Vale, London, W9",W9,1.0
+514,499950.0,"Elgin Avenue, Maida Vale, London, W9",W9,2.0
+515,500000.0,"Westbourne Court, Orsett Terrace, London, W2",W2,1.0
+518,2195000.0,"Westbourne Terrace, London, W2",W2,3.0
+523,7150000.0,"Leinster Gardens, W2",W2,6.0
+524,1250000.0,"Prince Edward Mansions, Moscow Road, London, W2",W2,2.0
+525,1150000.0,"Dean Street, Soho, W1D",W1D,1.0
+526,1050000.0,"Portsea Hall, Portsea Place, W2",W2,2.0
+527,950000.0,"Portsea Hall, Portsea Place, W2",W2,2.0
+528,699950.0,"Cumberland Street, Pimlico, London, SW1V",SW1V,2.0
+529,375000.0,"Gloucester Terrace, Bayswater, London, W2",W2,0.0
+530,575000.0,"Redan Place, Bayswater, London, W2",W2,0.0
+531,595000.0,"Hanson Street, Fitzrovia, London, W1W",W1W,1.0
+532,650000.0,"Macroom Road, Maida Vale, London, W9",W9,2.0
+533,550000.0,"Landmark Court, 94-96 Bell Street, Marylebone, London, NW1",NW1,2.0
+536,549950.0,"Sutherland Avenue, Maida Vale, W9",W9,2.0
+537,650000.0,"Elm Tree Court, Elm Tree Road, London, NW8",NW8,1.0
+538,575000.0,"Old Marylebone Road, Marylebone, NW1",NW1,1.0
+539,850000.0,"Beverly House, 133 Park Road, St John's Wood, London, NW8",NW8,1.0
+540,900000.0,"Chepstow Road, Notting Hill, W2",W2,2.0
+541,3800000.0,"Hyde Park Gardens Mews, Hyde Park, London, W2",W2,5.0
+542,2250000.0,"Eastbourne Mews, London, W2",W2,2.0
+543,700000.0,"Randolph Avenue, Little Venice, London, W9",W9,1.0
+544,625000.0,"Lanhill Road, London, W9",W9,2.0
+545,1750000.0,"Westbourne Gardens, London, W2",W2,3.0
+548,3000000.0,"Lyons Place,
+London,
+NW8",NW8,3.0
+550,1200000.0,"Hepworth Court, Grosvenor Waterside, Gatliff Road, SW1W",SW1W,2.0
+551,625000.0,"Rossmore Road, Marylebone, London, NW1",NW1,1.0
+552,700000.0,"Old Marylebone Road, Marylebone, London, NW1",NW1,1.0
+553,950000.0,"Portsea Hall, Portsea Place, London, W2",W2,2.0
+554,4250000.0,"Eaton Place, Belgravia, London, SW1X",SW1X,3.0
+555,550000.0,"Keats House, Churchill Gardens, London, SW1V",SW1V,2.0
+556,5950000.0,"Warwick House Street, London, SW1Y",SW1Y,4.0
+557,434995.0,"Sale Place, Paddington, LONDON, W2",W2,1.0
+558,5000000.0,"Mount Row, London, W1K",W1K,4.0
+560,1000000.0,"Queen's Gate, London, SW7",SW7,2.0
+561,1050000.0,"Portsea Place, London, W2",W2,2.0
+562,2395000.0,"Rutland Gate, Knightsbridge, London, SW7",SW7,2.0
+563,525000.0,"Flat 4, Elgin Avenue, Maida Vale, W9",W9,1.0
+564,670000.0,"Greville Place, London, NW6",NW6,2.0
+565,4200000.0,"Randolph Avenue, Little Venice, London, W9",W9,5.0
+567,600000.0,"Ponsonby Terrace, SW1P",SW1P,1.0
+568,775000.0,"Durham House, 16 John Adam Street, London, WC2N",WC2N,1.0
+569,499950.0,"REGENCY STREET, SW1P",SW1P,1.0
+570,600000.0,"Furnival Mansions, Wells Street, Fitzrovia, London, W1T",W1T,1.0
+571,500000.0,"Ebury Bridge Road, Victoria, London, SW1W",SW1W,1.0
+572,550000.0,"Bell Street, Marylebone, NW1 ",NW1,2.0
+573,700000.0,"Balham High Road, London, SW17",SW17,2.0
+574,850000.0,"Crawford Street, Marylebone, London W1",W1,2.0
+576,399000.0,"Finch Lodge, Admiral Walk, London, W9",W9,1.0
+577,999950.0,"Randolph Avenue, Maida Vale, W9",W9,2.0
+578,575000.0,"Balcombe Street, Marylebone, London, NW1",NW1,1.0
+579,499950.0,"VAUXHALL BRIDGE ROAD, SW1V",SW1V,1.0
+580,1550000.0,"Vauxhall Bridge Road, London, SW1V",SW1V,3.0
+582,875000.0,"Balmoral Apartments, 2 Praed Street, London, W2",W2,2.0
+583,875000.0,"Oliphant Street, London, W10",W10,3.0
+589,950000.0,"Great Peter Street, Westminster, London, SW1P",SW1P,1.0
+590,925000.0,"Bryanston Court, George Street, Marylebone, London, W1H",W1H,3.0
+591,3950000.0,"South Eaton Place, London, SW1W",SW1W,5.0
+592,3250000.0,"The Atrium, 127-131 Park Road, London, NW8",NW8,3.0
+593,3475000.0,"Motcomb Street, Belgravia,, London, SW1X",SW1X,2.0
+594,1750000.0,"Rutland Mews, St John's Wood, London, NW8",NW8,3.0
+595,750000.0,"Erasmus Street, Westminster, London, SW1P",SW1P,2.0
+596,1450000.0,"Westmoreland Terrace, London, SW1V",SW1V,3.0
+597,325000.0,"Park West, Paddington, London, W2",W2,0.0
+598,500000.0,"Park West, Hyde Park Estate, London, W2",W2,1.0
+599,715000.0,"Kilburn Park Road, Queen's Park, London, NW6",NW6,2.0
+600,5500000.0,"Wilfred Street, St James's Park, SW1E",SW1E,4.0
+601,850000.0,"Carlton Mansions, 205 Randolph Avenue, London, W9",W9,2.0
+602,2750000.0,"Hyde Park Square, Connaught Village, London, W2",W2,3.0
+603,1950000.0,"Groom Place, London, SW1X",SW1X,2.0
+604,900000.0,"Craven Street, Covent Garden, WC2N",WC2N,1.0
+605,650000.0,"Formosa Street, Maida Vale, London, W9",W9,2.0
+606,2995000.0,"Avenue Road, St. John's Wood NW8",NW8,4.0
+607,1100000.0,"St. George's Drive, London, SW1V",SW1V,3.0
+609,550000.0,"Waterspring Court 108 Regency Street, London, SW1P 4AW",SW1P,1.0
+613,1350000.0,"Boston Place, London, NW1",NW1,2.0
+617,390000.0,"Fermoy Road, Maida Vale, W9",W9,1.0
+618,1350000.0,"38 Langham Street, Great Portland Street, Fitzrovia, London, W1W",W1W,1.0
+620,550000.0,"Harrow Lodge, St. John's Wood Road, London, NW8",NW8,1.0
+621,2250000.0,"Berkeley Street, Mayfair, London, W1J",W1J,2.0
+622,795000.0,"Grove End House, Grove End Road, St John's Wood, London, NW8",NW8,2.0
+623,1495000.0,"Hyde Park Square, Hyde Park, London, W2",W2,1.0
+626,650000.0,"Belvoir House Tachbrook Triangle 181 Vauxhall Bridge Road, London, SW1V 1ER,",SW1V,1.0
+627,650000.0,"Formosa Street,Little Venice,W9",W9,2.0
+628,875000.0,"Rosamond House, 4 Elizabeth Court, London, SW1P",SW1P,1.0
+629,2500000.0,"Pollen Street, London, W1S",W1S,2.0
+630,3100000.0,"Leinster Gardens, London, W2",W2,3.0
+631,2975000.0,"Cambridge Square, Hyde Park, London, W2",W2,5.0
+632,550000.0,"Cotman House, Townshend Estate, London, NW8",NW8,2.0
+634,775000.0,"Great Portland Street, London, W1W",W1W,2.0
+636,1550000.0,"St. Lukes Yard, London, W9",W9,3.0
+637,2450000.0,Seymour Street London W1H,W1H,3.0
+638,830000.0,"Luxborough Tower, Luxborough Street, Marylebone, London, W1U",W1U,1.0
+639,1470000.0,"Chiltern Court, Baker Street, London, NW1",NW1,3.0
+640,5950000.0,"The Knightsbridge Apartments, 199 Knightsbridge, London, SW7",SW7,2.0
+641,1500000.0,"Cambridge Street, London, SW1V",SW1V,2.0
+642,3750000.0,"Blenheim Terrace, St Johns Wood, London, NW8",NW8,5.0
+644,2450000.0,"Seymour Street, Marylebone, W1H",W1H,3.0
+645,2995000.0,"London House, 7-9 Avenue Road, London, NW8",NW8,4.0
+646,1950000.0,"Groom Place, London, SW1X",SW1X,2.0
+647,965000.0,"Ashmore Road, Maida Hill, London, W9",W9,3.0
+648,1500000.0,"Chepstow Place, London, W2",W2,3.0
+650,3000000.0,South Wharf Road London W2,W2,5.0
+651,7250000.0,"The W1, 35 Marylebone High Street, Marylebone, London, W1U",W1,3.0
+653,650000.0,"Randolph Avenue, Maida Vale, London, W9",W9,1.0
+655,830000.0,"Luxborough Tower, Luxborough Street, London, W1U",W1U,1.0
+658,1275000.0,"Warwick Way, London, SW1V",SW1V,3.0
+659,1250000.0,"Alberts Court, 2 Palgrave Gardens, London, NW1",NW1,2.0
+660,5750000.0,"Clifton Hill, St. Johns Wood, London, NW8",NW8,6.0
+661,2600000.0,"Pearson Square, Fitzroy Place, W1T",W1T,2.0
+662,1750000.0,"Prince Albert Road, London, NW8",NW8,3.0
+663,2400000.0,"Pearson Square, Fitzrovia, London, W1T",W1T,2.0
+665,1000000.0,"St Georges Square, London, SW1V",SW1V,2.0
+666,1125000.0,"Harewood Avenue, London, NW1",NW1,3.0
+667,5250000.0,"Montrose House, 6 Montrose Place, SW1X",SW1X,3.0
+668,1295000.0,"Stanhope Place, Hyde Park Estate, London, W2",W2,1.0
+669,2450000.0,"Seymour Street, Portman Estate, London, W1H",W1H,3.0
+671,550000.0,"Stuart Tower, Maida Vale, Maida Vale, W9",W9,1.0
+672,850000.0,"Porchester Square, London, W2",W2,1.0
+673,2300000.0,"Southwick Yard, Hyde Park, W2",W2,4.0
+674,1399950.0,"Hyde Park Mansions, Cabbell Street, London, NW1",NW1,3.0
+675,2649000.0,"Marylands Road, Maida Vale, London, W9 ",W9,5.0
+676,2300000.0,"Southwick Yard, Hyde Park, W2",W2,4.0
+677,600000.0,"Page Street, Westminster, London, SW1P",SW1P,2.0
+678,2450000.0,"SEYMOUR STREET, London, W1H",W1H,3.0
+679,840000.0,"St. Johns Wood Road, London, NW8",NW8,2.0
+680,699000.0,"Fernhead Road, Maida Vale, W9",W9,3.0
+681,3250000.0,"Hall Road, London, NW8",NW8,3.0
+682,2450000.0,"Seymour Street, Marylebone, London, W1H",W1H,3.0
+683,765000.0,"Riding House Street, Fitzrovia, London, W1",W1,1.0
+684,1250000.0,"Chepstow Road, London, W2",W2,2.0
+685,1750000.0,"St James Close,St Johns Wood,NW8",NW8,3.0
+686,800000.0,"Cambridge Square, Hyde Park Estate, London, W2",W2,2.0
+687,995000.0,"Waterdale Manor House, NW1",NW1,2.0
+688,975000.0,"Ilbert Street, Queens Park, W10",W10,3.0
+690,4900000.0,"Portland Place, Marylebone, W1",W1,2.0
+691,1050000.0,"York Street, W1",W1,2.0
+693,1100000.0,"Consort Rise House, 203 Buckingham Palace Road, London, SW1W",SW1W,3.0
+694,1150000.0,"Wellington Court,St Johns Wood,NW8",NW8,2.0
+695,800000.0,"Quadrangle Tower, Cambridge Square, London, W2",W2,2.0
+696,3750000.0,"Blenheim Terrace, St Johns Wood, London, NW8",NW8,4.0
+697,900000.0,"Kensington Gardens Square,London,W2",W2,2.0
+698,2500000.0,"Pollen Street, London, W1S",W1S,2.0
+700,11900000.0,"Ennismore Gardens, Knightsbridge SW7",SW7,4.0
+702,2995000.0,"London House, 7-9 Avenue Road, St John's Wood, NW8",NW8,4.0
+703,695000.0,"Fernhead Road, London, W9",W9,2.0
+704,830000.0,"Phoenix Building, London, W1U",W1U,1.0
+705,625000.0,"Abercorn Place, St John's Wood, London, NW8",NW8,2.0
+706,830000.0,"Barrett Street, Marylebone, London, W1U",W1U,1.0
+707,1795000.0,"Manchester Street, Marylebone, London, W1U",W1U,2.0
+708,1750000.0,"Chapter Street, Pimlico, London, SW1P",SW1P,2.0
+709,300000.0,"Abbey House, 1A Abbey Road, St John's Wood, London, NW8",NW8,0.0
+710,1375000.0,"St. James's Street, St. James's, London, SW1A",SW1A,1.0
+711,775000.0,"Ingestre Court, Ingestre Place, London, W1F",W1F,2.0
+712,375000.0,"Langford Court,St Johns Wood,NW8",NW8,0.0
+716,4650000.0,"Portland Place, West End, W1B",W1B,3.0
+717,535000.0,"Park West, Edgware Road, London, W2",W2,1.0
+719,4100000.0,"Eaton Terrace, Belgravia, London, SW1W",SW1W,3.0
+720,2150000.0,"Park Lane, Mayfair, London, W1K",W1K,2.0
+721,1300000.0,"Randolph Crescent, Little Venice, London, W9",W9,2.0
+722,900000.0,"Buckingham Court, 78 Buckingham Gate, London, SW1E",SW1E,1.0
+723,995000.0,"St. George's Drive, Pimlico, London, SW1V",SW1V,2.0
+724,515000.0,"Belgrave Gardens, St Johns Wood, NW8",NW8,2.0
+725,3000000.0,South Wharf Road London W2,W2,5.0
+726,750000.0,"Sutherland Avenue, Maida Vale, London, W9",W9,2.0
+727,550000.0,"Maida Vale, London, W9",W9,1.0
+728,950000.0,"Paddington,London W2,W2",W2,1.0
+729,499950.0,"Ashbridge Street, Marylebone, London, NW8",NW8,2.0
+730,675000.0,"Queens Gardens, Bayswater, W2",W2,1.0
+731,1470000.0,"Chiltern Court, Baker Street, London NW1",NW1,3.0
+732,325000.0,"Westbourne Court,Orsett Terrace,W2",W2,0.0
+734,2100000.0,"Ennismore Mews, Knightsbridge, SW7",SW7,3.0
+735,2500000.0,"Grove End Road, London, NW8",NW8,3.0
+736,1695000.0,"1 Kings Gate Walk, SW1E",SW1E,2.0
+737,1300000.0,"Montagu Square,London,W1H",W1H,3.0
+738,365000.0,"Fermoy Road, London, W9",W9,1.0
+739,599000.0,"Marylands Road, London, W9",W9,2.0
+740,1350000.0,"Albert Mansions, Luxborough Street, London, W1U",W1U,2.0
+742,7250000.0,"Marylebone High Street, Marylebone, W1U",W1U,3.0
+743,1100000.0,"Belgrave Road, Pimlico, London, SW1V",SW1V,2.0
+744,550000.0,"Denbigh Street, Pimlico, London, SW1V",SW1V,1.0
+748,850000.0,"Sutherland Avenue, London, W9",W9,2.0
+750,1200000.0," Emery Hill Street,  Westminster, SW1P",SW1P,2.0
+751,850000.0,"Porchester Square, London, W2",W2,1.0
+755,1600000.0,"Spring Mews, Marylebone, London, W1U",W1U,2.0
+756,1050000.0,"Hyde Park Mansions, Chapel Street, London, NW1",NW1,4.0
+757,5150000.0,"Clifton Hill, St John's Wood, London, NW8",NW8,5.0
+758,1650000.0,"Princes Mews, Notting Hill, London, W2",W2,3.0
+759,5150000.0,"Clifton Hill, St John's Wood, London NW8",NW8,5.0
+760,1950000.0,"Broadley Street, Marylebone, London, NW8",NW8,3.0
+761,779000.0,"Emery Hill Street, Pimlico, London, SW1P",SW1P,1.0
+762,525000.0,"Westbourne Terrace, Bayswater, London, W2",W2,1.0
+763,1100000.0,"Gloucester Terrace, Bayswater, London, W2",W2,2.0
+764,1150000.0,"Craven Hill Gardens, Lancaster Gate, London, W2",W2,3.0
+765,1950000.0,"Primrose Court, London, NW8 ",NW8,3.0
+766,4900000.0,"Portland Place, Marylebone, London, W1B",W1B,2.0
+767,1100000.0,"Old Aeroworks, Hatton Street, London NW8",NW8,2.0
+768,800000.0,"Charlwood Street, Pimlico, London, SW1V",SW1V,2.0
+769,3450000.0,"Moreton Terrace, Pimlico, London, SW1V",SW1V,5.0
+770,1550000.0,"Abbey Road, London, NW8 ",NW8,3.0
+772,3450000.0,"Moreton Terrace, Pimlico, SW1V",SW1V,5.0
+775,595000.0,"Hanson Street, Fitzrovia, London W1",W1,1.0
+776,800000.0,"Westbourne Park Road, Bayswater, London, W2",W2,2.0
+778,700000.0,"Catherine Place, St James's Park, London, SW1E",SW1E,1.0
+779,189000.0,"LONDON BOLTHOLE  / RENTAL INVESTMENT Castellain Road, Maida Vale W9",W9,0.0
+780,895000.0,"Lancaster Gate, Bayswater, W2",W2,1.0
+781,525000.0,"Harrow Road, Westbourne Park, London, W9",W9,2.0
+783,849950.0,"Aberdeen Court, Maida Vale, W9",W9,2.0
+784,595000.0,"Octavia House, Medway Street, Westminster, London, SW1P",SW1P,1.0
+786,775000.0,"Southwick Street, Hyde Park, London, W2",W2,3.0
+787,1075000.0,"Faraday House, Blandford Street, London, W1",W1,1.0
+788,9800000.0,"Blomfield Road, Little Venice, W9",W9,6.0
+789,1300000.0,"The Quadrangle, London, W2",W2,2.0
+790,2750000.0,"Eaton Square, Belgravia, London, SW1W",SW1W,2.0
+792,1400000.0,"One Seymour Street, Marylebone, London, W1H",W1H,1.0
+794,925000.0,"Sutherland Avenue, London, W9",W9,3.0
+795,600000.0,"Scott Ellis Gardens,St Johns Wood,NW8",NW8,2.0
+796,550000.0,"Denbigh Street, Pimlico, London, SW1V",SW1V,1.0
+797,1395000.0,"Cumberland Street, London, SW1V",SW1V,3.0
+798,950000.0,"Maida Vale, Little Venice, W9 1SE",W9,3.0
+799,1150000.0,"Chelsea Gate Apartments, 93 Ebury Bridge Road, London, SW1W",SW1W,2.0
+800,4000000.0,"Victoria Street, Westminster, London, SW1H",SW1H,3.0
+801,1385000.0,"Clarendon Gardens, Maida Vale, London, W9",W9,3.0
+802,650000.0,"Inver Court Inverness Terrace, London, W2 6JB",W2,1.0
+805,775000.0,"SOUTHWICK STREET, London, W2",W2,3.0
+806,1095000.0,"Bull Inn Court, Covent Garden, London, WC2R",WC2R,1.0
+807,1400000.0,"Langham Street, 36-40 Langham Street, Fitzrovia, London, W1W",W1W,1.0
+808,9800000.0,"Blomfield Road, Maida Vale, W9",W9,8.0
+809,9800000.0,"Blomfield Road, London, W9",W9,6.0
+810,599950.0,"Barnsdale Road, Maida Vale, London, W9",W9,2.0
+811,975000.0,"Maida Vale, London W9",W9,2.0
+812,1250000.0,"Webster House, 26 Gloucester Street, London, SW1V",SW1V,3.0
+814,680000.0,"Asquith House, West End Gate, Marylebone, W2",W2,0.0
+815,1300000.0,"Dorset House, Gloucester Place, London, NW1",NW1,3.0
+816,2295000.0,"Brunswick Mews, London, W1H",W1H,2.0
+817,45000000.0,"Hyde Park Place, Hyde Park, London, W2",W2,10.0
+819,925000.0,"George Street, Marylebone, W1H",W1H,3.0
+820,890000.0,"Buckingham Gate, London, SW1E",SW1E,2.0
+821,1150000.0,"Evelyn Mansions, Carlisle Place, London, SW1P",SW1P,2.0
+822,5250000.0,"Montrose Place, London, SW1X",SW1X,3.0
+823,1200000.0,"Paddington Exchange, 6 Hermitage Street, London, W2",W2,2.0
+824,1200000.0,"Paddington Exchange, 12 Hermitage Street, London, W2",W2,2.0
+826,1600000.0,"Talbot Square, PADDINGTON, London, UK, W2",W2,3.0
+833,699950.0,"Aldridge Road Villas, London, W11",W11,2.0
+834,5495000.0,"Clifton Gardens, Little Venice, London W9",W9,4.0
+835,725000.0,"Orleans Court Orleans Court, Douglas Street, Westminster, SW1P",SW1P,2.0
+836,3950000.0,"Nottingham Terrace, Regent's Park, London, NW1",NW1,3.0
+837,1850000.0,"The Quadrangle, Hyde Park Estate, London, W2",W2,4.0
+838,1300000.0,"Asquith House, 27 Monck Street, London, SW1P",SW1P,2.0
+839,615000.0,"St. George's Drive, London, SW1V",SW1V,1.0
+840,1450000.0,"Artillery Row, London, SW1P",SW1P,2.0
+841,499000.0,"Fermoy Road, London, W9",W9,1.0
+842,599950.0,"Elgin Avenue, Maida Vale, London, W9",W9,2.0
+845,2550000.0,"Chesterfield Gardens, Mayfair, London, W1J",W1J,2.0
+846,365000.0,"Park Road, Regent's Park, London, NW1",NW1,0.0
+847,420000.0,"Hyde Park Place, Hyde Park Estate, London, W2",W2,0.0
+848,849950.0,"Aberdeen Court, Maida Vale, W9",W9,2.0
+850,975000.0,"Regent House, Wellington Place, London, NW8",NW8,2.0
+853,800000.0,"Templar Court, 43 St. Johns Wood Road, London, NW8",NW8,2.0
+854,3300000.0,"Apartment 10, 35 Old Queen Street, London, SW1H",SW1H,3.0
+856,475000.0,"Denbigh Street, Pimlico, London, SW1V",SW1V,1.0
+857,930000.0,"Craven Street, Covent Garden, WC2N",WC2N,1.0
+858,1450000.0,"Westmoreland Terrace, London, SW1V",SW1V,3.0
+860,450000.0,"Reading House, Bayswater, W2",W2,1.0
+862,2100000.0,"Rutland Gate, Knightsbridge, SW7",SW7,2.0
+863,550000.0,"Churchill Gardens, Pimlico, SW1V",SW1V,2.0
+864,2000000.0,"Ennismore Gardens, Knightsbridge, London, SW7",SW7,1.0
+865,720000.0,"Baker Street, Marylebone, London, NW1",NW1,1.0
+866,1350000.0,"Palace Court, London, W2",W2,2.0
+867,1250000.0,"St. James's Street, London, SW1A",SW1A,1.0
+868,795000.0,"Queens Court, Queensway, London, W2",W2,2.0
+869,315000.0,"ABBEY HOUSE, ABBEY ROAD, NW8 9BU",NW8,0.0
+870,1250000.0,"Marconi House, 335 Strand, London, WC2R",WC2R,2.0
+871,815000.0,"Hallam Street, London, W1W",W1W,1.0
+872,995000.0,"Kensington Gardens Square, W2",W2,1.0
+873,1100000.0,"4 MERCHANT SQUARE EAST, London, W2",W2,3.0
+874,650000.0,"Hale House, 27 Lindsay Square, London, SW1V",SW1V,1.0
+875,1600000.0,"Talbot Road, Notting Hill, W2",W2,3.0
+876,725000.0,"Westbourne Grove, London, W11",W11,1.0
+877,449000.0,"Ambrosden Avenue, Westminster, London, SW1P",SW1P,0.0
+879,925000.0,"Wallis Building, Marylebone, NW8",NW8,2.0
+880,1175000.0,"Regency Court, 4-10 Regency Street, London, SW1P",SW1P,2.0
+882,2000000.0,"Lowndes Street, Belgravia, SW1X",SW1X,2.0
+883,1250000.0,"Eresby House, Rutland Gate, Knightsbridge, London, SW7",SW7,2.0
+884,1700000.0,"Hyde Park Towers, 1 Porchester Terrace, London, W2",W2,2.0
+885,2950000.0,"Groom Place, London, SW1X",SW1X,2.0
+886,2100000.0,"Strathearn Place, Hyde Park, London, W2",W2,3.0
+887,715000.0,"Randolph Avenue, London, W9",W9,2.0
+888,4600000.0,"Ossington Street, London, W2",W2,5.0
+889,3500000.0,"Bryanston Square, Marylebone, W1H",W1H,2.0
+891,5950000.0,"Chester Street, Belgravia, SW1X",SW1X,6.0
+896,925000.0,"Kilravock Street, London, W10",W10,2.0
+897,995000.0,"Warwick Square, Pimlico, London, SW1V",SW1V,1.0
+898,3100000.0,"Eaton Square, Belgravia, London, SW1W",SW1W,2.0
+900,850000.0,"11 Sheldon Square, London, W2",W2,2.0
+902,895000.0,"Regents Park House, 105 Park Road, London, NW8",NW8,0.0
+903,625000.0,"Gloucester Place, London, NW1",NW1,1.0
+904,3100000.0,"Eaton Square, London, SW1W",SW1W,2.0
+906,3495000.0,"Montrose Court, Knightsbridge, SW7",SW7,3.0
+909,3950000.0,"Warwick Square Mews, Pimlico, London, SW1V",SW1V,5.0
+910,499999.0,"Hanson Street, London, W1W",W1W,1.0
+911,615000.0,"Shirland Road, London, W9",W9,2.0
+912,1350000.0,"Inverness Terrace, Bayswater, W2",W2,3.0
+914,2700000.0,Princes Mews London W2,W2,3.0
+915,1595000.0,"Westminster Gardens, Marsham Street, London, SW1P",SW1P,3.0
+916,550000.0,"Churchill Gardens, Pimlico, London, SW1V",SW1V,2.0
+919,1300000.0,"Gloucester Street, London, SW1V",SW1V,3.0
+920,879000.0,"Ashmore Road, Maida Vale, London, W9",W9,3.0
+922,4750000.0,"Shepherd Street, Mayfair, London, W1J",W1J,3.0
+923,550000.0,"St. Stephens Gardens, Notting Hill, London, W2",W2,1.0
+924,2000000.0,"Lowndes Street, London, SW1X",SW1X,2.0
+925,1150000.0,"Dean Street, Soho, W1D",W1D,1.0
+926,6000000.0,"Dunraven Street, Mayfair, W1K",W1K,2.0
+927,1200000.0," Emery Hill Street,  Westminster, SW1P",SW1P,2.0
+928,775000.0,"Ilbert Street, London, W10",W10,3.0
+929,1000000.0,"Millbank, Westminster, London, SW1P",SW1P,2.0
+930,1100000.0,"Westbourne Terrace, Bayswater, London, W2",W2,3.0
+931,620000.0,"Southwick Street, Bayswater, W2",W2,1.0
+932,3595000.0,"Abbey Gardens, London, NW8",NW8,4.0
+933,650000.0,"Charlbert Court, Charlbert Street, London, NW8",NW8,2.0
+934,650000.0,"Inver Court, Bayswater, London, W2",W2,1.0
+935,1395000.0,"Hallam Street, Marylebone, London, W1W",W1W,2.0
+936,800000.0,"Herries Street, Queen's Park, London, W10",W10,2.0
+937,600000.0,"Shirland Road, Maida Vale, London, W9",W9,1.0
+938,2600000.0,"Pearson Square, London, W1T",W1T,2.0
+939,800000.0,"Talbot Road, London, W2",W2,2.0
+940,585000.0,"Porchester Square, Bayswater, W2",W2,1.0
+941,1350000.0,"Hyde Park Mansions, Cabbell Street, London, NW1",NW1,4.0
+942,1850000.0,"The Quadrangle, London, W2",W2,3.0
+943,2999900.0,"Blomfield Villas, Little Venice, W2",W2,4.0
+945,815000.0,"Penfold Place, Marylebone, London, NW1",NW1,2.0
+946,785000.0,"Penfold Place, Marylebone, London, NW1",NW1,2.0
+947,795000.0,"Palace Court, Notting Hill, London, W2",W2,2.0
+948,425000.0,"Westbourne Court, Orsett Terrace, London, W2",W2,1.0
+950,2950000.0,"Albion Gate, Albion Street, London, W2",W2,5.0
+951,1600000.0,"Bedford Court, Covent Garden, WC2E",WC2E,2.0
+952,695000.0,"Ennismore Gardens, Knightsbridge, SW7",SW7,1.0
+953,3475000.0,"Soho 13, Soho, W1F",W1F,3.0
+954,1400000.0,"CROPTHORNE COURT, MAIDA VALE, W9 1TA",W9,3.0
+956,1195000.0,"Gloucester Street, Pimlico, London, SW1V",SW1V,3.0
+957,1795000.0,"Pimlico Place, Guildhouse Street, London, SW1V",SW1V,3.0
+958,900000.0,"Castellain Road, Maida Vale, London, W9",W9,3.0
+959,625000.0,"Admiral Walk, Maida Vale, London, W9",W9,2.0
+960,595000.0,"Sussex Place, Hyde Park, W2",W2,1.0
+961,1200000.0,"Paddington Exchange, 6 Hermitage Street W2",W2,2.0
+962,1200000.0,"Paddington Exchange 3, Hermitage Street W2",W2,2.0
+963,475000.0,"Longleat House, 18 Rampayne Street, London, SW1V",SW1V,1.0
+964,1475000.0,"Ebury Apartments, Sutherland Street, London, SW1V",SW1V,3.0
+967,860000.0,"Maida Vale, London W9",W9,2.0
+968,1295000.0,"Gatliff Road, Grosvenor Waterside, London, SW1W",SW1W,2.0
+969,650000.0,"Blandford Street, Marylebone, London, W1U",W1U,1.0
+970,4750000.0,"Ebury Mews, Belgravia, London, SW1W",SW1W,3.0
+971,6000000.0,"The Penthouse @ Dunraven St, Mayfair, W1",W1,3.0
+974,745000.0,"St Edmunds Terrace, Primrose Hill, NW8",NW8,1.0
+975,725000.0,"Rutland Gate, Knightsbridge, London, SW7",SW7,0.0
+977,625000.0,"Sutherland Avenue,Maida Vale,W9",W9,1.0
+978,375000.0,"Kensington Gardens Square, London, W2",W2,0.0
+979,1200000.0,"PADDINGTON EXCHANGE, HERMITAGE STREET, London, W2",W2,2.0
+980,1450000.0,"Harley Street, Marylebone, London, W1G",W1G,2.0
+981,2100000.0,"Rutland Gate, Knightsbridge, SW7",SW7,2.0
+982,545000.0,"Chepstow Road, London, W2",W2,1.0
+983,635000.0,"Queensway, Bayswater, W2",W2,2.0
+984,2100000.0,"Rutland Gate, London, SW7",SW7,2.0
+985,1295000.0,"Artillery Mansions, Victoria Street, London, SW1H",SW1H,2.0
+987,1150000.0,"Elizabeth Court, London, NW1 ",NW1,2.0
+988,2595000.0,"Elgin Avenue, Maida Vale, London, W9",W9,3.0
+991,945000.0,"Queens Gardens, Lancaster Gate, London, W2",W2,2.0
+996,1895000.0,"Wimpole Street, Marylebone, W1G",W1G,3.0
+997,575000.0,"St. Georges Square, SW1V",SW1V,1.0
+998,1650000.0,"Grosvenor Road, Pimlico, London, SW1V",SW1V,2.0
+999,775000.0,"Newport House, Great Newport Street, London, WC2H",WC2H,2.0
+1000,3150000.0,"LONDON HOUSE, AVENUE ROAD, NW8 7PX",NW8,4.0
+1002,395000.0,"Sutherland Avenue, Maida Vale, W9",W9,1.0
+1003,999995.0,"Balmoral Apartment, 2 Praed Street, W2",W2,2.0
+1004,595000.0,"Hanson Street, Fitzrovia, London W1",W1,1.0
+1005,750000.0,"Crawford Place, Marylebone, London, W1H",W1H,2.0
+1006,3275000.0,"Bathurst Mews, London, W2",W2,4.0
+1007,700000.0,"Lupus Street, Pimlico, London, SW1V",SW1V,1.0
+1008,385000.0,"Johnson Lodge, Admiral Walk, London, W9",W9,0.0
+1009,460000.0,"Cambridge Street, London, SW1V",SW1V,0.0
+1012,1150000.0,"Montagu Street, London, W1H",W1H,2.0
+1013,1500000.0,"Mertoun Terrace, Seymour Place, London, W1H",W1H,4.0
+1014,525000.0,"Fermoy Road, Maida Hill, London, W9",W9,1.0
+1015,725000.0,"Rupert Street, Soho, W1D",W1D,1.0
+1016,945000.0,"Queens Gardens, Bayswater, London, W2",W2,2.0
+1017,1050000.0,"Portland Place, Marylebone, London, W1B",W1B,2.0
+1018,2800000.0,"Pearson Square, Fitzroy Place, W1T",W1T,3.0
+1019,1200000.0,"Hermitage Street, London, W2",W2,2.0
+1020,320000.0,"Lancefield Street, London, W10",W10,1.0
+1021,430000.0,"Mozart Street, Maida Hill, London, W10",W10,1.0
+1022,1295000.0,"Bramah House, Grosvenor Waterside, Gatliff Road, Chelsea, London SW1W",SW1W,2.0
+1023,7950000.0,"Acacia Road, St John's Wood, London, NW8",NW8,4.0
+1024,2500000.0,"Greville Place, London, NW6",NW6,4.0
+1025,750000.0,"Elgin Avenue, Maida Vale, W9",W9,2.0
+1026,425000.0,"Shirland Road, London, W9",W9,1.0
+1027,2400000.0,"Talbot Road, Notting Hill, London, W2",W2,4.0
+1028,995000.0,"THE WATER GARDENS, London, W2",W2,2.0
+1029,430000.0,"Shirland Road, Maida Vale, London, W9",W9,1.0
+1031,710000.0,"Marylands Road, Maida Vale, London, W9",W9,2.0
+1033,700000.0,"York Buildings, Covent Garden, London, WC2N",WC2N,1.0
+1034,629950.0,"Abbey Road, St John's Wood, London, NW8",NW8,1.0
+1035,500000.0,"Westbourne Terrace, London, W2",W2,1.0
+1036,1625000.0,"Telford Terrace, Pimlico, London, SW1V",SW1V,4.0
+1037,650000.0,"Winchester Street, Pimlico, London, SW1V",SW1V,1.0
+1038,1990000.0,"Montagu Mansions, Marylebone, London, W1U",W1U,2.0
+1039,2600000.0,"Brook Mews North, Bayswater, London, W2",W2,3.0
+1040,575000.0,"Sutherland Avenue, Maida Vale, London, W9",W9,2.0
+1041,575000.0,"Hatherley Court, Hatherley Grove, London, W2",W2,2.0
+1042,500000.0,"Westbourne Terrace, Bayswater, London, W2",W2,1.0
+1043,320000.0,"Lancefield Street, West Kilburn, London, W10",W10,1.0
+1044,849950.0,"Barness Court, 6-8 Westbourne Terrace, London, W2",W2,2.0
+1045,4950000.0,"D'arblay Street, Soho, W1F",W1F,4.0
+1049,4975000.0,"Park Street, London, W1K",W1K,4.0

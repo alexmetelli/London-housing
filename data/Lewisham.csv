@@ -1,0 +1,746 @@
+,price,address,postcode,number_bedrooms
+0,225000.0,"Octavia House, Rushey Green, London, SE6",SE6,1.0
+1,220000.0,"Cumberland Place, Catford, SE6",SE6,1.0
+3,650000.0,Manor Lane Lee SE12,SE12,2.0
+6,425000.0,Adenmore Road Catford SE6,SE6,2.0
+7,325000.0,Somerset Gardens London SE13,SE13,1.0
+9,375000.0,"Taymount Rise, Forest Hill, SE23",SE23,2.0
+12,625000.0,Baring Road Grove Park SE12,SE12,4.0
+15,525000.0,Verdant Lane London SE6,SE6,3.0
+16,625000.0,"Wickham Road, Brockley, SE4",SE4,3.0
+17,375000.0,"Sybil Phoenix Close, Surrey Quays, London, .., SE8",SE8,2.0
+18,899950.0,"Medusa Road, Catford, SE6",SE6,4.0
+20,400000.0,"Birdwood Avenue, London, SE13",SE13,2.0
+21,485000.0,"Niederwald Road, Sydenham, London, SE26",SE26,3.0
+23,450000.0,Woodbury Gardens Grove Park SE12,SE12,3.0
+24,425000.0,"Halesworth Road, Lewisham, SE13",SE13,2.0
+26,675000.0,"Meranti Apartments, Deptford Landings, Deptford SE8",SE8,3.0
+27,325000.0,"Limes Grove, London, SE13",SE13,2.0
+29,850000.0,"Fernbrook Road, London, SE13",SE13,4.0
+31,325000.0,Effingham Road Lee SE12,SE12,2.0
+32,325000.0,Effingham Road Lee SE12,SE12,2.0
+33,175000.0,"Keedonwood Road, Bromley, BR1",BR1,3.0
+36,425000.0,Clayhill Crescent London SE9,SE9,3.0
+37,450000.0,Woodbury Gardens SE12,SE12,3.0
+38,250000.0,Champion Road London SE26,SE26,1.0
+39,475000.0,"Breakspears Road, SE4",SE4,2.0
+40,225000.0,Cumberland Place London SE6,SE6,1.0
+42,425000.0,"Adelaide Avenue, Brockley, SE4",SE4,2.0
+44,250000.0,Chinbrook Road Grove Park SE12,SE12,2.0
+45,335000.0,"Lawrie Park Gardens, London, SE26",SE26,2.0
+47,400000.0,"Recreation Road, Sydenham, London, SE26",SE26,2.0
+48,250000.0,"Cowdrey Mews, Catford, London, SE6",SE6,1.0
+50,325000.0,"Davenport Road, London, SE6",SE6,2.0
+51,425000.0," 42 Canonbie Road,  Honor Oak, SE23",SE23,2.0
+54,400000.0,"Laleham Road, London, SE6",SE6,2.0
+55,280000.0,"Bowness Road, London, SE6",SE6,1.0
+56,280000.0,"Brownhill Road, London, SE6",SE6,2.0
+57,300000.0,"Lee Park, Blackheath, London, SE3",SE3,2.0
+58,450000.0,"Adenmore Road, London, SE6 4FA",SE6,2.0
+60,595000.0,Heather Road Lee SE12,SE12,3.0
+61,675000.0," Friendly Street,  Deptford, SE8",SE8,3.0
+62,450000.0,"Waller Road, New Cross, SE14",SE14,2.0
+63,650000.0,"Rokeby Road, London, SE4",SE4,3.0
+64,495000.0,"Poppyfield House, Copperwood Place, London, SE10",SE10,2.0
+65,750000.0,Blackheath Hill London SE10,SE10,3.0
+67,450000.0,"Adamsrill Road, London, SE26",SE26,2.0
+68,350000.0,"63 Westwood Hill, London, SE26",SE26,2.0
+69,600000.0,"Adamsrill Road, London, SE26",SE26,3.0
+70,350000.0,"Erlanger Road, London, SE14",SE14,1.0
+72,415000.0,"Pepys Road, Telegraph Hill, SE14",SE14,1.0
+73,410000.0,"McMillan Street, Deptford, London, SE8",SE8,2.0
+74,600000.0,"Manor Park, Hither Green, London, SE13",SE13,2.0
+75,350000.0,Sterling Gardens London SE14,SE14,2.0
+79,525000.0,"Soul Street, SE6",SE6,3.0
+81,550000.0,"Tressillian Road, SE4, Brockley, London, SE4",SE4,2.0
+82,485000.0,"Marine Wharf East, Surrey Quays, SE16",SE16,1.0
+83,255000.0,"Riverdale House 68 Molesworth Street, Lewisham, London, SE13",SE13,0.0
+84,740000.0,Manwood Road SE4,SE4,5.0
+85,285000.0,Eastdown Park Lewisham SE13,SE13,2.0
+86,475000.0,Mallet Road Hither Green SE13,SE13,3.0
+87,300000.0,"Hither Green Lane, Hither Green, London, SE13",SE13,1.0
+88,325000.0,"New Cross Road, London, SE14 6AL",SE14,1.0
+91,365000.0,Stanstead Road London SE6,SE6,2.0
+93,325000.0,"Morley Road, Lewisham, London, SE13",SE13,1.0
+94,295000.0,"Brockley Road, SE4",SE4,2.0
+95,575000.0,"Sandrock Road, Lewisham, London, SE13",SE13,2.0
+97,300000.0,"Brockley Road, SE4",SE4,2.0
+98,850000.0,"Pearfield Road, London, SE23",SE23,5.0
+99,425000.0,"Devonshire Road, Forest Hill, London, SE23",SE23,2.0
+100,564950.0,"Goodwood Road,
+London,
+SE14",SE14,2.0
+102,330000.0,Hither Green Lane SE13,SE13,1.0
+105,1350000.0,Waller Road New Cross SE14,SE14,6.0
+106,400000.0,"Manor Avenue, Brockley, SE4",SE4,2.0
+107,285000.0,Longbridge Way Lewisham SE13,SE13,1.0
+108,389950.0,Gables Close Lee SE12,SE12,2.0
+109,645000.0,"The Paragon, Blackheath, SE3",SE3,1.0
+110,750000.0,"Dunoon Road, London, SE23",SE23,4.0
+112,520000.0,Taymount Rise London SE23,SE23,2.0
+113,475000.0,"Dressington Avenue, SE4",SE4,2.0
+114,350000.0,Old Road Lewisham SE13,SE13,1.0
+115,350000.0,"Northover, Bromley, KENT, BR1",BR1,2.0
+116,285000.0,"Slaithwaite Road, London, SE13",SE13,1.0
+118,510000.0,"Mandara Place, Deptford SE8",SE8,2.0
+119,450000.0,"Champion Crescent, London, SE26",SE26,2.0
+120,475000.0,Stondon Park SE23,SE23,2.0
+123,800000.0,"Rokeby Road, Brockley, SE4",SE4,3.0
+124,390000.0,"Adenmore Road, Catford, SE6",SE6,2.0
+125,290000.0,"Marvels Lane, Grove Park, SE12",SE12,2.0
+126,695000.0,Riseldine Road SE23,SE23,3.0
+127,375000.0,Dartmouth Road Forest Hill SE23,SE23,2.0
+128,315000.0,"Ewart Road, Forest Hill, SE23",SE23,1.0
+130,800000.0,"Arran Road, London, SE6 2LS",SE6,4.0
+131,330000.0,"Lewisham Way, SE4",SE4,2.0
+132,500000.0,"Boyne Road, London, SE13",SE13,2.0
+133,450000.0,"4 Border Crescent, London, SE26",SE26,2.0
+134,300000.0,"Montana Gardens, Sydenham, SE26",SE26,2.0
+135,800000.0,"Manwood Road, London, SE4",SE4,4.0
+136,337500.0,"Sissinghurst Close, Bromley, BR1",BR1,2.0
+138,375000.0,"Glenbow Road, Bromley BR1",BR1,3.0
+140,325000.0,"Barmeston Road, Catford, SE6",SE6,2.0
+141,385000.0,"John Silkin Lane, London, SE8",SE8,2.0
+149,475000.0,Jerningham Road London SE14,SE14,2.0
+150,325000.0,"Deptford High Street, SE8",SE8,1.0
+152,290000.0,"Bryce House, John Williams Close, London, SE14",SE14,1.0
+153,525000.0,Malpas Road London SE4,SE4,2.0
+154,399995.0,Arbuthnot Road London SE14,SE14,1.0
+155,425000.0,"Oldstead Road, Bromley, Kent, BR1",BR1,3.0
+156,715000.0,Ebsworth Street SE23,SE23,3.0
+159,270000.0,"St Marks Court, Maroons Way, Catford, SE6",SE6,1.0
+160,225000.0,"Windrush Lane, Forest Hill, SE23",SE23,2.0
+164,550000.0,"Perry Hill, London, SE6",SE6,3.0
+166,350000.0,Lee Park London SE3,SE3,1.0
+167,450000.0,"Longhill Road, Catford, London, SE6",SE6,3.0
+168,425000.0,"Queens Road, New Cross, SE14",SE14,1.0
+169,799950.0,"Erlanger Road, Telegraph Hill, SE14",SE14,3.0
+170,640000.0,"Bearstead Rise, SE4",SE4,3.0
+171,285000.0,"Wellmeadow Road, Catford, London, SE6",SE6,2.0
+172,375000.0,Gellatly Road London SE14,SE14,1.0
+173,360000.0,"Church Rise, London, SE23",SE23,1.0
+175,350000.0,"Trundleys Road, London, SE8",SE8,1.0
+177,400000.0,"Stanstead Road, London, SE23",SE23,2.0
+178,600000.0,"Leahurst Road, Hither Green, SE13",SE13,3.0
+181,525000.0,"Blackheath Village, Blackheath, SE3",SE3,2.0
+182,399995.0,Salehurst Road Crofton Park SE4,SE4,2.0
+184,235000.0," Dalton House, John Williams Close, London, SE14",SE14,0.0
+186,425000.0,"Lind Street, London, SE8",SE8,1.0
+187,325000.0,Devonshire Road Forest Hill SE23,SE23,1.0
+189,350000.0,Desvignes Drive London SE13,SE13,2.0
+191,93750.0,"The Electric Empire, 182 New Cross Road, London, SE14",SE14,1.0
+192,375000.0,"Electric Empire, NEW CROSS, London, SE14",SE14,1.0
+195,700000.0,"Elvino Road, Sydenham, London, SE26",SE26,4.0
+196,1250000.0,"Netherby Road, London, SE23",SE23,4.0
+197,275000.0,Honley Road London SE6,SE6,1.0
+198,350000.0,"Sydenham Road, Sydenham, London, ., SE26",SE26,3.0
+199,400000.0,"Sydenham Road, Sydenham, SE26",SE26,2.0
+200,425000.0," 42 Canonbie Road,  Honor Oak, SE23",SE23,2.0
+201,375000.0,"Lawrie Park Avenue, London, SE26",SE26,2.0
+202,395000.0,Pepys Road London SE14,SE14,1.0
+206,350000.0,"Battersby Road, London, SE6",SE6,3.0
+207,525000.0,"Niederwald Road, Sydenham, London, SE26",SE26,2.0
+208,390000.0,"Brownhill Road, Catford, London, SE6",SE6,2.0
+209,410000.0,"Adenmore Road, Catford, London, SE6",SE6,2.0
+210,475000.0,"Pepys Road, New Cross, London, SE14",SE14,2.0
+213,325000.0,"Arran Road, London, SE6 2NL",SE6,1.0
+215,300000.0,"Fordham House, SE14",SE14,1.0
+216,425000.0,Pepys Road London SE14,SE14,2.0
+218,650000.0,"Cadmus Court, Marine Wharf, Canada Water SE16",SE16,2.0
+220,775000.0,"St. Johns Vale, London, SE8",SE8,3.0
+221,750000.0,"Jews Walk, Sydenham, SE26",SE26,3.0
+223,625000.0,"Ewhurst Road, London, SE4",SE4,2.0
+225,340000.0,"Churchdown, Bromley, BR1",BR1,2.0
+226,625000.0,"Westwood Hill, Sydenham, SE26",SE26,2.0
+228,450000.0,"Taymount Rise, Forest Hill, SE23",SE23,3.0
+229,599950.0,"Wallbutton Road, Brockley, SE4",SE4,2.0
+230,375000.0,"Westbourne Drive, Forest Hill, London, SE23",SE23,2.0
+231,3210000.0,"Dunfield Road, London, SE6",SE6,15.0
+234,350000.0,"New Cross Road, London, SE14",SE14,2.0
+236,800000.0,Woodyates Road London SE12,SE12,5.0
+239,350000.0,"Frankham House, Frankham Street, London, se8",se8,2.0
+241,450000.0,"Trewsbury Road, Sydenham, London, SE26",SE26,2.0
+242,250000.0,"Conington Road, SE13 ",SE13,1.0
+243,400000.0,"Birch Grove, London, SE12",SE12,2.0
+244,400000.0,"Stanstead Road, Forest Hill, London, SE23",SE23,2.0
+245,375000.0,Lee Park London SE3,SE3,2.0
+246,500000.0,"Castlands Road, London, SE6",SE6,2.0
+247,210000.0,"Homewalk House, Jews Walk, Sydenham, London, SE26",SE26,1.0
+249,350000.0,"Battersby Road, Catford, London, SE6",SE6,3.0
+250,564950.0,"Goodwood Road,
+London,
+SE14",SE14,2.0
+252,1100000.0,"Southvale Road, Blackheath, SE3",SE3,3.0
+253,525000.0,Seager Place London SE8,SE8,2.0
+254,485000.0,"Stondon Park, London, SE23",SE23,2.0
+255,375000.0,"Rolt Street, Deptford SE8",SE8,2.0
+256,275000.0,Hope Close Grove Park SE12,SE12,2.0
+257,550000.0,"Elswick Road, London, SE13",SE13,3.0
+258,500000.0,"Devonshire Road, London, SE23",SE23,2.0
+259,475000.0,Colfe Road SE23,SE23,3.0
+260,340000.0,"Rosamond Street, London, SE26",SE26,3.0
+261,265000.0,"Cowdrey Mews, Catford, London, SE6",SE6,1.0
+262,350000.0,Farmfield Road Bromley BR1,BR1,2.0
+263,595000.0,Oslo Tower Naomi Street Surrey Quays SE8,SE8,2.0
+264,450000.0,"Hazeldon Road, Crofton Park, SE4",SE4,1.0
+265,365000.0,Desvignes Drive Lewisham SE13,SE13,2.0
+266,425000.0,"59 Ladywell Road, Ladywell, SE13",SE13,2.0
+267,375000.0,"Lee High Road, Lee, London, SE12",SE12,2.0
+269,899995.0,"Mary Rose Square, Marine Wharf, SE16",SE16,4.0
+270,575000.0,"Hazelbank Road, London, SE6 1LU",SE6,3.0
+271,325000.0,"Deptford High Street, SE8",SE8,1.0
+272,525000.0,"Soul Street, London, SE6",SE6,2.0
+273,395000.0,"Foxwell Street, Brockley, London, SE4",SE4,2.0
+274,325000.0,"Cowdrey Mews, Catford, London, ., SE6",SE6,2.0
+275,270000.0,"3 Elwyn Gardens, London, SE12 9LT",SE12,2.0
+276,625000.0,"Ravensbourne Road, SE6",SE6,2.0
+277,700000.0,"St. Johns Vale, St Johns, SE8",SE8,3.0
+278,550000.0,"Broxted Road, Catford, London, SE6",SE6,3.0
+286,340000.0,"Churchdown, Bromley, BR1",BR1,2.0
+287,425000.0,Perry Vale London SE23,SE23,2.0
+288,350000.0,"Elmira Street, Lewisham, SE13",SE13,1.0
+289,270000.0,"3 Elwyn Gardens, London, SE12 9LT",SE12,2.0
+290,650000.0,"Stillness Road, Forest Hill, London, SE23",SE23,3.0
+291,1295000.0,"Burnt Ash Hill, Lee, London, SE12",SE12,5.0
+293,525000.0,"Felday Road, Lewisham, London, ..., SE13",SE13,3.0
+294,975000.0,"Howson Road, Brockley, SE4",SE4,5.0
+295,290000.0,"Kirkdale, Sydenham, London, SE26",SE26,1.0
+296,290000.0,"Marvels Lane, Grove Park, SE12",SE12,2.0
+298,295000.0,"New Cross Road, London, SE14",SE14,1.0
+299,650000.0,"Dacre Park, Blackheath, London, SE13",SE13,2.0
+300,325000.0,"Davenport Road, London, SE6",SE6,2.0
+302,925000.0,"Algiers Road, SE13",SE13,4.0
+303,260000.0,"Lausanne Road, Nunhead, SE15",SE15,1.0
+304,475000.0,"Dundalk Road, London, SE4",SE4,3.0
+305,575000.0,"2.D.03 AP1, Cedarwood Mansions, Deptford Landings, 121-123 Evelyn Street, London, SE8",AP1,2.0
+307,200000.0,"Trundleys Terrace, London SE8 5AX",SE8,0.0
+308,325000.0,"St Cyprians Court, Braxfield Road, Brockley, SE4",SE4,1.0
+317,400000.0,"Nyland Court, Naomi Street, Surrey Quays, SE8",SE8,1.0
+318,475000.0,"Holdenby Road, London, SE4",SE4,3.0
+319,560000.0,"Thornsbeach Road, Catford, London, SE6",SE6,4.0
+320,475000.0,"40 Montem Road, London, SE23",SE23,2.0
+321,325000.0,Braxfield Road Brockley SE4,SE4,1.0
+326,280000.0,"Brownhill Road, Catford, London, SE6",SE6,2.0
+327,335000.0,"Hospital Way, London, SE13",SE13,2.0
+328,315000.0,"Adenmore Road, Catford, SE6",SE6,1.0
+329,369950.0,Station Road London SE13,SE13,1.0
+330,575000.0,"De Frene Road, Sydenham, London, ., SE26",SE26,3.0
+331,675000.0,"Manwood Road, London, SE4",SE4,3.0
+332,275000.0,Burnt Ash Hill London SE12,SE12,2.0
+334,800000.0,"St Donatts Road, New Cross, SE14",SE14,3.0
+335,390000.0,"Westwood Hill, London, SE26",SE26,1.0
+336,270000.0,"Elwyn Gardens, SE12, Lee, London, SE12",SE12,2.0
+337,750000.0,Lee Terrace London SE3,SE3,3.0
+338,750000.0,Marnock Road London SE4,SE4,4.0
+340,375000.0,"Venner Road, Sydenham, London, SE26",SE26,2.0
+341,465000.0,"Ardgowan Road, Hither Green, SE6",SE6,3.0
+342,515000.0,Moulding Lane London SE14,SE14,2.0
+343,550000.0,"Nyland Court, Surrey Quays SE8",SE8,2.0
+344,528000.0,"Meranti Apartments, Deptford Landings, Deptford SE8",SE8,1.0
+345,325000.0,Honley Road London SE6,SE6,2.0
+346,800000.0,"Shipman Road, Forest Hill, London, SE23",SE23,4.0
+347,475000.0,"Stondon Park, Honor Oak Park, London, SE23",SE23,2.0
+349,525000.0,"Knighton Park Road, Sydenham, London, SE26",SE26,2.0
+350,850000.0,"Taymount Rise, Forest Hill, London, SE23",SE23,3.0
+351,800000.0,"Daneby Road, London, SE6 2QF",SE6,2.0
+352,400000.0,Riddons Road London SE12,SE12,3.0
+353,175000.0,"Daneby Road, Catford, SE6 2QF",SE6,2.0
+354,450000.0,"Daneby Road, Catford, SE6 2QF",SE6,2.0
+355,540000.0,Heather Road Lee SE12,SE12,3.0
+356,680000.0,Winterstoke Road SE6,SE6,3.0
+357,375000.0,"Malyons Road, SE13",SE13,1.0
+358,1225000.0,"Pendrell Road, Brockley, SE4",SE4,3.0
+359,575000.0,"Lawrie Park Road, Sydenham, SE26",SE26,3.0
+361,800000.0,"Lenham Road, Lee, London, SE12",SE12,4.0
+362,270000.0,"Sydenham Road, Sydenham, London, SE26",SE26,1.0
+363,325000.0,"Taymount Grange, Taymount Rise, London, SE23",SE23,1.0
+364,440000.0,"Riverdale House, 68 Molesworth Street, Lewisham, London, SE13",SE13,2.0
+365,500000.0,Oldstead Road Bromley BR1,BR1,4.0
+366,575000.0,"London Road, Forest Hill, London, SE23",SE23,2.0
+367,730000.0,"Taunton Road, Lee, SE12",SE12,3.0
+368,528000.0,"Cedarwood Mansion, Deptford Landings, SE8",SE8,1.0
+369,650000.0,"Beaulieu Avenue, London, SE26",SE26,4.0
+370,704000.0,"2.B.05 AP1 Cedarwood View, Deptford Landings, 121-123 Evelyn Street, London, SE8",AP1,3.0
+373,325000.0,Honor Oak Road Forest Hill SE23,SE23,1.0
+375,425000.0,"Harmon house, Deptford, London, SE8 3AS",SE8,3.0
+376,475000.0,"Moonlight Drive, London, SE23",SE23,1.0
+377,595000.0,Dressington Avenue London SE4,SE4,2.0
+378,675000.0,"Torridon Road, Catford, London, SE6",SE6,4.0
+379,400000.0,"3 Westwood Hill, Sydenham, London, SE26",SE26,2.0
+380,475000.0,"Longhill Road, London, SE6 1UB",SE6,4.0
+383,260000.0,"Longhedge House, Sydenham, London, SE26",SE26,2.0
+385,415000.0,"Adenmore Road, Catford, SE6",SE6,2.0
+387,450000.0,"Randlesdown Road, London, SE6",SE6,3.0
+388,270000.0,"Tyrell House, Beckenham Hill Road, Beckenham, BR3",BR3,2.0
+393,475000.0,"Hazeldon Road, Crofton Park, SE4",SE4,3.0
+394,450000.0,"Drakefell Road, Brockley, SE4",SE4,2.0
+395,450000.0,"Trundleys Road, London, SE8",SE8,2.0
+396,265000.0,"Filton Court, Farrow Lane, London, SE14",SE14,1.0
+397,400000.0,"Greenways, 3 Westwood Hill, Sydenham, London, SE26",SE26,2.0
+398,280000.0,"Bromley Road, London, SE6",SE6,1.0
+400,650000.0,"Anthology Deptford Foundry, Moulding Lane, London, SE14 6FA",SE14,3.0
+401,435000.0,Belmont Park London SE13,SE13,2.0
+402,280000.0,"Riverdale House, Lewisham SE13",SE13,0.0
+403,450000.0,"Bovill Road, SE23",SE23,2.0
+404,400000.0,"Firs Close, Forest Hill, SE23",SE23,2.0
+405,230000.0,"Abinger Grove, Deptford, SE8",SE8,1.0
+407,275000.0,"New Cross Road, New Cross, SE14",SE14,1.0
+408,378000.0,"Ballamore Road, Bromley, BR1",BR1,2.0
+420,299950.0,Corona Road London SE12,SE12,2.0
+421,750000.0,"Waller Rd, New Cross, London SE14",SE14,3.0
+423,385000.0,"George Lane, Lewisham, London, SE13",SE13,2.0
+424,350000.0,Sterling Gardens London SE14,SE14,2.0
+425,350000.0,"Elmira Street, Lewisham, SE13",SE13,1.0
+426,430000.0,"Dundalk Road, London, SE4",SE4,2.0
+427,275000.0,Marischal Road Lewisham SE13,SE13,2.0
+428,900000.0,"Knighton Park Road, Sydenham, SE26 ",SE26,4.0
+429,550000.0," Vansittart Street,  New Cross, SE14",SE14,4.0
+430,600000.0,"Evelyn Street, London, SE8",SE8,2.0
+433,385000.0,"Ommaney Road, New Cross, SE14",SE14,1.0
+434,350000.0,"Carriage Way, Deptford, London, SE8",SE8,0.0
+435,350000.0,"112 California Building, Deals Gateway, London, SE13 7SF",SE13,2.0
+436,550000.0,"Sienna Alto, 2 Cornmill Lane, Lewisham, London, SE13",SE13,2.0
+437,500000.0,"Wildfell Road, London, SE6",SE6,2.0
+438,400000.0,"Pearfield Road, London, SE23",SE23,2.0
+441,350000.0,St. Mildreds Road Lee SE12,SE12,2.0
+442,575000.0,"Newlands Park, London, SE26",SE26,2.0
+443,245000.0,"Grove Street, Deptford, London, SE8",SE8,1.0
+444,420000.0,"Lawn Terrace, Blackheath, London, SE3",SE3,2.0
+447,475000.0,"Shardeloes Road, London, SE14",SE14,2.0
+448,650000.0,"Elsinore Road, London, SE23",SE23,3.0
+449,325000.0,"Canterbury Court, 336A Baring Road, London, SE12",SE12,2.0
+450,475000.0,"Moonlight Drive, London, SE23",SE23,1.0
+451,375000.0,"Alpha road, London SE14 6TZ",SE14,1.0
+453,700000.0,"Ravensbourne Park Crescent, London, SE6",SE6,6.0
+454,350000.0,"Deals Gateway, Deptford, London, SE13",SE13,2.0
+457,725000.0,"London Road, London, SE23",SE23,4.0
+458,699950.0,"Deptford Landings, Deptford SE8",SE8,2.0
+459,704000.0,"Deptford Landings, Deptford SE8",SE8,3.0
+460,703000.0,"Deptford Landings, Deptford SE8",SE8,2.0
+461,528000.0,"Deptford Landings, Deptford SE8",SE8,1.0
+462,450000.0,"Venner Road, London, SE26",SE26,2.0
+463,375000.0,Melbourne Mews London SE6,SE6,2.0
+464,550000.0,St. Stephens Grove Lewisham SE13,SE13,2.0
+465,750000.0,"Adamsrill Road, Sydenham, London, ., SE26",SE26,4.0
+466,435000.0,"Conisborough Crescent, London, SE6",SE6,3.0
+467,450000.0,"Church Terrace, Lewisham, London, SE13",SE13,2.0
+468,375000.0,"Old Road, Hither Green, SE13",SE13,1.0
+475,525000.0,"Soul Street, London, SE6",SE6,2.0
+477,200000.0,"Lushington Road, Bellingham, London, SE6",SE6,1.0
+478,395000.0,"Sydenham Road, Sydenham, London, SE26",SE26,2.0
+479,450000.0,"Waldram Park Road, Forest Hill, London, SE23",SE23,2.0
+480,900000.0,"Harcourt Road, Brockley, SE4 ",SE4,3.0
+481,350000.0,"Faversham Road, London, SE6",SE6,2.0
+482,420000.0,"The Electric Empire, 182 New Cross Road, London, SE14",SE14,2.0
+483,105000.0,"The Electric Empire, 182 New Cross Road, London, SE14",SE14,2.0
+484,750000.0,Lenham Road London SE12,SE12,3.0
+485,235000.0,Wellmeadow Road Lewisham SE13,SE13,1.0
+486,650000.0,"Woolstone Road, Forest Hill, London, SE23",SE23,3.0
+487,275000.0,"Verona Court, 5 Myers Lane, London, SE14",SE14,1.0
+488,550000.0,Seager Place London SE8,SE8,3.0
+490,525000.0,"Coston Walk, Brockley, London SE4",SE4,3.0
+491,780000.0,Aislibie Road London SE12,SE12,4.0
+492,375000.0,"Devonshire Road, London, SE23",SE23,1.0
+493,700000.0,"Border Road, Sydenham, London, SE26",SE26,4.0
+494,450000.0,Sandbourne Road Brockley SE4,SE4,2.0
+495,490000.0,"Beadnell Road, London, SE23",SE23,3.0
+496,220000.0,"Rydens House, Mottingham SE9",SE9,1.0
+497,425000.0,Leyland Road London SE12,SE12,2.0
+498,379000.0,"Jerningham Road, London, SE14",SE14,1.0
+500,1300000.0,"Canonbie Road, London, SE23",SE23,7.0
+501,499950.0,"Bath Court, Droitwich Close, Sydenham, London, SE26",SE26,3.0
+502,400000.0,Brandram Rd SE13 - Help to Buy Available,SE13,1.0
+503,600000.0,Michaels Close Lewisham SE13,SE13,2.0
+504,200000.0,"Rutland Walk, London, SE6",SE6,1.0
+505,385000.0,"Perry Vale, London, SE23",SE23,3.0
+506,475000.0,Ronver Road London SE12,SE12,2.0
+507,400000.0,"Perry Vale , London, SE23",SE23,2.0
+509,420000.0,"Clyde Street, SE8",SE8,1.0
+510,725000.0,"Hunsdon Road, London, SE14",SE14,3.0
+511,350000.0,"Parkside Avenue, Greenwich, SE10",SE10,1.0
+514,400000.0,"Stanstead Road, Forest Hill, London, SE23",SE23,2.0
+518,345000.0,Lewisham High Street London SE13,SE13,1.0
+519,620000.0,"Cedarwood Mansions, Deptford Landings, Deptford, London, SE8",SE8,2.0
+520,480000.0,"Pincott Place, London, SE4",SE4,2.0
+522,650000.0,"Venner Road, London, SE26",SE26,4.0
+523,375000.0,"Capstone Road, Bromley, Kent, BR1",BR1,2.0
+526,300000.0,"Parkview Apartments,, 139 Brookmill Road,, London SE8 4JH",SE8,1.0
+527,350000.0,"Bonfield Road, Lewisham, London, SE13",SE13,1.0
+528,600000.0,Exford Road London SE12,SE12,4.0
+530,325000.0,"Brockley Road, SE4",SE4,1.0
+531,300000.0,"Manor Mount, Forest Hill, London, SE23",SE23,1.0
+532,430000.0,"Robert Square, Bonfield Road, Lewisham, SE13",SE13,2.0
+533,650000.0,"Marischal Road, London, SE13",SE13,4.0
+534,525000.0,"Wat Tyler Road, Blackheath, SE3",SE3,2.0
+535,550000.0,Horncastle Road London SE12,SE12,3.0
+536,325000.0,Albion Way London SE13,SE13,1.0
+538,325000.0,Eastdown Park Lewisham SE13,SE13,2.0
+540,985000.0,"Hindsleys Place, London SE23",SE23,3.0
+541,350000.0,"Perry Hill, Catford, SE6",SE6,2.0
+542,450000.0,"Venner Road, Sydenham, London, SE26",SE26,2.0
+545,599950.0,"Copenhagen Court, Pell Street, London SE8",SE8,2.0
+546,374950.0,"Sedgehill Road, London, SE6",SE6,2.0
+549,200000.0,"Rutland Walk, Catford, London, SE6",SE6,1.0
+550,435000.0,"Adenmore Road, SE6",SE6,2.0
+551,699950.0,"Barlborough Street, London, SE14",SE14,3.0
+553,400000.0,"Prendergast Road, Blackheath, London, SE3",SE3,2.0
+554,725000.0,"Hazelbank, Catford, London, SE6",SE6,5.0
+555,375000.0,"Kingswood Court, Hither Green Lane, London, SE13",SE13,2.0
+556,1250000.0,"Quentin Road, London, SE13",SE13,4.0
+559,699950.0,"Barlborough Street, New Cross, SE14",SE14,3.0
+561,350000.0,"2 Seager Place, Deptford, SE8",SE8,1.0
+562,550000.0,"Deptford Landings, Evelyn Street, London, SE8",SE8,2.0
+563,250000.0,"Rattray Court, Cumberland Place, Catford, SE6",SE6,2.0
+564,400000.0,"Florence Road, London, SE14",SE14,2.0
+565,280000.0,"Faversham Road, Catford, London, SE6",SE6,2.0
+566,599995.0,Milborough Crescent Lee SE12,SE12,3.0
+567,375000.0,"Keedonwood Road, Bromley, BR1",BR1,3.0
+568,1000000.0,"Newlands Park, Sydenham, London, SE26",SE26,4.0
+569,550000.0,Rokeby Road London SE4,SE4,3.0
+570,625000.0,"Bailey Street, Surrey Quays, SE8",SE8,2.0
+571,1200000.0,Longton Avenue London SE26,SE26,5.0
+572,750000.0,"Ormanton Road, Sydenham, London, SE26",SE26,3.0
+574,625000.0,Bluebell Close Sydenham Hill SE26,SE26,5.0
+575,595000.0,Heather Road Lee SE12,SE12,3.0
+576,335000.0,"Elsinore Road, Forest Hill, SE23",SE23,2.0
+577,350000.0,"Joseph Hardcastle, New Cross SE14",SE14,2.0
+578,950000.0,"Ewelme Road, Forest Hill, London, SE23",SE23,4.0
+579,200000.0,"Boone Street, Lewisham, London, SE13",SE13,0.0
+581,300000.0,"Fairlawn Court, Fairlawn Park, London, SE26",SE26,2.0
+582,325000.0,"Davenport Road, London, SE6",SE6,2.0
+584,365000.0,"Jasmin House, Wickham Road, London, se4",se4,2.0
+585,350000.0,Keedonwood Road Bromley BR1,BR1,2.0
+587,475000.0,"Hayes Mews, London, SE8",SE8,2.0
+588,280000.0,"Markwell Close, London, SE26",SE26,2.0
+589,300000.0,"Pepys Road, London, SE14",SE14,1.0
+590,250000.0,Sheenewood Sydenham SE26,SE26,1.0
+591,425000.0,Lewisham Way New Cross SE4,SE4,2.0
+593,375000.0,Burnt Ash Hill Lee SE12,SE12,2.0
+594,280000.0,"Brownhill Road, Catford, London, SE6",SE6,1.0
+595,365000.0,Lewisham High Street Lewisham SE13,SE13,1.0
+597,300000.0,"Conington Road, Lewisham, London, SE13",SE13,1.0
+599,725000.0,"Millmark Grove, Brockley, SE14",SE14,4.0
+600,325000.0,"Barmeston Road, Catford, SE6",SE6,2.0
+602,595000.0,"Anthology Deptford Foundry, Moulding Lane, London, SE14 6FA",SE14,2.0
+603,375000.0,Taymount Rise SE23 3UX,SE23,2.0
+604,455000.0,"Molesworth Street, London, SE13 7LW",SE13,2.0
+607,300000.0,"Kirkdale, Sydenham, London, SE26",SE26,1.0
+608,250000.0,"Dillwyn Close, Sydenham, London, SE26",SE26,1.0
+610,350000.0,Carston Close London SE12,SE12,2.0
+612,347500.0,Lewisham Hill London SE13,SE13,1.0
+613,180000.0,"Verona Court, New Cross SE14",SE14,0.0
+622,435000.0,"Arica Road, Brockley, SE4",SE4,2.0
+624,325000.0,Malyons Road SE13,SE13,2.0
+625,900000.0,"Knighton Park Road, Sydenham, SE26 ",SE26,4.0
+626,550000.0,"Waller Road,Telegraph Hill, SE14",SE14,2.0
+628,475000.0,"Devonshire Road, SE23",SE23,2.0
+629,475000.0,"Adenmore Road, London, SE6",SE6,2.0
+630,650000.0,"Elvino Road, London, Greater London, SE26 5LE",SE26,4.0
+631,225000.0,"Meridian Court, Cumberland Place, Catford, SE6",SE6,1.0
+633,450000.0,"Dunkery Road, London, SE9",SE9,3.0
+634,325000.0,"Taymount Rise, London, SE23",SE23,1.0
+636,500000.0,"Verdant Lane, London, SE6",SE6,3.0
+637,650000.0,"Elvino Road, Sydenham, London, SE26",SE26,4.0
+638,235000.0,"Montrose Court, Cumberland Place, Catford, SE6 1",SE6,1.0
+641,425000.0,"Lyndenhurst, 32 Lee Road, Blackheath, London, SE3",SE3,2.0
+642,325000.0,"Morley Road, Lewisham, London, SE13",SE13,2.0
+643,335000.0,"Southerngate Way, London, SE14",SE14,2.0
+644,400000.0,"Elmira Street, SE13, Lewisham, London, SE13",SE13,1.0
+645,300000.0,"New Cross Road, London, SE14",SE14,2.0
+646,400000.0,"Jasmin Court, Lee, London, SE12",SE12,2.0
+647,350000.0,"Trundleys Road, London, SE8",SE8,1.0
+648,599950.0,Church Terrace London SE13,SE13,2.0
+649,450000.0,"Kendor Street, London, SE14",SE14,3.0
+650,475000.0,"Moonlight Drive, London, SE23",SE23,1.0
+651,325000.0,"Knowles Hill Crescent, Hither Green, London, .., SE13",SE13,2.0
+654,950000.0,"Ringmore Rise, Forest Hill, London, SE23",SE23,2.0
+655,825000.0,"Lee Park, London, SE3",SE3,4.0
+656,350000.0,"St. Donatts Road, New Cross SE14",SE14,1.0
+657,400000.0,"Jasmin Court, Woodyates Road, Lee, London, SE12",SE12,2.0
+659,285000.0,"Devonshire Road, Forest Hill, London, SE23",SE23,1.0
+660,485000.0,"Deptford Landings, Deptford SE8",SE8,1.0
+661,315000.0,"Siddons Road, London, SE23",SE23,1.0
+662,325000.0,"Albacore Crescent, London, SE13",SE13,1.0
+663,220000.0,"Border Road, London, SE26 6HB",SE26,2.0
+664,350000.0,Upper Brockley Road The Parade SE4,SE4,2.0
+665,329950.0,Faversham Road London SE6,SE6,2.0
+667,400000.0,Loampit Vale London SE13,SE13,2.0
+668,800000.0,"Biscoe Way, Lewisham, London, SE13",SE13,3.0
+669,625000.0,"The Woodlands, London, SE13",SE13,3.0
+670,299000.0,"Winterstoke Road, London, SE6",SE6,1.0
+672,450000.0,"Devonshire Road, London, SE23",SE23,2.0
+673,950000.0,"Westwood Park, Forest Hill, London, SE23",SE23,5.0
+674,290000.0,"Bentley Court, Whitburn Road, London, SE13",SE13,2.0
+675,725000.0,"London Road, London, SE23",SE23,4.0
+677,299950.0,"Clifton Rise, London, SE14",SE14,1.0
+678,595000.0,"Halesworth Road, Lewisham, SE13",SE13,2.0
+679,700000.0,"Tranquil Vale, London, SE3",SE3,2.0
+682,350000.0,"St. Donatts Road, New Cross, SE14",SE14,1.0
+683,585000.0,"Bailey Street, Surrey Quays, SE8",SE8,2.0
+684,650000.0,Ashgrove Road London BR1,BR1,4.0
+685,365000.0,Kangley Bridge Road London SE26,SE26,2.0
+686,475000.0,"Talisman Square, London, SE26",SE26,5.0
+687,435000.0,"Adenmore Road, SE6",SE6,2.0
+689,550000.0,"Ewart Road, Forest Hill, SE23",SE23,3.0
+690,400000.0,"Smikle Court, Hatcham Park Mews, London, SE14",SE14,2.0
+691,335000.0,"Tanners Hill, Deptford, SE8",SE8,2.0
+692,1900000.0,"Devonshire Road, London, SE23",SE23,5.0
+696,285000.0,Malpas Road London SE4,SE4,1.0
+697,275000.0,"New Cross Road, London, SE14",SE14,1.0
+698,270000.0,"Eastdown Park, Lewisham, London, SE13",SE13,1.0
+699,500000.0,"Troutbeck Road, SE14",SE14,2.0
+701,375000.0,"Medusa Road, Catford, London, SE6",SE6,2.0
+702,350000.0,Arica Road London SE4,SE4,2.0
+704,500000.0,Whitburn Road SE13 ,SE13,3.0
+705,540000.0,"Anthology Deptford Foundry, Moulding Lane, London, SE14 6FA",SE14,2.0
+706,450000.0,Springrice Road Hither Green SE13,SE13,2.0
+707,499995.0,Stondon Park Forest Hill SE23,SE23,2.0
+708,3500000.0,"Eliot Place, London, SE3",SE3,5.0
+709,420000.0,"2 Cornmill Lane, London, SE13",SE13,2.0
+710,750000.0,"Church Rise, Forest Hill, London, SE23",SE23,2.0
+711,1000000.0,Canonbie Road SE23,SE23,3.0
+712,675000.0,Ellerdale Street London SE13,SE13,3.0
+713,1400000.0,Kingswood Place London SE13,SE13,4.0
+714,850000.0,Revelon Road London SE4,SE4,4.0
+716,300000.0,"Bridge Meadows, London, SE14",SE14,2.0
+717,265000.0,Deptford Church Street London SE8,SE8,0.0
+718,315000.0,"Batavia Road, London, SE14",SE14,2.0
+719,250000.0,Thornford Road SE13,SE13,1.0
+720,250000.0,Thornford Road SE13,SE13,1.0
+721,605000.0,"Kingwood Apartments, Deptford Landings, Deptford SE8",SE8,2.0
+722,325000.0,"Overcliff Road, London, SE13",SE13,1.0
+725,325000.0,Malyons Road SE13,SE13,2.0
+726,325000.0,"Eastdown Park, London, SE13",SE13,2.0
+727,550000.0,"Montem Road, London, SE23",SE23,3.0
+728,675000.0,"Seafarer Way, Marine Wharf SE16",SE16,3.0
+729,965000.0,"Lee Terrace, Blackheath, London, SE3",SE3,3.0
+730,575000.0," Joseph Hardcastle Close,  New Cross, SE14",SE14,3.0
+731,350000.0,"Champion Crescent, Sydenham, London, SE26",SE26,1.0
+732,650000.0,"Rathfern Road, Catford, SE6",SE6,3.0
+735,350000.0,Lewisham High Street Lewisham SE13,SE13,1.0
+736,400000.0,"Heald Street, SE14 6TX",SE14,3.0
+739,275000.0,"Armoury Road, London, SE8",SE8,1.0
+740,250000.0,"Sark House, 12 Clipper Way, Lewisham, London, SE13",SE13,1.0
+742,875000.0,Lee Terrace London SE3,SE3,3.0
+744,267500.0,"Millennium Court, 88 Chinbrook Road, London, SE12",SE12,1.0
+745,1350000.0,"Micheldever Road, London, SE12",SE12,5.0
+746,300000.0,"Deptford High Street, London, SE8",SE8,1.0
+747,780000.0,Lochaber Road London SE13,SE13,4.0
+748,350000.0,"River Mill One, Station Road, London, SE13",SE13,1.0
+749,460000.0,"Venice Corte, Lewisham, SE13 7FW",SE13,2.0
+750,350000.0,"Elmira Street, Lewisham, SE13",SE13,1.0
+751,330000.0,"Adenmore Road, London, London, SE6 4BG",SE6,1.0
+752,900000.0,"Mary Rose Square, London, SE16",SE16,4.0
+753,389950.0,Lewisham Hill London SE13,SE13,1.0
+756,525000.0,"Distillery Tower, 1 Mill Lane, London, SE8",SE8,2.0
+757,600000.0,"Woodham Road, Catford, London, SE6",SE6,4.0
+758,130000.0,Culverley Road London SE6,SE6,1.0
+759,850000.0,"St Pauls's Conversion, Forest Hill, SE23",SE23,3.0
+760,375000.0,"Shaw Path, Bromley, BR1",BR1,3.0
+768,435000.0,Belmont Park Blackheath SE13,SE13,2.0
+769,525000.0,"Niederwald Road , Sydenham, London, SE26",SE26,3.0
+770,485000.0,"Moonlight Drive, London, SE23",SE23,1.0
+771,700000.0,"Moonlight Drive, London, SE23",SE23,3.0
+776,525000.0,"Adelaide Avenue, Ladywell, SE4",SE4,3.0
+777,400000.0,"Prendergast Road, Blackheath, London, SE3",SE3,2.0
+778,850000.0,"Taymount Rise, Forest Hill, London, SE23",SE23,3.0
+779,2500000.0,"The Beeches, Dome Hill Park, Sydenham, SE26",SE26,6.0
+780,350000.0,"Lewisham High Street, Lewisham, London, SE13",SE13,1.0
+781,340000.0,"Shroffold Road, Bromley, Kent, BR1",BR1,3.0
+782,425000.0,Dartmouth Road Forest Hill SE23,SE23,2.0
+783,425000.0,"Casting House, Moulding Lane, London, SE14",SE14,1.0
+784,310000.0,"Peak Hill, Sydenham, London, SE26",SE26,1.0
+785,375000.0,"36, Riva Building, 104-120 Lee High Road SE13 5FF",SE13,2.0
+787,295000.0,"Boddington House, New Cross, LONDON, SE14",SE14,1.0
+788,510000.0,Paragon Place Blackheath Village SE3,SE3,2.0
+789,595000.0,"Brighton Grove, London, SE14",SE14,2.0
+790,500000.0,"Granville Park, Lewisham, London, SE13",SE13,1.0
+792,350000.0,"Edric Road, London, SE14",SE14,1.0
+793,600000.0,"Cypress Gardens, London, SE4",SE4,3.0
+794,500000.0,"Chelsfield Gardens, Sydenham, London, ., SE26",SE26,3.0
+796,300000.0,"Adamsrill Road, Forest Hill, London, SE26 4AJ",SE26,2.0
+797,375000.0,Lee High Road Lewisham SE13,SE13,2.0
+799,350000.0,"Glastonbury Court, Farrow Lane, London, SE14",SE14,2.0
+800,325000.0,"Limes Grove, London, SE13",SE13,2.0
+801,435000.0,"Princess Louise Building, 12 Hales Street, London, SE8",SE8,2.0
+802,425000.0,Clayhill Crescent SE9,SE9,3.0
+803,300000.0,"Limes Grove, Lewisham, London, SE13",SE13,1.0
+805,700000.0,"Goffers House, Duke Humphrey Road, Blackheath, London, SE3",SE3,2.0
+807,450000.0,"Aurora Point, 2 Winchester Square , London, SE8",SE8,1.0
+808,435000.0,"Sienna Alto, Renaissance, Lewisham SE13",SE13,2.0
+809,375000.0,"Longton Avenue, Sydenham, SE26",SE26,2.0
+811,380000.0,"Capstone Road, Bromley, Kent, BR1",BR1,2.0
+812,410000.0,"Capstone Road, Bromley, Kent, BR1",BR1,2.0
+813,520000.0,"Winchester Square, London, SE8",SE8,1.0
+814,220000.0,"Brownhill Road, London, SE6 2BQ",SE6,1.0
+815,825000.0,Boyne Road Lewisham SE13,SE13,3.0
+816,385000.0,Ewelme Road Forest Hill SE23,SE23,2.0
+817,300000.0,"George Lane, Lewisham, London, SE13",SE13,1.0
+819,295000.0,"Devonshire Road, Forest Hill, London, SE23",SE23,1.0
+820,335000.0,"Ashmead Road, SE8",SE8,1.0
+821,415000.0,"Perry Vale, London, SE23",SE23,2.0
+825,270000.0,"Sydenham Road, Sydenham, London, SE26",SE26,1.0
+826,550000.0,"Aragon Tower, Deptford, London, SE8",SE8,2.0
+827,550000.0,"Boone Street, Lewisham, London, SE13",SE13,3.0
+828,130000.0,"Stannard Court, Culverley Road, Catford, London, SE6",SE6,1.0
+829,500000.0,"Princethorpe Road, Sydenham, London, SE26",SE26,2.0
+830,1600000.0,"Musgrove Road, London, SE14",SE14,9.0
+831,700000.0,"Micheldever Road, Lee, London, SE12",SE12,4.0
+832,299950.0,"Utah Building, Deals Gateway, Deptford, SE13",SE13,1.0
+835,445000.0,"Belmont Hall Court, Belmont Grove, London SE13",SE13,2.0
+836,350000.0,"26 Dartmouth Road, Forest Hill, SE23",SE23,2.0
+837,425000.0,"Desvignes Drive, Hither Green, London, SE13",SE13,2.0
+838,650000.0,"Farley Road, Catford, London, SE6",SE6,4.0
+840,630000.0,"London Road, London, SE23",SE23,3.0
+841,200000.0,"Homewalk House, Sydenham, London, SE26",SE26,1.0
+842,285000.0,Hope Close Grove Park SE12,SE12,2.0
+844,250000.0,"Tanners Hill, London, SE8 4DQ",SE8,1.0
+845,425000.0,"Cameron Road, Catford, London, SE6",SE6,3.0
+846,535000.0,"Kirkdale, Sydenham, London, SE26",SE26,2.0
+847,325000.0,Adenmore Road London SE6,SE6,1.0
+850,800000.0,"Arran Road, London, SE6 2LS",SE6,4.0
+851,475000.0,"Ladywell Road, Ladywell, SE13",SE13,3.0
+854,325000.0,"Lammas Green, London, SE26",SE26,1.0
+855,400000.0,"Winterstoke Road, London, SE6",SE6,2.0
+857,535000.0,"Cranfield Road, SE4",SE4,3.0
+858,750000.0,"Avignon Road, SE4",SE4,3.0
+859,240000.0,"Winlaton Road, Bromley, BR1",BR1,1.0
+860,425000.0,"Adenmore Road, Catford, SE6",SE6,2.0
+861,299995.0,Limes Grove London SE13,SE13,1.0
+862,275000.0,"Pincott Place, SE4",SE4,1.0
+863,220000.0,Charlesfield Mottingham SE9,SE9,1.0
+864,1000000.0,"Sprules Road, Brockley, SE4",SE4,5.0
+866,600000.0,"Perry Hill, London, SE6",SE6,4.0
+867,325000.0,"278-280, Kirkdale, London, SE26",SE26,1.0
+868,725000.0,Pascoe Road Hither Green SE13,SE13,3.0
+870,250000.0,John Williams Close New Cross SE14,SE14,1.0
+871,400000.0,"Kingwood Apartments, Deptford Landings, Deptford SE8",SE8,1.0
+872,400000.0,"Meranti Apartments, Deptford Landings, Deptford SE8",SE8,1.0
+873,575000.0,"Joseph Hardcastle Close, London, SE14",SE14,3.0
+874,600000.0,"Dallinger Road, Lee, London, SE12",SE12,3.0
+876,280000.0,"Holme Lacey Road, Lee, SE12",SE12,1.0
+877,800000.0,"Kingshurst Road, Lee, London, SE12",SE12,4.0
+878,435000.0,"Granville Park, Lewisham, London, SE13",SE13,1.0
+879,275000.0,"Marischal Road, Lewisham, London, SE13",SE13,2.0
+880,349995.0,"Downham Way, Bromley, BR1",BR1,3.0
+881,900000.0,"Inchmery Road, London, SE6",SE6,4.0
+882,450000.0,"Loampit Hill, Lewisham, London, SE13",SE13,2.0
+883,525000.0,"Loampit Hill, Lewisham, London, SE13",SE13,3.0
+884,650000.0,"New Cross Road, SE14",SE14,3.0
+885,650000.0,"Loampit Hill, Lewisham, London, SE13",SE13,3.0
+886,550000.0,Glenmere Row Lee SE12,SE12,3.0
+887,340000.0,"Grace Close, London, SE9",SE9,2.0
+889,475000.0,"Monson Road, London, SE14",SE14,2.0
+890,375000.0,"St. German's Road, Forest Hill, SE23",SE23,2.0
+891,360000.0,Sydenham Park Road London SE26,SE26,2.0
+892,1375000.0," 1Lewisham Way,  London, SE4",SE4,3.0
+893,425000.0,"Honor Oak Park,London,SE23",SE23,2.0
+894,700000.0,"Malpas Road, Brockley, SE4",SE4,3.0
+896,275000.0,"New Cross Road, New Cross, London, SE14",SE14,1.0
+897,150000.0,"Homewalk House, Jews Walk, London, SE26",SE26,1.0
+898,385000.0,"Armoury Road, Deptford, SE8 4LG",SE8,2.0
+902,425000.0,"Adenmore Road, Catford, SE6",SE6,2.0
+903,250000.0,"Bedivere Road, Downham, London, BR1",BR1,1.0
+908,400000.0,Brockley Cross London SE4,SE4,3.0
+910,325000.0,"Moremead Road, Lower Sydenham, SE6",SE6,2.0
+911,400000.0,"Drakefell Road, Brockley, SE4",SE4,1.0
+914,400000.0,"Waldram Park Road, Forest Hill, London, SE23",SE23,2.0
+915,475000.0,"Brookbank Road, London, SE13",SE13,2.0
+917,4350000.0,"Aberdeen Terrace, Blackheath, London, SE3",SE3,5.0
+918,335000.0,"Samuel Close, SE14",SE14,2.0
+919,700000.0,"Hereford Gardens, Hither Green, London, SE13",SE13,4.0
+920,1300000.0,"Stanstead Road, London, SE23 1HY",SE23,6.0
+921,500000.0,Romborough Gardens London SE13,SE13,2.0
+923,325000.0,"Halley Gardens, Lewisham, London, SE13",SE13,2.0
+924,750000.0,"Salehurst Road, London, SE4",SE4,4.0
+925,800000.0,"Arran Road, London, SE6 2LS",SE6,4.0
+927,300000.0,"Cressingham Road, London, SE13 5AQ",SE13,1.0
+928,325000.0,"Waldram Park Road, Forest Hill, London, SE23",SE23,1.0
+930,299950.0,"Algiers Road, SE13",SE13,1.0
+931,1175000.0,"Earlsthorpe Road, London, SE26",SE26,4.0
+932,180000.0,"Hamlet Close, Catford, London, SE6",SE6,2.0
+934,600000.0,"Manor Mount, Forest Hill, London, SE23",SE23,3.0
+935,1550000.0,"Vesta Road, Brockley, London, SE4",SE4,4.0
+936,675000.0,"Seafarer Way, Marine Wharf SE16",SE16,3.0
+937,475000.0,Waller Road Telegraph SE14,SE14,2.0
+938,350000.0,Avignon Road London SE4,SE4,1.0
+939,300000.0,"Ormanton Road, Sydenham, London, ., SE26",SE26,1.0
+940,300000.0,"Waldram Crescent, London, SE23",SE23,1.0
+941,425000.0,"Panmure Road, Forest Hill, SE26",SE26,2.0
+943,550000.0,"Pepys Road, London, SE14",SE14,2.0
+944,750000.0,"Blackheath Hill, Blackheath SE10",SE10,3.0
+945,650000.0,"Whitbread Road, Brockley, SE4",SE4,3.0
+947,625000.0,"Doctors Close, Sydenham, London, SE26",SE26,3.0
+948,795000.0,"New Cross Road, London, SE14",SE14,3.0
+949,680000.0,"Newquay Road, Catford, SE6",SE6,4.0
+950,3210000.0,"Dunfield Road, London, SE6",SE6,15.0
+951,220000.0,Walerand Road Lewisham SE13,SE13,0.0
+953,445000.0,London SE13,SE13,2.0
+956,375000.0,Taymount Rise Forest Hill SE23,SE23,2.0
+958,500000.0,"Adenmore Road, Catford, SE6",SE6,2.0
+960,350000.0,"Horniman Drive, Forest Hill, SE23",SE23,2.0
+961,495000.0,"Lawrie Park Road, Sydenham, London, SE26",SE26,3.0
+963,400000.0,"Windsor Mews, London, SE6",SE6,2.0
+964,699995.0,Mount Pleasant Road Hither Green SE13,SE13,3.0
+965,730000.0,"Cliffview Road, London, SE13",SE13,3.0
+966,335000.0,"Ridgewell Close, Sydenham, SE26",SE26,2.0
+968,700000.0,"Neuchatel Road, Catford, SE6",SE6,5.0
+969,525000.0,"Frobisher Court, Sydenham Rise, London SE23",SE23,3.0
+970,599995.0,Haseltine Road Sydenham SE26,SE26,3.0
+971,1300000.0,"Canonbie Road, London, SE23",SE23,7.0
+972,295000.0,"Highclere Street, Sydenham, SE26",SE26,2.0
+973,325000.0,"Staunton Street, London, SE8",SE8,2.0
+975,385000.0,"John Silkin Lane, London, SE8",SE8,2.0
+976,440000.0,"Parkside Avenue, London, SE10",SE10,2.0
+977,275000.0,"Bromley Road, Catford, London, SE6",SE6,1.0
+978,250000.0,"Bromley Road, Catford, London, SE6",SE6,1.0
+979,420000.0,"Knighton Park Road, Sydenham, London, SE26",SE26,2.0
+980,1000000.0,"Clyde Vale, London, SE23",SE23,3.0
+981,475000.0,"Oldstead Road, Bromley, BR1",BR1,3.0
+982,475000.0,"Trewsbury Road, Sydenham, SE26",SE26,2.0
+983,340000.0,Burnt Ash Hill London SE12,SE12,2.0
+984,450000.0,"Cotton Hill, Bromley, Kent, BR1",BR1,4.0
+985,400000.0,Windsor Mews London SE6,SE6,2.0
+986,425000.0,"Ardley Close, Catford, London, SE6",SE6,3.0
+987,300000.0,"Church Rise, Forest Hill, London, SE23",SE23,1.0
+988,325000.0,Whitbread Road Brockley SE4,SE4,1.0
+989,425000.0,"Sandrock Road, Upper Flat, London SE13 7TP",SE13,2.0
+990,1300000.0,"Ravensbourne Road, London, SE6 4UX",SE6,6.0
+992,675000.0,"Devonshire Road, Honor Oak, SE23",SE23,2.0
+995,325000.0,"Stanstead Road, Forest Hill, SE23",SE23,1.0
+999,625000.0,"Charsley Road, Catford / Bellingham, SE6",SE6,3.0
+1000,850000.0,"St Pauls's Conversion, Forest Hill, SE23",SE23,3.0
+1001,500000.0,"103 Loampit Vale, Lewisham, London, SE13",SE13,3.0
+1002,385000.0,"Yeoman Street, Deptford, London, SE8",SE8,0.0
+1003,250000.0,Worsley House SE23,SE23,1.0
+1006,375000.0,Marvels Lane Grove Park SE12,SE12,3.0
+1007,400000.0,"The Drakes, 390 Evelyn Street, London, SE8",SE8,2.0
+1008,350000.0,Devonshire Road SE23,SE23,1.0
+1009,475000.0,"Longhill Road, London, SE6",SE6,3.0
+1010,285000.0,Kirkdale London SE26,SE26,2.0
+1011,400000.0,"Granville Park, Lewisham, London, SE13",SE13,1.0
+1012,500000.0,Marvels Lane London SE12,SE12,3.0
+1013,320000.0,"Shelduck Court, London, SE8",SE8,3.0
+1014,1100000.0,"Hither Green Lane, Hither Green, SE13",SE13,4.0
+1016,375000.0,"Billington Road, London, SE14",SE14,2.0
+1018,450000.0,"Monson Road, London, SE14",SE14,2.0
+1019,350000.0,"Fernbrook Road, Hither Green, London, SE13",SE13,2.0
+1020,325000.0,Churchdown Bromley BR1,BR1,3.0
+1021,300000.0,"Swallands Road, Bellingham, London, SE6",SE6,2.0
+1022,110000.0,Culverley Road London SE6,SE6,1.0
+1023,400000.0,Upper Brockley Road London SE4,SE4,2.0
+1024,325000.0,Musgrove Road London SE14,SE14,1.0
+1025,235000.0,"Montrose Court, Cumberland Place, Catford, SE6 1",SE6,1.0
+1026,450000.0,Codrington Hill Forest Hill SE23,SE23,2.0
+1029,575000.0,"Westwood Hill, Sydenham, London, SE26",SE26,2.0
+1031,600000.0,"Eliot Hill, London, SE13",SE13,2.0
+1032,250000.0,"Mantle Court, Mantle Road, London, SE4",SE4,0.0
+1036,350000.0," Deptford High Street,  Deptford, SE8",SE8,2.0
+1037,475000.0,"Kitto Road, New Cross, SE14",SE14,2.0
+1038,215000.0,"Bridge Meadows, Mercury Way, London, SE14",SE14,1.0
+1041,400000.0,"Blashford Street, Hithergreen, London, ..., SE13",SE13,2.0
+1042,500000.0,"Sienna Alto, 2 Cornmill Lane, Lewisham, London, SE13",SE13,2.0
+1043,300000.0,"Northbrook Road, London, SE13",SE13,2.0
+1044,300000.0,"Cricketers Walk, Sydenham, London, ., SE26",SE26,2.0
+1046,275000.0,Ravensbourne Park Crescent London SE6,SE6,1.0
+1049,225000.0,"Octavia House, Rushey Green, London, SE6",SE6,1.0

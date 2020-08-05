@@ -1,0 +1,565 @@
+,price,address,postcode,number_bedrooms
+1,725000.0,"Halstead Road, London, E11",E11,2.0
+2,850000.0,"Addison Road, London, E11",E11,3.0
+5,740000.0,"Woodford Road, London, E7",E7,3.0
+6,729999.0,"Kensington House, Richmond Drive, Repton Park, IG8",IG8,2.0
+10,380000.0,"Green Lane, Seven Kings, Essex, IG3 ",IG3,2.0
+11,500000.0,"Ardwell Avenue, Ilford, Essex, IG6",IG6,3.0
+12,800000.0,"Woodlands Road, Ilford, Essex, IG1",IG1,6.0
+13,600000.0,"Broadmead Road, Woodford Green, Essex, IG8",IG8,3.0
+14,450000.0,"Hermitage Court, Woodford Road, London, E18",E18,2.0
+15,750000.0,"Elmcroft Avenue, Wanstead, E11",E11,3.0
+17,470000.0,"Eagle Court, Hermon Hill, London, E11",E11,2.0
+19,335000.0,"High Road, Woodford Green, IG8",IG8,2.0
+20,650000.0,"Greenway, Woodford, IG8",IG8,4.0
+21,800000.0,"Gordon Road, Wanstead, E11",E11,4.0
+22,525000.0,"Mallards Road, Woodford, Green, Essex, IG8",IG8,3.0
+23,375000.0,"Churchfields, South Woodford, E18",E18,2.0
+27,300000.0,"The Ridings, Romford Road, Chigwell, Essex, IG7",IG7,2.0
+28,760000.0,"Deynecourt Gardens, London, E11",E11,3.0
+29,425000.0,"Westwood Road, Seven Kings, IG3",IG3,2.0
+30,439995.0,"Chafford Way, Chadwell Heath, RM6",RM6,3.0
+31,550000.0,"Rivington Avenue, Woodford Green, IG8",IG8,3.0
+33,300000.0,"Hermon Hill, South Woodford, London, E18",E18,1.0
+36,435000.0,"Jarrow Road, Romford, London, RM6",RM6,3.0
+38,750000.0,"Bathurst Road, ILFORD, IG1",IG1,4.0
+41,240000.0,"Friars Close, Ilford, Essex, IG1 ",IG1,1.0
+43,465000.0,"Eastern Avenue, Ilford, IG2",IG2,3.0
+45,325000.0,"B, The Broadway, Woodford, Green, IG8",IG8,2.0
+47,700000.0,"Romford Road, Chigwell, Essex, IG7",IG7,4.0
+48,350000.0,"York Road, ILFORD, IG1",IG1,2.0
+49,400000.0,"Ilford Lane, Ilford, Essex, IG1",IG1,3.0
+52,750000.0,"Goodmayes Lane, Goodmayes, Essex, IG3 ",IG3,5.0
+54,500000.0,"Hastings Avenue, Ilford, IG6",IG6,3.0
+56,450000.0,"Cypress Grove, Hainaultl, Essex, IG6",IG6,3.0
+60,559995.0,"Freshwell Avenue, Romford, London, RM6",RM6,4.0
+64,475000.0,"Vernon Road, Seven Kings, IG3",IG3,3.0
+67,200000.0,"Cambridge Road, Goodmayes, Ilford, IG3",IG3,1.0
+68,220000.0,"Cambridge Road, Goodmayes, Ilford, IG3",IG3,2.0
+70,750000.0,"Littlemoor Road, Ilford, IG1",IG1,6.0
+71,800000.0,"Chestnut Drive, Wanstead, London, E11",E11,3.0
+74,650000.0,"Sunnymede Drive, Ilford, IG6",IG6,4.0
+76,575000.0,"Roxwell Way, Woodford Green, IG8",IG8,3.0
+82,500000.0,"Studley Drive, Ilford, Essex, IG4",IG4,3.0
+83,700000.0,"Pembroke Road, Ilford, Essex, IG3",IG3,7.0
+92,550000.0,"Kingsley Road, Ilford, IG6",IG6,5.0
+97,500000.0,"Cranley Drive, NEWBURY PARK, IG2",IG2,3.0
+98,775000.0,"Clementine Walk, Woodford Green, IG8",IG8,4.0
+99,575000.0,"Roding Lane North, Woodford, Green, Essex, IG8",IG8,2.0
+102,550000.0,"Sandhurst Drive, Ilford, IG3",IG3,3.0
+103,395000.0,"Helmsley, Cleveland Road, South Woodford, E18",E18,2.0
+104,650000.0,"Fowey Avenue, Redbridge, Essex, IG4 ",IG4,4.0
+105,309995.0,"Eastwood Road, Ilford, Essex, IG3",IG3,2.0
+107,439950.0,"Queen Mary Avenue, South Woodford, Essex. E18 2FP",E18,2.0
+108,675000.0,"Sydney Road, Ilford, IG6",IG6,6.0
+110,150000.0,"Heron Court, Ilford, IG1 4EW",IG1,2.0
+111,575000.0,"Ambleside Gardens, Redbridge, IG4",IG4,3.0
+113,800000.0,"Brinkworth Road, Ilford, London, IG5",IG5,5.0
+115,350000.0,"Bramley Crescent, Ilford, Essex, IG2",IG2,2.0
+116,400000.0,"Youngs Road, Ilford, IG2",IG2,2.0
+117,875000.0,"Tercel Path, Chigwell, IG7",IG7,5.0
+118,400000.0,"Onslow Gardens, London, E18",E18,2.0
+120,725000.0,"Beechcroft Road, London, E18",E18,4.0
+121,550000.0,"Colvin Gardens, Hainault, Essex, IG6 ",IG6,3.0
+127,750000.0,"Grosvenor Gardens, Woodford Green, Essex, IG8",IG8,4.0
+128,675000.0,"Bergholt Avenue, Redbridge, IG4 ",IG4,4.0
+129,350000.0,"South Road, Little Heath, Romford, RM6",RM6,2.0
+130,425000.0,"Cranbrook Road, Barkingside, Essex, IG6",IG6,2.0
+133,365000.0,"Vienna Close, Ilford, IG5",IG5,2.0
+134,775000.0,"Ashgrove Road, GOODMAYES, IG3",IG3,6.0
+137,1000000.0,"Cheyne Avenue, London, E18",E18,5.0
+139,300000.0,"Auckland Road, ILFORD, IG1",IG1,1.0
+141,320000.0,"Queen Mary Avenue, London, E18",E18,1.0
+142,315000.0,"Churchfields, London, E18",E18,1.0
+143,375000.0,"Rivenhall Gardens, London, E18",E18,2.0
+145,350000.0,"Perth Road, Ilford, Essex, IG2",IG2,2.0
+151,300000.0,"Mansfield Road, Ilford, Essex, IG1",IG1,2.0
+152,650000.0,"Roy Gardens, Ilford, Essex. IG2 7QQ",IG2,4.0
+155,780000.0,"Northumberland House, Hampstead Avenue, Woodford Green, IG8",IG8,4.0
+159,700000.0,"Cowley Road, London, E11",E11,3.0
+161,360000.0,"Baywood Square, Chigwell, Essex, IG7",IG7,2.0
+162,90000.0,"Dunedin Road, Ilford, ,, IG1 4LW",IG1,0.0
+164,425000.0,"Roxy Avenue, Chadwell Heath, RM6 ",RM6,3.0
+165,600000.0,"Broadhurst Avenue, Ilford, IG3",IG3,3.0
+166,90000.0," Dunedin Road,  Ilford, IG1",IG1,0.0
+167,400000.0,"Brocket Way, Chigwell, Essex, IG7",IG7,3.0
+168,429995.0,"De Vere Gardens, Cranbrook, IG1",IG1,3.0
+171,400000.0,"Burrow Road, Chigwell, IG7",IG7,3.0
+172,780000.0,"Northumberland House, Repton Park, Woodford Green, Essex, IG8",IG8,4.0
+174,575000.0,"Cairns Avenue, Woodford Green, Essex, IG8",IG8,3.0
+176,675000.0,"Coventry Road, ILFORD, IG1",IG1,4.0
+177,475000.0,"Highfield Road, Woodford Green, Essex, IG8",IG8,3.0
+181,875000.0,"Rosedene Gardens, Ilford, IG2",IG2,4.0
+182,635000.0,"Bradfords Close, Buckhurst Hill, IG9",IG9,3.0
+183,500000.0,"Purleigh Avenue, Woodford, Green, Essex, IG8",IG8,4.0
+184,300000.0,"Althorne Gardens, South Woodford, E18",E18,2.0
+185,645000.0,"Westview Drive, Woodford Green, Essex, IG8",IG8,4.0
+186,540000.0,"Woodford Green, London, IG8",IG8,3.0
+190,530000.0,"Hillview Crescent, ILFORD, IG1",IG1,3.0
+191,475000.0,"West Grove, Woodford Green, IG8",IG8,2.0
+193,799995.0,"Five Oaks Lane,
+Chigwell,
+IG7",IG7,5.0
+194,310000.0,"Juniper Court, Claybury Mews, Redbridge, IG5",IG5,1.0
+195,310000.0,"Juniper Court, Claybury Mews, Woodford, IG5",IG5,1.0
+203,240000.0,"High Road, Ilford, Essex, IG1 ",IG1,2.0
+204,795000.0,"Ingatestone Road, Woodford Green, Essex, IG8",IG8,4.0
+205,1200000.0,"Malvern Drive, Woodford Green, IG8",IG8,4.0
+206,150000.0,"Green Lane, Goodmayes, Essex, IG3 ",IG3,0.0
+208,375000.0,"Malcolm Way, London, E11",E11,2.0
+210,235000.0,"The Drive, Cranbrook Ilford, IG1",IG1,1.0
+213,400000.0,"Grange Avenue, Woodford Green, Essex, IG8",IG8,3.0
+215,325000.0,"Alders Close, Wanstead, Redbridge, London, E11",E11,2.0
+218,700000.0,"Marlborough Road, London, E18",E18,3.0
+219,675000.0,"Glebelands Avenue, London, E18",E18,2.0
+221,390000.0,"Arnold Court, Chelmsford Road, London, E18",E18,2.0
+222,280000.0,"Brookside, Barkingside, Essex, IG6",IG6,2.0
+223,750000.0,"Levett Gardens, Ilford, IG3",IG3,5.0
+228,660000.0,"St. Albans Road, Woodford Green, Essex, IG8",IG8,4.0
+230,725000.0,"Cowley Road, London, E11",E11,2.0
+232,550000.0,"Brunswick Gardens, HAINAULT, IG6",IG6,3.0
+233,700000.0,"Falmouth Gardens, REDBRIDGE, IG4",IG4,4.0
+234,415000.0,"Blackbush Avenue, Romford, London, RM6",RM6,3.0
+235,400000.0,"Aston Court, 15 Broomhill Road, Woodford Green, Essex, IG8",IG8,2.0
+238,530000.0,"Eastern Avenue, Ilford, IG2",IG2,3.0
+239,350000.0,"Malmesbury Road, London, Na, E18",E18,1.0
+240,130000.0,"Golding Court, IG1 2EN",IG1,2.0
+245,550000.0,"Lyndhurst Gardens, Newbury Park, IG2",IG2,4.0
+246,500000.0,"Southend Road, Woodford Green, Essex, IG8",IG8,3.0
+253,350000.0,"Goldhaze Close, Woodford Green, Essex, IG8",IG8,2.0
+255,525000.0,"Hazelwood Park Close, Chigwell, IG7",IG7,4.0
+256,359999.0,"Beehive Lane, Ilford, Essex, IG1",IG1,3.0
+259,575000.0,"Pembroke Road, Ilford, IG3",IG3,4.0
+260,418000.0,"Brocket Way, Chigwell, Essex, IG7",IG7,3.0
+263,700000.0," Leigh Avenue,  Ilford, IG4",IG4,5.0
+264,275000.0,"Budoch Drive, Goodmayes, Ilford, IG3",IG3,2.0
+266,395000.0,"Grove Hill, South Woodford, E18",E18,2.0
+271,265000.0,"Madeleine Close, Romford, Chadwell Heath, United Kingdom, RM6",RM6,2.0
+272,380000.0,"Guildford Road, SEVEN KINGS, IG3",IG3,2.0
+273,330000.0,"Centreway Apartments, Axon Place, Ilford, IG1",IG1,2.0
+278,340000.0,"Lennox Gardens, Ilford, Essex, IG1 ",IG1,2.0
+281,500000.0,"Claremont Gardens, Seven Kings, IG3",IG3,3.0
+283,195000.0,"Elgin Road, Ilford, IG3",IG3,1.0
+284,450000.0,"Henley Road, Ilford, Essex, IG1",IG1,4.0
+285,650000.0,"Stradbroke Grove, Clayhall, Essex, IG5 ",IG5,4.0
+289,535000.0,"Royston Gardens, ILFORD, IG1",IG1,3.0
+292,525000.0,"Mortlake Road, Ilford, IG1",IG1,4.0
+293,340000.0,"Roding Lane North, Woodford, IG8",IG8,2.0
+296,299995.0,"Chelmsford Road, London, E18",E18,1.0
+297,425000.0,"Blake Hall Road, Wanstead, E11",E11,2.0
+299,340000.0,"Goldhaze Close, Woodford Green, Essex, IG8",IG8,2.0
+301,549999.0,"Chestnut Grove, Hainault, Essex, IG6",IG6,4.0
+302,475000.0,"Millbrook, London, E18",E18,2.0
+305,885000.0,"Fairview Road, Chigwell, IG7 6HP",IG7,3.0
+307,280000.0,"Snakes Lane West, Woodford Green, Essex, IG8",IG8,1.0
+308,559995.0,"Grosvenor Road, Wanstead, E11",E11,2.0
+315,375000.0,"Chapelmount Road, Woodford Green, IG8",IG8,2.0
+318,275000.0,"Foxglove Gardens, Chigwell, IG7",IG7,1.0
+319,450000.0,"Glendale Avenue, Chadwell Heath, RM6 ",RM6,3.0
+320,450000.0,"Meriden Close, HAINAULT, IG6",IG6,3.0
+321,675000.0,"Inglehurst Gardens, REDBRIDGE, IG4",IG4,3.0
+322,650000.0,"Rivington Avenue, Woodford, Green, Essex, IG8",IG8,4.0
+323,450000.0,"Sydney Road, Woodford Green, Essex, IG8",IG8,2.0
+324,625000.0,"Fremantle Road, Barkingside, Ilford, Essex, IG6",IG6,5.0
+326,800000.0,"Victoria Road, London, E18",E18,3.0
+327,260000.0,"Northbrook Road, Ilford, IG1",IG1,1.0
+330,875000.0,"Chapel Mews, Repton Park, Woodford Green IG8",IG8,3.0
+332,475000.0,"Spencer Road, SEVEN KINGS, IG3",IG3,3.0
+335,370000.0,"Burrow Road, Chigwell, Essex, IG7",IG7,2.0
+336,650000.0,"Woodford Avenue, Redbridge, IG4",IG4,5.0
+339,700000.0,"Campbell Avenue, Ilford, IG6",IG6,4.0
+340,425000.0,"New Wanstead, London, E11",E11,2.0
+344,190000.0,"Burns Avenue, Chadwell Heath, London, RM6",RM6,1.0
+346,375000.0,"St. Anthonys Avenue, Woodford Green, IG8",IG8,2.0
+347,650000.0,"Hastings Avenue, Ilford, IG6",IG6,4.0
+349,385000.0,"Imperial Heights, Queen Mary Avenue, London, E18",E18,2.0
+351,550000.0,"South Park Terrace, Ilford, Essex, IG1 ",IG1,4.0
+353,360000.0,"Whitehall Road, Woodford Green, IG8",IG8,2.0
+354,195000.0,"Milton Court, Cross Road, Romford, London, RM6",RM6,1.0
+355,275000.0,"Meads Lane, Goodmayes, Essex, IG3 ",IG3,2.0
+356,525000.0,"Tomswood Hill, Ilford, IG6",IG6,3.0
+358,325000.0,"Elm Court, Love Lane, Woodford Green, IG8",IG8,2.0
+362,400000.0,"Lady Ann Court, Queen Mary Avenue, Queen Mary's Gate, South Woodford, E18",E18,2.0
+363,520000.0,"Woodford Road, London, E18",E18,2.0
+369,195000.0,"Maybank Road, South Woodford, London, E18 1EJ",E18,3.0
+370,525000.0,"The Drive, South Woodford, E18",E18,2.0
+371,325000.0,"Ilford Hill, ILFORD, IG1",IG1,2.0
+372,535000.0,"Foxdene Close, London, E18",E18,2.0
+383,550000.0,"The Manor, Repton Park, IG8",IG8,2.0
+384,280000.0," Durham Place, Eton Road, Ilford, IG1",IG1,1.0
+388,950000.0,"Sands Way, Woodford Bridge, Woodford Bridge, IG8",IG8,5.0
+389,520000.0,"Bentley Drive, Ilford, Essex, IG2",IG2,3.0
+390,700000.0,"Wellwood Road, Seven Kings, Ilford, IG3",IG3,4.0
+391,480000.0,"Hazeldene Road, IG3",IG3,3.0
+392,500000.0,"Stanford Close, Woodford Green, Essex, IG8",IG8,3.0
+399,850000.0,"Wanstead Lane, Ilford, Essex, IG1",IG1,6.0
+402,500000.0,"Tomswood Hill, Essex, IG6",IG6,3.0
+407,780000.0,"Edwina Gardens, Redbridge, Essex, IG4 ",IG4,5.0
+411,450000.0,"Peregrine Road, Hainault, Essex, IG6",IG6,2.0
+413,1100000.0,"Kings Avenue, Woodford, IG8",IG8,4.0
+415,650000.0,"Redbridge Lane East, Redbridge, Essex, IG4 ",IG4,5.0
+417,499995.0,"Woodford Green, Essex, IG8",IG8,3.0
+418,325000.0,"Walnut Close, Barkingside, Essex, IG6",IG6,3.0
+419,450000.0,"Amber Lane, Hainault, IG6",IG6,2.0
+422,350000.0,"Rayne Court, London, E18",E18,2.0
+426,199950.0,"Northbrook Road, ILFORD, IG1",IG1,1.0
+429,300000.0,"Beehive Lane, ILFORD, IG1",IG1,2.0
+430,2500000.0,"Princes Avenue, Woodford Green, IG8",IG8,4.0
+431,585000.0,"Chigwell Road, Woodford Green, IG8",IG8,3.0
+432,325000.0,"Poplar Way, Barkingside, IG6",IG6,2.0
+433,260000.0,"Monarch Way, Ilford, IG2",IG2,1.0
+434,400000.0,"Talisman Close, Goodmayes, Essex, IG3 ",IG3,3.0
+435,350000.0,"Elgin Road, Ilford, Essex, IG3 ",IG3,3.0
+438,215000.0,"Longbridge Road, Barking, IG11",IG11,1.0
+439,245000.0,"High Street, Barkingside, Ilford, Essex. IG6 2AJ",IG6,1.0
+446,425000.0,"Chadwell Heath Lane, Chadwell Heath, Romford, RM6",RM6,3.0
+447,540000.0,"Royal Close, Ilford, Redbridge, United Kingdom, IG3",IG3,4.0
+450,700000.0,"Marlborough Road, London, E18",E18,3.0
+453,775000.0,"Pulteney Road, London, E18",E18,3.0
+456,325000.0,"Marquess Heights Queen Mary Avenue, London, E18",E18,1.0
+457,1595000.0,"Monkhams Avenue, Woodford Green, Essex, IG8",IG8,5.0
+460,210000.0,"Burns Avenue, Romford, London, RM6",RM6,1.0
+462,1250000.0,"Meadow Walk, London, E18",E18,4.0
+463,1250000.0,"Meadow Walk, London, E18",E18,4.0
+467,359000.0,"Station Passage, London, E18",E18,2.0
+470,420000.0," Melford Road,  Ilford, IG1",IG1,4.0
+471,250000.0,"Centreway Apartments, Axon Place, Ilford, IG1",IG1,1.0
+473,500000.0,"Havering Gardens, Romford, London, RM6",RM6,4.0
+476,650000.0,"Wanstead Lane, Ilford, IG1 ",IG1,4.0
+477,360000.0,"Chigwell Road, E18",E18,2.0
+479,320000.0,"Aldborough Road South, Ilford, Essex, IG3 ",IG3,2.0
+480,350000.0,"Hatfield Close, BARKINGSIDE, IG6",IG6,3.0
+481,325000.0,"Railway Street, Chadwell Heath, RM6",RM6,3.0
+490,370000.0,"FRANCIS AVENUE, Ilford IG1 1TS",IG1,3.0
+491,575000.0,"Quebec Road, Valentines Park, IG2",IG2,3.0
+492,180000.0,"Crystal Way, Dagenham, RM8",RM8,1.0
+493,345000.0,"Cambridge Park, London, E11",E11,1.0
+498,475000.0,"Arthur Road, Romford, RM6",RM6,4.0
+499,110000.0,"Cromwell Lodge, Barking, IG11 8UB",IG11,1.0
+504,775000.0,"Whitehall Road, Woodford Green, IG8",IG8,4.0
+506,1350000.0,"Worcester Crescent, Woodford Green, IG8",IG8,5.0
+507,240000.0,"City Gate House, Ilford, IG2",IG2,1.0
+510,475000.0,"Langley Drive, Wanstead, E11",E11,2.0
+514,280000.0,"Centreway Apartments, Axon Place, Ilford, Essex, IG1",IG1,2.0
+515,290000.0,"Broomhill Road, Woodford Green, IG8",IG8,2.0
+516,750000.0,"Ashburton Avenue, Ilford, Essex, IG3 ",IG3,7.0
+517,900000.0,"Kirkland Avenue, Clayhall, IG5",IG5,5.0
+518,750000.0,"Clayhall Avenue, Ilford, IG5",IG5,4.0
+519,475000.0,"Langley Drive, London, E11",E11,2.0
+520,1350000.0,"Forest Way, Woodford, IG8",IG8,4.0
+521,400000.0,"Agnes Avenue, Ilford, IG1",IG1,3.0
+523,875000.0,"Sutherland House, Repton Park, Woodford Green, Essex, IG8",IG8,3.0
+525,400000.0,"Burrow Road, Chigwell, IG7",IG7,3.0
+526,294995.0,"High Road, Sevenkings IG3",IG3,2.0
+528,600000.0,"Haslemere Road, Seven Kings, Essex, IG3 ",IG3,4.0
+530,550000.0,"Beech Grove, Hainault, Essex IG6 3AR",IG6,4.0
+531,290000.0,"Fourways, High Road, Buckhurst Hill, IG9",IG9,1.0
+533,575000.0,"Tavistock House, Repton Park, Woodford Green, Essex, IG8",IG8,2.0
+534,445000.0,"Marlyon Road, Hainault, Essex, IG6",IG6,3.0
+541,449995.0,"Ley Street, Ilford, Essex, IG2",IG2,5.0
+543,270000.0,"Stanhope Gardens, Ilford, Essex, IG1",IG1,1.0
+544,325000.0,"Cross Road, Woodford Green, IG8",IG8,2.0
+546,650000.0,"Regents Drive, Woodford Green, IG8",IG8,4.0
+547,750000.0,"Cowslip Road, London, E18",E18,4.0
+549,315000.0,"High Road, South Woodford, E18",E18,1.0
+554,475000.0,"Knights Way, Hainault, IG6",IG6,3.0
+556,575000.0,"Roding Lane North, Woodford Green, Na, IG8",IG8,3.0
+557,300000.0,"Gaysham Hall, Longwood Gardens, Ilford, IG5",IG5,2.0
+561,435000.0,"Rose Tree Mews, Woodford, IG8",IG8,2.0
+562,550000.0,"Perth Road, Ilford, IG2",IG2,3.0
+563,500000.0,"Ilford Hill, Ilford, IG1",IG1,2.0
+564,500000.0,"Eastwood Road, London, E18",E18,3.0
+565,225000.0,"Maybank Road, London, E18",E18,3.0
+566,500000.0,"Rushden Gardens, Ilford, IG5",IG5,3.0
+567,318500.0,"Albert Road, Ilford, IG1",IG1,2.0
+570,825000.0,"Gyllyngdune Gardens, Seven Kings, Essex, IG3 ",IG3,4.0
+571,325000.0,"Royal Crescent, Ilford, IG2",IG2,2.0
+572,365000.0,"Epping New Road, Woodford Green, Essex, IG9",IG9,2.0
+574,625000.0,"Martley Drive, GANTS HILL, IG2",IG2,4.0
+576,1325000.0,"Queens Avenue, Woodford Green, IG8",IG8,6.0
+578,475000.0,"Glencoe Avenue, Ilford, IG2",IG2,3.0
+580,459995.0,"Herbert Road, Ilford, Essex, IG3",IG3,3.0
+581,490000.0,"Walden Way, Ilford, IG6",IG6,4.0
+583,390000.0,"Thurlby House, Chigwell Road, Woodford Green, Essex, IG8",IG8,1.0
+584,299995.0,"Westwood Road, Seven Kings, IG3",IG3,2.0
+587,270000.0,"Centreway Apartments, Ilford, Essex, IG1",IG1,2.0
+589,325000.0,"Thurlby House, Chigwell Road, Woodford Green, Essex, IG8",IG8,1.0
+590,440000.0,"Clarissa Road, Romford, RM6",RM6,4.0
+591,168000.0,"Winningales Court, Vienna Close, Clayhall, Essex, IG5",IG5,1.0
+594,425000.0,"Wallington Road, Ilford, Essex, IG3",IG3,3.0
+595,535000.0,"Mayfair Avenue, ILFORD, IG1",IG1,3.0
+597,245000.0,"Carlton Drive, Ilford, IG6",IG6,1.0
+598,415000.0,"Eton Road, Ilford, Essex, IG1",IG1,3.0
+599,550000.0,"Wanstead Park Road, Ilford, Essex, IG1",IG1,3.0
+600,475000.0,"Vernon Road, Seven Kings, IG3",IG3,3.0
+601,525000.0,"Longbridge Road, Barking, Essex, IG11 ",IG11,3.0
+602,650000.0,"Brantwood Gardens, Redbridge, Essex, IG4 ",IG4,3.0
+604,600000.0,"Avenue Road, Woodford Green, IG8",IG8,3.0
+605,700000.0,"Stradbroke Grove , IG5",IG5,5.0
+606,750000.0,"Wells Gardens, Ilford, Essex, IG1 ",IG1,5.0
+608,115000.0,"Limewood Court, Beehive Lane, Ilford, IG4",IG4,1.0
+610,425000.0,"Spencer Road, Ilford, Essex, IG3",IG3,4.0
+612,599999.0,"Osborne House, Repton Park IG8",IG8,2.0
+613,300000.0,"Victory Road, Wanstead E11",E11,1.0
+614,220000.0,"Grange Avenue, Woodford Green, IG8",IG8,2.0
+615,775000.0,"Colwall Gardens, Woodford Green, IG8",IG8,3.0
+616,825000.0,"Romford Road, Chigwell, Essex, IG7",IG7,5.0
+622,1200000.0,"Overton Drive, London, E11",E11,7.0
+623,425000.0,"Spencer Road, Ilford, Essex, IG3",IG3,4.0
+624,625000.0,"Kenwood Gardens, Ilford, Essex, IG2",IG2,3.0
+627,335000.0,"Royston Gardens, Ilford, IG1",IG1,2.0
+628,400000.0," Roman Road,  Ilford, IG1",IG1,3.0
+630,350000.0,"Foremark Close, Hainault, Essex, IG6",IG6,3.0
+632,525000.0,"Westview Drive, Woodford Green, Essex, IG8",IG8,3.0
+635,340000.0,"Roding Lane North, Woodford, Green, Essex, IG8",IG8,2.0
+636,525000.0,"Carlisle Gardens, Ilford, Greater London, IG1 3SN",IG1,3.0
+637,215000.0,"Bay Tree Court, 349 Longbridge Road, Barking, Essex, IG11",IG11,1.0
+638,700000.0,"Redbridge Lane East, Redbridge, Essex, IG4 ",IG4,5.0
+639,550000.0,"Otley Drive, Gants Hill, Ilford, Essex, IG2",IG2,3.0
+640,450000.0,"Stradbroke Grove, Clayhall, Ilford, IG5",IG5,2.0
+641,550000.0,"Regents Drive, Woodford Green, IG8",IG8,2.0
+642,550000.0,"The Manor, Regents Drive, Woodford Green, Essex, IG8",IG8,2.0
+643,550000.0,"The Manor, Repton Park, Woodford Green, IG8",IG8,2.0
+644,410000.0,"St Marys Road, Ilford, Essex, IG1 ",IG1,4.0
+646,585000.0,"Rushden Gardens, Ilford, Essex, IG5",IG5,3.0
+647,300000.0,"Beechcroft Road, London, E18",E18,1.0
+648,1095000.0,"Grosvenor Gardens, Woodford Green, Essex, IG8",IG8,4.0
+653,240000.0,"De Vere Gardens, Ilford, Essex, IG1",IG1,1.0
+654,540000.0," Roman Road,  Ilford, IG1",IG1,4.0
+655,1100000.0,"Oakland Place, Buckhurst Hill, Essex, IG9",IG9,5.0
+656,550000.0,"Ilfracombe Gardens, Romford, RM6 ",RM6,4.0
+657,650000.0,"South Park Road, Ilford, IG1",IG1,6.0
+658,260000.0,"399-425 Eastern Avenue, Ilford, IG2",IG2,1.0
+659,700000.0,"Balfour Road, Ilford, Essex, IG1",IG1,6.0
+661,650000.0,"Peel Road, London, E18",E18,3.0
+663,475000.0,"Canon Avenue, Chadwell Heath, RM6 ",RM6,4.0
+667,565000.0,"Herent Drive, Ilford, Essex. IG5 0HF",IG5,3.0
+668,925000.0," Norfolk Road,  Ilford, IG3",IG3,4.0
+669,700000.0,"Elderberry Close, The Avenue, Chigwell, Essex, IG6",IG6,4.0
+672,565000.0,"Franklyn Gardens, Hainault, Essex, IG6",IG6,4.0
+673,480000.0,"Green Lane, Ilford, Essex, IG3",IG3,4.0
+674,390000.0,"Wycliffe House, ILFORD, IG1",IG1,2.0
+675,300000.0,"Chapel Green Apartments, 499-501 High Road, Woodford Green, IG8",IG8,1.0
+676,450000.0,"Littlemoor Road, Ilford, IG1",IG1,4.0
+678,285000.0,"Fosters Close, Latchett Road, E18",E18,1.0
+679,750000.0,"Gordon Road, Wanstead, London, E11",E11,4.0
+680,240000.0,"Selborne Road, ILFORD, IG1",IG1,1.0
+682,200000.0,"Millhaven Close, Chadwell Heath, RM6",RM6,1.0
+684,537500.0,"Fullwell Avenue, Ilford, Essex. IG6 2HE",IG6,3.0
+685,475000.0,"Charlbury Gardens, Seven Kings, Essex, IG3 ",IG3,3.0
+687,175000.0,"Limewood Court, Beehive Lane, Ilford, Essex, IG4",IG4,1.0
+688,275000.0,"Audley Gardens, Seven Kings, Essex, IG3 ",IG3,2.0
+689,615000.0,"Ashford Road, South Woodford, E18",E18,2.0
+697,800000.0,"Northbrook Road, Ilford, London, IG1",IG1,4.0
+698,425000.0,"Queen Mary Avenue, South Woodford, E18",E18,2.0
+702,550000.0,"The Hollies, New Wanstead, London, E11",E11,2.0
+703,250000.0,"Green Lane, Goodmayes, IG3",IG3,2.0
+704,170000.0,"Breamore Road, Ilford, Essex, IG3",IG3,2.0
+705,624995.0,"Five Oaks Lane,
+Chigwell,
+IG7",IG7,4.0
+707,205000.0,"Eastern Avenue, Ilford, Essex, IG2",IG2,1.0
+708,585000.0,"Summit Drive, Woodford Green, IG8",IG8,3.0
+709,680000.0,"Holt Way, Chigwell, Essex, IG7",IG7,7.0
+710,600000.0,"Manford Way, Grange Hill, IG7",IG7,4.0
+717,400000.0,"Fencepiece Road, Ilford, IG6",IG6,3.0
+719,210000.0,"Bearing Way, Chigwell, Essex, IG7",IG7,1.0
+720,535000.0,"Peaketon Avenue, Redbridge, IG4 ",IG4,2.0
+723,299950.0,"James Court, Daisy Road, South Woodford, E18 1EH",E18,1.0
+725,460000.0,"Woodford Green, Essex, IG8",IG8,4.0
+727,440000.0,"Jersey Road, Ilford, Essex, IG1 2HH",IG1,3.0
+730,500000.0,"Wannock Gardens, Ilford, IG6",IG6,4.0
+731,200000.0,"Burns Avenue, Chadwell Heath, Romford, RM6",RM6,1.0
+732,400000.0,"Goldhaze Close, Woodford Green, IG8",IG8,3.0
+733,500000.0,"Wannock Gardens, Hainault, IG6",IG6,3.0
+735,425000.0,"Fenman Gardens, Goodmayes, Essex, IG3 ",IG3,3.0
+736,680000.0,"Clifton Road, Newbury Park, Essex, IG2 ",IG2,7.0
+737,730000.0,"Danehurst Gardens, Redbridge, Essex, IG4 ",IG4,4.0
+739,320000.0,"Dryden Close, Hainault, Essex, IG6",IG6,2.0
+742,715000.0,"Keswick Gardens, Ilford, IG4",IG4,6.0
+743,600000.0,"Tresco Gardens, SEVEN KINGS, IG3",IG3,3.0
+746,325000.0,"Queen Mary Avenue, South Woodford E18",E18,1.0
+752,600000.0,"Perth Road, Ilford, IG2",IG2,4.0
+754,450000.0," Mortlake Road,  Ilford, IG1",IG1,3.0
+755,390000.0,"Meads Lane, Ilford, IG11",IG11,3.0
+757,430000.0,"Alveston Square, London, E18",E18,2.0
+765,950000.0,Clifford Avenue IG5,IG5,5.0
+766,575000.0,"Eastern Avenue, Ilford, Essex, IG2",IG2,4.0
+768,479995.0,"Eastern Avenue, Ilford, IG4",IG4,3.0
+770,400000.0,"Queen Mary Avenue, London, E18",E18,2.0
+771,319995.0,"Clarendon Gardens, Ilford, IG1",IG1,2.0
+772,280000.0,"Chigwell Road, South Woodford, E18",E18,1.0
+778,375000.0,"Wingate Road, Ilford, IG1",IG1,3.0
+779,450000.0,"Bramley Crescent, Ilford, IG2",IG2,3.0
+780,650000.0,"Cambridge Road, Seven Kings, Ilford, IG3",IG3,5.0
+785,300000.0,"Blackthorn Avenue, Chigwell, Essex, IG7",IG7,2.0
+787,425000.0,"Windsor Road, Ilford, Essex, United Kingdom, IG1",IG1,3.0
+789,300000.0,"Endsleigh Gardens, ILFORD, IG1",IG1,2.0
+793,385000.0,"Holt Way, Chigwell, IG7 ",IG7,4.0
+795,650000.0,"Rayleigh Road, Woodford Green, Essex, IG8",IG8,3.0
+796,100000.0,"Langdale Court, Ilford, IG1 1DU",IG1,1.0
+797,300000.0,"Blackthorn House, 1 Blackthorn Avenue, Chigwell, Essex, IG7",IG7,2.0
+799,550000.0,"Chafford Way, Chadwell Heath, RM6",RM6,4.0
+801,350000.0,"High Street, Barkingside, Ilford, Essex. IG6 2AJ",IG6,3.0
+802,325000.0,"High Street, Barkingside, Ilford, Essex. IG6 2AJ",IG6,2.0
+803,670000.0,"Coniston Gardens, Redbridge, IG4 ",IG4,4.0
+805,400000.0,"Malford Court, The Drive, London, E18",E18,2.0
+806,460000.0,"Jerningham Avenue, Ilford, Essex, IG5",IG5,2.0
+808,145000.0,"Heron Court, Ilford, Essex, IG1 ",IG1,2.0
+809,280000.0,"Hampstead Gardens, Chadwell Heath, ., RM6",RM6,2.0
+810,250000.0,"Kingsley Mews, Ley Street, Ilford, IG1",IG1,2.0
+811,190000.0,"Capstan Close, Romford, RM6",RM6,1.0
+812,645000.0,"Moreton Gardens, Woodford Green, Essex, IG8",IG8,4.0
+813,485000.0,"The Manor,Repton Park, Woodford Green IG8",IG8,2.0
+815,325000.0,"Cleveland Road, London, E18",E18,1.0
+816,515000.0,"Wensleydale Avenue, Ilford, IG5",IG5,3.0
+817,475000.0,"Chigwell Road, South Woodford, London E18",E18,3.0
+819,310000.0,"LONG GREEN, CHIGWELL, IG7",IG7,2.0
+820,795000.0,"Highwood, 13 Sunset Avenue, Woodford Green, Essex, IG8",IG8,3.0
+823,575000.0,"Herent Drive, Ilford, Essex. IG5 0HG",IG5,3.0
+824,420000.0,"Elstree Gardens, Ilford, Essex, IG1",IG1,3.0
+825,300000.0,"Chapel Green Apartments, 499-501 High Road, Woodford Green, IG8",IG8,1.0
+827,290000.0,"Blackthorn Road, Chigwell , Essex, IG7 4FW",IG7,2.0
+828,420000.0,"Grove Hill, South Woodford, E18",E18,2.0
+829,360000.0,"Barnes Court, Durham Avenue, Woodford Green, Essex, IG8",IG8,2.0
+831,575000.0,"Oaks Lane, Ilford, Essex, IG2",IG2,3.0
+832,550000.0,"Oaks Lane, Ilford, Essex, IG2",IG2,3.0
+833,550000.0,"Oaks Lane, Ilford, Essex, IG2",IG2,3.0
+835,265000.0,"Madeleine Close, Romford, RM6",RM6,2.0
+837,550000.0,"Wanstead Park Road, ILFORD, IG1",IG1,5.0
+839,285000.0,"Vector Point, 1-5 Hainault Bridge Parade, Ilford, Essex, IG1",IG1,2.0
+840,500000.0,"The Acorns, Chigwell, IG7",IG7,3.0
+841,169999.0,"Winningales Court, Vienna Close, Clayhall, Essex, IG5",IG5,1.0
+842,1025000.0,"The Drive, Ilford, IG1",IG1,6.0
+843,1025000.0,"The Drive, ILFORD, IG1",IG1,6.0
+844,295000.0,"Monarch Way, ILFORD, IG2 7HR",IG2,2.0
+845,699995.0,"Five Oaks Lane,
+Chigwell,
+IG7",IG7,5.0
+846,700000.0,"Redbridge Lane East, Redbridge, Essex, IG4 ",IG4,5.0
+847,800000.0,"Northbrook Road, Ilford, IG1",IG1,4.0
+848,625000.0,"Bradfords Close, Buckhurst Hill, Essex, IG9",IG9,3.0
+849,800000.0,"Northbrook Road, ILFORD, IG1",IG1,4.0
+850,950000.0,"Sands Way, Woodford Bridge, Woodford Bridge, IG8",IG8,5.0
+852,700000.0,"Falmouth Gardens, Redbridge, Ilford, Essex, IG4",IG4,5.0
+855,425000.0,"Queen Mary Avenue, London, E18",E18,2.0
+856,460000.0,"Woodford Green, Essex, IG8",IG8,4.0
+857,449995.0,"Joydon Drive, Romford, London, RM6",RM6,3.0
+858,300000.0,"Daisy Road, South Woodford, E18",E18,1.0
+860,450000.0,"Ravensbourne Gardens, Clayhall, Essex, IG5",IG5,2.0
+861,350000.0,"High Road, Woodford Green, IG8",IG8,2.0
+864,600000.0,"Felbrigge Road, Seven Kings, IG3",IG3,4.0
+866,299995.0,"Chigwell Road, Woodford Green, IG8",IG8,1.0
+867,300000.0,"Chapel Green Apartments, 499-501 High Road, Woodford Green, IG8",IG8,1.0
+868,700000.0,"Courtland Avenue, ILFORD, IG1",IG1,4.0
+870,220000.0,"Chamberlain Close, IG1, Ilford, IG1",IG1,1.0
+871,375000.0,"Fletcher Road, Chigwell, IG7",IG7,3.0
+872,700000.0,"Grosvenor Gardens, Woodford Green, Essex, IG8",IG8,3.0
+873,175000.0,"Centreway, Ilford, Essex, IG1 ",IG1,1.0
+876,240000.0,"Chadwell Heath Lane, RM6",RM6,2.0
+878,500000.0,"Beechwood Park, London, E18",E18,3.0
+880,250000.0,"Blackthorn Road, Ilford, IG1 2PZ",IG1,2.0
+881,650000.0,"Hoveton Way, Essex, IG6",IG6,4.0
+882,550000.0,"Neville Road, Ilford, IG6",IG6,4.0
+883,590000.0,"Chester Road, Goodmayes, Ilford, IG3",IG3,4.0
+884,1350000.0,"Overton Drive, London, E11",E11,5.0
+886,340000.0,"Tomswood Hill, Barkingside, IG6",IG6,2.0
+888,260000.0,"Brunel House, 4 Chancellor Way, Dagenham, RM8 2GQ",RM8,2.0
+889,250000.0,Chadwell Heath RM6,RM6,2.0
+890,200000.0,"57 Cambridge Road, Wanstead E11",E11,1.0
+891,95000.0,"Castleview Gardens, Ilford, Essex, IG1",IG1,1.0
+896,250000.0,"Lynn Road, Ilford, IG2",IG2,2.0
+898,200000.0,"Grosvenor Road, Ilford, Essex, IG1 ",IG1,1.0
+901,850000.0,"Chelmsford Gardens, Ilford, IG1",IG1,4.0
+902,325000.0,"Kingswood Road, Ilford, Essex, IG3",IG3,3.0
+904,295000.0,"Devereux Court, Snakes Lane West, Woodford Green, IG8 0DF",IG8,1.0
+905,600000.0,"Kensington Gardens, Ilford, IG1",IG1,3.0
+908,499995.0,"Beechwood Park, London, E18",E18,3.0
+909,750000.0,"Holstock Road, Ilford, Essex, IG1 ",IG1,7.0
+911,599995.0,"Stevens Way, Chigwell, Essex, IG7",IG7,3.0
+912,130000.0,"Chadwell Heath Lane, Romford, London, RM6",RM6,1.0
+913,325000.0,"Queen Mary Avenue, South Woodford E18",E18,1.0
+916,350000.0,"Mornington Road, Woodford Green, IG8",IG8,2.0
+919,475000.0,"South Park Crescent, Ilford, IG1",IG1,4.0
+920,550000.0,"Forterie Gardens, Seven Kings, Essex, IG3 ",IG3,3.0
+921,300000.0,"De Vere Gardens, Ilford, Essex, IG1",IG1,2.0
+923,120000.0,"Heron Court, Ilford, IG1 4EW",IG1,1.0
+924,285000.0,"Woodford New Road, London, E18",E18,1.0
+926,550000.0,"Brocket Close, Chigwell, Essex, IG7",IG7,4.0
+928,795000.0,"Sunset Avenue, Woodford Green, IG8",IG8,4.0
+932,630000.0,"Yeomen Way, Ilford, IG6",IG6,5.0
+933,305000.0,"De Vere Gardens, ILFORD, IG1",IG1,2.0
+934,300000.0,"Grove Road, Chadwell Heath, RM6",RM6,3.0
+935,270000.0,"Grove Road, Chadwell Heath, RM6",RM6,2.0
+937,820000.0,"Osborne House, Repton Park IG8",IG8,3.0
+939,250000.0,"High Road, Woodford Green IG8",IG8,2.0
+940,384995.0,"Hazelwood Park Close, Chigwell, Essex, IG7",IG7,2.0
+942,510000.0,"Regency Court, South Woodford E18",E18,2.0
+943,210000.0,"Blackthorn Road, Ilford, Essex, IG1 ",IG1,1.0
+945,425000.0,"Heathfield Park Drive, Chadwell Heath, Essex, RM6 ",RM6,3.0
+946,600000.0,"Perth Road, ILFORD, IG2",IG2,4.0
+949,240000.0,"Ray Lodge Road, Woodford Green IG8",IG8,1.0
+953,500000.0,"Uplands Road, Woodford Green, Essex, IG8",IG8,3.0
+954,650000.0,"Dawlish Drive, Ilford, IG3",IG3,4.0
+955,550000.0,"Southbourne Gardens, Ilford, Essex, IG1 ",IG1,4.0
+956,450000.0,"Wingate Road, Ilford, Essex, IG1",IG1,4.0
+958,700000.0,"Green Lane, GOODMAYES, IG3",IG3,5.0
+959,290000.0,"Blackthorn House, Blackthorn Avenue, Chigwell, Essex, IG7",IG7,2.0
+960,320000.0,"Wellwood Road, Ilford, Essex, IG3",IG3,2.0
+963,259995.0,"Memorial Heights, Monarch Way, Newbury Park, Ilford, London, IG2 7HS",IG2,1.0
+964,650000.0,"Clayhall Avenue, Ilford, IG5",IG5,6.0
+965,339995.0,"High Road, Ilford, Essex, IG1 ",IG1,2.0
+967,350000.0,"Laing Close, Ilford, IG6",IG6,2.0
+970,390000.0,"Fullwell Avenue, CLAYHALL, IG5",IG5,3.0
+971,488000.0,"Eynsford Road, Seven Kings, IG3",IG3,5.0
+972,460000.0,"New North Road, Ilford, IG6",IG6,3.0
+974,275000.0,"Norwich Crescent, Chadwell Heath, Romford, RM6",RM6,2.0
+975,300000.0,"Hermon Hill, South Woodford, London, E18",E18,1.0
+977,325000.0,"Quarles Park Road, Chadwell Heath, RM6 ",RM6,2.0
+978,800000.0,"Redbridge Lane East, Redbridge, IG4 ",IG4,4.0
+981,600000.0,"Ripon Gardens, Ilford, Essex, IG1",IG1,3.0
+983,475000.0,"Cottesmore Avenue, Ilford, IG5",IG5,3.0
+984,220000.0,"Loxford Lane, Ilford, IG3",IG3,1.0
+987,250000.0,"399-425 Eastern Avenue, Ilford, IG2",IG2,1.0
+988,130000.0,"Rosewood Court, Chadwell Heath Lane, Romford, RM6",RM6,1.0
+989,350000.0,"Icon Building, Ilford Hill, IG1",IG1,2.0
+991,279000.0,"Woodford Green, Essex, IG8",IG8,2.0
+992,600000.0,"Roding Lane South, Redbridge, IG4 ",IG4,4.0
+995,480000.0,"Wallington Road, Ilford, Essex, IG3",IG3,3.0
+997,640000.0,"South Park Crescent, Ilford, Essex, IG1 ",IG1,5.0
+1001,350000.0,"CANNONHALL COURT, NEWBURY PARK, IG2 7NW",IG2,2.0
+1003,435000.0,"Kingswood Heights, Queen Mary Avenue, London, E18",E18,2.0
+1004,495000.0,"Bradfield House, Repton Park, IG8",IG8,2.0
+1006,799995.0,"Gyllyngdune Gardens, Ilford, Essex, IG3 ",IG3,5.0
+1007,140000.0,"Golding Court, Rivendene Road, IIford, IG1 2EN",IG1,2.0
+1010,1200000.0,"Golfe Road, Ilford, Essex, IG1",IG1,1.0
+1011,625000.0,"Falmouth Gardens, Ilford, Essex, IG4",IG4,5.0
+1013,875000.0,"Gyllyngdune Gardens, Ilford, IG3",IG3,6.0
+1015,135000.0,"Heron Court, Ilford, IG1 4EW",IG1,1.0
+1016,525000.0,"Devonshire House, Repton Park, IG8",IG8,2.0
+1017,150000.0,"Heron Court, Ilford, IG1 4EW",IG1,2.0
+1021,310000.0,"Richmond Road, Ilford, IG1",IG1,3.0
+1023,415000.0,"Queen Mary Avenue, London, E18",E18,2.0
+1025,460000.0,"Woodford Green, Essex, IG8",IG8,4.0
+1026,275000.0,"Quarles Park Road, Chadwell Heath, RM6",RM6,2.0
+1027,280000.0,"St. James Gardens, Little Heath, Romford, RM6",RM6,2.0
+1029,135000.0,"Morland Road, ILFORD, IG1",IG1,1.0
+1030,1800000.0,"Parkway, Ilford, Essex, IG3",IG3,7.0
+1032,259995.0,"Memorial Heights, Monarch Way, Ilford, Essex, London, IG2 7HS",IG2,1.0
+1033,1395000.0,"The Avenue, London, E11",E11,4.0
+1034,399950.0,"Valentines House, Ilford Hill, IG1",IG1,2.0
+1035,875000.0,"Gyllyngdune Gardens, Seven Kings, Essex, IG3 ",IG3,6.0
+1036,365000.0,"The Roses, High Road, Woodford Green, Essex, IG8",IG8,3.0
+1037,700000.0,"Ashburton Avenue, Ilford, Essex, IG3 ",IG3,5.0
+1038,319999.0,"Yellowpine Way, Chigwell, Essex, IG7",IG7,3.0
+1039,875000.0,"Gyllyngdune Gardens, Ilford, Essex, IG3",IG3,6.0
+1040,240000.0,"Carlton House, Seven Kings, IG1",IG1,1.0
+1041,250000.0,"St. James Gardens, Romford, London, RM6",RM6,2.0
+1042,300000.0,"High Street, Ilford, Essex, IG6",IG6,2.0
+1044,400000.0,"Byron Court, 7 Makepeace Road, London, E11",E11,2.0
+1045,749995.0,"Five Oaks Lane,
+Chigwell,
+IG7",IG7,5.0
+1046,500000.0,"Huntsman Road, Chigwell, Essex, IG6",IG6,5.0
+1047,700000.0,"Stradbroke Grove, Ilford, IG5",IG5,4.0
+1049,770000.0,"Hermitage Walk, London, E18",E18,4.0

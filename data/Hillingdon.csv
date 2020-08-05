@@ -1,0 +1,685 @@
+,price,address,postcode,number_bedrooms
+0,360000.0,"Edwards Avenue, Ruislip, HA4",HA4,2.0
+1,899950.0,"Swakeleys Road, Ickenham, UB10",UB10,4.0
+2,350000.0,"Navigation Building, UB3",UB3,3.0
+3,425000.0,"Burgundy Court, 31 Arla Place, Ruislip, Middlesex, HA4",HA4,2.0
+4,600000.0,"Stafford Road, Ruislip, Middlesex, HA4",HA4,3.0
+5,1295000.0,"Dukes Ride, Ickenham, Middlesex, UB10",UB10,4.0
+8,319950.0,"Petworth Gardens, Hillingdon, UB10",UB10,2.0
+9,600000.0,"Canal Way, Harefield, Uxbridge, Middlesex, UB9",UB9,3.0
+10,460000.0,"Corinthian Court, 1 Station Approach, Ruislip, Middlesex, HA4",HA4,2.0
+11,320000.0,"Corinthian Court, 1 Station Approach, Ruislip, Middlesex, HA4",HA4,1.0
+12,365000.0,"Corinthian Court, 1 Station Approach, Ruislip, Middlesex, HA4",HA4,1.0
+13,470000.0,"Corinthian Court, 1 Station Approach, Ruislip, Middlesex, HA4",HA4,2.0
+14,350000.0,"Corinthian Court, 1 Station Approach, Ruislip, Middlesex, HA4",HA4,1.0
+15,475000.0,"Corinthian Court, 1 Station Approach, Ruislip, Middlesex, HA4",HA4,2.0
+16,325000.0,"Corinthian Court, 1 Station Approach, Ruislip, Middlesex, HA4",HA4,0.0
+17,380000.0,"Lime Court Lime Grove, Ruislip, Middlesex, HA4",HA4,2.0
+18,575000.0,"The Vale SOUTH RUISLIP, Ruislip, HA4",HA4,3.0
+19,375000.0,"Springwell Lane, Rickmansworth, WD3",WD3,2.0
+22,450000.0,"Berkeley Road, Hillingdon, UB10",UB10,3.0
+23,575000.0,"Oxford Drive, Ruislip, Middlesex, HA4",HA4,3.0
+26,520000.0,"Fifth Avenue, Hayes, UB3 2ER",UB3,4.0
+27,345000.0,"Wallace Close, Uxbridge, Middlesex, UB10",UB10,2.0
+28,249950.0,"West Quay Drive, Yeading, UB4 9TA",UB4,1.0
+30,900000.0,"Reginald Road, Northwood, Middlesex, HA6",HA6,5.0
+33,825000.0,"West End Road, Ruislip, HA4",HA4,4.0
+34,749950.0,"Hawthorne Avenue, Ruislip, Middlesex, HA4",HA4,3.0
+35,425000.0,"1 Wren Lane, Ruislip, HA4",HA4,2.0
+36,900000.0,"Tudor Close, Eastcote, Pinner, Middlesex, HA5",HA5,5.0
+37,400000.0,"Evergreen Drive, West Drayton, Middlesex, UB7 9GQ",UB7,2.0
+39,640000.0,"Green Lane, Hillingdon, Uxbridge, UB8",UB8,4.0
+42,475000.0,"Monarch Drive, Hayes, UB3",UB3,3.0
+45,500000.0,"Misbourne Rd, Hillingdon, Middlesex, UB10",UB10,3.0
+46,650000.0,"Ivy House Road, Ickenham, UB10",UB10,3.0
+48,900000.0,"St. Martins Approach, Ruislip, Middlesex, HA4",HA4,3.0
+49,255000.0,"Swakeleys Road, Ickenham, UB10",UB10,1.0
+51,435000.0,"Perkins Gardens, Uxbridge, UB10",UB10,2.0
+53,500000.0,"Sussex Road, Ickenham, UB10",UB10,2.0
+54,450000.0,"Frithwood Avenue, Northwood, Middlesex, HA6",HA6,2.0
+56,730000.0,"Copthall Road West, Ickenham, UB10",UB10,5.0
+58,374950.0,"Long Drive, South Ruislip, Ruislip, HA4",HA4,2.0
+60,1500000.0,"Highfield Drive, Ickenham, Uxbridge, Middlesex, UB10",UB10,5.0
+62,600000.0,"Woodlands Avenue, Ruislip, Middlesex, HA4",HA4,3.0
+63,635000.0,"Clovelly Close, Ickenham, UB10",UB10,4.0
+64,350000.0,"Rosedale Avenue, Hayes, Middlesex, UB3",UB3,2.0
+65,319950.0,"West End Road, Ruislip, Middlesex, HA4",HA4,2.0
+68,685000.0,"Pavilion Way, Ruislip, Middlesex, HA4",HA4,4.0
+69,350000.0,"Cedar Place, Gateway Close, Northwood, HA6 2RW",HA6,2.0
+70,500000.0,"Carmichael Close, Ruislip, Middlesex, HA4",HA4,3.0
+72,600000.0,"Pavilion Way, Ruislip, Middlesex, HA4",HA4,3.0
+73,319950.0,"West End Road, Ruislip, HA4",HA4,2.0
+75,730000.0,"Copthall Road West, Ickenham, UB10",UB10,5.0
+80,300000.0,"Edgar Road, Yiewsley, West Drayton, UB7",UB7,2.0
+81,180000.0,"Newcourt, Uxbridge, UB8",UB8,0.0
+82,280000.0,"1 Hamble Drive, Hayes, UB3",UB3,1.0
+84,649950.0,"Bath Road, Colnbrook By Pass, West Drayton, UB7",UB7,3.0
+85,500000.0,"Violet Avenue, Hillingdon, UB8",UB8,3.0
+86,474950.0,"Goshawk Gardens, Hayes, UB4 8LA",UB4,3.0
+87,385000.0,"Harlington Road, Hillingdon, UB8",UB8,3.0
+88,275000.0,"Crispin Way, Hillingdon, UB8",UB8,2.0
+89,550000.0,"Barlee Crescent, Uxbridge, UB8",UB8,6.0
+90,430000.0,"Stuart Crescent, Hayes, Middlesex, UB3",UB3,3.0
+92,649950.0,"Kings Road, Uxbridge, Middlesex, UB8",UB8,4.0
+93,600000.0,"Church Road, Uxbridge, Middlesex, UB8",UB8,3.0
+94,575000.0,"Hyacinth Drive, Uxbridge, Middlesex, UB10",UB10,3.0
+95,225000.0,"Abbotswood Way, Hayes, Hayes, UB3 3PF",UB3,1.0
+97,535000.0,"Cranborne Waye, Hayes, Middlesex, UB4",UB4,3.0
+98,465000.0,"Southfield Close, Hillingdon, Middlesex, UB8",UB8,3.0
+99,900000.0,"St. Martins Approach, Ruislip, Middlesex, HA4",HA4,4.0
+100,487500.0,"Grand Union Canal,
+West Drayton,
+Uxbridge,
+UB8 2GH",UB8,3.0
+101,460000.0,"Lynhurst Crescent, Uxbridge, Middlesex, UB10",UB10,3.0
+106,660000.0,"The Sigers, Pinner, HA4",HA4,2.0
+107,230000.0,"Ryeland Close, West Drayton, UB7",UB7,1.0
+108,365000.0,"Ruislip Court, Ruislip, Middlesex, HA4",HA4,3.0
+109,300000.0,"Knowles Close, West Drayton, UB7",UB7,2.0
+110,649950.0,"Hayes End Road, Hayes, Middlesex, UB4",UB4,4.0
+111,185000.0,"Bullrush Grove, Cowley, UB8",UB8,0.0
+112,310000.0,"Plot 3J, The Boiler House, UB3",UB3,1.0
+114,399950.0,"Marvell Avenue, Hayes, Middlesex, UB4",UB4,2.0
+115,350000.0,"Northdown Close, Ruislip, Middlesex, HA4",HA4,2.0
+116,539950.0,"Fourth Avenue, Hayes, UB3",UB3,4.0
+117,450000.0,"Mellow Lane East, Hayes, UB4",UB4,3.0
+118,625000.0,"Long Lane, Hillingdon, UB10",UB10,3.0
+119,275000.0,"Crispin Way, Hillingdon, UB8",UB8,2.0
+120,289950.0,"Pinewood Avenue, Hillingdon, UB8",UB8,2.0
+121,425000.0,"Lynhurst Crescent, Middlesex, UB10",UB10,3.0
+123,465000.0,"Meadow View Road, Hayes, Middlesex, UB4",UB4,3.0
+124,320000.0,"Romney Road, Hayes, UB4 8PU",UB4,2.0
+127,759950.0,"Norfolk Road, North Uxbridge, Middlesex, UB8",UB8,5.0
+128,950000.0,"Deborah Crescent, Ruislip, Middlesex, HA4",HA4,4.0
+129,470000.0,"St. Luke Close, Uxbridge, Middlesex, UB8",UB8,3.0
+130,800000.0,"Eleanor Grove, Ickenham, UB10",UB10,3.0
+131,200000.0,"Newstead House, 67A Dovedale Close, Uxbridge, UB9",UB9,1.0
+132,280000.0,"Gainsborough Road, Hayes, UB4 8PT",UB4,2.0
+133,265000.0,"Frithwood Avenue, Northwood, Middlesex, HA6",HA6,1.0
+134,409950.0,"Dale Drive, HAYES, HAYES, MIDDLESEX, UB4 8AU",UB4,3.0
+135,365000.0,"Dell Farm Road, Ruislip, Middlesex, HA4",HA4,2.0
+137,310000.0,"Hanover Court, Torrington Road, Ruislip Manor, Middlesex, HA4",HA4,1.0
+139,1250000.0,"Thornhill Road, Ickenham, UB10",UB10,5.0
+145,230000.0,"Silverdale Road, Hayes, Middlesex, UB3 3BX",UB3,1.0
+146,1295000.0,"Ducks Hill Road, Northwood, Middlesex, HA6",HA6,4.0
+147,220000.0,"Aintree Close, Hillingdon, UB8",UB8,1.0
+148,335000.0,"Pembroke Road, Ruislip, HA4",HA4,1.0
+149,575000.0,"Gossage Road, Uxbridge, UB10",UB10,3.0
+150,625000.0,"Long Lane, Hillingdon, UB10",UB10,3.0
+151,650000.0,"Beech Avenue, Ruislip, Middlesex, HA4",HA4,2.0
+152,399950.0,"Coldharbour Lane, Hayes, Middlesex, UB3",UB3,2.0
+158,365000.0,"Reservoir Road, Ruislip, HA4",HA4,2.0
+159,335000.0,"Willow Court, Springwell Lane, Rickmansworth, Hertfordshire, WD3",WD3,2.0
+160,354995.0,"The Dairy,, Westgate Court, 297 Long Lane, Uxbridge, UB10",UB10,1.0
+161,349995.0,"The Dairy,, Westgate Court, 297 Long Lane, Uxbridge, UB10",UB10,1.0
+162,344995.0,"The Dairy,, Westgate Court, 297 Long Lane, Uxbridge, UB10",UB10,1.0
+163,420000.0,"Laburnum Road, Hayes, UB3",UB3,3.0
+164,325000.0,"Pages Lane, Uxbridge, UB8",UB8,2.0
+165,280000.0,"The Coppice, West Drayton, UB7",UB7,2.0
+166,475000.0,"Glebe Avenue, Ruislip, Middlesex, HA4",HA4,2.0
+167,1850000.0,"Gatehill Road, Northwood, HA6",HA6,4.0
+168,380000.0,"Northwood Road, Harefield, Middlesex, UB9",UB9,2.0
+172,399950.0,"Orchard Court, The Island, West Drayton, UB7 0ES",UB7,2.0
+173,365000.0,"Park Wood Court, 5 Reservoir Road, Ruislip, HA4",HA4,2.0
+174,375000.0,"Cowley Mill Road, Uxbridge, Middlesex, UB8 2DB",UB8,2.0
+176,675000.0,"Clovelly Avenue, Ickenham, UB10",UB10,4.0
+177,295000.0,"Gower House, Barra Hall Circus, Barra Hall Road, Hayes, UB3 2NP",UB3,2.0
+180,560000.0,"Thurlstone Road, Ruislip, Middlesex, HA4",HA4,3.0
+182,500000.0,"Fountain Close, Hillingdon, UB8",UB8,3.0
+183,525000.0,"Shepiston Lane, Hayes, UB3 1LL",UB3,4.0
+186,267500.0,"Cooper House, 21 Coleridge Drive, Ruislip, Middlesex, HA4",HA4,1.0
+187,365000.0,"Meadway Gardens, Ruislip, Middlesex, HA4",HA4,2.0
+188,525000.0,"Marchbank House, 31 Ducks Hill Road, Northwood, Middlesex, HA6",HA6,2.0
+192,410000.0,"Woodrow Avenue, Hayes, Middlesex, UB4",UB4,3.0
+193,465000.0,"Field End Road, Ruislip, Middlesex, HA5",HA5,2.0
+194,395000.0,"Field End Road, Ruislip, Middlesex, HA5",HA5,1.0
+197,132000.0,"Wren Lane, Ruislip, Middlesex, HA4",HA4,1.0
+198,300000.0,"Belmont Road, Uxbridge, Middlesex, UB8",UB8,1.0
+200,525000.0,"Shepiston Lane, Hayes, UB3 1LL",UB3,4.0
+201,350000.0,"Adstock Court, 39 Coleridge Drive, Ruislip, Middlesex, HA4",HA4,2.0
+203,330000.0,"Riverside Road, Stanwell, TW19 7LA",TW19,2.0
+204,550000.0,"Greenhill Court, 1 Dene Road, Northwood, Middlesex, HA6",HA6,2.0
+205,475000.0,"Maygoods Close, Uxbridge, UB8",UB8,3.0
+207,250000.0,"Oakleigh Road, Uxbridge, Middlesex, UB10",UB10,1.0
+208,600000.0,"Fairacres, Ruislip, Middlesex, HA4",HA4,4.0
+209,400000.0,"Leaf Close, Northwood, Middlesex, HA6",HA6,3.0
+210,475000.0,"23A Bedford Avenue, Hayes, Middlesex, UB4",UB4,3.0
+211,335000.0,"Springwood Close, Harefield, UB9",UB9,2.0
+213,415000.0,"Tolcarne Drive, Pinner, Middlesex, HA5",HA5,2.0
+214,565000.0,"Barrington Drive, Harefield, Uxbridge, Middlesex, UB9",UB9,3.0
+215,485000.0,"Summer Gardens, Ickenham, UB10",UB10,2.0
+216,325000.0,"Winston House, 1A High Road, Ickenham, Uxbridge, UB10",UB10,1.0
+218,290000.0,"Vantage Building, High Point Village, UB3",UB3,1.0
+219,385000.0,"Waters Reach Apartments, 10 Reservoir Road, Ruislip, Middlesex, HA4",HA4,2.0
+222,350000.0,"Otter Way, West Drayton, UB7",UB7,2.0
+223,279950.0,"Whitehall Road, Uxbridge, UB8",UB8,1.0
+224,415000.0,"Beechwood Avenue, Hayes, UB3",UB3,3.0
+225,462950.0,"The Dice,
+St. Andrews Park, Uxbridge, 
+UB10",UB10,2.0
+226,575000.0,"Coniston Gardens, Pinner, HA5",HA5,3.0
+228,355000.0,"Luna Apartments, 272 Field End Road, Ruislip, Middlesex, HA4",HA4,2.0
+229,370000.0,"Luna Apartments, 272 Field End Road, Ruislip, Middlesex, HA4",HA4,2.0
+230,325000.0,"Luna Apartments, 272 Field End Road, Ruislip, Middlesex, HA4",HA4,1.0
+231,260000.0,"Prospect Close, Ruislip, Middlesex, HA4",HA4,1.0
+232,465000.0,"Pendula Drive, Hayes, UB4",UB4,3.0
+233,379995.0,"Windsor House, 36-38 Windsor Street, Uxbridge, Middlesex, UB8",UB8,2.0
+234,475000.0,"Nine Acres Close, Hayes, UB3",UB3,3.0
+235,485000.0,"North Avenue, Hayes, UB3",UB3,3.0
+236,635000.0,"Kings Road, Uxbridge, UB8",UB8,3.0
+237,575000.0,"Crest Gardens, Ruislip, HA4",HA4,3.0
+238,460000.0,"Laburnum Avenue, West Drayton, UB7",UB7,3.0
+241,475000.0,"Sutton Court Road, Uxbridge, UB10",UB10,3.0
+242,515000.0,"Glencoe Road, Hayes, Middlesex, UB4",UB4,3.0
+243,290000.0,"Cranston Close, Uxbridge, UB10",UB10,1.0
+245,131250.0,"Station Road, West Drayton, Middlesex, UB7",UB7,2.0
+246,375000.0,"Station Road, West Drayton, Middlesex, UB7",UB7,2.0
+247,500000.0,"Autumn Way, West Drayton, UB7",UB7,3.0
+248,290000.0,"Stratford Road, Hayes, UB4",UB4,2.0
+249,450000.0,"Summerhouse Lane, Harmondsworth, UB7 0AW",UB7,2.0
+250,289950.0,"Pinewood Avenue, Hillingdon, UB8",UB8,2.0
+251,659950.0,"Vinlake Avenue, Ickenham, UB10",UB10,3.0
+253,775000.0,"Cedar Grange, 50 Ducks Hill Road, Northwood, HA6",HA6,3.0
+254,300000.0,"23 Clayton Road, Hayes, UB3",UB3,2.0
+257,635000.0,"Shenley Avenue, Ruislip, Middlesex, HA4",HA4,3.0
+259,349950.0,"Church Road, Uxbridge, Middlesex, UB8",UB8,2.0
+261,485000.0,"Drayton Gardens, West Drayton, Middlesex, UB7 7LQ",UB7,3.0
+263,129950.0,"Waterside, Uxbridge, Middlesex, UB8",UB8,0.0
+264,355000.0,"Hillingdon Road,
+Hillingdon,
+Uxbridge,
+UB10",UB10,2.0
+270,315000.0,"St. Peters Road, Uxbridge, UB8",UB8,2.0
+271,499950.0,"The Furrows, UB9",UB9,3.0
+272,160000.0,"Tasker Close, Hayes, Middlesex, UB3",UB3,0.0
+275,375000.0,"Cowley Mill Road, Uxbridge, Middlesex, UB8 2DB",UB8,2.0
+276,305000.0,"Morton Close, Hillingdon, UB8",UB8,2.0
+277,475000.0,"Windmill Hill, Ruislip, HA4",HA4,2.0
+283,625000.0,"Peel Way, Hillingdon, UB8",UB8,3.0
+285,710000.0,"Eastcote Road, Ruislip, Middlesex, HA4",HA4,4.0
+287,365000.0,"Walsham Court, Perkins Gardens, Ickenham, UB10",UB10,1.0
+288,315000.0,"Hampstead House, West Drayton, UB7",UB7,2.0
+289,439950.0,"Cowley Mill Road, Uxbridge, Middlesex, UB8",UB8,3.0
+291,550000.0,"Andover Close, Uxbridge, Middlesex, UB8",UB8,4.0
+292,525000.0,"Cousins Close, Yiewsley, UB7",UB7,3.0
+293,485000.0,"Hastoe Close, Hayes, Middlesex, UB4",UB4,3.0
+294,545000.0,"Windsor Avenue, Hillingdon, Middlesex, UB10",UB10,3.0
+295,775000.0,"Chandos Road, Pinner, Middlesex, HA5",HA5,3.0
+296,465000.0,"Brickett Close, Ruislip, Middlesex, HA4",HA4,3.0
+298,400000.0,"The Fairway, Ruislip, HA4",HA4,2.0
+301,285000.0,"Long Lane, Hillingdon, UB10",UB10,1.0
+308,725000.0,"Strone Way, Hayes, Middlesex, UB4",UB4,4.0
+309,835000.0,"Linden Avenue, Ruislip, Middlesex HA4",HA4,4.0
+311,1300000.0,"Waterways Cottage, Harefield, Uxbridge, UB9",UB9,3.0
+312,695000.0,"Pynchester Close, Ickenham, UB10",UB10,3.0
+314,279950.0,"St Peters Road, Uxbridge, Middlesex, UB8",UB8,2.0
+315,595000.0,"Otterfield Road, Yiewsley, West Drayton, Middlesex, UB7",UB7,3.0
+316,375000.0,"Belmont Road, Uxbridge, Middlesex, UB8",UB8,2.0
+318,295000.0,"Heath Court, Park Road, Uxbridge, Uxbridge, UB8 1NU",UB8,2.0
+320,240000.0,"Victoria Road, Ruislip, HA4",HA4,1.0
+321,385000.0,"Columbus Gardens, Northwood, Middlesex, HA6",HA6,2.0
+323,450000.0,"Manningtree Road, Ruislip, Middlesex, HA4",HA4,2.0
+325,462950.0,"The Dice,
+St. Andrews Park, Uxbridge, 
+UB10",UB10,2.0
+326,285000.0,"Riverbank Point, 114 High Street, Uxbridge, Middlesex, UB8",UB8,1.0
+327,425000.0,"Goulds Green, Hillingdon, UB8",UB8,3.0
+329,640000.0,"Binstead Close, Hayes, Middlesex, UB4",UB4,3.0
+330,355000.0,"Harlington Road, Uxbridge, Middlesex, UB8",UB8,2.0
+331,950000.0,"Eastcote Road, Ruislip, HA4",HA4,4.0
+332,285000.0,"Warsaw Close, Ruislip, Middlesex, HA4",HA4,1.0
+334,530000.0,"Maybank Gardens, Pinner, Middlesex, HA5",HA5,3.0
+335,850000.0,"The Fairway, Ruislip, HA4",HA4,4.0
+336,479950.0,"Berkeley Road, Uxbridge, Middlesex, UB10",UB10,3.0
+337,325000.0,"Northdown Close, Ruislip, Middlesex, HA4",HA4,2.0
+340,340000.0,"Kingsend, Ruislip, HA4",HA4,1.0
+341,350000.0,"Norfolk Road, Uxbridge, Middlesex, UB8",UB8,2.0
+342,675000.0,"Joel Street, Northwood, Middlesex, HA6",HA6,3.0
+343,550000.0,"Willow Gardens, Ruislip, HA4",HA4,3.0
+344,449950.0,"Southfield Close, Uxbridge, Middlesex, UB8",UB8,3.0
+345,860000.0,"Belmont Close, North Uxbridge, Middlesex, UB8",UB8,3.0
+346,729950.0,"Montague Road, North Uxbridge, Middlesex, UB8",UB8,3.0
+347,675000.0,"Lichfield Road, Northwood, Middlesex, HA6",HA6,3.0
+348,650000.0,"St. Margarets Avenue, Hillingdon, Middlesex, UB8",UB8,4.0
+349,830000.0,"Vyners Way, Ickenham, UB10",UB10,3.0
+351,535000.0,"Oakview House, Swakeleys Road, Ickenham, UB10",UB10,2.0
+352,215000.0,"Burns Close, Hayes, Middlesex, UB4",UB4,1.0
+353,500000.0,"Derwent Drive, Hayes, UB4",UB4,4.0
+355,314995.0,"Lovell House, 271 High Street, Uxbridge, Middlesex, UB8",UB8,1.0
+358,800000.0,"Eleanor Grove, Ickenham, UB10",UB10,4.0
+362,360000.0,"Anderson Close, Harefield, Uxbridge, Middlesex, UB9",UB9,2.0
+365,3500000.0,"Kewferry Drive, Northwood, Middlesex, HA6",HA6,8.0
+366,550000.0,"Church Road, Hayes, UB3",UB3,4.0
+367,550000.0,"Cowley Mill Road, Uxbridge, UB8",UB8,4.0
+371,531000.0,"Nestles Avenue,
+Hayes,
+UB3 4QF",UB3,3.0
+372,325000.0,"Crosby Gardens, Uxbridge, UB8",UB8,2.0
+373,425000.0,"Greystoke Drive, Ruislip, HA4",HA4,2.0
+376,380000.0,"Cranmer Road, Hayes, UB3",UB3,3.0
+377,279950.0,"Errol Gardens, Hayes, Middlesex, UB4",UB4,2.0
+382,275000.0,"Findhorn Avenue, Hayes, UB4",UB4,2.0
+383,499950.0,"Chester Road, Northwood, Middlesex, HA6",HA6,3.0
+387,480000.0,"Blyth Road,
+Hayes,
+UB3",UB3,2.0
+388,425000.0,"Blyth Road,
+Hayes,
+UB3",UB3,2.0
+389,550000.0,"Queens Silver Court, 32 Rickmansworth Road, Northwood, HA6",HA6,2.0
+390,495000.0,"Attlee Road, Hayes, Middlesex, UB4 9JB",UB4,4.0
+391,375000.0,"Glenhurst Avenue, Ruislip, Middlesex, HA4",HA4,2.0
+392,650000.0,"Edinburgh Drive, Ickenham, UB10",UB10,3.0
+393,895000.0,"Ducks Hill Road, Ruislip, HA4",HA4,3.0
+396,300000.0,"Avon Close, Hayes, UB4 9AH",UB4,2.0
+397,650000.0,"Cowley Road, Uxbridge, UB8",UB8,4.0
+398,230000.0,"Sherleys Court, Wood Lane, Ruislip, HA4",HA4,1.0
+399,450000.0,"Winslow Close, Pinner, Middlesex, HA5",HA5,2.0
+402,675000.0,"Swakeleys Road, Ickenham, UB10",UB10,4.0
+403,900000.0,"Orchard Drive, Uxbridge, UB8",UB8,4.0
+405,750000.0,"Azalea Walk, Pinner, Middlesex HA5",HA5,4.0
+406,510000.0,"Kevere Court, Kewferry Drive, Northwood, HA6",HA6,2.0
+409,695000.0,"Ivy House Road, Ickenham, UB10",UB10,3.0
+411,429950.0,"Kingsend, Ruislip, HA4",HA4,2.0
+412,500000.0,"Varcoe Gardens, Hayes, UB3",UB3,4.0
+413,750000.0,"Norwich Road, Northwood, HA6",HA6,4.0
+414,280000.0,"St. Peters Close, Ruislip, Middlesex, HA4",HA4,1.0
+415,625000.0,"River Close, Ruislip, Middlesex, HA4",HA4,3.0
+416,380000.0,"The Long Room Apartments, Royal Quay, Harefield, Uxbridge, UB9",UB9,2.0
+417,530000.0,"The Furrows, Harefield, Uxbridge, Middlesex, UB9",UB9,3.0
+419,625000.0,"Wingfield Way, Ruislip, Middlesex, HA4",HA4,4.0
+420,575000.0,"West End Road, Ruislip, HA4",HA4,3.0
+421,540000.0,"Field End Road, Ruislip, HA4",HA4,3.0
+422,480000.0,"Lynmouth Drive, Ruislip, Middlesex, HA4",HA4,2.0
+423,2950000.0,"Kewferry Drive, Northwood, Middx, HA6",HA6,5.0
+426,275000.0,"Station Approach, Hayes, UB3",UB3,1.0
+427,565000.0,"Wilmar Close, Uxbridge, UB8",UB8,3.0
+428,565000.0,"Wilmar Close, Uxbridge, UB8",UB8,3.0
+429,490000.0,"Blyth Road,
+Hayes,
+UB3",UB3,2.0
+430,1725000.0,"King Edwards Road, Ruislip, Middlesex, HA4",HA4,5.0
+431,165000.0,"Caroline Place, Harlington, UB3 5AF",UB3,0.0
+433,639950.0,"Churchill Avenue, Hillingdon, UB10",UB10,3.0
+434,900000.0,"Howletts Lane, Ruislip, Middlesex, HA4",HA4,4.0
+436,775000.0,"Brook Close, Ruislip, HA4",HA4,3.0
+437,435000.0,"Walsham Court, Perkins Gardens, Uxbridge, Middlesex, UB10",UB10,2.0
+440,275000.0,"Merrivale Mews, West Drayton, UB7",UB7,2.0
+444,650000.0,"Bridgwater Road, Ruislip, Middlesex, HA4",HA4,4.0
+447,309950.0,"Albacore Way, Hayes, UB3",UB3,2.0
+448,300000.0,"Conway Drive, Hayes, Middlesex, Ub3",Ub3,3.0
+450,185000.0,"Bullrush Grove, Cowley, UB8",UB8,0.0
+451,680000.0,"Hill Lane, Ruislip, HA4",HA4,3.0
+454,635000.0,"Mount Park Road, Eastcote, Pinner, Middlesex HA5",HA5,3.0
+455,425000.0,"CIRCA Heathrow, Hayes, UB3",UB3,2.0
+456,400000.0,"CIRCA Heathrow, Hayes, UB3",UB3,2.0
+457,550000.0,"Myddleton Road, Uxbridge, UB8",UB8,3.0
+459,199950.0,"Botwell Lane, Hayes, Middlesex, UB3",UB3,1.0
+464,565000.0,"Sentis Court, 8 Carew Road, Northwood, HA6",HA6,2.0
+469,260000.0,"60b Ashwood Avenue, Uxbridge, UB8",UB8,1.0
+471,425000.0,"West Walk, Hayes, Middlesex, UB3",UB3,3.0
+472,385000.0,"Pembroke Road, Ruislip, HA4",HA4,2.0
+474,800000.0,"Belmont Road, Uxbridge, Middlesex, UB8",UB8,3.0
+476,420000.0,"Morgan Close, Northwood, Middlesex, HA6",HA6,2.0
+477,380000.0,"Gladiator House, Uxbridge, UB8",UB8,1.0
+479,290000.0,"Regents Lodge, West Drayton, UB7",UB7,1.0
+480,400000.0,"Braybourne Close, Uxbridge, UB8",UB8,2.0
+484,295000.0,"Union Park, Packet Boat Lane, Uxbridge, Middlesex, UB8",UB8,1.0
+485,320000.0,"Hallowell Road, Northwood, Middlesex, HA6",HA6,2.0
+486,360000.0,"Edwards Avenue, Ruislip, HA4",HA4,2.0
+488,435000.0,"Swakeleys Road, Ickenham, UB10",UB10,2.0
+491,500000.0,"Colham Road, Hillingdon, UB8",UB8,3.0
+492,300000.0,"Worcester Road, Uxbridge, UB8",UB8,2.0
+493,280000.0,"Station Approach, Hayes, UB3",UB3,1.0
+494,489000.0,"Yeading Lane, Hayes, UB4",UB4,3.0
+495,369950.0,"Woodstock Gardens, Hayes, Middlesex, UB4",UB4,2.0
+496,439950.0,"Grosvenor Crescent, Hillingdon, UB10",UB10,3.0
+497,725000.0,"Angle Close, Hillingdon, UB10",UB10,3.0
+500,625000.0,"Long Lane, Hillingdon, UB10",UB10,3.0
+501,600000.0,"Crosier Road, Ickenham, UB10",UB10,3.0
+504,915000.0,"Applewood Close, Ickenham, UB10",UB10,4.0
+509,475000.0,"Blacklands Drive, Hayes, Middlesex, UB4",UB4,3.0
+510,275000.0,"Signal Building, Station Approach, Hayes, UB3",UB3,1.0
+515,650000.0,"Cardinal Road, Ruislip, Middlesex, HA4",HA4,3.0
+518,400000.0,"Blisworth Close, Hayes, UB4",UB4,2.0
+520,435000.0,"Princes Park Lane, Hayes, UB3",UB3,3.0
+521,725000.0,"Glenthorne Close, Hillingdon, UB10",UB10,4.0
+522,339950.0,"Heather Close, Hillingdon, UB8",UB8,3.0
+524,485000.0,"Mansfield drive, Hayes, UB4 8DZ",UB4,4.0
+531,535000.0,"Ferndale Crescent, Uxbridge, Middlesex, UB8",UB8,3.0
+535,600000.0,"Carew Lodge, Carew Road, Northwood, HA6",HA6,2.0
+536,800000.0,"Long Lane, Uxbridge, Middlesex, UB10 9JN",UB10,4.0
+539,465000.0,"Field Way, Ruislip, Middlesex, HA4",HA4,2.0
+540,415000.0,"Blisworth Close, Hayes, UB4",UB4,2.0
+541,550000.0,"Myrtleside Close, Northwood, Middlesex, HA6",HA6,2.0
+543,410000.0,"Parsonage Close, Hayes, Middlesesx, UB3 2LZ",UB3,3.0
+544,700000.0,"Whitstable Close, Ruislip, Middlesex, HA4",HA4,3.0
+545,550000.0,"West End Road, Ruislip, Middlesex, HA4",HA4,3.0
+546,480000.0,"Bridge Road, Uxbridge, Middlesex, UB8",UB8,3.0
+547,299950.0,"Park Lane, Hayes, Middlesex, UB4",UB4,2.0
+548,525000.0,"Grosvenor Crescent, Hillingdon, Middlesex, UB10",UB10,4.0
+549,600000.0,"Shorediche Close, Ickenham, UB10",UB10,3.0
+551,280000.0,"Vantage Building, UB3",UB3,1.0
+553,380000.0,"Westbourne Close, Hayes, Middlesex, UB4",UB4,2.0
+557,650000.0,"Paignton Road, Ruislip Manor, Middlesex, HA4",HA4,4.0
+558,235000.0,"Varcoe Gardens, Hayes, Middlesex, UB3",UB3,1.0
+559,514000.0,"Denecroft Crescent, Hillingdon, Middlesex, UB10",UB10,4.0
+560,225000.0,"Victoria Road, Ruislip Manor, Middlesex, HA4",HA4,1.0
+561,470000.0,"Bessingby Road, Ruislip, Middlesex, HA4",HA4,3.0
+563,725000.0,"Church Place, Ickenham, UB10",UB10,2.0
+564,400000.0,"Wren Lane, Ruislip, Middlesex, HA4",HA4,2.0
+565,699950.0,"Maple Close, Eastcote, Middlesex HA4",HA4,5.0
+568,355000.0,"Glenhurst Avenue, Ruislip, HA4",HA4,2.0
+571,699950.0,"Morford Close, Ruislip, Middlesex, HA4",HA4,2.0
+574,600000.0,"Greenhill Court, 1 Dene Road, Northwood, Middlesex, HA6",HA6,2.0
+576,250000.0,"Landseer Court, Raeburn Road, Hayes, UB4 8PL",UB4,1.0
+577,400000.0,"Wren Lane, Ruislip, Middlesex, HA4",HA4,2.0
+578,350000.0,"Laurel Court, Chadwick Gardens, Uxbridge, UB8",UB8,2.0
+579,540000.0,"Bluenote Apartments, Hayes, UB3",UB3,3.0
+580,235000.0,"Braybourne Close, Uxbridge, UB8",UB8,1.0
+581,485000.0,"Bluenote Apartments, Hayes, UB3",UB3,2.0
+582,235000.0,"Rosslyn Close, Hayes, UB3",UB3,1.0
+583,650000.0,"Devon Way, Hillingdon Village, UB10",UB10,6.0
+584,665000.0,"Pole Hill Road, Hillingdon, UB10",UB10,4.0
+585,399950.0,"Blisworth Close, Hayes, UB4",UB4,2.0
+586,385000.0,"Athol Way, Hillingdon, UB10",UB10,2.0
+587,490000.0,"Bluenote Apartments, Hayes, UB3",UB3,2.0
+589,390000.0,"Greenway, Hayes, UB4",UB4,2.0
+590,615000.0,"West End Road, Ruislip, Middlesex, HA4",HA4,3.0
+592,435000.0,"Elliott Avenue, Ruislip, Middlesex, HA4",HA4,2.0
+593,825000.0,"Courtlands Close, Ruislip, Middlesex, HA4",HA4,4.0
+594,250000.0,"Clarkes Drive, Uxbridge, Middlesex, UB8",UB8,1.0
+596,825000.0,"Courtlands Close, Ruislip, Middlesex HA4",HA4,4.0
+597,595000.0,"Coleridge Drive, Eastcote, HA4",HA4,3.0
+598,825000.0,"Herlwyn Avenue, Ruislip, Middlesex, HA4",HA4,4.0
+599,510000.0,"The Furrows, Harefield, UB9",UB9,3.0
+602,376950.0,"Crosier Road, Ickenham, UB10",UB10,2.0
+603,825000.0,"Courtlands Close, Ruislip, HA4",HA4,4.0
+609,925000.0,"Truesdales, Ickenham, UB10",UB10,5.0
+610,450000.0,"Cambridge Close, Harmondsworth, Middlesex, UB7 0AN",UB7,4.0
+611,650000.0,"High Street, Harmondsworth, Middlesex, UB7 0AJ",UB7,5.0
+614,180000.0,"Gell Close, Uxbridge, UB10",UB10,0.0
+616,750000.0,"Stowe Crescent, Ruislip, HA4",HA4,5.0
+624,400000.0,"Park Road, Uxbridge, UB8",UB8,2.0
+625,625000.0,"Long Lane, Hillingdon, UB10",UB10,3.0
+626,850000.0,"Bridle Road, Pinner, Middlesex HA5",HA5,3.0
+630,589950.0,"Uxbridge Road, Hillingdon, UB10",UB10,4.0
+631,725000.0,"Chamberlain Way, Pinner, HA5",HA5,2.0
+632,450000.0,"Perkins Gardens, Ickenham, UB10",UB10,2.0
+636,710000.0,"Ickenham Close, Ruislip, Middlesex, HA4",HA4,3.0
+637,263625.0,"Rockingham Road, Uxbridge, Greater London, UB8",UB8,0.0
+638,375250.0,"Rockingham Road, Uxbridge, Greater London, UB8",UB8,2.0
+639,319995.0,"Lovell House, 271 High Street, Uxbridge, Middlesex, UB8",UB8,1.0
+640,280000.0,"Gainsborough Road, Hayes, UB4",UB4,2.0
+641,434995.0,"Lovell House, 271 High Street, Uxbridge, Middlesex, UB8",UB8,2.0
+642,239950.0,"Rabournmead Drive, Northolt, UB5",UB5,1.0
+643,650000.0,"Botwell Lane, Hayes, UB3 2AQ",UB3,5.0
+647,365000.0,"Alandale Drive, Pinner, Middlesex, HA5",HA5,2.0
+649,725000.0,"Swakeleys Drive, Ickenham, Uxbridge, Middlesex, UB10",UB10,3.0
+650,385000.0,"Harlington Road, Hillingdon, UB8",UB8,3.0
+651,320000.0,"Belmont Road, Uxbridge, Middlesex, UB8",UB8,1.0
+652,375000.0,"Belmont Road, Uxbridge, Middlesex, UB8",UB8,2.0
+653,385000.0,"Belmont Road, Uxbridge, Middlesex, UB8",UB8,2.0
+654,485000.0,"Fourth Avenue, Hayes, UB3",UB3,3.0
+655,1295000.0,"Cygnet Close, Northwood, Middlesex, HA6",HA6,4.0
+656,915000.0,"Stanley Road, Northwood, Middlesex, HA6",HA6,5.0
+657,419999.0,"Berwick Avenue, Hayes, Middlesex, UB4 0NH",UB4,3.0
+658,521950.0,"The Dice,
+St. Andrews Park, Uxbridge, 
+UB10",UB10,3.0
+659,465950.0,"The Dice,
+St. Andrews Park, Uxbridge, 
+UB10",UB10,2.0
+661,309950.0,"Albacore Way, Hayes, Middlesex, UB3",UB3,2.0
+662,299950.0,"The Dice,
+St. Andrews Park, Uxbridge, 
+UB10",UB10,1.0
+663,735000.0,"Pepys Close, Ickenham, Uxbridge, Middlesex, UB10",UB10,3.0
+664,570000.0,"Glebe Avenue, Ickenham, Uxbridge, Middlesex, UB10",UB10,3.0
+668,355000.0,"Crosier Road, Ickenham, UB10",UB10,2.0
+670,635000.0,"Park Road, North Uxbridge, Middlesex, UB8",UB8,3.0
+673,245000.0,"Reid Close, Hayes, Middlesex, UB3",UB3,2.0
+674,550000.0,"Willow Grove, Ruislip, Middlesex, HA4",HA4,2.0
+675,375000.0,"Long Lane, Ickenham, UB10",UB10,2.0
+676,300000.0,"West End Road, Ruislip, ., HA4 6QG",HA4,2.0
+677,500000.0,"Parkfield Crescent, Ruislip, Middlesex, HA4",HA4,3.0
+678,435000.0,"Kaduna Close, Pinner, Middlesex, HA5",HA5,3.0
+685,1600000.0,"Murray Road, Northwood, Middlesex, HA6",HA6,5.0
+687,360000.0,"Sherleys Court, Wood Lane, Ruislip, HA4",HA4,2.0
+688,485000.0,"Cardinal Road, Ruislip, Middlesex, HA4",HA4,2.0
+689,625000.0,"89 Ducks Hill Road, Northwood, Middlesex, HA6",HA6,2.0
+691,475000.0,"Bedford Avenue,  Hayes, Middlesex, UB4 0DP",UB4,3.0
+692,850000.0,"Linden Avenue, Ruislip, Middlesex, HA4",HA4,3.0
+694,650000.0,"Victoria Road, Ruislip, Middlesex, HA4",HA4,5.0
+697,425000.0,"Park Lane, Harefield, Uxbridge, Middlesex, UB9",UB9,4.0
+698,699950.0,"Stedman Close, Ickenham, UB10",UB10,3.0
+699,315000.0,"Northwood,Middlesex,HA6",HA6,2.0
+700,344995.0,"Westgate Court,
+297 Long Lane,
+Hillingdon,
+UB10 9EW",UB10,1.0
+701,1450000.0,"Broadwood Avenue, Ruislip, HA4",HA4,6.0
+702,675000.0,"Pynchester Close, Ickenham, UB10",UB10,3.0
+703,725000.0,"Long Lane, Ickenham, Middlesex, UB10 8SX",UB10,3.0
+708,475000.0,"Tolcarne Drive, Pinner, HA5",HA5,2.0
+710,425000.0,"High Street, Harefield, Uxbridge, Middlesex, UB9",UB9,3.0
+713,725000.0,"Ickenham Road, Ruislip, Middlesex, HA4",HA4,4.0
+714,750000.0,"Thomas Drive, Uxbridge, Middlesex, UB8",UB8,5.0
+715,625000.0,"Pield Heath Avenue, Hillingdon, UB8",UB8,4.0
+718,425000.0,"Mill Drive, Ruislip, HA4",HA4,2.0
+719,370000.0,"Douglas Crescent, Hayes, Middlesex, UB4",UB4,2.0
+721,350000.0,"Douglas Crescent, Hayes, Middlesex, UB4",UB4,2.0
+726,575000.0,"Dyson Drive, Uxbridge, Middlesex, UB10",UB10,3.0
+727,489950.0,"Frogmore Avenue, Hayes, Middlesex, UB4",UB4,3.0
+728,700000.0,"Ickenham Road, Ruislip, Middlesex, HA4",HA4,3.0
+729,650000.0,"The Greenway, Ickenham, UB10",UB10,3.0
+731,315000.0,"Cranston Close, Ickenham, UB10",UB10,2.0
+733,895000.0,"Ducks Hill Road, Ruislip, Middlesex, HA4",HA4,3.0
+734,539950.0,"Kent Close, North Uxbridge, Middlesex, UB8",UB8,3.0
+735,895000.0,"Ducks Hill Road, Ruislip, Middlesex, HA4",HA4,3.0
+736,460000.0,"Brook Drive, Ruislip, HA4",HA4,2.0
+737,439950.0,"Denecroft Crescent, Hillingdon, Middlesex, UB10",UB10,3.0
+738,720000.0,"Elm Avenue, Ruislip, HA4",HA4,4.0
+740,500000.0,"Bridgwater Road, Ruislip, Middlesex, HA4",HA4,3.0
+741,325000.0,"Malmesbury Close, Pinner, Middlesex, HA5",HA5,2.0
+742,450000.0,"Newdigate Road, Harefield, Uxbridge, Middlesex, UB9",UB9,3.0
+743,375000.0,"Station Approach, Hayes, UB3",UB3,2.0
+745,285000.0,"St. Peters Close, Ruislip, Middlesex, HA4",HA4,1.0
+747,315000.0,"High Street, Northwood, Middlesex, HA6",HA6,2.0
+753,260000.0,"Standale Grove, Ruislip, Middlesex, HA4",HA4,1.0
+754,535000.0,"Victoria Avenue, Hillingdon, Middlesex, UB10",UB10,4.0
+757,730000.0,"Azalea Walk, Pinner, Middlesex HA5",HA5,4.0
+758,825000.0,"St. Andrews Close, Ruislip, Middlesex, HA4",HA4,6.0
+759,395000.0,"Allonby Drive, Ruislip, HA4",HA4,2.0
+760,425000.0,"Newdigate Road, Harefield, Uxbridge, Middlesex, UB9",UB9,3.0
+761,500000.0,"Fairlight Drive, North Uxbridge, Middlesex, UB8",UB8,3.0
+763,415000.0,"Lanata Walk, Yeading, UB4 9PY",UB4,3.0
+765,325000.0,"Petworth Gardens, Hillingdon, UB10",UB10,2.0
+766,320000.0,"Brecon Lodge, West Drayton, UB7",UB7,2.0
+767,580000.0,"The Fairway, Ruislip, Middlesex, HA4",HA4,3.0
+768,369950.0,"Newcombe Rise, Yiewsley, West Drayton, Middlesex, UB7",UB7,2.0
+770,380000.0,"Beech Avenue, Ruislip, HA4",HA4,2.0
+771,1400000.0,"Murray Road, Northwood, Middlesex, HA6",HA6,5.0
+772,410000.0,"Park Wood Court, 5 Reservoir Road, Ruislip, Middlesex, HA4",HA4,2.0
+773,285000.0,"West End Lane, Hayes, Middlesex, UB3 5LU",UB3,2.0
+775,521950.0,"The Dice,
+St. Andrews Park, Uxbridge, 
+UB10",UB10,3.0
+776,239950.0,"Fairbourne House, Bourne Avenue, Hayes, UB3",UB3,1.0
+779,425000.0,"Finians Close, Uxbridge, Middlesex, UB10",UB10,3.0
+780,275000.0,"Kingswood Place, Hayes, UB4",UB4,1.0
+781,465000.0,"Rickmansworth Road, Northwood, Middlesex, HA6",HA6,2.0
+782,675000.0,"Rowan Place, Hayes, UB4",UB4,6.0
+785,115995.0,"Packet Boat Marina, Packet Boat Lane, Uxbridge, Greater London, UB8",UB8,1.0
+786,42500.0,"Packet Boat Marina, Packet Boat Lane, Uxbridge, Greater London, UB8",UB8,1.0
+787,510000.0,"Dunbar Close, Hayes, UB4",UB4,4.0
+791,200000.0,"Trident House, 76 Station Road, Hayes, Middlesex, UB3",UB3,0.0
+792,400000.0,"Church Close, Uxbridge, Middlesex, UB8",UB8,2.0
+793,1200000.0,"Meadway, Ruislip, HA4",HA4,4.0
+796,620000.0,"Hardy Avenue, Ruislip, Middlesex, HA4",HA4,4.0
+797,300000.0,"Victoria Road, Ruislip Manor, Middlesex, HA4",HA4,3.0
+808,470000.0,"Longmead Road, Hayes, UB3 2HE",UB3,3.0
+814,299950.0,"Sipson, UB7",UB7,1.0
+815,250000.0,"Sandalwood Drive, Ruislip, Middlesex, HA4",HA4,1.0
+818,500000.0,"Myrtleside Close, Northwood, HA6",HA6,2.0
+819,469950.0,"Merton Avenue, Hillingdon, UB10",UB10,3.0
+821,300000.0,"Silvester House, 192 Joel Street, Pinner, HA5",HA5,2.0
+823,310000.0,"Balmoral Drive, Hayes, Middlesex, UB4",UB4,2.0
+827,850000.0,"Green Lane, Northwood, Middlesex, HA6",HA6,4.0
+828,1200000.0,"Milton Court, Ickenham, UB10",UB10,5.0
+830,400000.0,"Paget Road, Hillingdon, UB10",UB10,3.0
+831,290000.0,"Waterside, Union House, 23 Clayton Road, Hayes, UB3",UB3,1.0
+833,585000.0,"Herlwyn Avenue, Ruislip, Middlesex, HA4",HA4,3.0
+835,775000.0,"The Close, North HIllingdon, UB10",UB10,3.0
+836,481000.0,"Nestles Avenue,
+Hayes,
+UB3 4QF",UB3,2.0
+837,454000.0,"Nestles Avenue,
+Hayes,
+UB3 4QF",UB3,2.0
+841,760000.0,"Tudor Way, Hillingdon, UB10",UB10,3.0
+842,450000.0,"Tavistock Road,
+Yiewsley,
+West Drayton,
+UB7",UB7,2.0
+844,650000.0,"Churchill Road, Uxbridge, UB10",UB10,4.0
+845,490000.0,"Cedars Drive, Uxbridge, Greater London, UB10",UB10,3.0
+846,400000.0,"Station Approach, South Ruislip, HA4",HA4,2.0
+847,475000.0,"Northwood,HA6,HA6",HA6,2.0
+848,365000.0,"Hambledon Close, Hillingdon, UB8",UB8,2.0
+851,1050000.0,"Old Hatch Manor, Ruislip, Middlesex HA4",HA4,5.0
+854,300000.0,"Fulham Close, Uxbridge, Middlesex, UB10",UB10,2.0
+856,350000.0,"Martin Close, Uxbridge, Middlesex, UB10",UB10,2.0
+857,725000.0,"Woodford Crescent, Pinner, Middlesex, HA5",HA5,4.0
+858,450000.0,"Mellow Lane West, Hillingdon, Middlesex, UB10",UB10,3.0
+859,650000.0,"Whitby Road, Ruislip Manor, Middlesex, HA4",HA4,4.0
+863,295000.0,"Crispin Way, Hillingdon, UB8",UB8,2.0
+867,650000.0,"Ickenham Close, Ruislip, Middlesex, HA4",HA4,3.0
+868,425000.0,"Marco Polo Court, Trevor Crescent, Ruislip, HA4",HA4,2.0
+869,485000.0,"Long Lane, North Hillingdon, Middlesex, UB10",UB10,3.0
+870,450000.0,"Harefield Road, Uxbridge, UB8",UB8,3.0
+873,475000.0,"Harlington Road, Hillingdon, UB8",UB8,3.0
+877,775000.0,"Potter Street, Northwood, Middlesex, HA6",HA6,4.0
+878,950000.0,"Soval Court, Maxwell Road, Northwood, Middlesex, HA6",HA6,3.0
+880,995000.0,"Old Hatch Manor, Ruislip, HA4",HA4,5.0
+885,400000.0,"Gell Close, Ickenham, UB10",UB10,2.0
+886,420000.0,"Morford Way, Eastcote, Middlesex, HA4",HA4,3.0
+888,432000.0,"Nestles Avenue,
+Hayes,
+UB3 4QF",UB3,2.0
+891,280000.0,"Pembroke Road, Ruislip, HA4",HA4,1.0
+894,335000.0,"Winston House, High Road, Ickenham, UB10",UB10,1.0
+899,249995.0,"Windsor House, 36-38 Windsor Street, Uxbridge, Middlesex, UB8",UB8,1.0
+902,289995.0,"Windsor House, 36-38 Windsor Street, Uxbridge, Middlesex, UB8",UB8,1.0
+903,335000.0,"Park Lodge Avenue, West Drayton, UB7",UB7,2.0
+905,280000.0,"Waterside 23 Clayton Road, Hayes, ,, UB3 1AA",UB3,2.0
+908,530000.0,"Masson Avenue, Ruislip, Middlesex, HA4",HA4,3.0
+909,270000.0,"Hayes End Road, Hayes, Middlesex, UB4",UB4,2.0
+911,1395000.0,"Dukes Ride, Ickenham, Uxbridge, Middlesex, UB10",UB10,4.0
+912,995000.0,"The Drive, Ickenham, Uxbridge, UB10",UB10,2.0
+915,650000.0,"Eastfields, Pinner, Middlesex, HA5",HA5,3.0
+916,295000.0,"Philpots Close, Yiewsley, West Drayton, Middlesex, UB7",UB7,2.0
+921,420000.0,"1 Garnet Place, West Drayton, UB7",UB7,2.0
+922,400000.0,"Midhurst Gardens, Hillingdon, UB10",UB10,2.0
+925,485000.0,"Summer Gardens, Ickenham, UB10",UB10,2.0
+926,275000.0,"Bourne Court, Station Approach, Ruislip, Middlesex, HA4",HA4,1.0
+928,524950.0,"Ryefield Avenue, Uxbridge, UB10",UB10,3.0
+929,350000.0,"Green Lane, Northwood, HA6",HA6,1.0
+930,299950.0,"Corwell Gardens, Uxbridge, Greater London, UB8",UB8,1.0
+931,419950.0,"Corwell Gardens, Uxbridge, Greater London, UB8",UB8,2.0
+932,420000.0,"Corwell Gardens, Uxbridge, Greater London, UB8",UB8,2.0
+933,440000.0,"Corwell Gardens, Uxbridge, Greater London, UB8",UB8,2.0
+934,439950.0,"Corwell Gardens, Uxbridge, Greater London, UB8",UB8,2.0
+935,240000.0,"Thorney Mill Road, West Drayton, UB7",UB7,1.0
+936,225000.0,"Harmondsworth Road, West Drayton, UB7",UB7,1.0
+938,425000.0,"28, Kingsend, Ruislip, HA4",HA4,2.0
+941,350000.0,"Green Lane, Northwood, Middlesex, HA6",HA6,1.0
+942,425000.0,"Green Lane, Northwood, Middlesex, HA6",HA6,2.0
+943,280000.0,"Harefield,UB9,UB9",UB9,2.0
+945,320000.0,"Mendip Close, Harlington, UB3 5LH",UB3,2.0
+946,269950.0,"Yew Avenue, West Drayton, Middlesex, UB7",UB7,1.0
+947,275000.0,"Sutton Court Road, Hillingdon, UB10",UB10,0.0
+948,315000.0,"Bentinck Road, West Drayton, Middlesex, UB7",UB7,1.0
+949,116250.0,"Bentinck Road, West Drayton, Middlesex, UB7",UB7,3.0
+951,95000.0,"Bentinck Road, West Drayton, Middlesex, UB7",UB7,2.0
+952,78750.0,"Bentinck Road, West Drayton, Middlesex, UB7",UB7,1.0
+953,510000.0,"Dartmouth Road, Ruislip, Middlesex, HA4",HA4,3.0
+954,300000.0,"Corwell Gardens, Uxbridge, Greater London, UB8",UB8,1.0
+955,285000.0,"Varcoe Gardens, Hayes, Middlesex, UB3 2FH",UB3,2.0
+956,425000.0,"Green Lane, Northwood, HA6",HA6,2.0
+957,395000.0,"Shakespeare Avenue, Hayes, Middlesex UB4 0BW",UB4,3.0
+958,865000.0,"Elgar Close, Ickenham, UB10",UB10,4.0
+959,410000.0,"St. Johns Road, Uxbridge, Middlesex, UB8",UB8,3.0
+960,500000.0,"Westwood Close, Ruislip, HA4",HA4,4.0
+961,800000.0,"Bury Street, Ruislip, HA4",HA4,4.0
+963,435000.0,"Perkins Gardens, Uxbridge, UB10",UB10,2.0
+964,525000.0,"Varcoe Gardens, Hayes, Middlesex, UB3",UB3,4.0
+965,400000.0,"Uplands Court, Northwood, 19 Frithwood Avenue, HA6",HA6,1.0
+968,875000.0,"Seaford Close, Ruislip, HA4",HA4,5.0
+969,875000.0,"Thornhill Road, Uxbridge, Middlesex, UB10",UB10,4.0
+971,635000.0,"Uxbridge Road, Hillingdon, UB10",UB10,6.0
+972,395000.0,"Shakespeare Avenue, Hayes, UB4",UB4,3.0
+975,625000.0,"Peel Way, Hillingdon, UB8",UB8,3.0
+976,450000.0,"Walsham Court, Ickenham, UB10",UB10,2.0
+978,320000.0,"Regency Drive, Ruislip, HA4",HA4,1.0
+979,450000.0,"Cervantes Court, Northwood, Middlesex, HA6",HA6,2.0
+980,465000.0,"Bentinck Road, West Drayton, Middlesex, UB7",UB7,3.0
+981,380000.0,"Bentinck Road, West Drayton, Middlesex, UB7",UB7,2.0
+982,630000.0,"Allonby Drive, Ruislip, HA4",HA4,3.0
+983,104125.0,"Station Road, West Drayton, Middlesex, UB7",UB7,1.0
+984,297500.0,"Station Road, West Drayton, Middlesex, UB7",UB7,1.0
+987,427000.0,"Tavistock Road,
+Yiewsley,
+West Drayton,
+UB7",UB7,2.0
+989,434000.0,"Tavistock Road,
+Yiewsley,
+West Drayton,
+UB7",UB7,2.0
+990,400000.0,"Eastcote Place, Pinner, Middlesex, HA5",HA5,2.0
+992,900000.0,"Ducks Hill Road, Northwood, Middlesex, HA6",HA6,3.0
+993,900000.0,"Ducks Hill Road, Northwood, Middlesex, HA6",HA6,3.0
+994,950000.0,"Ducks Hill Road, Northwood, Middlesex, HA6",HA6,3.0
+995,1000000.0,"Ducks Hill Road, Northwood, Middlesex, HA6",HA6,3.0
+996,450000.0,"Clayton Terrace, Hayes, UB4",UB4,2.0
+997,825000.0,"Milton Court, Ickenham, Uxbridge, Middlesex, UB10",UB10,4.0
+999,275000.0,"Glebe Avenue, Ickenham, Uxbridge, Middlesex, UB10",UB10,1.0
+1002,580000.0,"Weymouth Road, Hayes, UB4 8NH",UB4,6.0
+1003,465000.0,"Thackeray Close, Uxbridge, Middlesex, UB8",UB8,3.0
+1005,275000.0,"Manor Waye, Uxbridge, Middlesex, UB8 2BH",UB8,2.0
+1009,461000.0,"Tavistock Road,
+Yiewsley,
+West Drayton,
+UB7",UB7,2.0
+1010,375000.0,"Ashdown Road, Hillingdon, UB10",UB10,2.0
+1011,650000.0,"Park Road, Uxbridge, UB8",UB8,4.0
+1013,650000.0,"Mount Pleasant, Ruislip, Middlesex, HA4",HA4,3.0
+1014,260000.0,"Redford Way, Uxbridge, UB8",UB8,1.0
+1015,300000.0,"Adstock Court, 39 Coleridge Drive, Ruislip, Middlesex, HA4",HA4,1.0
+1016,475000.0,"Whitethorn Avenue, West Drayton, UB7",UB7,4.0
+1020,650000.0,"West End Road, Ruislip, Middlesex, HA4",HA4,3.0
+1021,389950.0,"Dyson Drive, St Andrews Park, Uxbridge, UB10",UB10,2.0
+1022,419950.0,"Halsway, Hayes, UB3 3JU",UB3,2.0
+1023,175000.0,"Addison Way, Hayes, UB3 2DJ",UB3,1.0
+1024,675000.0,"Burlington Close, Pinner, HA5",HA5,3.0
+1025,500000.0,"Sussex Road, Ickenham, UB10",UB10,2.0
+1026,600000.0,"Hilliard Road, Northwood, Middlesex, HA6",HA6,3.0
+1027,419950.0,"Mayfield Close, Hillingdon, UB10",UB10,3.0
+1028,465000.0,"Lynhurst Crescent, Hillingdon, UB10",UB10,3.0
+1029,650000.0,"Woodford Crescent, Pinner, Middlesex, HA5",HA5,2.0
+1030,205000.0,"Victoria Road, Ruislip, Middlesex, HA4 9BH",HA4,3.0
+1031,590000.0,"High Street, Harlington, Middlesex, UB3 5DD",UB3,5.0
+1032,300000.0,"Seymour Gardens, Eastcote, Middlesex, HA4",HA4,1.0
+1033,140000.0,"Brendon Close, Harlington, Middlesex, UB3 5NQ",UB3,0.0
+1035,910000.0,"Church Road, Uxbridge, Middlesex, UB8",UB8,4.0
+1036,325000.0,"Diamond Road, Ruislip, Middlesex, HA4",HA4,2.0
+1037,308500.0,"Park Lodge Avenue, West Drayton, UB7",UB7,2.0
+1038,425000.0,"Lansbury Drive, Hayes, UB4",UB4,2.0
+1041,340000.0,"Royal Court, Hume Way, Ruislip, Middlesex, HA4",HA4,2.0
+1043,225000.0,"Bentinck Road, West Drayton, UB7",UB7,1.0
+1044,400000.0,"Island Apartments, 32 Royal Quay, Uxbridge, UB9",UB9,2.0
+1045,695000.0,"Brixham Crescent, Ruislip, HA4",HA4,5.0
+1046,359950.0,"Madison Court, 4 Hercies Road, Uxbridge, Middlesex, UB10",UB10,2.0
+1047,500000.0,"Dulverton Road, Ruislip, HA4",HA4,3.0
+1048,575000.0,"Broadacre Close, Ickenham, Uxbridge, Middlesex, UB10",UB10,3.0
+1049,1575000.0,"The Drive, Ickenham, Uxbridge, UB10",UB10,3.0

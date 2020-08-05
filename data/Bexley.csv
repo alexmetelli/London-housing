@@ -1,0 +1,732 @@
+,price,address,postcode,number_bedrooms
+1,335000.0,"Ramillies Road, Sidcup, DA15",DA15,3.0
+2,500000.0,"Cavendish Avenue, South Welling, Kent, DA16",DA16,3.0
+3,325000.0,"Vanessa Close, Belvedere, Kent, DA17",DA17,2.0
+6,200000.0,"Old College Court, Upper Holly Hill Road, Belvedere, Kent, DA17",DA17,2.0
+7,350000.0,"Horsa Road, Northumberland Heath, Kent, DA8",DA8,3.0
+9,435000.0,"Somerset Avenue, South Welling, Kent, DA16",DA16,4.0
+11,475000.0,"North Cray Road, Sidcup, DA14",DA14,2.0
+12,325000.0,"Ramillies Road, Sidcup, Kent, DA15",DA15,2.0
+13,360000.0,"Lyndon Avenue, Sidcup, Kent, DA15",DA15,3.0
+14,350000.0,"Lyndon Avenue, Sidcup, Kent, DA15",DA15,2.0
+15,205000.0,"Station Road, Sidcup, DA15",DA15,0.0
+16,465000.0,"Woodlands Avenue, Sidcup, DA15",DA15,3.0
+17,550000.0,"Brampton Road, Bexleyheath, Kent, DA7",DA7,4.0
+18,450000.0,"Ridgeway West, Sidcup, DA15",DA15,3.0
+20,300000.0,"Crescent Road, Sidcup, DA15 7HN",DA15,2.0
+21,270000.0,"Hallam Court, Hatherley Road, Sidcup, DA14 4FF",DA14,1.0
+22,250000.0,Rainbow Road Erith DA8,DA8,2.0
+23,625000.0,"Beverley Road, Bexleyheath, DA7",DA7,4.0
+24,550000.0,Maxwell Road Welling DA16,DA16,5.0
+25,245000.0,"Greenhaven Drive, London, SE28",SE28,2.0
+27,250000.0,"Chislehurst Road, Sidcup, DA14 6DP",DA14,1.0
+28,215000.0,"Warren Road, Bexleyheath, DA6",DA6,1.0
+29,600000.0,Sycamore Avenue Sidcup DA15,DA15,4.0
+31,650000.0,"Oaklands Close, Bexleyheath, Kent, DA6",DA6,5.0
+32,250000.0,"Callender Road, Erith, DA8",DA8,2.0
+33,260000.0,"49 Kingsley Court, 21 Pincott Road, Bexleyheath DA6 7LA",DA6,2.0
+35,350000.0,"Overton Road, Abbey Wood, London, SE2 9SD",SE2,2.0
+39,400000.0,"Clinton Avenue, South Welling, Kent, DA16",DA16,2.0
+40,400000.0,"Hook Lane, South Welling, Kent, DA16",DA16,2.0
+41,375000.0,Glenmore Road Welling DA16,DA16,2.0
+42,695000.0,"Upton Road, Bexleyheath, DA6",DA6,4.0
+43,425000.0,"Sutherland Avenue, South Welling, Kent, DA16",DA16,3.0
+44,469950.0,Glengall Road Bexleyheath DA7,DA7,4.0
+45,550000.0,"Days Lane, Sidcup, DA15",DA15,3.0
+46,75000.0,"4 Appledore Avenue, Bexleyheath, DA7",DA7,3.0
+47,300000.0,"Millbrook Avenue, South Welling, Kent, DA16",DA16,2.0
+48,390000.0,"Ashcroft Avenue, Sidcup, DA15",DA15,3.0
+49,800000.0,"Melville Road, Sidcup, DA14",DA14,5.0
+50,500000.0,"Erith Road, Bexleyheath, Kent, DA7",DA7,4.0
+53,300000.0,"Edwards Road, Belvedere, DA17",DA17,2.0
+54,325000.0,Poppy Close Belvedere DA17,DA17,2.0
+56,579995.0,"Bellegrove Road, Welling, Kent, DA16",DA16,4.0
+57,365000.0,Northumberland Park Erith DA8,DA8,3.0
+58,335000.0,"Crofton Avenue, Bexley, Kent, DA5",DA5,2.0
+60,625000.0,"Falconwood Avenue, Welling, DA16",DA16,4.0
+61,250000.0,"Sapphire Court, Rainbow Road, Slade Green, Kent, DA8",DA8,2.0
+62,320000.0,"Brantwood Avenue, Northumberland Heath, Kent, DA8",DA8,3.0
+63,269500.0,"Emblin Court, Sidcup, Kent, DA14",DA14,2.0
+64,334995.0,"Radnor Avenue, South Welling, Kent, DA16",DA16,3.0
+65,500000.0,"Erith Road, Bexleyheath, Kent, DA7",DA7,4.0
+66,485000.0,"Burns Avenue, Sidcup, Kent, DA15",DA15,3.0
+67,525000.0,"Burnt Oak Lane, Sidcup, Kent, DA15",DA15,3.0
+68,435000.0,"Calvert Close, Belvedere, Kent, DA17",DA17,3.0
+69,330000.0,"Sydney Road, London, SE2",SE2,2.0
+70,425000.0,"Crofton Avenue, Bexley, Kent, DA5",DA5,3.0
+71,290000.0,"Ducketts Road, Crayford, DA1",DA1,3.0
+72,500000.0,"Brampton Road, Bexleyheath, DA7",DA7,3.0
+74,305000.0,"Tunstock Way, DA17 * ONLY 0.8 MILE FROM CROSSRAIL AT ABBEY WOOD.",DA17,2.0
+76,290000.0,Marwood Close Welling DA16,DA16,2.0
+77,375000.0,"Ruskin Road, Belvedere, Kent, DA17",DA17,3.0
+78,210000.0,"Gardner Court, 41 Crayford Way, Dartford, Kent, DA1",DA1,1.0
+79,140000.0,"Upper Abbey Road, Belvedere, Kent, DA17",DA17,1.0
+80,330000.0,Manor Road Sidcup DA15,DA15,3.0
+81,325000.0,"Stanmore Road, Belvedere, Kent, DA17",DA17,3.0
+84,349995.0,"Edwards Road, Belvedere, Kent, DA17",DA17,3.0
+86,375000.0,"Wharfside Close, Erith, Kent, DA8 1QR",DA8,4.0
+88,425000.0,"Totnes Road, Welling, Kent, DA16",DA16,3.0
+89,170000.0,"St Marys Court, 7 New Road, Abbey Wood, London, SE2 0QH",SE2,1.0
+90,325000.0,"Crescent Road, Sidcup, DA15",DA15,3.0
+91,280000.0,"Halifield Drive, Belvedere, Kent, DA17 5RS",DA17,2.0
+92,330000.0,"Sydney Road, Abbey Wood, SE2",SE2,2.0
+93,400000.0,"Haddon Grove, Sidcup, DA15 8NA",DA15,3.0
+94,350000.0,Lion Road Bexleyheath DA6,DA6,2.0
+95,250000.0,"St Johns Road , Erith, DA8 1PE",DA8,2.0
+96,360000.0,"Bexley High Street, Bexley, DA5",DA5,2.0
+99,425000.0,"Castleton Avenue, Barnehurst, Kent, DA7",DA7,3.0
+100,245000.0,"Greenhaven Drive, London, SE28",SE28,2.0
+101,275000.0,"Fern Court, 11 East Street, Bexleyheath, DA7",DA7,2.0
+102,245000.0,"Greenhaven Drive, London, SE28",SE28,2.0
+104,265000.0,"Longlands Road, Sidcup, DA15 7LX",DA15,1.0
+105,310000.0,"Manor Road, Sidcup, DA15",DA15,2.0
+106,450000.0,"Bellevue Road, Bexleyheath, Kent, DA6",DA6,2.0
+107,600000.0,"Davenport Road, Sidcup, DA14 4PN",DA14,5.0
+108,650000.0,"Clarence Road, Sidcup, DA14 4DL",DA14,3.0
+109,550000.0,"Ronaldstone Road, Sidcup, DA15",DA15,4.0
+111,200000.0,"Blackfen Road, Sidcup, Kent, DA15",DA15,1.0
+112,400000.0,"Harcourt Road, Kent, DA6",DA6,3.0
+115,210000.0,"Hackney House, Clydesdale Way, Belvedere, Kent, DA17",DA17,1.0
+117,290000.0,"William Foster Lane, Welling, Kent, DA16",DA16,2.0
+118,235000.0,"Parish Gate Drive, Sidcup, DA15",DA15,1.0
+119,440000.0,"Broom Mead, Bexleyheath, Kent, DA6 7NY",DA6,3.0
+122,475000.0,"Mayplace Road East  , Bexleyheath, Kent, DA7 6ER",DA7,3.0
+123,160000.0,"Crayford High Street, Dartford, DA1",DA1,2.0
+125,450000.0,"Bostall Park Avenue, Bexleyheath, DA7",DA7,3.0
+127,475000.0,"The Drive, Bexley, DA5 3BZ",DA5,2.0
+128,375000.0,"Murchison Avenue, Bexley, Kent, DA5",DA5,2.0
+133,350000.0,"THE GRANGE, 293-295 Main Road, Sidcup, DA14 6QL",DA14,2.0
+138,450000.0,"Heathside Avenue, Bexleyheath, Kent, DA7",DA7,4.0
+141,510000.0,"Woodside Lane, Bexley, DA5 1JL",DA5,3.0
+142,175000.0,"Bertrand Way, North Thamesmead, London, SE28 8LL",SE28,2.0
+143,525000.0,Rydal Drive Bexleyheath DA7,DA7,3.0
+144,380000.0,Clinton Avenue Welling DA16,DA16,2.0
+145,345000.0,"Stanmore Road, DA17 * VIDEO & 3D FLOORPLAN AVAILABLE *",DA17,3.0
+146,200000.0,"Sunningdale Close, Thamesmead, London, SE28 8QR",SE28,2.0
+147,125000.0,"Tudor Court, Sidcup, Kent, DA14",DA14,1.0
+148,350000.0,"Shearwood Crescent, Crayford, Dartford, DA1",DA1,3.0
+152,180000.0,"Glimpsing Green, Erith, Kent, DA18",DA18,1.0
+153,500000.0,"Lime Grove, Sidcup, DA15",DA15,3.0
+155,500000.0,"Cambridge Road, Sidcup, DA14 6PT",DA14,3.0
+156,310000.0,"Lincoln Close, Erith, DA8",DA8,3.0
+157,295000.0,"Drummond Close, Erith, DA8",DA8,2.0
+158,355000.0,"Swale Road, Dartford, DA1",DA1,3.0
+160,485000.0,Bexley Road Erith DA8,DA8,4.0
+161,190000.0,"Valence Road, Erith, DA8",DA8,3.0
+163,200000.0,"Kempton Close, Erith, DA8",DA8,1.0
+164,575000.0,"Sidcup Hill, Sidcup, DA14 6JD",DA14,4.0
+166,285000.0,"Poplar Place, Thamesmead, London, SE28 ",SE28,3.0
+167,485000.0,Bedonwell Road Bexleyheath DA7,DA7,3.0
+168,310000.0,"Crowden Way, London, SE28",SE28,3.0
+170,585000.0,"Ellison Road, Sidcup, Kent, DA15 8BJ",DA15,5.0
+171,330000.0,"Whernside Close, London, SE28",SE28,3.0
+173,475000.0,"Northcote Road, Sidcup, Kent, DA14",DA14,4.0
+176,235000.0,"Station Road, Sidcup, DA15 7DU",DA15,1.0
+177,277995.0,"Watling Street,
+Bexleyheath,
+DA6",DA6,1.0
+178,900000.0,"St Johns Road, Sidcup, DA14 4HA",DA14,3.0
+179,276995.0,"Watling Street,
+Bexleyheath,
+DA6",DA6,1.0
+180,230000.0,"Church Road, Welling, DA16",DA16,1.0
+181,450000.0,"Ladbrooke Crescent, Sidcup, DA14",DA14,3.0
+182,200000.0,"Tanners Close, Crayford, Kent, DA1",DA1,1.0
+183,200000.0,"North Cray Road, Bexley Village, Kent, DA5",DA5,1.0
+185,550000.0,"Heversham Road, Bexleyheath DA7 5BE",DA7,4.0
+186,450000.0,"Longmead Drive, Sidcup, DA14 4NY",DA14,3.0
+187,700000.0,"Selborne Road, Sidcup, DA14 4QY",DA14,5.0
+188,250000.0,"Rayleas, Granville Road, Sidcup, DA14 4BT",DA14,2.0
+189,325000.0,"Poppy Close, Belvedere, Kent, DA17",DA17,2.0
+190,524995.0,"Somerhill Road, Welling, Kent, DA16 ",DA16,4.0
+191,410000.0,Ladbrooke Crescent Sidcup DA14,DA14,3.0
+192,525000.0,"Selsey Crescent, Welling, DA16",DA16,5.0
+193,340000.0,"Woodchurch Close, Sidcup, Kent, DA14",DA14,2.0
+194,275000.0,"Pinecroft Court, 410 Wickham Lane, Welling, DA16",DA16,2.0
+195,405000.0,Fairwater Avenue Welling DA16,DA16,2.0
+196,250000.0,"Hatherley Crescent, Sidcup, DA14 4HY",DA14,2.0
+197,650000.0,"New Road, Abbey Wood, London, SE2 0QG",SE2,4.0
+198,230000.0,"Greenhaven Drive, Thamesmead, London, SE28 8FU",SE28,2.0
+199,450000.0,"Wordsworth Road, Welling, DA16",DA16,3.0
+201,250000.0,"Bellingham Court, Larner Road, Erith, DA8",DA8,2.0
+202,600000.0,"Weir Road, Bexley, Kent, DA5",DA5,3.0
+203,450000.0,"Hubbard Close, Crayford, DA1",DA1,4.0
+204,275000.0,"Bexley High Street, Bexley, DA5",DA5,1.0
+205,300000.0,Crook Log Bexleyheath DA6,DA6,2.0
+206,525000.0,"The Spinney, Sidcup, DA14",DA14,3.0
+210,165000.0,"Miller Court, DA7 6DS",DA7,1.0
+211,290000.0,"Eversley Avenue, Barnehurst, Kent, DA7",DA7,2.0
+212,262500.0,"Rowan House, Alder Road, Sidcup, DA14",DA14,2.0
+214,275000.0,"Oaklands Road, South Bexleyheath, Kent, DA6 7AN",DA6,2.0
+215,650000.0,"Northall Road, Barnehurst, Kent, DA7",DA7,4.0
+216,525000.0,"Alexander Road, Bexleyheath, DA7",DA7,4.0
+218,650000.0,"Welling Way, Welling, Kent, DA16 2RT",DA16,5.0
+220,140000.0,"Edwin Arnold Court, Main Road, Sidcup, DA14 6PQ",DA14,2.0
+221,475000.0,"Somerset Avenue, Welling, DA16",DA16,4.0
+224,150000.0,"Parkside Lodge, 101 Erith Rd, Belvedere, Kent, DA17",DA17,0.0
+226,280000.0,"Essenden Road, Belvedere, DA17",DA17,3.0
+227,325000.0,"Barnehurst Avenue, Northumberland Heath, Kent, DA8",DA8,3.0
+228,202500.0,CROWDEN WAY SE28 * VIDEO TOUR & 3D FLOORPLAN AVAILABLE *,SE28,1.0
+229,530000.0,"Haslemere Road, Bexleyheth DA7 4NQ",DA7,3.0
+232,550000.0,"Normanhurst Avenue, Bexleyheath, DA7",DA7,3.0
+233,600000.0,"Braundton Avenue, Sidcup, DA15",DA15,3.0
+234,240000.0,"Tanners Close, Crayford, Kent, DA1",DA1,2.0
+235,430000.0,Churchfield Road Welling DA16,DA16,3.0
+236,400000.0,"Kentish Road, Belvedere, Kent, DA17 5BN",DA17,3.0
+237,220000.0,"Sunland Avenue, Bexleyheath, Kent, DA6",DA6,1.0
+238,425000.0,Mark Close Bexleyheath DA7,DA7,3.0
+239,475000.0,"Hadlow Road, Welling, Kent, DA16",DA16,4.0
+240,750000.0,"Halfway Street, Sidcup, Kent, DA15",DA15,4.0
+241,375000.0,"Wellington Avenue, Sidcup, Kent, DA15",DA15,2.0
+244,459995.0,"Sutherland Avenue, South Welling, Kent, DA16",DA16,3.0
+246,350000.0,"Brixham Road, Welling, Kent, DA16",DA16,2.0
+247,310000.0,"Talehangers Close, Bexleyheath DA6 8AE",DA6,2.0
+248,775000.0,"Avenue Road, Bexleyheath, Kent, DA7",DA7,4.0
+249,425000.0,"Bedonwell Road, Bexleyheath, Kent, DA7",DA7,3.0
+251,340000.0,Randall Close Erith DA8,DA8,3.0
+252,300000.0,"Erith Road, Erith, Kent, DA8",DA8,2.0
+253,650000.0,"Newlyn Road, Welling, Kent, DA16",DA16,4.0
+254,450000.0,"East Rochester Way, Sidcup, DA15",DA15,4.0
+255,725000.0,"Beverley Avenue, Sidcup, Kent, DA15",DA15,4.0
+256,435000.0,"Marley Avenue, Bexleyheath, DA7",DA7,2.0
+257,280000.0,"Talehangers Close, Bexleyheath, DA6",DA6,2.0
+258,240000.0,"New Road, London, SE2",SE2,2.0
+264,575000.0,"Albert Road, Bexley Village, Kent, DA5",DA5,4.0
+267,219950.0,Eardley Road Belvedere DA17,DA17,1.0
+269,350000.0,"Canning House, 110 Main Road, Sidcup, DA14 6NE",DA14,2.0
+270,300000.0,"Queens Road, Welling  DA16 3EA",DA16,2.0
+271,450000.0,"Woodlands Road, Bexleyheath, Kent, DA7",DA7,3.0
+272,450000.0,"Sandford Road, Bexleyheath DA7 4AX",DA7,3.0
+274,670000.0,"Halfway Street, London, DA15",DA15,4.0
+278,325000.0,"Eversley Avenue, Barnehurst, Kent, DA7 6SN",DA7,2.0
+279,230000.0,"Downbank Avenue, Bexleyheath, Kent, DA7 6RS",DA7,2.0
+280,400000.0,"Holly Hill Road, Kent, DA8",DA8,4.0
+281,260000.0,"Selkirk Drive, Erith, Kent, DA8",DA8,2.0
+282,300000.0,"Normandy Way, Erith, Kent, DA8",DA8,2.0
+283,327500.0,"Lyndon Avenue, Sidcup, Kent, DA15",DA15,2.0
+284,395000.0,"Harborough Avenue, Sidcup, Kent, DA15",DA15,2.0
+285,269995.0,"Amberley Court, Sidcup, Kent, DA14",DA14,2.0
+286,240000.0,"Macarthur Close, Erith, DA8",DA8,2.0
+287,280000.0,"Lapwing Close, Howbury Park, Slade Green, Kent, DA8",DA8,2.0
+290,310000.0,"Poplar Place, London, SE28",SE28,2.0
+291,250000.0,UPPER PARK ROAD DA17 6EW,DA17,2.0
+293,525000.0,"Blackfen Road, Sidcup, Kent, DA15",DA15,5.0
+295,300000.0,"Silver Spring Close, Northumberland Heath, Kent, DA8 1EG",DA8,3.0
+297,690000.0,"Marlborough Park Avenue , Sidcup, Kent, DA15",DA15,4.0
+298,400000.0,"Queens Road, Welling, Kent, DA16",DA16,3.0
+299,350000.0,"Green Walk, Crayford, Dartford, DA1",DA1,3.0
+301,525000.0,"Gipsy Road, Welling, DA16",DA16,4.0
+302,200000.0,London Road Crayford DA1,DA1,1.0
+303,425000.0,"Victoria Road, Erith, Kent, DA8",DA8,3.0
+305,625000.0,"Elmbourne Drive, Upper Belvedere, Kent, DA17",DA17,4.0
+306,475000.0,Langley Road Welling DA16,DA16,5.0
+307,300000.0,"Grosvenor Road, Upper Belvedere, Kent, DA17",DA17,2.0
+308,475000.0,"Shirley Road, Sidcup, DA15 7JW",DA15,3.0
+309,550000.0,"Northumberland Avenue, South Welling, Kent, DA16",DA16,5.0
+311,390000.0,"Norfolk Crescent, Sidcup, DA15 8HW",DA15,3.0
+312,268000.0,"11 Stafford Road, Sidcup, DA14",DA14,2.0
+313,550000.0,"Steynton Avenue, Bexley, Kent, DA5",DA5,3.0
+315,450000.0,Woodlands Road Bexleyheath DA7,DA7,4.0
+316,250000.0,"Rainbow Road, Erith, DA8",DA8,2.0
+317,400000.0,"Hansol Road, South Bexleyheath, Kent, DA6",DA6,3.0
+318,325000.0,"Sunningdale Close, London, SE28",SE28,2.0
+319,350000.0,"Mendip Road, Barnehurst, Kent, DA7",DA7,3.0
+321,230000.0,"Clive Road, Belvedere, DA17",DA17,2.0
+324,400000.0,"Kentish Road, Belvedere, Kent, DA17",DA17,3.0
+326,400000.0,"Kentish Road, Kent, DA17",DA17,3.0
+329,350000.0,"North Road, Belvedere, Kent, DA17",DA17,2.0
+330,249995.0,"The Park, Sidcup, DA14",DA14,1.0
+331,370000.0,"West Street, Bexleyheath DA7 4BP",DA7,3.0
+332,200000.0,"Moyle House, Little Brights Road, Belvedere, DA17",DA17,1.0
+333,350000.0,"Annandale Road, Sidcup, DA15 8EZ",DA15,2.0
+334,350000.0,"Swaylands Road, Belvedere DA17 6LS",DA17,2.0
+335,200000.0,"Old College Court, Belvedere, Kent, DA17",DA17,1.0
+336,250000.0,"Saxon House, Little Brights Road, Belvedere, Kent, DA17",DA17,2.0
+337,540000.0,"Northall Road, Bexleyheath, Kent , DA7 6JE",DA7,4.0
+340,340000.0,"Keats Road, Welling, DA16",DA16,2.0
+341,699950.0,Lower Park Road Belvedere DA17,DA17,3.0
+343,475000.0,"Sterling Road, Bexleyheath, Kent, DA7",DA7,3.0
+345,400000.0,East Rochester Way Sidcup DA15,DA15,3.0
+348,300000.0,"Parkside Avenue, Barnehurst, Kent, DA7 6NU",DA7,2.0
+351,325000.0,"Main Road, Sidcup, DA14 6QL",DA14,2.0
+353,315000.0,"Hornbeam House, Manor Road, Sidcup, DA15",DA15,3.0
+354,410000.0,"Cookson Grove, Northumberland Heath, Kent, DA8 1YE",DA8,3.0
+355,450000.0,Blackfen Road Blackfen DA15,DA15,3.0
+356,250000.0,"Market Parade, Sidcup High Street, DA14 6EP",DA14,1.0
+357,420000.0,"Old Farm Avenue, Sidcup, DA15",DA15,3.0
+359,300000.0,"Merchland Road, New Eltham, SE9",SE9,2.0
+360,260000.0,"Weir Road, Bexley, DA5",DA5,1.0
+361,200000.0,"Erith Road, Erith, DA8",DA8,1.0
+362,425000.0,Horsham Road Bexleyheath DA6,DA6,2.0
+365,450000.0,"Little Heath Road, Bexleyheath, DA7",DA7,3.0
+366,650000.0,Woolwich Road Bexleyheath DA7,DA7,3.0
+370,550000.0,"Woolwich Road, Abbey Wood, London, SE2",SE2,3.0
+372,290000.0,"Woodchurch Close, Sidcup, DA14",DA14,2.0
+373,265000.0,Chalkstone Close Welling DA16,DA16,2.0
+375,719950.0,"Avery Hill Road,
+London,
+SE9",SE9,4.0
+376,360000.0,"Christopher Close, Blackfen, Sidcup, Kent, DA15",DA15,1.0
+377,290000.0,"Holly Hill Road, Erith, Kent, DA8",DA8,2.0
+378,299995.0,"Sidcup Hill Gardens, Sidcup, DA14 6JP",DA14,2.0
+379,350000.0,"Emes Road, Northumberland Heath, Kent, DA8",DA8,3.0
+380,400000.0,"Maple Crescent, Sidcup, Kent, DA15",DA15,3.0
+383,475000.0,"Anthony Road, Welling, DA16",DA16,4.0
+384,495000.0,"Blackfen Road, Blackfen, Sidcup, DA15",DA15,3.0
+385,275000.0,"Crescent Cottage, DA8",DA8,2.0
+387,245000.0,"Heatherbank Close, Crayford, Dartford, DA1",DA1,2.0
+392,375000.0,"Midhurst Hill, Bexleyheath, DA6",DA6,3.0
+394,375000.0,"The Drive, Northumberland Heath, Kent, DA8",DA8,3.0
+395,465000.0,"Lincoln Road, Sidcup, DA14",DA14,3.0
+397,330000.0,"Alfred Road, Belvedere, Kent, DA17",DA17,3.0
+399,275000.0,"Burr Close, Bexleyheath, DA7",DA7,2.0
+402,875000.0,"Shuttle Close, Sidcup, DA15",DA15,5.0
+403,450000.0,"Rainbow Road, Slade Green, Kent, DA8",DA8,4.0
+404,250000.0,"Russell Close, Bexleyheath, DA7",DA7,2.0
+405,225000.0,"Lyndon Avenue, Blackfen, Kent, DA15",DA15,1.0
+406,525000.0,"Dorset Avenue, South Welling, Kent, DA16",DA16,4.0
+407,450000.0,"Abbey Hill Road, Sidcup, DA15",DA15,2.0
+408,250000.0,"Jubilee Way, Sidcup, DA14",DA14,2.0
+409,550000.0,"Huxley Road, South Welling, Kent, DA16",DA16,4.0
+410,425000.0,"Oakdene Avenue, Erith, DA8",DA8,2.0
+412,250000.0,Erith Road Northumberland Heath DA8,DA8,2.0
+413,475000.0,Rochester Close Sidcup DA15,DA15,3.0
+414,675000.0,Brook Lane Bexley DA5,DA5,5.0
+415,425000.0,"Wenvoe Avenue, Bexleyheath, DA7",DA7,2.0
+418,324995.0,"Halfway Street, Sidcup, Kent, DA15",DA15,1.0
+422,210000.0,"Denton Road, Welling, Kent, DA16",DA16,1.0
+423,409950.0,Dallin Road Bexleyheath DA6,DA6,3.0
+424,265000.0,"Kingfisher Close, Thamesmead, London, SE28",SE28,2.0
+425,650000.0,"Viewfield Road, Bexley, DA5",DA5,4.0
+428,390000.0,"Palm Avenue, Sidcup, DA14",DA14,3.0
+429,350000.0,"Sheppey Close, Erith, DA8",DA8,3.0
+430,375000.0,Burns Avenue Sidcup DA15,DA15,2.0
+432,710000.0,"Halfway Street, Sidcup, DA15 8DA",DA15,4.0
+433,600000.0,"Bladindon Drive, Bexley, Kent, DA5",DA5,4.0
+434,229995.0,"Sandalwood House, Longlands Road, Sidcup, DA15 7NB",DA15,1.0
+437,500000.0,"Edwin Close, Bexleyheath, Kent, DA7",DA7,5.0
+439,227500.0,"Turquoise Court, Crimson Road, Slade Green, Kent, DA8",DA8,2.0
+440,160000.0,"Frobisher Road, Erith, Kent, DA8",DA8,1.0
+441,485000.0,Edmund Road Welling DA16,DA16,3.0
+442,475000.0,Grosvenor Road Bexleyheath DA6,DA6,4.0
+443,275000.0,"Westerham Drive, Sidcup, Kent, DA15",DA15,2.0
+444,490000.0,"Stevedale Road, Welling, Kent, DA16",DA16,6.0
+445,340000.0,"Whitehall Lane, Erith, DA8",DA8,2.0
+446,350000.0,"Pennine Way, Bexleyheath, DA7",DA7,3.0
+447,450000.0,"Sunland Avenue, Bexleyheath, DA6",DA6,3.0
+448,350000.0,Brixham Road Welling DA16,DA16,2.0
+450,500000.0,"Erith Road, Bexleyheath, Kent, DA7",DA7,4.0
+451,259995.0,"Manor Road, Sidcup, DA15",DA15,1.0
+452,425000.0,"Elsa Road, Welling, Kent, DA16",DA16,3.0
+453,600000.0," Woolwich Road, Bexleyheath, DA7 4LN",DA7,5.0
+455,270000.0,"Courtland Grove, Thamesmead, SE28 8PD",SE28,2.0
+456,425000.0,"Penhill Road, Bexley, DA5",DA5,3.0
+457,465000.0,"Stansted Crescent, Bexley, DA5",DA5,3.0
+458,295000.0,"Whitehaven Court, Bexleyheath, Kent, DA6",DA6,2.0
+459,475000.0,"Rochester Close, Sidcup, DA15",DA15,3.0
+460,340000.0,"Brixham Road, Welling, Kent, DA16",DA16,3.0
+461,500000.0,"Westbrooke Road, Welling, Kent, DA16",DA16,4.0
+462,500000.0,"Faraday Road, Welling, Kent, DA16",DA16,3.0
+463,500000.0,"Hurst Road, Sidcup, DA15 9AH",DA15,3.0
+464,500000.0,"Huxley Road, Welling, Kent, DA16 2EN",DA16,5.0
+465,320000.0,"Manor Road, Sidcup, DA15",DA15,3.0
+466,650000.0,"Viewfield Road, Bexley, DA5",DA5,4.0
+467,290000.0,"Lewis Road, Sidcup, DA14 4NB",DA14,2.0
+468,325000.0,"Norcliff Court, 87a Bellegrove Road, Welling, Kent, DA16",DA16,2.0
+469,230000.0,"Pincott Road, Bexleyheath, Kent, DA6 ",DA6,1.0
+471,425000.0,"Maiden Erlegh Avenue, Bexley, DA5",DA5,4.0
+473,190000.0,"Parkside Lodge, 101 Erith Road, Belvedere, Kent, DA17",DA17,1.0
+474,850000.0,"Blendon Drive, Bexley, Kent, DA5",DA5,4.0
+476,275000.0,"shearwood crescent, crayford, DA1",DA1,2.0
+477,270000.0,"Manor Road, Erith, Kent, DA8",DA8,2.0
+479,425000.0,"Mount Road, Bexleyheath, Kent, DA6",DA6,3.0
+480,340000.0,"Streamway, Belvedere, Kent, DA17",DA17,3.0
+481,295000.0,"Belvedere Road, Bexleyheath, DA7",DA7,2.0
+482,350000.0,"Regent Square, Belvedere DA17 6EP",DA17,3.0
+483,350000.0,"Harcourt Avenue, Sidcup, Kent, DA15 9LW",DA15,2.0
+484,850000.0,"Kenley Close, Bexley Village, Kent, DA5",DA5,4.0
+485,340000.0,"Timothy Close, Bexleyheath, Kent, DA6",DA6,2.0
+487,340000.0,"Shelley Drive, Welling, DA16",DA16,3.0
+488,330000.0,"Treetops Close, London, SE2",SE2,2.0
+489,499950.0,"Pinewood Avenue, Sidcup, DA15 8BB",DA15,4.0
+490,430000.0,"Carisbrooke Avenue, Bexley, DA5 3HT",DA5,3.0
+491,310000.0,"Green Acres The Crescent, Sidcup, DA14",DA14,2.0
+492,200000.0,"Tolcairn Court, Lessness Park, Belvedere, Kent, DA17",DA17,1.0
+494,200000.0,"Eversley Avenue, Barnehurst, Kent, DA7",DA7,2.0
+495,270000.0,"Lower Road, DA17, * VIDEO & 3D FLOORPLANS AVAILABLE *",DA17,4.0
+496,450000.0,"Pickford Lane, Bexleyheath, DA7",DA7,3.0
+500,450000.0,"Bostall Park Avenue, Bexleyheath, DA7",DA7,3.0
+501,300000.0,"Manor Road, Sidcup, Kent, DA15",DA15,2.0
+503,580000.0,"Brantwood Road, Bexleyheath DA7 6LQ",DA7,4.0
+505,235000.0,"Station Road, Sidcup, Kent, DA15",DA15,1.0
+507,375000.0,"Burns Avenue, Sidcup, DA15 9HR",DA15,3.0
+508,210000.0,"Kingsley Court (Bexleyheath), Bexleyheath, DA6 7LA",DA6,2.0
+509,245000.0,Laymarsh Close Belvedere DA17,DA17,2.0
+511,425000.0,"Oaklands Avenue, Sidcup, Kent, DA15",DA15,4.0
+513,375000.0,"Hook Lane, South Welling, Kent, DA16",DA16,2.0
+514,425000.0,"Debrabant Close, ""Lesney Park"", Erith, Kent, DA8",DA8,3.0
+515,329995.0,"Westerham Drive, Sidcup, Kent, DA15",DA15,2.0
+519,325000.0,"Lyme Road, Welling, DA16",DA16,2.0
+521,210000.0,"Kingsley Court, 21 Pincott Road, South Bexleyheath, Kent, DA6",DA6,2.0
+522,375000.0,"Harman Drive, Sidcup, DA15",DA15,3.0
+526,260000.0,"The Triangle, Burnt Oak Lane, SIDCUP, DA15",DA15,2.0
+527,275000.0,"Hornbeam House, Manor Road, Sidcup, DA15 7JA",DA15,2.0
+528,295000.0,"Sydney Rd, Sidcup, DA14",DA14,2.0
+530,400000.0,"Felton Lea, Sidcup, DA14 6BA",DA14,4.0
+531,220000.0,Canada Road Erith DA8,DA8,2.0
+533,260000.0,"Amberley Court, Sidcup, DA14",DA14,2.0
+534,799995.0,"Stafford Road, Sidcup, DA14",DA14,4.0
+535,290000.0,"Sandcliff Road, Erith, Kent, DA8",DA8,2.0
+536,265000.0,"Gravel Hill Close, Bexleyheath, DA6",DA6,2.0
+537,800000.0,"The Drive, Bexley, Kent, DA5",DA5,5.0
+540,500000.0,Kipling Road Bexleyheath DA7,DA7,3.0
+541,450000.0,"Horsham Road, Bexleyheath DA6 7HU",DA6,3.0
+542,240000.0,"Gainsborough Square, Bexleyheath, DA6",DA6,1.0
+546,300000.0,"Jaquets Court, North Cray Road, Kent, DA5",DA5,2.0
+547,370000.0,"Ridgeway West, Sidcup, DA15",DA15,3.0
+550,280000.0,"Talehangers Close, Bexleyheath, DA6",DA6,2.0
+551,390000.0,"Ramillies Road, Sidcup, Kent, DA15",DA15,3.0
+553,390000.0,"Erith Road, Bexleyheath, Kent, DA7",DA7,3.0
+555,375000.0,"Park Mead, Blackfen, Kent, DA15",DA15,3.0
+556,575000.0,Annandale Road Sidcup DA15,DA15,3.0
+557,375000.0,"Sussex Road, Erith, DA8",DA8,2.0
+562,190000.0,"Alcock Crescent, Vickers Green, Crayford, Kent, DA1",DA1,1.0
+563,275000.0,"Orchard Road, DA17 * VIDEO TOUR & 3D FLOORPLAN AVAILABLE *",DA17,2.0
+564,475000.0,Iron Mill Place Dartford DA1,DA1,3.0
+567,690000.0,"Burnt Oak Lane, Sidcup, DA15",DA15,4.0
+568,260000.0,"Tunstock Way, Belvedere, DA17",DA17,1.0
+569,450000.0,"Fen Grove, Sidcup, Kent, DA15",DA15,3.0
+570,475000.0,"Upton Road, South Bexleyheath, Kent, DA6",DA6,3.0
+571,565000.0,"Brampton Road, Bexleyheath, Kent, DA7",DA7,5.0
+574,290000.0,"Florin Court, Sterling Road, Bexleyheath, DA7",DA7,2.0
+576,200000.0,"Tudor Court, Hatherley Crescent, Sidcup, DA14 4HY",DA14,1.0
+578,799995.0,"Firside Grove, The Hollies, Sidcup, Kent, DA15",DA15,4.0
+579,575000.0,"Buckingham Avenue, Welling, DA16",DA16,5.0
+580,549995.0,"Burns Avenue, Sidcup, Kent, DA15",DA15,3.0
+581,375000.0,"Lime Grove, Sidcup, DA15",DA15,2.0
+583,200000.0,"Rutland Gate, Belvedere, DA17",DA17,2.0
+588,265995.0,Cheshunt Road Belvedere DA17,DA17,2.0
+589,450000.0,"Shuttlemead, Bexley, DA5",DA5,2.0
+591,425000.0,"Axminster Crescent, Welling, Kent, DA16",DA16,3.0
+592,385000.0,"Wordsworth Road, Welling, Kent, DA16",DA16,3.0
+593,250000.0,"Scott House, Albert Rd, Upper Belvedere, Kent, DA17",DA17,2.0
+594,750000.0,"Old Farm Avenue, Sidcup, DA15",DA15,4.0
+599,270000.0,"Talehangers Close, Bexleyheath, DA6",DA6,2.0
+600,450000.0,"Bostall Park Avenue, Bexleyheath, DA7",DA7,3.0
+601,425000.0,"Richmer Road, Slade Green, Kent, DA8",DA8,3.0
+603,250000.0,"Fern Court, Bexleyheath, Kent, DA7",DA7,1.0
+605,440000.0,"Restons Crescent, Eltham, London, SE9",SE9,3.0
+607,500000.0,Woodside Road Bexleyheath DA7,DA7,5.0
+608,250000.0,"Bedwell Road, Belvedere, Kent, DA17",DA17,2.0
+609,490000.0,"Cobham Place, Bexleyheath, Kent, DA6",DA6,3.0
+610,525000.0,"Saltash Road, Welling, Kent, DA16",DA16,5.0
+611,500000.0,"Merlin Road, South Welling, Kent, DA16",DA16,4.0
+612,300000.0,"The Mount, Broomfield Road, Bexleyheath, DA6",DA6,2.0
+613,950000.0,"Danson Road, Bexleyheath, Kent, DA6",DA6,4.0
+614,550000.0,"Canberra Road, Bexleyheath, DA7",DA7,4.0
+615,200000.0,"Restons Crescent, Sidcup, Kent, SE9",SE9,2.0
+616,255000.0,"Hatherley Crescent, Sidcup, DA14",DA14,2.0
+617,350000.0,Leatherbottle Green Erith DA18,DA18,4.0
+619,370000.0,"Gattons Way, Sidcup, Kent, DA14",DA14,2.0
+620,160000.0,"Fountain Court, Bowes Close, Sidcup, Kent, DA15",DA15,1.0
+621,500000.0,"Park Grove  , Bexleyheath, Kent, DA7 6AA",DA7,4.0
+622,560000.0,"Albury Avenue, Bexleyheath, Kent, DA7",DA7,5.0
+624,480000.0,"Beechcroft Avenue, Bexleyheath, DA7",DA7,4.0
+625,650000.0,"Viewfield Road, Bexley, DA5",DA5,4.0
+626,220000.0,"Cutter House, MacArthur Close, Erith, Kent, DA8",DA8,2.0
+627,445000.0,"Belmont Road, Northumberland Heath, Kent, DA8 1LE",DA8,4.0
+628,160000.0,"Glenrose Court, Sidcup, DA14 6HG",DA14,1.0
+629,475000.0,"Bradenham Avenue, Welling, DA16",DA16,3.0
+631,625000.0,"Bellegrove Road, Welling, DA16",DA16,4.0
+632,650000.0,"North Cray Road, Bexley, Kent, DA5",DA5,3.0
+633,480000.0,"Fairfield Close, Sidcup, Kent, DA15 8QS",DA15,3.0
+636,215000.0,"Court Lodge, Erith Road, Belvedere, DA17",DA17,2.0
+637,280000.0,"Fosters Old School, Upper Wickham Lane, Welling, Kent, DA16",DA16,2.0
+638,450000.0,"Shirley Road, Sidcup, DA15 7JW",DA15,3.0
+640,350000.0,"Foots Cray Lane, Sidcup, DA14",DA14,2.0
+641,500000.0,"Beechcroft Avenue, Barnehurst, Kent, DA7",DA7,3.0
+642,280000.0,"Langdon Shaw, Sidcup, DA14 6AX",DA14,2.0
+645,350000.0,"Weir Road, Bexley, Kent, DA5",DA5,2.0
+646,240000.0,"Chapel Close, Dartford, DA1",DA1,2.0
+648,250000.0,"Blackfen Parade, Blackfen Road, Sidcup, Kent, DA15",DA15,3.0
+649,260000.0,Rectory Lane Sidcup DA14,DA14,2.0
+652,245000.0,"Perry Street, Crayford, Kent, DA1",DA1,2.0
+654,625000.0,"Parkhill Road, Bexley VIllage, Kent, DA5",DA5,3.0
+658,159995.0,Sidcup Hill Sidcup DA14,DA14,1.0
+659,220000.0,"Tudor Court, Hatherley Crescent, Sidcup, DA14 4HY",DA14,2.0
+660,210000.0,"Jasper Court, Rainbow Road, Slade Green, Kent, DA8",DA8,1.0
+661,275000.0,"Courtland Grove, Thamesmead, London, SE28",SE28,2.0
+662,200000.0,"Kingsley Court, Pincott Road, Bexleyheath, DA6 7LA",DA6,1.0
+663,630000.0,"Brampton Road, Bexleyheath, DA7",DA7,5.0
+664,475000.0,Days Lane Sidcup DA15,DA15,3.0
+665,425000.0,Rainham Close London SE9,SE9,3.0
+666,225000.0,"Taylors Close, Sidcup, DA14 6TL",DA14,1.0
+667,149995.0,"Fleming Way, SE28 * VIDEO TOUR AND 3D FLOORPLAN AVAILABLE *",SE28,0.0
+668,229000.0,"Longlands Road, Sidcup, DA15 7NA",DA15,1.0
+669,265000.0,"Bexley High Street, Bexley, DA5 1BF",DA5,1.0
+672,890000.0,"Maple Leaf Drive, The Hollies, Sidcup, DA15",DA15,5.0
+673,400000.0,"Bedonwell Road, Upper Belvedere, Kent, DA17",DA17,4.0
+674,475000.0,Danson Crescent Welling DA16,DA16,3.0
+676,390000.0,"Montrose Avenue, Welling, DA16",DA16,3.0
+678,324295.0,"Halfway Street, Sidcup, DA15",DA15,1.0
+679,280000.0,"Widgeon Road, Watermead Park, Slade Green, Kent, DA8",DA8,2.0
+680,210000.0,"Woodfall Drive, Crayford, Dartford, Kent, DA1",DA1,1.0
+683,575000.0,"Grovebury Close, Erith, Kent, DA8 3DJ",DA8,4.0
+684,240000.0,"Keats House, Bexley Lane, Crayford, DA1 4DE",DA1,2.0
+686,410000.0,"Parkside Avenue, Bexleyheath, Kent, DA7 6NS",DA7,4.0
+687,350000.0,"Stuart Road, Welling, Kent, DA16 1RD",DA16,3.0
+688,390000.0,Belton Road Sidcup DA14,DA14,2.0
+690,230000.0,"Fleming Way, London, SE28",SE28,1.0
+692,475000.0,"Birkbeck Road, Sidcup, DA14 4DW",DA14,3.0
+693,245000.0,"Hatherley Crescent, Sidcup, DA14 4HY",DA14,2.0
+694,775000.0,Crown Woods Way London SE9,SE9,4.0
+695,375000.0,Granville Road Sidcup DA14,DA14,2.0
+697,190000.0,"Clive Road, Ground Floor Flat, Belvedere, Kent, DA17",DA17,1.0
+698,350000.0,"Charlotte Close, Bexleyheath, Kent, DA6",DA6,2.0
+699,250000.0,"Eversley Avenue, Barnehurst, Kent, DA7",DA7,2.0
+701,300000.0,"Church Road, Welling DA16 3DY",DA16,2.0
+703,320000.0,Betsham Road Erith DA8,DA8,3.0
+707,350000.0,"Weir Road, Bexley, DA5 1BJ",DA5,2.0
+708,575000.0,"Brampton Road, Bexleyheath, Kent, DA7",DA7,4.0
+709,260000.0,"Macarthur Close, Erith, DA8",DA8,2.0
+711,300000.0,Clayworth Close Sidcup DA15,DA15,2.0
+712,229995.0,"Cornel House, Longlands Road, Sidcup, DA15 7LX",DA15,1.0
+716,263000.0,"Burr Close, Bexleyheath DA7 4LD",DA7,2.0
+717,250000.0,"Amethyst Court, Rainbow Road, Slade Green, Kent, DA8",DA8,2.0
+719,158000.0,"Balmoral Court, Clive Road, Belvedere, Kent, DA17",DA17,1.0
+721,235000.0,"Perry Street, Dartford DA1 4RB",DA1,2.0
+723,425000.0,Sydney Road Bexleyheath DA6,DA6,3.0
+724,899950.0,"Cypress Tree Close, The Hollies, Sidcup, DA15",DA15,4.0
+727,460000.0,East Rochester Way Sidcup DA15,DA15,3.0
+729,425000.0,"Northdown Road, Welling, DA16",DA16,3.0
+730,550000.0,"Sterling Road, Bexleyheath, DA7",DA7,4.0
+732,160000.0,"Pembroke Road, Erith, Kent, DA8",DA8,1.0
+733,425000.0,"Sydney Court, 7-13 Lansdown Road, Sidcup, DA14 4EF",DA14,2.0
+734,775000.0,"Rowanwood Avenue, The Hollies, Sidcup, DA15",DA15,4.0
+735,185000.0,"Chandlers Drive, Erith, DA8",DA8,2.0
+737,475000.0,Brampton Road Bexleyheath DA7,DA7,3.0
+740,425000.0,"Merewood Road, Barnehurst, Kent, DA7 6PJ",DA7,2.0
+741,430000.0,"Dorchester Avenue, Bexley, DA5",DA5,3.0
+742,220000.0,"Bexley High Street, Bexley, DA5",DA5,1.0
+744,750000.0,Bedonwell Road Belvedere DA17,DA17,5.0
+746,400000.0,"Northumberland Avenue, South Welling, Kent, DA16",DA16,3.0
+747,500000.0,"Nurstead Road, Erith, Kent, DA8",DA8,5.0
+749,375000.0,"Seaton Road, Welling, Kent, DA16",DA16,3.0
+750,245000.0,"Greenhaven Drive, London, SE28",SE28,2.0
+751,525000.0,"Danson Crescent, South Welling, Kent, DA16",DA16,5.0
+752,350000.0,"Nicola Terrace, 341 Long Lane, Bexleyheath, Kent, DA7",DA7,3.0
+753,349995.0,"Ramillies Road, Sidcup, DA15 9JA",DA15,2.0
+755,400000.0,"Marden Crescent, Bexley, DA5",DA5,3.0
+756,595000.0,"Avery Hill Road, New Eltham, SE9",SE9,4.0
+757,400000.0,"East Rochester Way, Sidcup, ., DA15",DA15,3.0
+759,225000.0,"Sunland Avenue, Bexleyheath DA6 8LP",DA6,1.0
+761,324995.0,Halfway Street Sidcup DA15,DA15,1.0
+762,240000.0,"Riverdale Road, Erith, DA8",DA8,2.0
+764,275000.0,"Cromwell Lodge, 50 Upton Road, Bexleyheath DA6 8LR",DA6,2.0
+767,280000.0,"Bexley High Street, Bexley, Kent, DA5",DA5,1.0
+768,595000.0,Sycamore Avenue Sidcup DA15,DA15,5.0
+772,550000.0,Brampton Road Bexleyheath DA7,DA7,3.0
+773,365000.0,"The Old Mill, Bexley Village, Kent, DA5",DA5,2.0
+774,435000.0,"Rowley Avenue, Sidcup, DA15",DA15,4.0
+776,600000.0,"Agaton Road, New Eltham, SE9",SE9,4.0
+777,250000.0,"Parkhill Road, Bexley, Kent, DA5",DA5,2.0
+778,240000.0,"Parkhill Road, Bexley, Kent, DA5",DA5,2.0
+779,270000.0,"Courtland Grove, North Thamesmead, London, SE28 8PD",SE28,2.0
+780,260000.0,"North Cray Road, Sidcup, DA14",DA14,1.0
+785,729950.0,"Avery Hill Road,
+London,
+SE9",SE9,4.0
+786,500000.0,Merchland Road London SE9,SE9,3.0
+787,240000.0,"Eversley Avenue, Barnehurst, Kent, DA7 6RG",DA7,2.0
+788,400000.0,"Charmouth Road, Welling, Kent, DA16",DA16,3.0
+789,575000.0,"Penhill Road, Bexley, Kent, DA5",DA5,4.0
+790,400000.0,"Exmouth Road, Welling, Kent, DA16",DA16,3.0
+791,450000.0,"Clarence Road, Bexleyheath DA6 8ER",DA6,3.0
+792,150000.0,"Miller Court, Mayplace Road East, Bexleyheath, Kent, DA7 6DJ",DA7,1.0
+795,370000.0,"Stafford Court, 37 Parkhill Road, Bexley, Kent, DA5",DA5,2.0
+796,250000.0,Camrose Avenue Erith DA8,DA8,2.0
+799,515000.0,"Northumberland Avenue, Welling, Kent, DA16 2PY",DA16,5.0
+803,220000.0,"Templemore, Sidcup Hill, DA14 6JA",DA14,1.0
+804,375000.0,Oxford Road Sidcup DA14,DA14,3.0
+805,735000.0,"Arcadian Avenue, Bexley DA5",DA5,5.0
+806,475000.0,Larch Grove Sidcup DA15,DA15,3.0
+807,133000.0,"Lesney Park Road, Erith, DA8",DA8,2.0
+808,375000.0,"Oxford Road, Sidcup, DA14 6LW",DA14,3.0
+810,490000.0,"Cobham Place , Bexleyheath , Kent , DA6 8HZ",DA6,3.0
+812,270000.0,"St. Johns Road, Erith, DA8",DA8,2.0
+815,339950.0,"Fold Apartments, Station Road, DA15 7AP",DA15,2.0
+816,450000.0,"Clarence Road, Bexleyheath, Kent, DA6",DA6,3.0
+817,190000.0,"Warren Road, Bexleyheath, DA6",DA6,1.0
+818,200000.0,"Alcock Crescent, Vickers Green, Crayford, Kent, DA1",DA1,1.0
+819,499995.0,"West Woodside, Bexley, DA5",DA5,5.0
+820,450000.0,"Sidcup Hill, Sidcup, DA14",DA14,4.0
+821,675000.0,"Blendon Road, Bexley, DA5",DA5,4.0
+822,375000.0,"Standard Road, Bexleyheath, Kent, DA6",DA6,3.0
+824,350000.0,"Harcourt Avenue, Sidcup, Kent, DA15",DA15,2.0
+825,400000.0,"Holly Hill Road, Kent, DA8",DA8,4.0
+826,495000.0,Coronation Close Bexley DA5,DA5,5.0
+827,170000.0,"Pembroke Road, Erith, Kent, DA8",DA8,2.0
+828,270000.0,"Selkirk Drive, Erith, Kent, DA8",DA8,2.0
+831,225000.0,"Sidcup Hill, Sidcup, DA14",DA14,1.0
+832,160000.0,"Becton Place, Northumberland Heath, Kent, DA8",DA8,2.0
+833,250000.0,Downbank Avenue Bexleyheath DA7,DA7,2.0
+834,375000.0,"Ridgeway West, Sidcup, Kent, DA15",DA15,3.0
+835,475000.0,"Woolwich Road, Belvedere, Kent, DA17",DA17,3.0
+836,450000.0,"Bostall Park Avenue, Bexleyheath, DA7",DA7,3.0
+837,325000.0,"Stapley Road, Upper Belvedere, Kent, DA17",DA17,3.0
+838,425000.0,"Kentish Road, Belvedere DA17 5BN",DA17,3.0
+839,159995.0,"Fountain Court, Bowes Close, Blackfen, DA15",DA15,1.0
+840,600000.0,Avery Hill Road London SE9,SE9,4.0
+841,415000.0,The Drive Erith DA8,DA8,3.0
+843,175000.0,"Maidstone Road, Sidcup, Kent, DA14",DA14,1.0
+844,225000.0,"Maidstone Road, Sidcup, Kent, DA14",DA14,2.0
+845,150000.0,"Shortlands Close, Belvedere DA17",DA17,0.0
+846,390000.0,"Rutland Gate, Belvedere DA17",DA17,4.0
+849,230000.0,"Braemar Avenue, Bexleyheath, DA7",DA7,2.0
+852,650000.0,Elm Road Sidcup DA14,DA14,5.0
+853,500000.0,"North Street, Bexleyheath, DA7",DA7,3.0
+854,450000.0,"Blackfen Road, Sidcup, Kent, DA15 9NN",DA15,2.0
+855,444999.0,Radnor Avenue Welling DA16,DA16,3.0
+856,325000.0,"Bascombe Grove, Braeburn Park, Crayford, Kent, DA1",DA1,2.0
+857,250000.0,"Sapphire Court, Rainbow Road, Slade Green, Kent, DA8",DA8,2.0
+859,475000.0,"Brampton Road, Bexleyheath, Kent, DA7",DA7,3.0
+860,440000.0,Sycamore Avenue Sidcup DA15,DA15,4.0
+861,400000.0,Stratton Close Bexleyheath DA7,DA7,2.0
+862,399995.0,Blakemore Way DA17  ** VIDEO TOUR & 3D FLOORPLAN AVAILABLE **,DA17,3.0
+863,235000.0,"Ellenborough Road, Sidcup, DA14",DA14,2.0
+865,175000.0,"10, The Park, SIDCUP, DA14",DA14,1.0
+866,400000.0,"Henleys Manor, Dartford Road, Bexley, DA5",DA5,2.0
+868,275000.0,"Alma Road, Sidcup, DA14 4HN",DA14,2.0
+869,275000.0,"Manor Road, Sidcup, Kent, DA15",DA15,2.0
+870,500000.0,Rydal Drive Bexleyheath DA7,DA7,2.0
+872,500000.0,"Axminster Crescent, Welling, Kent, DA16",DA16,4.0
+873,335000.0,"Sydney Court, Lansdown Road, Sidcup, Kent, DA14 4EF",DA14,1.0
+874,445000.0,"Gattons Way, Sidcup, DA14",DA14,3.0
+876,235000.0,"Braemar Avenue, Bexleyheath, Kent, DA7",DA7,2.0
+877,265000.0,Picardy Road Belvedere DA17,DA17,2.0
+879,300000.0,"Park Mead, Blackfen, Kent, DA15",DA15,3.0
+880,98000.0,"Main Road, Sidcup, DA14",DA14,1.0
+882,85000.0,"150 Main Road, Sidcup, DA14",DA14,1.0
+884,325000.0,"Collindale Avenue, Erith, DA8",DA8,2.0
+885,450000.0,"Newham Way, Erith, DA8",DA8,3.0
+886,300000.0,"Leycroft Gardens, Erith, DA8",DA8,2.0
+887,220000.0,"Belmont Road, Northumberland Heath, Kent, DA8",DA8,2.0
+888,200000.0,"Carrack House, Saltford Close, Erith, Kent, DA8",DA8,2.0
+890,399000.0,"Osborne Road, Belvedere, DA17",DA17,3.0
+891,500000.0,"Oakdene Avenue, Northumberland Heath, Kent, DA8",DA8,5.0
+892,230000.0,"Clive Road, Belvedere DA17 5BZ",DA17,2.0
+893,415000.0,"Burnell Avenue, Welling, DA16",DA16,3.0
+895,180000.0,"Erith Road, Belvedere, DA17",DA17,1.0
+896,400000.0,"Wickham Street, Welling, Kent, DA16",DA16,3.0
+897,375000.0,"Kingswood Court, Sidcup Hill, DA14 6FH",DA14,2.0
+898,399950.0,"Montrose Avenue, Welling, Kent, DA16",DA16,3.0
+899,210000.0,"Pollard Walk, Sidcup, DA14",DA14,1.0
+900,425000.0,"Victoria Road, Erith, Kent, DA8",DA8,3.0
+902,260000.0,"Kingsley Court, 21 Pincott Road, South Bexleyheath, Kent, DA6",DA6,2.0
+905,375000.0,"Egerton Close, Belvedere, Kent, DA17",DA17,3.0
+906,425000.0,Hind Crescent Erith DA8,DA8,4.0
+907,625000.0,"Albert Road, Bexley Village, Kent, DA5",DA5,4.0
+908,280000.0,"Duriun Way, Slade Green, Kent, DA8",DA8,2.0
+909,250000.0,"Sapphire Court, Rainbow Road, Slade Green, Kent, DA8",DA8,2.0
+911,495000.0,"Danson Lane, Welling, Kent, DA16",DA16,3.0
+912,375000.0,"Edison Road, Welling, Kent, DA16",DA16,3.0
+913,375000.0,"Hippersley Point, 4 Tilston Bright Square, London, SE2",SE2,2.0
+914,425000.0,"Lovel Avenue, Welling, DA16",DA16,3.0
+915,250000.0,"Burr Close, Bexleyheath DA7 4LB",DA7,2.0
+916,615000.0,"Askern Close, Bexleyheath, DA6",DA6,4.0
+917,420000.0,"Picardy Road, Belvedere, Kent, DA17",DA17,2.0
+918,450000.0,"Erith Road, Upper Belvedere, Kent, DA17",DA17,3.0
+919,450000.0,"Longleigh Lane, Bexleyheath, DA7",DA7,3.0
+920,450000.0,"Fen Grove, Sidcup, Kent, DA15 8QN",DA15,4.0
+921,140000.0,"Frobisher Road, Erith, Kent, DA8",DA8,1.0
+922,220000.0,"Tanners Close, Crayford, Kent, DA1 4FF",DA1,2.0
+928,425000.0,"Okehampton Crescent, Welling, Kent, DA16",DA16,3.0
+930,350000.0,"Howbury Lane  , Erith, Kent, DA8 2DR",DA8,5.0
+931,199995.0,Main Road Sidcup DA14,DA14,2.0
+933,300000.0,"Burns Avenue, Sidcup, Kent, DA15 9HP",DA15,2.0
+936,242000.0,"Greenhaven Drive, Thamesmead, SE28",SE28,2.0
+938,475000.0,"Royal Road, Sidcup, DA14",DA14,3.0
+939,220000.0,"Francis Court, Macarthur Close, Erith, Kent, DA8",DA8,2.0
+941,195000.0,"Erith Road, Belvedere, DA17",DA17,1.0
+942,280000.0,"Ruskin Drive, Welling, Kent, DA16",DA16,2.0
+944,525000.0,Brampton Road Bexleyheath DA7,DA7,4.0
+945,350000.0,"Thanet Road, Erith, Kent, DA8",DA8,4.0
+946,599995.0,"Rectory Lane, Sidcup, Kent, DA14",DA14,4.0
+947,365000.0,"Collindale Avenue, Erith, DA8",DA8,3.0
+948,163000.0,"Lansdown Road, Sidcup, DA14 4EN",DA14,1.0
+949,200000.0,West Heath Road London SE2,SE2,2.0
+950,719950.0,"Avery Hill Road,
+London,
+SE9",SE9,4.0
+951,510000.0,"Meyer Road, Erith, DA8 3SJ",DA8,4.0
+952,200000.0,"Kingsley Court, Pincott Road, Bexleyheath, DA6 7LA",DA6,1.0
+953,900000.0,"Priestlands Park Road, Sidcup, Kent, DA15 7HJ",DA15,5.0
+954,400000.0,"Swanley Road, Welling, DA16",DA16,3.0
+955,719950.0,"Avery Hill Road,
+London,
+SE9",SE9,4.0
+956,400000.0,"Plaxtol Road, Erith, Kent, DA8",DA8,3.0
+957,550000.0,Diana Close Sidcup DA14,DA14,4.0
+958,300000.0,"Brigstock Road, Belvedere, DA17",DA17,2.0
+959,375000.0,"Hoveton Road, Thamesmead, London, SE28 8LW",SE28,3.0
+960,235000.0,Pier Road Erith DA8,DA8,2.0
+961,550000.0,"Lime Grove, Sidcup, Kent, DA15",DA15,3.0
+963,255000.0,"Melanie Close, Bexleyheath DA7",DA7,2.0
+964,400000.0,"Elsa Road, Welling, Kent, DA16",DA16,3.0
+966,139950.0,"Cook Square, Erith, DA8",DA8,2.0
+967,1050000.0,"Knoll Road, Sidcup, Kent, DA14 4QU",DA14,6.0
+968,200000.0,"Kingsley Court (Bexleyheath), Bexleyheath, DA6 7LA",DA6,1.0
+969,550000.0,"St Andrews Close, London, SE16 3BD",SE16,2.0
+970,735000.0,"Bexley Lane, Sidcup, DA14 4JW",DA14,5.0
+971,250000.0,Sandcliff Road Erith DA8,DA8,2.0
+973,225000.0,"Pier Road, Erith, Kent, DA8",DA8,2.0
+975,210000.0,"Hackney House, Clydesdale Way, Belvedere, Kent, DA17",DA17,1.0
+977,240000.0,"Starkey Place, Callender Road, Erith, DA8 3EY",DA8,2.0
+979,450000.0,"Merlin Road, Welling, DA16",DA16,3.0
+980,500000.0,"Oaklands Road, South Bexleyheath, Kent, DA6",DA6,3.0
+982,639995.0,Lesney Park Road Erith DA8,DA8,5.0
+983,475000.0,"Standard Road, Bexleyheath, Kent, DA6 8DR",DA6,3.0
+987,165000.0,"Nuxley Road, Belvedere DA17",DA17,1.0
+988,1350000.0,"Farwell Road, Sidcup, DA14",DA14,5.0
+991,170000.0,"Woodville Grove, Welling, Kent, DA16",DA16,1.0
+992,330000.0,Palm Avenue Sidcup DA14,DA14,3.0
+993,225000.0,Chandlers Drive Erith DA8,DA8,2.0
+994,675000.0,"Sidewood Road, London, SE9",SE9,3.0
+995,575000.0,"Sidewood Road, London, SE9",SE9,3.0
+996,220000.0,"Haldane Road, London, SE28",SE28,1.0
+997,450000.0,Broom Mead Bexleyheath DA6,DA6,4.0
+998,250000.0,"Waters Edge Court, 1 Wharfside Close, Erith, Kent, DA8",DA8,2.0
+999,485000.0,Granville Road Sidcup DA14,DA14,2.0
+1001,285000.0,"Cloudeseley Close, Sidcup, DA14",DA14,2.0
+1003,550000.0,"Erith Road, Bexleyheath, Kent, DA7 6HR",DA7,4.0
+1004,230000.0,"Station Road, Sidcup, Kent, DA15",DA15,1.0
+1005,275000.0,"Erith High Street, Erith, London, DA8",DA8,2.0
+1008,220000.0,Sidcup High Street Market Parade DA14,DA14,0.0
+1012,255000.0,"The Park, Sidcup, DA14 6AN",DA14,2.0
+1013,400000.0,"Montrose Avenue, South Welling, Kent, DA16",DA16,3.0
+1014,375000.0,"West Street, Bexleyheath DA7 4BE",DA7,3.0
+1015,240000.0,"Fantail Close, London, SE28",SE28,2.0
+1016,290000.0,"Lower Road, Belvedere, DA17",DA17,3.0
+1017,199950.0,"Lansdown Road, Sidcup, DA14",DA14,2.0
+1018,199950.0,"Finch Court, Sidcup, DA14 4EN",DA14,2.0
+1019,199950.0,"Lansdown Road, Sidcup, DA14 4EN",DA14,2.0
+1020,580000.0,"Bexley Road, London, SE9",SE9,4.0
+1022,250000.0,"Hackney House, Clydesdale Way, Belvedere, DA17",DA17,2.0
+1023,260000.0,"Broomfield Road, Bexleyheath, DA6",DA6,2.0
+1024,175000.0,"Gertrude Road, Belvedere DA17 5AT",DA17,1.0
+1026,240000.0,"Exmoor House, Clydesdale Way, Belvedere, Kent, DA17",DA17,2.0
+1028,220000.0,"Belmont Road, Erith, DA8",DA8,2.0
+1033,499995.0,"Marina Drive, Welling, Kent, DA16",DA16,3.0
+1034,290000.0,"Lower Road, Belvedere, Kent, DA17",DA17,3.0
+1035,825000.0,"Royal Oak Road, Bexleyheath, DA6",DA6,6.0
+1036,320000.0,"Lansdown Road, Sidcup, Kent, DA14 4EF",DA14,1.0
+1037,280000.0,"Sandford Road, Bexleyheath, Kent, DA7",DA7,2.0
+1039,525000.0,"Long Lane, Bexleyheath, DA7 5AZ",DA7,4.0
+1040,220000.0,"Talehangers Close, Bexleyheath, DA6",DA6,1.0
+1041,260000.0,"Mangold Way, Erith, DA18",DA18,4.0
+1042,160000.0,"Finch Court, Sidcup, DA14 4EN",DA14,1.0
+1043,385000.0,"St. Johns Road, Sidcup, DA14",DA14,2.0
+1044,375000.0,East Rochester Way Sidcup DA15,DA15,3.0
+1045,650000.0,"Marrabon Close, Sidcup, DA15",DA15,4.0
+1048,180000.0,"Tudor Court, Sidcup, DA14 4HY",DA14,1.0
+1049,409995.0,"Mabel Court, 20 Lingfield Crescent, London, SE9",SE9,2.0

@@ -1,0 +1,929 @@
+,price,address,postcode,number_bedrooms
+0,515000.0,"Sidcup Road, London, SE9",SE9,4.0
+1,649999.0,"Biring House, Royal Arsenal Riverside, Woolwich, London, SE18",SE18,3.0
+2,650000.0,"Wallace Court, 42 Tizzard Grove, Kidbrooke, SE3",SE3,3.0
+3,275000.0,"Abel House, Plumstead Road, Woolwich, London, SE18",SE18,2.0
+4,180000.0,"Irwin Avenue, Plumstead, SE18",SE18,2.0
+6,340000.0,"Durham Rise, Plumstead, London, SE18 7TQ",SE18,2.0
+7,225000.0,"Eglinton Hill, London, SE18",SE18,1.0
+8,195000.0,Throwley Close London SE2,SE2,1.0
+9,735000.0,"Catherine Grove, Greenwich, SE10",SE10,3.0
+10,725000.0,Merriman Road London SE3,SE3,5.0
+12,200000.0,"Old Park Road, Abbey Wood, SE2",SE2,3.0
+13,705000.0,Harrison Way Greenwich SE10,SE10,3.0
+15,566000.0,"Victoria Way,
+London,
+SE7",SE7,3.0
+16,547000.0,"Victoria Way,
+London,
+SE7",SE7,3.0
+17,463000.0,"Victoria Way,
+London,
+SE7",SE7,2.0
+18,495000.0,"Victoria Way,
+London,
+SE7",SE7,2.0
+19,370000.0,"Victoria Way,
+London,
+SE7",SE7,1.0
+20,865000.0,"Victoria Way,
+London,
+SE7",SE7,4.0
+21,450000.0,"Tovell Court, 1 Rolfe Terrace, London, SE18",SE18,2.0
+22,625000.0,"Calydon Road, Charlton, SE7",SE7,3.0
+24,805000.0,"Banning Street, London, SE10",SE10,3.0
+25,760000.0,John Donne Way Greenwich SE10,SE10,3.0
+26,740000.0,"Banning Street, London, SE10",SE10,3.0
+27,465000.0,"Station Crescent, Blackheath, London, SE3",SE3,2.0
+30,399000.0,"Victory Parade, Woolwich, London, SE18",SE18,1.0
+31,425000.0,"Royal Herbert Pavilions, Shooters Hill, London, SE18",SE18,2.0
+32,339000.0,"West Carriage House, Royal Carriage Mews, Royal Arsenal SE18",SE18,1.0
+33,335000.0,"Courtyard, Greenwich Square, 1-3 Lambarde Square, Greenwich, London, SE10",SE10,0.0
+35,900000.0,"Drew House, 21 Wharf Street, London, SE8",SE8,2.0
+37,365000.0,Shooters Hill Road London SE3,SE3,1.0
+39,425000.0,Telcon Way London SE10,SE10,1.0
+40,260000.0,"Berber Parade, Shooters Hill, London, SE18 ",SE18,2.0
+41,325000.0,"Bramshot Avenue, London, SE7",SE7,2.0
+42,530000.0,"Peartree Way, London, SE10",SE10,2.0
+43,350000.0,"Bramshot Avenue, London, SE7",SE7,2.0
+44,300000.0,"Nassau Path, Thamemead, London, SE28 8AN",SE28,3.0
+45,550000.0,"414 Shooters Hill Road, London, SE18",SE18,3.0
+47,330000.0,Floyd Road London SE7,SE7,2.0
+48,350000.0,Riverdale Road London SE18,SE18,3.0
+49,425000.0,"Creek Road, SE8",SE8,1.0
+50,525000.0,"Upper Riverside, 10 Cutter Lane, Greenwich Peninsula, SE10 0XX",SE10,1.0
+51,700000.0,"Portal Terrace, Handley Drive, London, SE3",SE3,3.0
+53,525000.0,"Rockfield House, Welland Street, London, SE10",SE10,3.0
+54,750000.0,Eastcombe Avenue London SE7,SE7,4.0
+56,499995.0,"Corbidge Court, Glaisher Street, London, SE8",SE8,2.0
+58,280000.0,Greenbay Road London SE7,SE7,2.0
+59,420000.0,"Royal Carriage Mews, Royal Arsenal, London, SE18 ",SE18,2.0
+62,425000.0,"Barge Walk, Greenwich, SE10 ",SE10,1.0
+63,685000.0,Annandale Road London SE10,SE10,3.0
+64,800000.0,"Fiador apartments, 21 Telegraph Avenue, london SE10 0TH",SE10,3.0
+65,549950.0,"Dairsie Road, Eltham, SE9",SE9,3.0
+66,400000.0,"Peartree Way, London, SE10",SE10,1.0
+67,1050000.0,Horn Park Lane Lee SE12,SE12,4.0
+68,400000.0,"Kidbrooke Park Road, Blackheath, London, SE3",SE3,2.0
+69,400000.0,"Kidbrooke Park Road, Blackheath, London, SE3",SE3,2.0
+70,425000.0,"Jubilee Court, 8 Wood Wharf, Greenwich, SE10",SE10,1.0
+71,425000.0,"Hither Farm Road, London, SE3",SE3,2.0
+72,920000.0,"6 Peartree Way, London, SE10",SE10,3.0
+73,875000.0,Providence Place Greenwich SE10,SE10,4.0
+74,269999.0,Hevelius Close London SE10,SE10,1.0
+77,204995.0,"Charlesmere Gardens, West Thamesmead, SE28 0NG",SE28,1.0
+78,299995.0,Camelot Close London SE28,SE28,2.0
+79,579995.0,"Bellegrove Road, Welling, Kent, DA16",DA16,4.0
+80,475000.0,Sandy Hill Road London SE18,SE18,2.0
+81,1150000.0,"West Park, London, SE9",SE9,7.0
+82,280000.0,"St. Mary Street, Woolwich, London, SE18",SE18,2.0
+83,350000.0,"Shooters Hill Road, London, SE3",SE3,1.0
+90,325000.0,"Ravensbourne Mansions, 40 Berthon Street, London, SE8",SE8,1.0
+91,375000.0,"Elliot Lodge, 7 Cyrus Field Street, London, SE10",SE10,1.0
+92,625000.0,"Edison Court, Greenroof Way, London, SE10",SE10,4.0
+93,700000.0,"Moseley Row, Greenwich, London, SE10",SE10,3.0
+95,350000.0,"Middle Park Avenue, London, SE9",SE9,3.0
+96,500000.0,"Woodrow Woolwich, London, SE18",SE18,3.0
+97,700000.0,"Woodhill, Woolwich, SE18",SE18,3.0
+98,435000.0,"The Cable, 47 Pilot Walk, Parkside, Greenwich Peninsula, SE10",SE10,1.0
+99,1400000.0,Ashburnham Place London SE10,SE10,4.0
+101,299995.0,"Heath Court, Stanley Close, New Eltham, SE9",SE9,2.0
+102,525000.0,"Wood Wharf Apartments, Horseferry Place, Greenwich, London, SE10",SE10,2.0
+103,375000.0,Combe Avenue London SE3,SE3,2.0
+106,524995.0,"Ashmore Road, The Academy, SE18 4BY",SE18,2.0
+107,265000.0,Churchbury Road London SE9,SE9,3.0
+108,680000.0,Hastings Street London SE18,SE18,4.0
+109,795000.0,"Royal Place, Greenwich, SE10",SE10,2.0
+110,400000.0,"Ceres Road, Plumstead, London, SE18",SE18,3.0
+111,450000.0,Beaconsfield Close Blackheath SE3,SE3,3.0
+112,625000.0,"Greenroof Way, Greenwich Millennium Village, London, SE10",SE10,4.0
+114,325000.0,"West Park, London, SE9",SE9,2.0
+115,400000.0,"Roydene Road, Plumstead Common, London, SE18",SE18,3.0
+116,390000.0,Alnwick Road London SE12,SE12,3.0
+118,265000.0,"Antelope Road, London, SE18",SE18,2.0
+120,375000.0,Bostall Lane London SE2,SE2,2.0
+121,210000.0,Vincent Road London SE18,SE18,2.0
+122,390000.0,"Stane Way, SE18",SE18,3.0
+123,475000.0,"Vanbrugh Hill, Greenwich, London, SE3",SE3,1.0
+124,245000.0,"Greenhaven Drive, London, SE28",SE28,2.0
+126,399995.0,Ancona Road London SE18,SE18,3.0
+127,410000.0,"Sidney House, Royal Herbert Pavilions, Gilbert Close, London, SE18",SE18,2.0
+128,455000.0,"Conningham Court, 19 Dowding Drive, London, SE9",SE9,2.0
+129,795000.0,"Pond Road, Blackheath, SE3",SE3,3.0
+130,470000.0,"Brumwell Avenue, Woolwich, London, SE18",SE18,2.0
+131,545000.0,"Brumwell Avenue, Woolwich, London, SE18",SE18,3.0
+132,375000.0,"Brumwell Avenue, Woolwich, London, SE18",SE18,1.0
+133,350000.0,"Mennie House, Royal Herbert Pavilions, London, SE18",SE18,1.0
+134,1600000.0,"Bardsley Lane, London, SE10",SE10,4.0
+135,1250000.0,"Rocque Lane, Blackheath, London, SE3",SE3,4.0
+136,399995.0,"Hugero Point, 2 Rennie Street, Greenwich, London, SE10",SE10,1.0
+138,200000.0,"Marlowe Gardens, Eltham SE9 ",SE9,1.0
+139,750000.0,"Franklin Place, Lewisham, SE13",SE13,4.0
+140,550000.0,"John Penn Street, Lewisham, SE13",SE13,3.0
+141,300000.0,Shooters Hill Road London SE3,SE3,1.0
+142,450000.0,"Trafalgar Grove, Greenwich, SE10",SE10,2.0
+143,440000.0,"Sandpit Place, Charlton, SE7",SE7,3.0
+144,425000.0,"Hervey Road, London, SE3",SE3,2.0
+145,695000.0,"Catherine Grove, Greenwich, SE10",SE10,2.0
+147,370000.0,"Brookhill Road, London, SE18",SE18,5.0
+148,470000.0,"Chestnut Rise, London, SE18 1RJ",SE18,3.0
+149,420000.0,"Lakeside Avenue, Thamesmead, London, SE28 8RU",SE28,4.0
+150,650000.0,"Canberra Road, Charlton, SE7",SE7,3.0
+151,350000.0,"Norman Road, London, SE10 9QZ",SE10,1.0
+152,250000.0,"Prince Henry Road, Charlton, London, SE7",SE7,1.0
+153,250000.0,"Berber Parade, Woolwich, London, SE18",SE18,1.0
+155,385000.0,"Bellot Street, Greenwich, SE10",SE10,2.0
+156,290000.0,"Corelli Road, Shooters Hill, London, SE3",SE3,1.0
+157,365000.0,"Corbidge Court, Glaisher Street, London, SE8",SE8,1.0
+158,450000.0,"Hopton Road, Royal Arsenal, London, SE18",SE18,2.0
+159,470000.0,"Centrum Court, Kidbrooke Village, SE3",SE3,1.0
+160,750000.0,"Centrum Court, Kidbrooke Village, SE3",SE3,3.0
+161,300000.0,Ferndown Road London SE9,SE9,2.0
+162,475000.0,"Sidcup Road, Mottingham, SE9",SE9,3.0
+164,175000.0,"Bertrand Way, North Thamesmead, London, SE28 8LL",SE28,2.0
+165,475000.0,Court Yard London SE9,SE9,2.0
+166,365000.0,Burrage Place London SE18,SE18,3.0
+167,575000.0,"Canary View, 23 Dowells Street, Greenwich, London, SE10",SE10,2.0
+168,350000.0,"Seren Park Gardens, London, SE3",SE3,1.0
+170,430000.0,"Bloomfield Road, London, SE18",SE18,2.0
+171,685000.0,34 Norman Road London SE10,SE10,3.0
+173,250000.0,"Burrage Place, Woolwich, SE18",SE18,2.0
+174,550000.0,"Kidbrooke Grove, London, SE3",SE3,2.0
+176,785000.0,Colomb Street London SE10,SE10,3.0
+177,399995.0,"Brewery Road, Plumstead, London, SE18",SE18,2.0
+178,345000.0,Langhorne Street Woolwich SE18,SE18,1.0
+179,1000000.0,"Glenesk Road, London, SE9",SE9,4.0
+180,750000.0,Vanbrugh Hill London SE10,SE10,2.0
+181,750000.0,Kidbrooke Grove Blackheath SE3,SE3,2.0
+182,475000.0,"Dickson Road, Eltham SE9",SE9,3.0
+185,240000.0,"Westmount Road, London, SE9",SE9,1.0
+186,560000.0,Peartree Way Greenwich SE10,SE10,2.0
+187,435000.0,Farmdale Road London SE10,SE10,3.0
+188,285000.0,"Poplar Place, Thamesmead, London, SE28 ",SE28,3.0
+189,450000.0,Union Park Greenwich SE10,SE10,2.0
+191,450000.0,"Dover Patrol, London, SE3 0DW",SE3,2.0
+192,450000.0,"The Fulmar, 21 Reminder Lane, Lower Riverside, Greenwich Peninsula, SE10",SE10,1.0
+193,340000.0,Gilbert Close London SE18,SE18,2.0
+194,775000.0," Corner Green,  Greenwich, SE3",SE3,3.0
+195,400000.0,"Philimore Close, London, SE18",SE18,3.0
+197,485000.0,"Woodbrook Road, London, SE2",SE2,3.0
+198,397000.0,Cable Walk London SE10,SE10,1.0
+199,350000.0,"Bostall Lane, London, SE2",SE2,2.0
+200,280000.0,Greenbay Road London SE7,SE7,2.0
+201,600000.0,"Building 49, Argyll Road, London, SE18",SE18,2.0
+202,450000.0,"Paget Terrace, Woolwich, SE18",SE18,3.0
+203,650000.0,"Elmdene Road, London, SE18",SE18,5.0
+207,369995.0,Horn Park Lane Lee SE12,SE12,3.0
+208,369995.0,Horn Park Lane Lee SE12,SE12,3.0
+209,375000.0,"Wellington Gardens, London, SE7",SE7,2.0
+210,265000.0,"Courtauld Close, Thamesmead, SE28",SE28,2.0
+211,450000.0,"Rolfe Terrace, Woolwich, London, SE18 ",SE18,2.0
+214,220000.0,"Footscray Road, London, SE9",SE9,2.0
+215,275000.0,"Pinecroft Court, 410 Wickham Lane, Welling, DA16",DA16,2.0
+216,985000.0,"Kings Orchard, London, SE9",SE9,4.0
+217,330000.0,"Whinchat Road, Thamesmead West, SE28 0DW",SE28,4.0
+219,525000.0,"Glaisher Street, Deptford, SE8",SE8,2.0
+220,250000.0,"Pickwick Court, West Park, London, SE9",SE9,1.0
+221,515000.0,"Sidcup Road, London, SE9",SE9,4.0
+222,450000.0,Court Road Eltham SE9,SE9,2.0
+223,550000.0,"Vambery Road, Plumstead Common, London, SE18",SE18,3.0
+224,430000.0,"806 Holly Court, John Harrison Way, London, SE10 0BL",SE10,3.0
+225,250000.0,"Prince Henry Road, Charlton, London, SE7",SE7,1.0
+226,569950.0,Shooters Hill Road Blackheath SE3,SE3,2.0
+227,380000.0,"Smithies Road, SE2 * VIDEO & 3D FLOORPLAN AVAILABLE *",SE2,3.0
+228,195000.0,"Waterside Close, London, SE28 0GS",SE28,1.0
+231,700000.0,"Park Place, Park Vista, Greenwich. SE10 9ND",SE10,2.0
+232,230000.0,"Greenhaven Drive, Thamesmead, London, SE28 8FU",SE28,2.0
+233,1045000.0,"Kidbrooke Village, Greenwich, SE3",SE3,3.0
+234,432500.0,"Building 50, Argyll Road, Royal Arsenal SE18",SE18,2.0
+235,530000.0,"Kidbrooke Village, Greenwich, SE3",SE3,2.0
+236,477500.0,"Kidbrooke Village, Greenwich, SE3",SE3,1.0
+237,380000.0,"Kidbrooke Village, Greenwich, SE3",SE3,0.0
+238,420000.0,"Europa House, No.1 Street, Royal Arsenal SE18",SE18,1.0
+239,425000.0,King William Walk Greenwich SE10,SE10,1.0
+241,700000.0,"Fairoak Drive, Eltham Heights, SE9",SE9,3.0
+242,1750000.0,"Kidbrooke Grove, Blackheath, London, SE3",SE3,3.0
+243,535000.0,"Mennie House, Woolwich SE18",SE18,3.0
+244,500000.0,"Thistley Court, Glaisher Street, Greenwich, SE8",SE8,2.0
+245,300000.0,"Shooters Hill Road, London, SE3",SE3,1.0
+246,485000.0,"Sidney House, Royal Herbert Pavilions, Shooters Hill, London, SE18",SE18,2.0
+247,425000.0,"128 Old Woolwich Road, Greenwich, SE10",SE10,2.0
+248,340000.0,"Heathwood Gardens, Charlton, London, SE7",SE7,2.0
+249,1030000.0,"No. 5, 2 Cutter Lane, Upper Riverside, Greenwich Peninsula, SE10",SE10,3.0
+251,475000.0,"Crookston Road, London, SE9",SE9,3.0
+252,365000.0,Seren Park Gardens London SE3,SE3,1.0
+253,375000.0,"Wallace Court, 42 Tizzard Grove, London, SE3",SE3,1.0
+254,510000.0,"Crookston Road, Eltham SE9",SE9,3.0
+256,625000.0,Westgrove Lane London SE10,SE10,2.0
+257,425000.0,"Lariat Apartments, Greenwich, SE10",SE10,1.0
+258,935000.0,"East Parkside, North Greenwich, SE10 0PP",SE10,3.0
+259,905000.0,"No 5, 2 Cutter Lane, Upper Riverside, Greenwich Peninsula, SE10",SE10,2.0
+260,285000.0,"Hevelius Close, Greenwich, London, SE10",SE10,1.0
+261,430000.0,"John Harrison Way, Greenwich, London, SE10",SE10,3.0
+262,165000.0,"Ottley Drive, London, SE3",SE3,1.0
+263,330000.0,"Ottley Drive, London, SE3",SE3,1.0
+264,310000.0,"Riverdale Road, London, SE18",SE18,3.0
+265,465000.0,Wellesley Road London SE18,SE18,2.0
+266,325000.0,"131 Charlton Church Lane, London, SE7",SE7,1.0
+267,265000.0,"Moira Road, Eltham SE9 ",SE9,2.0
+268,595000.0,"Mayday Gardens, London, SE3",SE3,4.0
+269,425000.0,Argyll Road London SE18,SE18,2.0
+270,400000.0,"Hither Farm Road, Kidbrooke, SE3",SE3,2.0
+271,675000.0,"Jubilee Court, 20 Victoria Parade, London, SE10",SE10,2.0
+273,650000.0,"Centrum Court, Kidbrooke Village, SE3",SE3,3.0
+274,379995.0,Tom Smith Close London SE10,SE10,1.0
+275,1030000.0,"No. 5, 2 Cutter Lane, Upper Riverside, Greenwich Peninsula, SE10",SE10,3.0
+276,540000.0,"Stretton Mansions, Glaisher Street, Greenwich, SE8",SE8,2.0
+277,535000.0,Shooters Hill Road London SE3,SE3,2.0
+279,450000.0,"Lee Road, Blackheath, London, SE3",SE3,1.0
+280,575000.0,"Humber Road, Greenwich, SE3",SE3,2.0
+281,600000.0,"Hugero Point, 2 Rennie Street, Greenwich, London, SE10",SE10,2.0
+282,645000.0,Horseferry Place Greenwich London SE10,SE10,2.0
+283,2000000.0,"St. Johns Park, London, SE3",SE3,6.0
+284,660000.0,"Delafield Road, Charlton, SE7",SE7,5.0
+285,549995.0,"Frederick Place, Woolwich, SE18",SE18,5.0
+286,525000.0,"Greenwich High Road, London, SE10",SE10,2.0
+287,1450000.0,"Greenwich Park Street, London, SE10",SE10,4.0
+288,675000.0,"Long Mill, Mumford Mills, London, SE10",SE10,2.0
+290,460000.0,"Norman Road, Greenwich, London, SE10",SE10,2.0
+291,750000.0,Canberra Road London SE7,SE7,3.0
+292,500000.0,"20 Norman Road, Greenwich, SE10",SE10,2.0
+293,500000.0,"Green Lane, New Eltham, London, SE9",SE9,3.0
+294,500000.0,"Viotti Heights, Sandy Hill Road, Woolwich, London, SE18",SE18,2.0
+295,595000.0,"No 5, 2 Cutter Lane, Upper Riverside, Greenwich Peninsula, SE10",SE10,1.0
+296,400000.0,"Rennie Street, Greenwich, SE10",SE10,1.0
+297,540000.0,"Stretton Mansions, Glaisher Street, Greenwich, SE8",SE8,2.0
+298,369000.0,5 Rolfe Terrace Woolwich SE18,SE18,1.0
+299,300000.0,"Whitworth Road, London, SE18",SE18,2.0
+301,525000.0,"Creek Road, London, SE8 3DB",SE8,2.0
+302,430000.0,St. Johns Park London SE3,SE3,2.0
+303,549995.0,Frederick Place London SE18,SE18,5.0
+304,1000000.0,"Woodlands Park Road, London, SE10",SE10,4.0
+305,550000.0,"Dairsie Road, Eltham, London, SE9",SE9,3.0
+306,250000.0,Bannockburn Road London SE18,SE18,2.0
+307,500000.0,Eltham Green London SE9,SE9,3.0
+308,300000.0,"Bailey House, Woolwich SE18",SE18,2.0
+309,750000.0,Trinity Grove London SE10,SE10,2.0
+310,300000.0,"Paddle Steamer House, Thamesmead West, SE28 0PD",SE28,2.0
+311,340000.0,"Coxwell Road, Plumstead, London, SE18",SE18,2.0
+312,300000.0,"Berber Parade, London, SE18",SE18,2.0
+315,1250000.0,Greenwich South Street London SE10,SE10,4.0
+316,375000.0,"The Course, New Eltham, SE9",SE9,3.0
+317,450000.0,Greenwich South Street London SE10,SE10,2.0
+318,225000.0,Thames Reach London SE28,SE28,2.0
+319,457500.0,"Kidbrooke Village
+Greenwich SE3 9FD",SE3,1.0
+320,560000.0,"Kidbrooke Village
+Greenwich SE3 9FD",SE3,2.0
+321,565000.0,"Kidbrooke Village
+Greenwich SE3 9FD",SE3,2.0
+322,380000.0,"Kidbrooke Village
+Greenwich SE3 9FD",SE3,1.0
+323,487500.0,"Kidbrooke Village
+Greenwich SE3 9FD",SE3,1.0
+324,580000.0,"Kidbrooke Village
+Greenwich SE3 9FD",SE3,2.0
+325,575000.0,"Marlborough Lane, Charlton, SE7",SE7,3.0
+326,670000.0,"Halfway Street, London, DA15",DA15,4.0
+327,465000.0,"Hudson Building, Deptford SE10",SE10,2.0
+328,416000.0,"Cadogan Road, SE18 6YR",SE18,2.0
+329,425000.0,"Hargood House, 7 Norway Street, Greenwich, London, SE10",SE10,1.0
+330,425000.0,"Sibthorpe Road, Lee, SE12",SE12,3.0
+331,575000.0,"Kidbrooke Park Road, Blackheath, London, SE3",SE3,2.0
+332,900000.0,"Pond Road, London, SE3",SE3,3.0
+333,375000.0,"Fairthorn Road, Charlton, SE7",SE7,2.0
+334,495000.0,"No.5, 2 Cutter Lane, Upper Riverside, Greenwich Peninsula, SE10",SE10,0.0
+335,240000.0,"Footscray Road, Eltham, London, SE9",SE9,1.0
+339,350000.0,"Pelton Road, Greenwich, SE10",SE10,1.0
+340,310000.0,"Poplar Place, London, SE28",SE28,2.0
+341,650000.0,Dowells street London SE10,SE10,2.0
+343,600000.0,"Brownspring Drive, Eltham, SE9",SE9,3.0
+345,429995.0,Peartree Way Greenwich SE10,SE10,1.0
+346,290000.0,"Woodhill, Woolwich, SE18 5JL",SE18,2.0
+348,325000.0,"Sladedale Road, London, SE18",SE18,2.0
+349,320000.0,"Greenroof Way, Greenwich Millennium Village, London, SE10",SE10,1.0
+351,675000.0,"Lambarde Square, Greenwich, London, SE10",SE10,3.0
+352,650000.0,Wyndcliff Road London SE7,SE7,3.0
+355,425000.0,"The Knole, Mottingham, SE9",SE9,3.0
+356,600000.0,"Hugero Point, 2 Rennie Street, Greenwich, SE10",SE10,2.0
+357,500000.0,"Canary View, Greenwich SE10",SE10,2.0
+358,449000.0,"Naval House, Victory Parade, Royal Arsenal SE18",SE18,1.0
+359,152000.0,"The Vista Building, Woolwich Central, SE18",SE18,1.0
+360,320000.0,Ware Point Drive London SE28,SE28,2.0
+361,240000.0,"Commonwealth Way, Abbeywood SE2 0LD",SE2,2.0
+362,600000.0,"Wallace Court, 54 Tizzard Grove, Blackheath, SE3",SE3,3.0
+363,695000.0,Woodland Grove Greenwich SE10,SE10,3.0
+364,475000.0,"Cadogan Road, London, SE18",SE18,2.0
+366,350000.0,"Langbrook Road, London, SE3",SE3,2.0
+367,250000.0,"Bevan Road, London, SE2",SE2,2.0
+368,380000.0,"Footscray Road, London, SE9",SE9,3.0
+371,410000.0,"Tyger House, 7 New Warren Lane, London, SE18",SE18,1.0
+372,400000.0,"Bromhedge, Mottingham, SE9",SE9,3.0
+373,700000.0,"Avery Hill Road, New Eltham, London, SE9",SE9,3.0
+374,425000.0,"Coxmount Road, London, SE7",SE7,3.0
+375,1030000.0,"No. 5, 2 Cutter Lane, Upper Riverside, Greenwich Peninsula, SE10",SE10,3.0
+376,270000.0,"Floyd Road, London, SE7",SE7,1.0
+378,525000.0,"Wallace Court, Kidbrooke Village, SE3",SE3,2.0
+379,850000.0,"Shrewsbury Lane, Shooters Hill, London, SE18",SE18,5.0
+380,1999950.0,"Coleraine Road, Blackheath, London, SE3",SE3,6.0
+382,535000.0,"Johnson Court, Kidbrooke Village, SE9",SE9,3.0
+383,675000.0,"Reynolds Place, Blackheath, SE3",SE3,2.0
+384,500000.0,"Dunblane Road, Eltham, SE9",SE9,3.0
+385,499500.0,"Centrum Court, Kidbrooke Village, SE3",SE3,2.0
+386,535000.0,"Molescroft, London SE9",SE9,3.0
+388,795000.0,"Foxes Dale, Blackheath, London, SE3",SE3,3.0
+389,800000.0,Calvert Road London SE10,SE10,3.0
+391,575000.0,"Norway Street, Greenwich, London, SE10",SE10,2.0
+393,362500.0,"1 Moy Lane, London, SE18",SE18,1.0
+398,400000.0,"Devonshire Drive, Greenwich, SE10",SE10,2.0
+399,459995.0,Donaldson Road London SE18,SE18,3.0
+400,625000.0,"Calydon Road, Charlton, SE7",SE7,3.0
+401,415000.0,Ashmore Road London SE18,SE18,2.0
+402,400000.0,"Prince Rupert Road, Eltham SE9",SE9,3.0
+403,400000.0,"Prince Rupert Road, London, SE9",SE9,3.0
+404,240000.0,"Bagley House, Berber Parade, Woolwich, SE18",SE18,1.0
+405,490000.0,Fairthorn Road London SE7,SE7,3.0
+406,950000.0,Langdale Road London SE10,SE10,4.0
+409,699500.0,"Inverine Road, Charlton, SE7",SE7,3.0
+410,385000.0,"Dursley Road, Greenwich, London, ..., SE3",SE3,2.0
+411,295000.0,"Bridge House, Defense Close, SE28 0NR",SE28,2.0
+412,920000.0,"Upper Riverside, 10 Cutter Lane, Greenwich Peninsula, SE10 0XX",SE10,3.0
+414,525000.0,"Upper Riverside, 10 Cutter Lane, Greenwich Peninsula, SE10 0XX",SE10,1.0
+415,475000.0,"Donaldson Road, Shooters Hill, London, SE18",SE18,4.0
+416,850000.0,"Peartree Way, London, SE10",SE10,4.0
+417,455000.0,Woolwich Road Greenwich SE10,SE10,3.0
+418,335000.0,"Greenwich Square - Courtyard, Hawthorne Crescent, Greenwich, London, SE10",SE10,0.0
+419,325000.0,"65 Woodrow, London, SE18",SE18,1.0
+420,400000.0,"Torrent Lodge, 11 Merryweather Place, London, SE10",SE10,1.0
+421,550000.0,"Bostall Hill, Abbey Wood, SE2",SE2,3.0
+422,795000.0,"Meridian Point, Creek Road, Deptford, London, SE8",SE8,3.0
+423,425000.0,"Westmount Road, Eltham, SE9",SE9,3.0
+424,300000.0,"Merchland Road, New Eltham, SE9",SE9,2.0
+427,475000.0,Courtlands Avenue London SE12,SE12,3.0
+428,750000.0,Mell Street Greenwich SE10,SE10,3.0
+429,480000.0,Hector Street London SE18,SE18,3.0
+430,820000.0,Chevening Road Greenwich SE10,SE10,3.0
+432,450000.0,"Wernbrook Street, Plumstead Common, London, SE18",SE18,3.0
+433,475000.0,"Brookdene Road, Plumstead, London, SE18 1EJ",SE18,5.0
+434,450000.0,"Plumstead High Street, Plumstead, London, SE18",SE18,4.0
+435,699950.0,Dancers Way Greenwich SE8,SE8,3.0
+436,1200000.0,"Tizzard Grove, Blackheath, London, SE3",SE3,4.0
+437,499999.0,"Duke Of Wellington Avenue, Royal Arsenal, Woolwich, SE18 ",SE18,1.0
+438,275000.0,"Marlowe Gardens, London, SE9",SE9,2.0
+439,400000.0,"Kirkside Road, Blackheath, London, SE3",SE3,2.0
+440,495000.0,Greenwich High Road London SE10,SE10,2.0
+442,360000.0,Tizzard Grove Blackheath SE3,SE3,1.0
+443,1050000.0,"47 Pilot Walk, Greenwich, London, SE10",SE10,3.0
+444,375000.0,"Drummond House, Victory Parade,London, SE18",SE18,1.0
+445,390000.0,Billinghurst Way Greenwich SE10,SE10,1.0
+446,630000.0,"Eltham Hill, London, SE9",SE9,4.0
+448,675000.0,River Gardens Walk London SE10,SE10,2.0
+449,430000.0,Pelton Road London SE10,SE10,2.0
+450,300000.0,"Westcombe Park Road, Blackheath, SE3",SE3,1.0
+451,830000.0,"Cavatina Point, 3 Dancers Way, London, SE8",SE8,3.0
+452,850000.0,"Cavatina Point, 3 Dancers Way, London, SE8",SE8,3.0
+453,300000.0,"Pepys Court, 20 Love Lane, London, SE18",SE18,1.0
+455,500000.0,"Maltby House, 18 Tudway Road, LONDON, SE3",SE3,2.0
+456,350000.0,Pelton Road London SE10,SE10,1.0
+457,370000.0,"Raymere Gardens, Plumstead, London, SE18",SE18,3.0
+458,660000.0,"Vertex Tower, 3 Harmony Place, London, SE8",SE8,3.0
+461,400000.0,"Hargood House, 7 Norway Street, Greenwich, London, SE10",SE10,1.0
+462,425000.0,"Barnstaple House, Devonshire Drive, Greenwich, London, SE10",SE10,2.0
+463,775000.0,"Mauritius Road, Greenwich, London, SE10",SE10,4.0
+464,550000.0,"Troughton Road, London, SE7",SE7,2.0
+465,290000.0,"The Course, Eltham SE9",SE9,2.0
+466,450000.0,"Kendall Road, Shooters Hill, London, SE18",SE18,3.0
+468,495000.0,Sandy Hill Road London SE18,SE18,2.0
+469,160000.0,"Highview, Eglinton Hill, Plumstead, London, SE18 3PB",SE18,2.0
+470,400000.0,Telegraph Avenue Greenwich SE10,SE10,1.0
+471,230000.0,"Myrtledene Road, Abbey Wood, London, SE2",SE2,2.0
+472,400000.0,Red Lion Lane London SE18,SE18,2.0
+473,425000.0,"The Norton, 22 John Harrison Way, Lower Riverside, Greenwich Peninsula, SE10",SE10,1.0
+474,500000.0,"Tizzard Grove, Kidbrooke, London, SE3",SE3,2.0
+475,530000.0,"Brumwell Avenue, Woolwich, London, SE18",SE18,3.0
+477,400000.0,"Aberford Gardens, Shooters Hill, London, SE18",SE18,3.0
+478,236000.0,"Commonwealth Way, London, SE2",SE2,2.0
+479,400000.0,"Horsfeld Road, Eltham, SE9",SE9,3.0
+480,685000.0,Hollymount Close London SE10,SE10,3.0
+481,350000.0,"Glaisher Street, London, SE8",SE8,1.0
+482,270000.0,"Charlesmere Gardens, Thames Reach SE28",SE28,2.0
+483,250000.0,"Sowerby Close, London, SE9 6HB",SE9,2.0
+486,525000.0,"Cityview, Lansdowne Lane, LONDON, SE7",SE7,2.0
+487,190000.0,"Sycamore Close, Mottingham, London, SE9",SE9,1.0
+488,545000.0,"Maurer Court, Greenwich, London, SE10",SE10,2.0
+490,380000.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,0.0
+491,380000.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,0.0
+492,382500.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,0.0
+493,385000.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,0.0
+494,385000.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,0.0
+495,387500.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,0.0
+496,387500.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,0.0
+497,390000.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,0.0
+498,390000.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,0.0
+499,392500.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,0.0
+501,392500.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,0.0
+502,392500.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,0.0
+503,395000.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,0.0
+504,395000.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,0.0
+505,400000.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,0.0
+506,650000.0,"Barlow Drive, Shooters Hill, London, SE18",SE18,3.0
+511,350000.0,"Tarnwood Park, London, SE9",SE9,3.0
+512,775000.0,"Ruthin Road, Blackheath, London, SE3",SE3,3.0
+513,495000.0,"Westcombe Hill, Blackheath, SE3",SE3,2.0
+514,615000.0,"Lambarde Square, Greenwich, London, SE10",SE10,2.0
+515,525000.0,"Tizzard Grove, Kidbrooke, London, SE3",SE3,2.0
+516,375000.0,"Eastcombe Avenue, London, SE7",SE7,2.0
+517,440000.0,"Ross Way, London, SE9",SE9,3.0
+518,385000.0,"Cannon Place, Charlton, SE7",SE7,2.0
+519,250000.0,"Lancaster House, Gunyard Mews, Shooters Hill, London, SE18",SE18,1.0
+520,325000.0,"St James Court, Wricklemarsh Road, Kidbrooke, SE3",SE3,2.0
+521,300000.0,"Gregory Crescent, London, SE9",SE9,2.0
+522,525000.0,Commerell Street London SE10,SE10,2.0
+523,395000.0,Peartree Way Greenwich SE10,SE10,1.0
+524,290000.0,"Master Gunner Place, Charlton, SE18",SE18,2.0
+525,250000.0,"Prince Henry Road, Charlton, London, SE7",SE7,1.0
+526,1750000.0,"Langton Way, London, SE3",SE3,4.0
+527,550000.0,Glenluce Road London SE3,SE3,2.0
+528,825000.0,Vanbrugh Hill Greenwich SE10,SE10,4.0
+529,785000.0,"Gun Carriage Walk, SE18",SE18,3.0
+530,425000.0,"Howarth Road, Abbey Wood, London, SE2 0UL",SE2,3.0
+532,285000.0,Liskeard Gardens Blackheath London SE3,SE3,0.0
+534,320000.0,"Bluebird Way, Thamesmead West, SE28 0HY",SE28,2.0
+535,375000.0,"Basevi Way, Greenwich / Deptford, SE8",SE8,2.0
+536,699995.0,"Mayhill Road, Charlton, London, SE7",SE7,3.0
+537,385000.0,Dursley Road London SE3,SE3,2.0
+538,695000.0,Braddyll Street Greenwich SE10,SE10,2.0
+539,605000.0,"Upper Riverside, 10 Cutter Lane, Greenwich Peninsula, SE10 0XX",SE10,1.0
+540,425000.0,"Ankerdine Crescent, London, SE18",SE18,3.0
+542,350000.0,"Footscray Road, London, SE9",SE9,2.0
+543,1150000.0,"Hardy Road, London, SE3",SE3,5.0
+544,950000.0,"Charlton Road, Blackheath, London, SE3",SE3,6.0
+547,575000.0,Green Lane London SE9,SE9,4.0
+548,500000.0,"Hillview Road, Chislehurst, BR7",BR7,2.0
+549,415000.0,"Bostall Lane, Abbey Wood, SE2",SE2,3.0
+550,750000.0,"Lizban Street, Blackheath, London, SE3",SE3,3.0
+551,420000.0,Lakeside Avenue London SE28,SE28,4.0
+552,600000.0,"Well Hall Road, London, SE9",SE9,4.0
+553,270000.0,"Pippenhall, Southend Crescent, London, SE9",SE9,2.0
+554,500000.0,"Ashmore Road, London, SE18",SE18,2.0
+555,425000.0,"West Park, London, SE9",SE9,2.0
+556,385000.0,Bromhedge London SE9,SE9,3.0
+557,580000.0,Lyveden Road London SE3,SE3,2.0
+558,499950.0,Federation Road London SE2,SE2,3.0
+559,425000.0,"Nadine Street, Charlton, SE7",SE7,2.0
+560,395000.0,"Plumbridge Street, London, SE10 8PA",SE10,3.0
+561,415000.0,"Jubilee Court, 8 Wood Wharf, Greenwich, London, SE10",SE10,1.0
+562,500000.0,"Mell Street, Greenwich, SE10",SE10,2.0
+563,460000.0,"Glaisher Street, Greenwich, SE8",SE8,2.0
+564,685000.0,"Coleraine Road, Blackheath, London, SE3",SE3,3.0
+565,265000.0,"COURTLANDS HOUSE, 202 Court Road, Mottingham, SE9 4UD",SE9,1.0
+566,599999.0,"Kidbrooke Way, Kidbrooke, SE3",SE3,3.0
+567,450000.0,"Centrum Court, Kidbrooke Village, SE3",SE3,2.0
+568,300000.0,Eltham Road Lee SE12,SE12,2.0
+569,400000.0,Beaconsfield Close Blackheath SE3,SE3,3.0
+571,389995.0,Cyrus Field Street Greenwich SE10,SE10,1.0
+572,1250000.0,King George Street London SE10,SE10,3.0
+573,500000.0,"Glenesk Road, London, SE9",SE9,3.0
+574,464995.0,"The Village Square,
+West Parkside,
+Greenwich,
+London,
+SE10 0BD",SE10,1.0
+575,250000.0,"Pickwick Court, West Park, London, SE9",SE9,1.0
+576,450000.0,"Wallace Court, 54 Tizzard Grove, London, SE3",SE3,2.0
+577,117500.0,"Perkins House, London, SE3",SE3,2.0
+578,550000.0,"Greenwich South Street, Greenwich, SE10",SE10,2.0
+579,775000.0,Tyler Street London SE10,SE10,2.0
+580,425000.0,"Travers House, London, SE10",SE10,2.0
+583,500000.0,"Burgos Grove, Greenwich, SE10",SE10,2.0
+584,357500.0,"Whetstone Road, Kidbrooke, SE3",SE3,2.0
+585,705000.0,"Banning Street, London, SE10",SE10,3.0
+586,350000.0,"Devonshire Drive, Greenwich, SE10",SE10,1.0
+587,625000.0,"Building 36, Marlborough Road, Royal Arsenal SE18",SE18,2.0
+588,250000.0,"100 Bloomfield Road, London, SE18",SE18,2.0
+589,475000.0,"Kidbrooke Park Road, London, SE3",SE3,2.0
+590,330000.0,"Brook Square, Woolwich, SE18",SE18,2.0
+591,2850000.0,"Circus Street, London, SE10",SE10,6.0
+592,750000.0,"Brand Street, London, SE10",SE10,2.0
+593,950000.0,"Prior Street, London, SE10",SE10,2.0
+595,460000.0,"Blithdale Road, SE2 * VIDEO & 3D FLOORPLANS AVAILABLE *",SE2,4.0
+596,315000.0,"Bexley Road, London, SE9",SE9,2.0
+597,295000.0,"Westcombe Park Road, Blackheath, London, SE3",SE3,1.0
+598,600000.0,"Reynolds Place, Blackheath, London, SE3",SE3,2.0
+599,350000.0,"Hervey Road, Blackheath, London, SE3",SE3,2.0
+601,575000.0,"Chichester Lodge, Peartree Way, Greenwich, London, SE10",SE10,2.0
+603,940000.0,"No.2, 10 Cutter Lane, Upper Riverside, Greenwich Peninsula SE10",SE10,2.0
+604,375000.0,"Queenscroft Road, Eltham SE9",SE9,2.0
+605,349995.0,Lyme Farm Road London SE12,SE12,2.0
+606,765000.0,"Banning Street,
+London,
+SE10",SE10,3.0
+607,710000.0,"Banning Street,
+London,
+SE10",SE10,3.0
+608,675000.0,"Lambarde Square, London, SE10 9GB",SE10,3.0
+609,705000.0,"Banning Street,
+London,
+SE10",SE10,3.0
+610,525000.0,"Old Dover Road, Blackheath, SE3",SE3,3.0
+611,675000.0,"Lambarde Square, London, SE10",SE10,3.0
+612,590000.0,"Swiftstone Tower, 2 Peartree Way, LONDON, SE10",SE10,2.0
+613,880000.0,"Banning Street,
+London,
+SE10",SE10,3.0
+614,599995.0,Bramshot Avenue Charlton SE7,SE7,3.0
+615,525000.0,Seren Park Gardens London SE3,SE3,2.0
+616,777500.0,"Banning Street,
+London,
+SE10",SE10,3.0
+617,740000.0,"Banning Street,
+London,
+SE10",SE10,3.0
+618,275000.0,"Charlesmere Gardens, Thames Reach, London, SE28",SE28,2.0
+619,590000.0,Vanbrugh Hill London SE3,SE3,2.0
+620,275000.0,"Hevelius Close, Greenwich, London, SE10",SE10,1.0
+621,425000.0,Wellington Gardens London SE7,SE7,2.0
+622,399995.0,Ashburnham Place London SE10,SE10,1.0
+623,850000.0,"Greenwich Academy, Greenwich, SE10",SE10,3.0
+625,143750.0,"Wellington Street,
+London,
+SE18 6HO",SE18,3.0
+626,337500.0,Royal Carriage Mews London SE18,SE18,1.0
+628,675000.0,"Lambarde Square, Greenwich, London, SE10",SE10,3.0
+629,792500.0,"Banning Street,
+London,
+SE10",SE10,3.0
+630,320000.0,"Sundorne Road, Charlton, SE7",SE7,3.0
+631,325000.0,"Eastbrook Road, London, SE3",SE3,2.0
+632,299500.0,Ashmore Road London SE18,SE18,1.0
+633,575000.0,Glaisher Street London SE8,SE8,2.0
+634,500000.0,Eltham Road Lee SE12,SE12,5.0
+635,375000.0,Sailacre House Woolwich Road SE10,SE10,1.0
+636,750000.0,"Earlswood Street, Greenwich, SE10",SE10,3.0
+637,600000.0,"Osier Lane, Off West Parkside, London, SE10",SE10,2.0
+638,1600000.0,"Crooms Hill Grove, London, Greater London, SE10",SE10,4.0
+640,865000.0,"Hawthorne Crescent, Greenwich, SE10",SE10,4.0
+641,610000.0,"East Parkside, Greenwich, London, SE10",SE10,2.0
+642,1000000.0,"Balcaskie Road, Eltham SE9",SE9,5.0
+643,350000.0,Hartville Road London SE18,SE18,2.0
+644,230000.0,"Strongbow Crescent, Eltham, SE9",SE9,2.0
+645,805000.0,"Banning Street,
+London,
+SE10",SE10,3.0
+646,380000.0,"209 Charlton Road, London, SE7",SE7,2.0
+648,975000.0,Greenwich South Street London SE10,SE10,4.0
+649,260000.0,Saunders Road London SE18,SE18,2.0
+650,250000.0,"Prince Henry Road, Charlton, London, SE7",SE7,1.0
+651,385000.0,Camdale Road London SE18,SE18,3.0
+652,450000.0,3 Grove Place Eltham SE9,SE9,2.0
+653,750000.0,"Marlborough Lane, London, SE7",SE7,5.0
+654,325000.0,"Herbert Road, Plumstead, London, SE18",SE18,2.0
+655,360000.0,"Church Manorway, London, SE2",SE2,3.0
+656,500000.0,"Bellville House, 79 Norman Road, London, SE10",SE10,2.0
+657,550000.0,"Seren Park Gardens, London, SE3",SE3,2.0
+659,499999.0,"Parade Ground Path, The Royal Military Academy, Woolwich, SE18",SE18,2.0
+660,700000.0,"15 Bessemer Place, Greenwich, London, SE10",SE10,3.0
+661,650000.0,"Merlin Court, 31 Tizzard Grove, Kidbrooke Village, London, SE3",SE3,3.0
+663,250000.0,Shrewsbury Lane London SE18,SE18,2.0
+664,725000.0,"Kidbrooke Park Road, Kidbrooke, SE3",SE3,3.0
+665,600000.0,"Hopedale Road, Charlton, SE7",SE7,3.0
+666,1375000.0,Guildford Grove Greenwich London SE10,SE10,3.0
+667,300000.0,Defence Close London SE28,SE28,2.0
+668,420000.0,Cable Walk Greenwich SE10,SE10,1.0
+669,375000.0,"Mast Quay, London, SE18",SE18,2.0
+670,625000.0,"Thunderer Walk, London, SE18",SE18,2.0
+671,320000.0,"Silver Birch Close, London, SE28",SE28,2.0
+672,625000.0,Ruthin Road London SE3,SE3,3.0
+673,470000.0,Denham Street London SE10,SE10,2.0
+674,280000.0,"Oaktree Gardens, New Eltham, SE9",SE9,2.0
+675,400000.0,"Peartree Way, London, SE10",SE10,1.0
+676,600000.0,Mauritius Road London SE10,SE10,3.0
+677,900000.0,Annandale Road Greenwich SE10,SE10,3.0
+678,375000.0,"Kelbrook Road, London, SE3",SE3,2.0
+679,685000.0,Lindsell Street London SE10,SE10,2.0
+680,900000.0,"Ruthin Road, London, SE3",SE3,3.0
+681,650000.0,Wellesley Road London SE18,SE18,2.0
+682,190000.0,"Whinchat Road, London, SE28",SE28,1.0
+683,800000.0,"Tizzard Grove, Kidbrooke, SE3",SE3,4.0
+684,575000.0,"Woodlands Heights, Blackheath, London, SE3",SE3,2.0
+685,250000.0,"Vanbrugh Park Road West, Blackheath, London, SE3",SE3,0.0
+686,190000.0,"Woolf Close, London, SE28",SE28,1.0
+689,920000.0,"Upper Riverside, 10 Cutter Lane, Greenwich Peninsula, SE10 0XX",SE10,3.0
+691,550000.0,"Blackheath Road, Greenwich, SE10",SE10,2.0
+692,585000.0,"Blackheath Road, Greenwich, SE10",SE10,3.0
+693,1000000.0,"Blackheath Road, Greenwich, SE10",SE10,5.0
+694,655000.0,65 River Gardens Walk Greenwich SE10,SE10,2.0
+695,335000.0,Gilbert Close London SE18,SE18,2.0
+696,610000.0,"The Moore, 27 East Parkside, Greenwich Peninsula, SE10",SE10,2.0
+697,275000.0,Trafalgar Road London SE10,SE10,1.0
+698,400000.0,"Blue Building, 115 Woolwich Road, London, SE10",SE10,2.0
+699,375000.0,"Holburne Road, London, SE3",SE3,3.0
+700,1100000.0,"Westcombe Hill, Blackheath, SE3",SE3,5.0
+701,600000.0,"Shooters Hill, Blackheath, London, SE3",SE3,3.0
+702,525000.0,"Beanshaw, Mottingham, SE9",SE9,4.0
+704,1015000.0,"Royal Arsenal Riverside, 
+London, 
+SE18
+",SE18,3.0
+705,502500.0,"Royal Arsenal Riverside, 
+London, 
+SE18
+",SE18,1.0
+706,575000.0,"Argyll Road, London, SE18",SE18,2.0
+709,500000.0,"Bellville House, London, SE10",SE10,2.0
+710,1950000.0,"Elvaston Place, London, SW7",SW7,2.0
+712,1900000.0,"Egerton Drive, London, SE10",SE10,4.0
+713,225000.0,"Hamlet House, Glenure Road, London, SE9",SE9,1.0
+714,500000.0,"Glaisher Street, Greenwich, London, SE8",SE8,2.0
+715,525000.0,"Wallace Court, Kidbrooke, London, SE3",SE3,2.0
+716,265000.0,"Icough Court, 40 Hassendean Road, Blackheath, London, SE3",SE3,1.0
+717,255000.0,Benares Road London SE18,SE18,1.0
+718,450000.0,"Blackheath Park, Blackheath, SE3",SE3,2.0
+719,750000.0,"Arora Tower, 2 Waterview Drive, Greenwich, SE10",SE10,2.0
+720,790000.0,"Upper Riverside, 10 Cutter Lane, Greenwich Peninsula, SE10 0XX",SE10,2.0
+721,300000.0,"Deptford High Street, London, SE8",SE8,1.0
+722,250000.0,"Hanover House, Orchard Road, London, SE18",SE18,2.0
+723,425000.0,"Florence House, Royal Herbert Pavilions, London, SE18",SE18,2.0
+724,360000.0,"Whinchat Road, West Thamesmead, London, SE28 0DP",SE28,3.0
+725,265000.0,"Elliscombe Road, Charlton, SE7",SE7,1.0
+728,725000.0,Catherine Grove London SE10,SE10,3.0
+729,625000.0,"Cable Walk, London, London, SE10 0QT",SE10,2.0
+730,695000.0,Horseferry Place Greenwich SE10,SE10,2.0
+731,520000.0,"Royal Arsenal Riverside, 
+London, 
+SE18
+",SE18,1.0
+732,545000.0,"Upper Riverside, 10 Cutter Lane, Greenwich Peninsula, SE10 0XX",SE10,1.0
+733,697500.0,"Royal Arsenal Riverside, 
+London, 
+SE18
+",SE18,2.0
+734,715000.0,"Royal Arsenal Riverside, 
+London, 
+SE18
+",SE18,2.0
+735,832500.0,"Royal Arsenal Riverside, 
+London, 
+SE18
+",SE18,2.0
+736,832500.0,"Royal Arsenal Riverside, 
+London, 
+SE18
+",SE18,2.0
+737,400000.0,"Blackheath Hill, Greenwich, SE10",SE10,3.0
+738,542500.0,"Royal Arsenal Riverside, 
+London, 
+SE18
+",SE18,1.0
+739,325000.0,"Langbrook Road, Kidbrooke SE3",SE3,2.0
+740,1000000.0,Trafalgar Grove Greenwich SE10,SE10,4.0
+741,565000.0,"Brampton Road, Bexleyheath, Kent, DA7",DA7,5.0
+742,465000.0,"Upper Riverside, 10 Cutter Lane, Greenwich Peninsula, SE10 0XX",SE10,0.0
+744,575000.0,"Warehouse Court, Major Draper Street, London, SE18",SE18,3.0
+745,365000.0,"Cardiff Street, Plumstead Common, London, SE18",SE18,2.0
+747,315000.0,"40 Blackheath Road, Deptford, SE10",SE10,1.0
+749,395000.0,"Chandlers Avenue, Greenwich, London, SE10",SE10,1.0
+750,510000.0,"Arora Tower, North Greenwich, SE10",SE10,1.0
+751,600000.0,"Wallace Court, 42 Tizzard Grove, Blackheath, London, SE3",SE3,3.0
+753,166500.0,"Drummond House, Victory Parade, Royal Arsenal Riverside, Woolwich, London, SE18",SE18,1.0
+755,920000.0,"Peartree Way, North Greenwich, London, SE10",SE10,3.0
+756,555000.0,"Brumwell Avenue, Woolwich, London, SE18",SE18,3.0
+757,585000.0,"Red Lion Lane, London, SE18",SE18,3.0
+758,545000.0,"Brumwell Avenue, Woolwich, London, SE18",SE18,3.0
+759,225000.0,"Commonwealth Way, SE2 * VIDEO TOUR & 3D FLOORPLANS AVAILABLE *",SE2,2.0
+760,600000.0,"Plumstead Common Road, Plumstead, SE18",SE18,3.0
+765,745000.0,"Cable Walk, Greenwich, London, SE10",SE10,3.0
+766,595000.0,"Metcalfe Court, Teal Street, Greenwich, London, SE10",SE10,3.0
+767,499995.0,"Shooters Hill Road, Blackheath, London, SE3",SE3,2.0
+769,295000.0,"Casterbridge Road, Blackheath, London, SE3",SE3,1.0
+770,799995.0,"Red Lion Lane, Shooters Hill, London, SE18",SE18,4.0
+771,325000.0,"Cottrell Court, Southern Way, Greenwich, SE10 0DW",SE10,1.0
+772,1100000.0,"Mycenae Road, Blackheath, London, SE3",SE3,3.0
+773,500000.0,"Wrottesley Road, London, SE18",SE18,4.0
+775,590000.0,"Swiftstone Tower, 2 Peartree Way, LONDON, SE10",SE10,2.0
+776,399995.0,"Imperial Building, Duke of Wellington Avenue, Royal Arsenal, SE18",SE18,1.0
+777,350000.0,"Agora Court, Kidbrooke Village, SE3",SE3,0.0
+778,425000.0,Trafalgar Road London SE10,SE10,3.0
+779,465000.0,"Brumwell Avenue, Woolwich, London, SE18",SE18,2.0
+780,530000.0,"Brumwell Avenue, Woolwich, London, SE18",SE18,3.0
+782,275000.0,"Waverley Road, London, SE18",SE18,2.0
+783,355000.0,"Brumwell Avenue, Woolwich, London, SE18",SE18,1.0
+784,499000.0,"Brumwell Avenue, Woolwich, London, SE18",SE18,2.0
+785,325000.0,"Ellington House, Ashmore Road, London, SE18",SE18,2.0
+787,575000.0,"Abergeldie Road, Lee, SE12",SE12,3.0
+788,525000.0,"Victory Parade, Plumstead Road, Royal Arsenal Riverside, Woolwich, London, SE18",SE18,2.0
+789,500000.0,"Merriman Road, London, SE3",SE3,3.0
+790,875000.0,Ormiston Road London SE10,SE10,3.0
+792,2500000.0,"Foyle Road, Blackheath, London, SE3",SE3,5.0
+793,275000.0,"Greenbay Road, Charlton, SE7",SE7,2.0
+795,280000.0,"Watergate Street, London, SE8 3HH",SE8,1.0
+796,630000.0,"Beacon Point, 12 Dowells Street, Greenwich, London, SE10",SE10,2.0
+797,116250.0,"Perkins House, London, SE3",SE3,2.0
+798,140000.0,"Noble House, London, SE3",SE3,3.0
+799,118750.0,"Noble House, London, SE3",SE3,2.0
+800,550000.0,"Duke of Wellington Avenue, London, SE18",SE18,2.0
+801,650000.0,"Minotaur House, 3 Thunderer Walk, London, SE18",SE18,2.0
+802,393000.0,"Edison Court, Schoolbank Road, London, SE10",SE10,3.0
+803,655000.0,"Edison Court, Schoolbank Road, London, SE10",SE10,3.0
+804,235000.0,"Brook Square, London, SE18",SE18,1.0
+805,905000.0,"Upper Riverside, 10 Cutter Lane, Greenwich Peninsula, SE10 0XX",SE10,2.0
+806,890000.0,"Balcaskie Road, Eltham SE9",SE9,4.0
+807,425000.0,"Tizzard Grove, London, SE3",SE3,1.0
+810,539995.0,"Plum Lane, London, SE18",SE18,3.0
+811,1150000.0,"Straightsmouth, Greenwich, London, SE10 9LB",SE10,4.0
+812,535000.0,Mycenae Road London SE3,SE3,2.0
+813,385000.0,"The Lighterman, 1 Pilot Walk, Lower Riverside, Greenwich Peninsula, SE10",SE10,0.0
+814,490000.0,Ashmore Road London SE18,SE18,2.0
+815,325000.0,"Brook Square, Shooter`s Hill, SE18 4NB",SE18,2.0
+817,440000.0,"Restons Crescent, Eltham, London, SE9",SE9,3.0
+818,465000.0,"Dowding Drive, Blackheath, London, SE9",SE9,2.0
+819,350000.0,"Hervey Road, London, SE3",SE3,1.0
+820,505000.0,Condover Crescent London SE18,SE18,3.0
+821,580000.0,"Parkside, Vanbrugh Fields, London, SE3",SE3,2.0
+822,575000.0,"Building 22, Cadogan Road, London, SE18",SE18,3.0
+823,275000.0,"Galton House, Shooters Hill Road, London, SE18",SE18,1.0
+824,550000.0,"Parkside, Vanbrugh Fields, Blackheath, London, SE3",SE3,2.0
+825,1015000.0,"Royal Arsenal Riverside, 
+London, 
+SE18
+",SE18,3.0
+826,450000.0,"Lannoy Road, London, SE9",SE9,2.0
+827,585000.0,"Stretton Mansions, Glashier Street, Deptford, SE8",SE8,2.0
+828,500000.0,"Dowells Street, London, SE10 9DY",SE10,2.0
+829,200000.0,"Combwell Crescent, Abbey Wood, SE2 9NB",SE2,2.0
+830,400000.0,"The Lighterman, 1 Pilot Walk, Greenwich Peninsula, SE10",SE10,0.0
+831,575000.0,Shooters Hill Road London SE3,SE3,2.0
+832,499000.0,"McMillan Street, London, SE8",SE8,2.0
+834,670000.0,"Waterfront III,  Royal Arsenal Riverside, SE18",SE18,2.0
+835,640000.0,"Waterfront III,  Royal Arsenal Riverside, SE18",SE18,2.0
+837,650000.0,"Waterfront III,  Royal Arsenal Riverside, SE18",SE18,2.0
+839,225000.0,"Southwood Road, New Eltham, London, SE9",SE9,1.0
+840,650000.0,"Lambourne Place, Blackheath, London, SE3",SE3,3.0
+841,200000.0,"Restons Crescent, Sidcup, Kent, SE9",SE9,2.0
+842,465000.0,Dowells Street London SE10,SE10,2.0
+844,250000.0,Heathfield Terrace London SE18,SE18,2.0
+845,700000.0,"Nadine Street, Charlton, SE7",SE7,4.0
+846,2500000.0,"Vanbrugh Castle, Maze Hill, Greenwich, London, SE10",SE10,4.0
+848,400000.0,Whetstone Road London SE3,SE3,3.0
+849,2500000.0,Westgrove Lane London SE10,SE10,5.0
+850,410000.0,"Duke of Wellington Avenue, Woolwich, London, SE18",SE18,0.0
+851,300000.0,Eaglesfield Road London SE18,SE18,2.0
+853,360000.0,Marmadon Road London SE18,SE18,3.0
+855,1325000.0,"Waterfront III, Royal Arsenal Riverside Woolwich, SE18",SE18,2.0
+856,477500.0,"Building 10, Royal Arsenal Riverside Woolwich, SE18",SE18,1.0
+857,672000.0,"Building 10, Royal Arsenal Riverside Woolwich, SE18",SE18,2.0
+858,492500.0,"Navigator Wharf, Royal Arsenal Riverside Woolwich, SE18",SE18,1.0
+859,625000.0," Nectarine Way,  Lewisham, SE13",SE13,3.0
+860,310000.0,Ashmore Road London SE18,SE18,1.0
+861,250000.0,"Cantwell Road, Shooters Hill, London, SE18",SE18,2.0
+863,220000.0,"Brookhill Road, Woolwich, London, SE18",SE18,1.0
+864,425000.0,"Shooters Hill Road, Blackheath, London, SE3",SE3,2.0
+865,350000.0,"Hervey Road, Blackheath, SE3",SE3,1.0
+866,245000.0,Brook Square London SE18,SE18,1.0
+867,405000.0,"Ossel House, Cable Walk, Enderby Wharf, London, SE10 0EH",SE10,1.0
+868,775000.0,"Earlshall Road, Eltham, SE9",SE9,4.0
+870,760000.0,John Donne Way Greenwich SE10,SE10,3.0
+873,550000.0,"Brinklow Crescent, Shooters Hill, SE18 3BS",SE18,4.0
+874,279950.0,"Cole Close, London, SE28",SE28,3.0
+876,300000.0,"Stanley Close, London, SE9",SE9,2.0
+877,108600.0,Seren Park Gardens London SE3,SE3,1.0
+878,362000.0,Seren Park Gardens London SE3,SE3,1.0
+881,350000.0,Shooters Hill Road London SE18,SE18,2.0
+882,265000.0,"Kidbrooke Grove, London, SE3",SE3,0.0
+883,285000.0,"Bridge House, London, SE28 0NR",SE28,2.0
+884,230000.0,"Bloomfield Road, Woolwich, London, SE18",SE18,1.0
+885,150000.0,"Footscray Road, New Eltham, London, SE9",SE9,1.0
+886,1299995.0,"Ashburnham Place, Greenwich, London, SE10",SE10,3.0
+887,550000.0,"30 River Gardens Walk, Greenwich, SE10",SE10,2.0
+889,450000.0,"Jubilee Court , Victoria Parade, London, SE10 9FJ",SE10,1.0
+892,1299500.0,Ashburnham Place London SE10,SE10,3.0
+893,510000.0,"Arora Tower, North Greenwich, SE10",SE10,1.0
+894,510000.0,"Arora Tower, North Greenwich, SE10",SE10,1.0
+895,389000.0,Lambarde Square Greenwich SE10,SE10,1.0
+896,875000.0,"Grove Hall, 10-12 West Grove, London, SE10",SE10,2.0
+897,375000.0,"Shooters Hill Road, Greenwich, London, SE3",SE3,2.0
+899,1600000.0,"Macartney House, Chesterfield Walk, London, SE10",SE10,4.0
+901,1300000.0,"Macartney House, Chesterfield Walk, Greenwich, London, SE10",SE10,3.0
+902,525000.0,"Seren Park Gardens, Greenwich, SE3",SE3,2.0
+904,730000.0,"Kinveachy Gardens, Charlton, SE7",SE7,3.0
+906,725000.0,Burgos Grove London SE10,SE10,3.0
+907,850000.0,Meadowcourt Road Blackheath SE3,SE3,4.0
+908,335000.0,Langhorne Street London SE18,SE18,1.0
+909,450000.0,"Blanmerle Road, London SE9",SE9,3.0
+910,1075000.0,Admirals Gate Greenwich SE10,SE10,3.0
+911,660000.0,Nevada Street London SE10,SE10,2.0
+912,900000.0,"Greenwich Academy, 50 Blackheath Road, Greenwich, London, SE10",SE10,4.0
+913,499950.0,Shooters Hill Road London SE3,SE3,2.0
+914,395000.0,Cyrus Field Street Greenwich SE10,SE10,1.0
+915,138250.0,"Drummond House, Victory Parade, Royal Arsenal Riverside, Woolwich, London, SE18",SE18,1.0
+916,525000.0,"Holly Court, John Harrison Way, LONDON, SE10",SE10,3.0
+917,725000.0,Earlswood Street Greenwich SE10,SE10,2.0
+918,795000.0,Pegler Square London SE3,SE3,3.0
+920,465000.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,1.0
+921,467500.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,1.0
+922,470000.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,1.0
+923,472500.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,1.0
+924,475000.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,1.0
+925,475000.0,"Sidcup Road, Mottingham, SE9",SE9,3.0
+926,477500.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,1.0
+927,452500.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,1.0
+928,462500.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,1.0
+929,462500.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,1.0
+930,460000.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,1.0
+931,460000.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,1.0
+932,457500.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,1.0
+933,457500.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,1.0
+934,465000.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,1.0
+935,455000.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,1.0
+936,455000.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,1.0
+937,452500.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,1.0
+938,477500.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,1.0
+939,477500.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,1.0
+940,480000.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,1.0
+941,487500.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,1.0
+942,487500.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,1.0
+943,510000.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,1.0
+944,510000.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,1.0
+945,550000.0,"Kidbrooke Village, Kidbrooke, London, SE3",SE3,1.0
+946,500000.0,"Meadowside, Kidbrooke, London, SE9",SE9,2.0
+950,290000.0,"Corelli Road, Shooters Hill, London, SE3",SE3,1.0
+951,900000.0,"Royal Arsenal Riverside, 
+London, 
+SE18
+",SE18,2.0
+952,229995.0,"Brookhill Road, London, SE18",SE18,1.0
+953,350000.0,"Battery Road, West Thamesmead, SE28 0JS",SE28,3.0
+954,505000.0,"No 3, 8 Cutter Lane, Upper Riverside, Greenwich Peninsula, SE10",SE10,0.0
+955,505000.0,Brookhill Road London SE18,SE18,4.0
+956,450000.0,"Hutchins Road, London, SE28",SE28,3.0
+957,795000.0,"Norton House, Duke of Wellington Avenue, London, SE18",SE18,2.0
+958,675000.0,Hollymount Close London SE10,SE10,3.0
+959,375000.0,"1 Tarves Way, Greenwich, SE10",SE10,1.0
+960,475000.0,Handley Drive Kidbrooke Village SE3,SE3,2.0
+961,425000.0,Rainham Close London SE9,SE9,3.0
+962,2200000.0,Shooters Hill Road Blackheath SE3,SE3,7.0
+964,425000.0,"Maltby House, 2 Ottley Drive, Kidbrooke Village, London, SE3",SE3,2.0
+966,1185000.0,"No. 5, 2 Cutter Lane, Upper Riverside, Greenwich Peninsula, SE10",SE10,3.0
+967,350000.0,"Eltham Hill, Eltham SE9",SE9,2.0
+969,300000.0,"Griffin Road, Plumstead, SE18",SE18,2.0
+970,365000.0,"Marmadon Road, Plumstead, London, SE18 1EQ",SE18,2.0
+971,865000.0,"Hawthorne Crescent, Greenwich, London, SE10",SE10,4.0
+972,375000.0,"Whitworth Road, Shooters Hill / Woolwich, SE18",SE18,2.0
+973,485000.0,"Moordown, Shooters Hill, SE18",SE18,3.0
+974,520000.0,"Becquerel Court, School Square, Greenwich, SE10",SE10,2.0
+975,204995.0,"Charlesmere Gardens, West Thamesmead, SE28 0NG",SE28,1.0
+978,499999.0,Vanbrugh Hill London SE10,SE10,2.0
+980,350000.0,"Nethercombe House, Ruthin Road, Blackheath, SE3",SE3,2.0
+981,280000.0,"Corelli Road, Shooters Hill, SE3",SE3,1.0
+982,420000.0,"Grayston House, 21 Astell Road, LONDON, SE3",SE3,1.0
+986,380000.0,"Hopgood Tower, Kidbrooke Village SE3",SE3,1.0
+987,395000.0,"22 John Harrison Way, Greenwich Peninsula, London, SE10",SE10,0.0
+988,400000.0,"Coleraine Road, Blackheath, London, SE3",SE3,3.0
+989,605000.0,"No 5, 2 Cutter Lane, Upper Riverside, Greenwich Peninsula, SE10",SE10,1.0
+991,810000.0,"No 5, 2 Cutter Lane, Upper Riverside, Greenwich Peninsula, SE10",SE10,2.0
+992,540000.0,"Dairsie Road, London, SE9",SE9,3.0
+993,235000.0,Wrottesley Road London SE18,SE18,2.0
+994,365000.0,"Westhorne Avenue, London, SE12",SE12,3.0
+996,425000.0,"King William Walk, Greenwich, SE10",SE10,1.0
+997,775000.0,Crown Woods Way London SE9,SE9,4.0
+998,825000.0,"Tidemill Square, North Greenwich, London, SE10",SE10,3.0
+999,635000.0,"Upper Riverside, 10 Cutter Lane, Greenwich Peninsula, SE10 0XX",SE10,1.0
+1000,697500.0,"Royal Arsenal Riverside, 
+London, 
+SE18
+",SE18,2.0
+1001,850000.0,Commerell Street London SE10,SE10,3.0
+1003,340000.0,"Deals Gateway, Greenwich, London, SE10",SE10,1.0
+1006,350000.0,"Plumstead Common Road, London, SE18",SE18,2.0
+1007,265000.0,"Elliscombe Road, Charlton, SE7",SE7,1.0
+1008,575000.0,Colomb Street London SE10,SE10,2.0
+1009,399995.0,"West Park, Mottingham, London, SE9",SE9,2.0
+1010,325000.0,"Brook Square, Blackheath, London, SE18",SE18,2.0
+1011,700000.0,"Craigerne Road, London, SE3",SE3,4.0
+1012,850000.0,"Morden Road, Blackheath, London, SE3",SE3,3.0
+1014,295000.0,Pettacre Close London SE28,SE28,2.0
+1017,899995.0,Woolwich Road London SE10,SE10,6.0
+1018,270000.0,"The Vista, Eltham, SE9",SE9,2.0
+1020,500000.0,"Hazel Lane, Greenwich, SE10",SE10,2.0
+1021,1200000.0,"Birch House, Kidbrooke Village, SE3",SE3,3.0
+1022,325000.0,"Brook Square, Shooters Hill, SE18",SE18,2.0
+1024,315000.0,"Fairlands Court, Eltham SE9",SE9,2.0
+1025,740000.0,"Banning Street,
+London,
+SE10",SE10,3.0
+1026,499950.0,John Harrison Way Greenwich SE10,SE10,2.0
+1027,379000.0,"Tizzard Grove, Kidbrooke, London, SE3",SE3,1.0
+1028,575000.0,"Ossel Court, 13 Telegraph Avenue, Greenwich, London, SE10",SE10,2.0
+1029,320000.0,"Well Hall Road, London, SE9",SE9,3.0
+1030,2500000.0,"Foyle Road, Blackheath, London, SE3",SE3,5.0
+1034,550000.0,"Peartree Way, London, SE10",SE10,2.0
+1035,285000.0,Langhorne Street Woolwich SE18,SE18,1.0
+1036,380000.0,"Glaisher Street, Greenwich, London, SE8",SE8,1.0
+1037,800000.0,"Combedale Road, London, SE10",SE10,4.0
+1038,375000.0,Blackheath Hill London SE10,SE10,3.0
+1039,225000.0,"Cookhill Road, London, SE2 9PD",SE2,2.0
+1041,615000.0,"11 Lambarde Square, Greenwich, SE10",SE10,2.0
+1042,635000.0,River Gardens Walk Greenwich SE10,SE10,2.0
+1043,650000.0,"Garda House, 5 Cable Walk, London, SE10",SE10,3.0
+1045,550000.0,"Coleraine Road, Blackheath, London, SE3",SE3,3.0
+1046,575000.0,"Merriman Road, Blackheath, London, SE3",SE3,5.0

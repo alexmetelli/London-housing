@@ -1,0 +1,536 @@
+,price,address,postcode,number_bedrooms
+0,965000.0,"Sandringham Avenue, SW20",SW20,4.0
+1,385000.0,"London Road, Mitcham, Surrey, CR4",CR4,2.0
+4,355000.0,"Canterbury Road, Morden, SM4 ",SM4,2.0
+14,350000.0,"Milner Road, Morden, SM4",SM4,2.0
+16,435000.0,"Middleton Road, Morden, SM4",SM4,3.0
+17,1050000.0,"Queensland Avenue, Wimbledon, SW19",SW19,4.0
+19,350000.0,"London Road, Tooting Junction, SW17",SW17,2.0
+21,499950.0,"Warren Road, London SW19",SW19,2.0
+22,925000.0,"Granville Road, Wimbledon, SW19",SW19,4.0
+23,650000.0,"Kingston Road, London, SW19",SW19,3.0
+25,650000.0,"Windermere Road, Streatham, London, SW16",SW16,4.0
+29,650000.0,"Kingston Road, Wimbledon, SW19",SW19,3.0
+31,650000.0,"Kingston Road, London, SW19",SW19,3.0
+32,625000.0,"Park Avenue, Mitcham, Surrey, CR4",CR4,5.0
+34,700000.0,"Chase Side Avenue, London, SW20",SW20,3.0
+41,1395000.0,"Seymour Road, Wimbledon Village, SW19",SW19,3.0
+43,925000.0,"Graham Road, Wimbledon, London, SW19",SW19,4.0
+44,650000.0,"Rectory Close, London, SW20",SW20,3.0
+45,575000.0,"Sunnymead Avenue, Mitcham, CR4",CR4,4.0
+48,975000.0,"Kingsley Road, Wimbledon, SW19 ",SW19,5.0
+50,1150000.0,"Earlsfield Riverside,
+London,
+SW18 4RL",SW18,3.0
+52,390000.0,"Chester Gardens, Morden, SM4",SM4,2.0
+54,485000.0,"Pembroke Road,Mitcham,CR4 2LJ",CR4,3.0
+55,425000.0,"Marian Road, Streatham Vale, London, SW16",SW16,2.0
+57,400000.0,"Phipps Bridge Road, Mitcham, CR4 3PD",CR4,3.0
+58,600000.0,"Gore Road, London, SW20",SW20,2.0
+60,300000.0,"Cairns Avenue, London, London, SW16",SW16,1.0
+65,275000.0,"Lowry Crescent, Mitcham, CR4",CR4,2.0
+67,300000.0,"Mitcham Parkside, Commonside East, CR4",CR4,1.0
+68,320000.0,"10 Beech Court, Wimbledon Beaumont, Arterberry Road, London, SW20",SW20,1.0
+72,795000.0,"Links Road, Tooting, SW17",SW17,5.0
+73,425000.0,"Milner Road, Wimbledon, SW19 ",SW19,1.0
+75,650000.0,"Martin Grove, Morden, SM4",SM4,3.0
+76,490000.0,"Seymour Avenue, Morden, SM4",SM4,3.0
+79,330000.0,"Justin Plaza, 341 London Road, Mitcham, CR4",CR4,2.0
+80,425000.0,"Kingsbridge Road, Morden, SM4",SM4,3.0
+81,500000.0,"Glenthorpe Road, Morden, SM4",SM4,3.0
+85,899000.0,"Spencer Hill Road, London, SW19",SW19,3.0
+88,328000.0,"Farnham Gardens, Raynes Park, SW20",SW20,2.0
+89,330000.0,"Mitcham Parkside, Commonside East, CR4",CR4,1.0
+90,400000.0,"Mitcham Parkside, Commonside East, CR4",CR4,2.0
+93,495000.0,"Stanley Road, Wimbledon, SW19",SW19,2.0
+94,389950.0,"Worple Road, London, SW19",SW19,1.0
+95,735000.0,"Prince Georges Avenue, London, SW20",SW20,2.0
+98,4000000.0,"Crescent Road, Wimbledon, London, SW20",SW20,6.0
+100,650000.0,"Hatherleigh Close, Morden, SM4",SM4,3.0
+101,825000.0,"Fortescue Road, Wimbledon, SW19",SW19,4.0
+103,550000.0,"Brickfield Road, Mitcham, CR4",CR4,4.0
+107,1425000.0,"Durham Road, West Wimbledon, London, SW20",SW20,4.0
+108,325000.0,"Pearce Close, Mitcham, CR4",CR4,2.0
+109,1000000.0,"Seaforth Avenue, London, KT3",KT3,5.0
+111,250000.0,"Meopham Road, Mitcham, CR4",CR4,1.0
+112,385000.0,"Alexandra Road, London, SW19",SW19,1.0
+113,450000.0,"Bristol Road, Morden, SM4",SM4,2.0
+117,245000.0,"Kathleen Godfree Court, Wimbledon, SW19 8LB",SW19,1.0
+118,475000.0,"Hartfield Road, Wimbledon, SW19",SW19,1.0
+119,550000.0,"Edge Hill, Wimbledon, SW19",SW19,2.0
+120,499950.0,"Montague Road, London, SW19",SW19,2.0
+123,465000.0,"Plough Lane, SW17",SW17,1.0
+124,300000.0,"Rialto Road, Mitcham, CR4",CR4,1.0
+125,8500000.0,"Burghley Road, Wimbledon, SW19",SW19,5.0
+126,415000.0,"Chesham Road, Colliers Wood, London, SW19",SW19,2.0
+130,335000.0,"Greenview Drive, London, SW20",SW20,1.0
+134,825000.0,"The Clockhouse, 4 Windmill Road, London, SW19",SW19,2.0
+137,415000.0,"Alexandra Road, London, SW19",SW19,1.0
+143,550000.0,"Ravensbury Terrace, Earlsfield, SW18",SW18,1.0
+149,1100000.0,"Coombe Lane, London, SW20",SW20,4.0
+150,330000.0,"Haydons Road, Wimbledon, SW19",SW19,1.0
+151,950000.0,"Aylward Road, Merton Park, London, SW20",SW20,3.0
+152,1325000.0,"Gladstone Road, Wimbledon, London, SW19",SW19,4.0
+153,650000.0,"Windermere Road, Streatham, London, SW16",SW16,4.0
+154,550000.0,"Wandle Road, Morden, SM4",SM4,3.0
+155,525000.0,"Wentworth Close, Morden, SM4",SM4,3.0
+157,420000.0,"Cranleigh House, West Barnes Lane, London, SW20",SW20,2.0
+158,895000.0,"Grosvenor Court, Grosvenor Hill, Wimbledon, London, SW19",SW19,2.0
+160,795000.0,"Lancaster Place, Wimbledon Village, SW19",SW19,1.0
+161,900000.0,"Parkway, London, SW20",SW20,5.0
+162,274000.0,"Middleton Road, Morden, Surrey, SM4",SM4,2.0
+163,385000.0,"Merton Road, Wimbledon, SW19",SW19,1.0
+166,300000.0,"Three Kings Court, 27 Clarendon Grove, Mitcham, CR4",CR4,2.0
+167,849950.0,"Cochrane Road, London, SW19",SW19,2.0
+168,350000.0,"Eveline Road, Mitcham, CR4",CR4,2.0
+172,530000.0,"Veals Mead, Mitcham, CR4",CR4,4.0
+175,500000.0,"Walshingham Road, Mitcham, CR4",CR4,3.0
+177,895000.0,"Palmerston Road, London, SW19",SW19,3.0
+179,965000.0,"Sandringham Avenue, SW20",SW20,4.0
+182,475000.0,"University Road, London, SW19",SW19,2.0
+189,280000.0,"23 Schoolgate Drive, Morden, SM4",SM4,1.0
+190,385000.0,"Devonshire Road, London, SW19",SW19,1.0
+192,1100000.0,"Parkside, Wimbledon, SW19",SW19,2.0
+193,500000.0,"Walshingham Road, Mitcham, CR4",CR4,3.0
+194,1900000.0,"Hill Court, 104 Wimbledon Hill Road, Wimbledon, London, SW19",SW19,3.0
+195,950000.0,"Worple Road, London, SW19",SW19,2.0
+196,950000.0,"Chatsworth Avenue, Wimbledon Chase, SW20",SW20,4.0
+199,415000.0,"Middleton Road, Morden, Surrey, SM4",SM4,2.0
+200,849950.0,"Cochrane Road, London, SW19",SW19,2.0
+201,800000.0,"Deal Road, London SW17",SW17,4.0
+207,465000.0,"Stanley Avenue, New Malden, KT3",KT3,3.0
+210,425000.0,"Kingston Road, Raynes Park, SW20",SW20,2.0
+212,425000.0,"Ashbourne Road, Mitcham, CR4",CR4,3.0
+213,625000.0,"Palmerston Road, London, SW19",SW19,2.0
+214,475000.0,"Cambridge Road, London, SW20",SW20,2.0
+216,290000.0,"17 Mitcham Park, Mitcham, CR4",CR4,2.0
+217,350000.0,"Thirsk Road, Mitcham, CR4",CR4,1.0
+218,300000.0,"Aragon Place, Morden, SM4",SM4,2.0
+219,350000.0,"Elmhurst Avenue, Mitcham, London, CR4",CR4,2.0
+220,730000.0,"Durham Road, West Wimbledon , London, SW20",SW20,4.0
+222,875000.0,"Cannon Close, London, SW20",SW20,3.0
+225,535000.0,"Vision House, Wimbledon Chase, London, SW20",SW20,2.0
+226,425000.0,"West Barnes Lane, London, SW20",SW20,2.0
+228,320000.0,"Kennedy Close,Mitcham,CR4 2AR",CR4,2.0
+231,575000.0,"Shaldon Drive, Raynes Park, Morden, SM4",SM4,3.0
+235,210000.0,"Chart House, Sadler Close, Mitcham, CR4",CR4,1.0
+236,515000.0,"Quicks Road, London, SW19",SW19,2.0
+237,240000.0,"Britannic House, New Malden, KT3",KT3,0.0
+238,550000.0,"Meadowview Road, Raynes Park, London, SW20",SW20,2.0
+239,875000.0,"Seaforth Avenue, Motspur Park, New Malden, KT3",KT3,5.0
+240,3895000.0,"Berkeley Place, Wimbledon, London, SW19",SW19,7.0
+241,575000.0,"Hartfield Road, London, SW19",SW19,2.0
+243,1300000.0,"Ryfold Road, Wimbledon Park, London, SW19",SW19,5.0
+245,300000.0,"Abbotsbury Road, Morden, London, SM4",SM4,1.0
+246,135000.0,"33 Ludford Close, Surrey, CR0 4BY",CR0,0.0
+249,650000.0,"Martin Grove, Morden, SM4",SM4,3.0
+250,1500000.0,"Cottenham Park Road, Wimbledon, SW20",SW20,4.0
+251,6750000.0,"Parkside Gardens, Wimbledon, London, SW19",SW19,7.0
+252,375000.0,"Veronica Gardens, Streatham, London, SW16",SW16,2.0
+259,390000.0,"Two Bedroom flat, SW19, London.",SW19,2.0
+260,360000.0,"Runnymede, Colliers Wood, SW19",SW19,2.0
+261,265000.0,"Verona House, Aventine Avenue, Mitcham, CR4",CR4,1.0
+262,775000.0,Croft Road SW19,SW19,3.0
+263,500000.0,", SW16",SW16,3.0
+268,625000.0,"Belvedere Square, Wimbledon Village, Lodnon, SW19",SW19,1.0
+270,450000.0,"Roskeen Court, 45 Arterberry Road, London, SW20",SW20,2.0
+271,250000.0,"Monarch Parade, London Road, Mitcham, Surrey, CR4",CR4,2.0
+272,254000.0,"Garendon Gardens, Morden, Surrey, SM4",SM4,2.0
+273,1595000.0,"Fairlawn Road, Wimbledon, SW19",SW19,4.0
+275,549950.0,"Heath Mead, Wimbledon, London, SW19",SW19,2.0
+276,825000.0,"Dane Road, Wimbledon, London, SW19",SW19,3.0
+277,600000.0,"225 Streatham Road, Streatham, London, CR4",CR4,3.0
+278,500000.0,"225 Streatham Road, Streatham, London, CR4",CR4,2.0
+281,499950.0,Boundary Road - SW19,SW19,2.0
+283,849950.0,"Cecil Road, Wimbledon, SW19",SW19,3.0
+284,630000.0,"Woodland Way, Morden, Surrey, SM4",SM4,3.0
+287,385000.0,"Garendon Gardens, Morden, Surrey, SM4",SM4,2.0
+289,275000.0,"Fenning Court, London Road, Mitcham, CR4",CR4,2.0
+290,225000.0,"Sussex Court, Sussex Road, Mitcham, CR4",CR4,2.0
+292,240000.0,"Burlington Road, New Malden, KT3",KT3,0.0
+293,400000.0,"Totham Lodge, Richmond Road, London, SW20",SW20,2.0
+295,450000.0,"Elmhurst Avenue, Mitcham, CR4",CR4,3.0
+298,575000.0,"Montague Road, Wimbledon, Wimbledon, SW19",SW19,2.0
+300,2750000.0,"Barham Road, London, SW20",SW20,5.0
+301,725000.0,"Victory Road, London, SW19",SW19,2.0
+305,475000.0,"Dunster Avenue, Morden, Surrey, SM4",SM4,3.0
+307,335000.0,"Cannon Hill Lane, London, SW20",SW20,1.0
+309,760000.0,"Clifton Park Avenue, Raynes Park, SW20",SW20,3.0
+310,270000.0,"Field House, Morden, SM4 ",SM4,1.0
+316,725000.0,"Hayes Court, 8 Sunnyside, London, SW19",SW19,2.0
+317,375000.0,"Florence Court, Sunnyside, London, SW19",SW19,1.0
+318,1349500.0,"Newstead Way, Wimbledon, London, SW19",SW19,4.0
+319,450000.0,"45 Arterberry Road, LONDON, SW20",SW20,2.0
+324,895000.0,"Kenley Road, London, SW19",SW19,4.0
+325,325000.0,"Pearce Close, Mitcham, CR4",CR4,2.0
+326,640000.0,"Darlaston Road, London, SW19",SW19,2.0
+327,1075000.0,"Darlaston Road, London, SW19",SW19,3.0
+328,500000.0,"Kings Road, Wimbledon, SW19",SW19,2.0
+329,575000.0,"10 Stanley Road, Wimbledon, SW19",SW19,2.0
+330,750000.0,"North Gardens, Colliers Wood, SW19",SW19,4.0
+331,935000.0,"Aylward Road, Raynes Park, SW20",SW20,4.0
+334,1275000.0,"Panmuir Road, London, SW20",SW20,4.0
+335,200000.0,"53 Monarch Parade, London Road, Surrey, CR4 3HA",CR4,2.0
+338,425000.0,"Garendon Gardens, Morden, Surrey, SM4",SM4,3.0
+343,325000.0,"Windings House, 23 Schoolgate Drive, Morden, SM4",SM4,2.0
+345,875000.0,"Granville Road, Wimbledon, London, SW19",SW19,4.0
+346,350000.0,"Bushey Road, London, SW20",SW20,1.0
+347,425000.0,"Christchurch Road, Colliers Wood, SW19",SW19,1.0
+348,200000.0,"London Road, Mitcham, CR4",CR4,2.0
+350,300000.0,"Rialto Road, Mitcham, CR4",CR4,1.0
+352,720000.0,"Buckleigh Avenue, London, SW20",SW20,3.0
+354,550000.0,"Lower Morden Lane, Morden, SM4",SM4,3.0
+355,425000.0,"Merton Mansions, Bushey Road, London, SW20",SW20,2.0
+358,445000.0,"Henfield Road, London, SW19",SW19,1.0
+359,675000.0,"Wandle Road, Morden, SM4",SM4,4.0
+360,575000.0,"The Downs, Wimbledon, London, SW20",SW20,2.0
+361,650000.0,"Revelstoke Road, London, SW18",SW18,2.0
+362,950000.0,"Worple Road, West Wimbledon, SW20",SW20,4.0
+366,325000.0,"Kennedy Close, Mitcham, CR4",CR4,2.0
+367,250000.0,"Lulworth Crescent, Mitcham, CR4",CR4,1.0
+368,500000.0,"Rutland Drive, Morden, SM4",SM4,3.0
+370,945000.0,"Lower Morden Lane, Morden, SM4",SM4,4.0
+376,280500.0,"Missenden Gardens, MORDEN, Surrey, SM4",SM4,2.0
+377,500000.0,"Elm Gardens, Mitcham, CR4",CR4,3.0
+378,400000.0,"St. Helier Avenue, Morden, SM4",SM4,3.0
+380,425000.0,"Missenden Gardens, MORDEN, Surrey, SM4",SM4,2.0
+381,500000.0,"Prospect House, 4 Chapter Way, SW19",SW19,2.0
+382,515000.0,"Faraday Road, London, SW19",SW19,2.0
+384,550000.0,"Bordesley Road, Morden, SM4",SM4,3.0
+385,250000.0,"Reynolds Close, Colliers Wood, SW19",SW19,1.0
+388,895000.0,"Queens Road, Wimbledon, SW19",SW19,4.0
+390,250000.0,"Freeman Road, Morden, SM4",SM4,1.0
+391,600000.0,"Homefield Road, London, SW19",SW19,2.0
+396,500000.0,"Thornton Hill, London, SW19",SW19,2.0
+397,925000.0,"Derby Road, London, SW19",SW19,3.0
+398,800000.0,"Links Road, SW17",SW17,5.0
+399,825000.0,"Nursery Road, Wimbledon, London, SW19",SW19,3.0
+400,500000.0,"Elm Gardens, Mitcham, CR4",CR4,3.0
+401,2500000.0,"St Anne's Mews, The Downs, SW20",SW20,4.0
+405,465000.0,"Perth Close, London, SW20",SW20,2.0
+406,325000.0,"London Road, London SW17",SW17,2.0
+408,545000.0,"Merton Road, London, SW19",SW19,3.0
+409,675000.0,"Wandle Bank, Wimbledon, SW19",SW19,2.0
+411,635000.0,"Denison Road,Colliers Wood SW19",SW19,2.0
+412,475000.0,"Durnsford Road, SW19",SW19,2.0
+415,500000.0,"Brockenhurst Way, Norbury, London, SW16",SW16,3.0
+420,635000.0,"Lauriston Road, London, SW19",SW19,2.0
+422,2850000.0,"Woodhayes Road, Wimbledon, SW19",SW19,6.0
+423,1625000.0,"Merton Hall Road, Wimbledon, SW19",SW19,5.0
+424,750000.0,"Durham Road, London, SW20",SW20,3.0
+426,1350000.0,"Durham Road, West Wimbledon, SW20",SW20,4.0
+427,675000.0,"Camborne Road, Morden, SM4",SM4,3.0
+428,350000.0,"West Barnes Lane, New Malden, KT3 ",KT3,2.0
+429,330000.0,"Haydons Road, Wimbledon, SW19",SW19,1.0
+430,1500000.0,"Oxford House, 52 Parkside, London, SW19",SW19,2.0
+432,325000.0,"Grenfell Road, Mitcham, CR4",CR4,2.0
+433,490000.0,"225 Streatham Road, Streatham, London, CR4",CR4,2.0
+434,382500.0,"225 Streatham Road, Streatham, London, CR4",CR4,1.0
+435,745000.0,"Brunswick Court, Darlaston Road, Wimbledon, SW19",SW19,2.0
+436,2850000.0,"Woodhayes Road, Wimbledon, London, SW19",SW19,6.0
+438,3500000.0,"Parkside, Wimbledon, London, SW19",SW19,5.0
+439,2100000.0,"Parkside, Wimbledon, London, SW19",SW19,4.0
+444,650000.0,"The Bungalows, Streatham Road, London, SW16",SW16,4.0
+446,549950.0,"Heath Mead, Wimbledon, London, SW19",SW19,2.0
+447,685000.0,"Woodside House, Woodside, London, SW19",SW19,4.0
+450,530000.0,"Veals Mead, Mitcham, CR4",CR4,4.0
+451,1790000.0,"Clifton Road, Wimbledon Common, London, SW19",SW19,2.0
+453,600000.0,"Montague Road, Wimbledon, London, SW19",SW19,2.0
+454,290000.0,"Spring Grove, Mitcham, CR4",CR4,2.0
+456,980000.0,"Meadowview Road, London, SW20",SW20,4.0
+457,327500.0,"Queens Road, London, SW19",SW19,2.0
+458,230000.0,"Laburnum Road, Mitcham, Mitcham, CR4",CR4,2.0
+463,1399000.0,"Rayleigh Road, Wimbledon, london, SW19",SW19,5.0
+466,625000.0,"Oakwood Road, West Wimbledon, SW20",SW20,2.0
+467,158000.0,"Reed House, Wimbledon Park, London, SW19",SW19,2.0
+468,300000.0,Rowan Crescent Streatham SW16,SW16,3.0
+469,499950.0,"Hartfield Road, Wimbledon, London, SW19",SW19,1.0
+470,895000.0,"Kenley Road, Wimbledon, London, SW19",SW19,4.0
+472,350000.0,"Meadowview Road, London, SW20",SW20,1.0
+473,335000.0,"Abbotsbury Road, Morden, SM4",SM4,2.0
+474,325000.0,"Garth Road, Morden, SM4",SM4,2.0
+475,650000.0,"Windermere Road, Streatham, London, SW16",SW16,4.0
+476,279950.0,"Stonecot Hill, Sutton, SM3",SM3,2.0
+477,700000.0,"Melbury Gardens, West Wimbledon, SW20",SW20,3.0
+480,550000.0,"Eveline Road,, Mitcham, Surrey, CR4",CR4,3.0
+482,600000.0,"Cherrywood Lane, Morden, Surrey, SM4",SM4,3.0
+483,670000.0,"1 Paxton House, 6 Chambers
+Park Hill	, London, SW20 0FS",SW20,1.0
+484,1575000.0,"Melbury Gardens, London, SW20",SW20,5.0
+488,550000.0,"Ridge Road, Mitcham, CR4",CR4,3.0
+489,435000.0,"32 West Barnes Lane, LONDON, SW20",SW20,1.0
+492,939000.0,"Quintin Avenue, Wimbledon, London, SW20",SW20,3.0
+493,1695000.0,"Kenilworth Avenue, Wimbledon, SW19",SW19,5.0
+498,1875000.0,"Rostrevor Road, Wimbledon, SW19",SW19,4.0
+499,430000.0,"Florence Court, Sunnyside, SW19",SW19,1.0
+501,799950.0,"Clifton Road, Wimbledon, SW19",SW19,2.0
+502,225000.0,"Langham Court, Wyke Road, West Wimbledon, SW20",SW20,0.0
+504,1500000.0,"Cottenham Park Road, Wimbledon, SW20",SW20,4.0
+505,725000.0,"Arterberry Road, London, SW20",SW20,2.0
+506,350000.0,"40 Schoolgate Drive, Morden, SM4",SM4,2.0
+508,510000.0,"Kingsley Road, Wimbledon, SW19",SW19,2.0
+511,425000.0,"Sherwood Park Road, Mitcham, CR4",CR4,3.0
+513,550000.0,"Henfield Road, Wimbledon, London, SW19",SW19,2.0
+516,550000.0,"Ridgway, Wimbledon, SW19 ",SW19,2.0
+518,665000.0,"South Park Road, London, SW19",SW19,2.0
+521,750000.0,"Stage House, Griffiths Road, London, SW19",SW19,2.0
+522,695000.0,"Stage House, Griffiths Road, London, SW19",SW19,2.0
+523,875000.0,"Stage House, Griffiths Road, London, SW19",SW19,3.0
+524,525000.0,"South Park Road, Wimbledon, London, SW19",SW19,2.0
+525,8500000.0,"Burghley Road, Wimbledon, SW19",SW19,5.0
+529,375000.0,"3 High Street, Colliers Wood, SW19",SW19,2.0
+534,560000.0,"Willmore End, London, SW19 3DF",SW19,2.0
+535,625000.0,"Mark Terrace, The Drive, Wimbledon, London, SW20",SW20,2.0
+540,670000.0,"Stanford Way, London, SW16",SW16,5.0
+542,1350000.0,"Langham Road, West Wimbledon, SW20",SW20,4.0
+544,340000.0,"Schoolgate Drive, Morden, Surrey, SM4",SM4,2.0
+545,685000.0,"Haynt Walk, London, SW20",SW20,3.0
+548,875000.0,"Havelock Road, London, SW19",SW19,4.0
+550,1750000.0,"Courthope Villas, Wimbledon, London, SW19",SW19,6.0
+553,1125000.0,"Durham Road, London, SW20",SW20,4.0
+558,325000.0,"290-302a Kingston Road, London, SW20 8LX",SW20,1.0
+559,280000.0,"Feltham Road, MITCHAM, Surrey, CR4",CR4,2.0
+561,325000.0,"Grove Road, Mitcham, London, London, CR4",CR4,2.0
+562,470000.0,"Boyd Road, Colliers Wood, SW19",SW19,2.0
+564,300000.0,"Tudor Drive, Morden, Surrey, SM4",SM4,2.0
+565,250000.0,", Mitcham, Surrey, CR4",CR4,2.0
+569,500000.0,"Lilian Road, London, SW16",SW16,3.0
+570,499950.0,"Thurleston Avenue, Morden, SM4",SM4,3.0
+572,550000.0,"Birch Walk, Mitcham, CR4",CR4,5.0
+573,215000.0,"Wyke Road, London, SW20",SW20,0.0
+574,360000.0,"Huntley Way, Raynes Park, SW20",SW20,2.0
+575,300000.0,"Rialto Road, Mitcham, CR4",CR4,1.0
+576,525000.0,"South Park Road, Wimbledon, SW19",SW19,2.0
+577,325000.0,"Woodglen, Bishopsford Road, Morden, SM4",SM4,2.0
+578,315000.0,"Park View, Wandle Road, Morden, SM4",SM4,2.0
+579,270000.0,"Robinhood Lane, Mitcham, CR4",CR4,2.0
+587,2700000.0,"Marryat Road, Wimbledon, SW19",SW19,6.0
+588,525000.0,"Birdhurst Road, Colliers Wood, SW19",SW19,2.0
+590,450000.0,"Grenfell Road, Mitcham, CR4",CR4,4.0
+591,300000.0,"Christchurch Close, Colliers Wood, SW19",SW19,1.0
+593,350000.0,"Cross Road, London, SW19",SW19,1.0
+595,135000.0,"Lewes Court, 1 Chatsworth Place, Mitcham, CR4",CR4,1.0
+597,2250000.0,"Thornton Hill, Wimbledon Village, SW19",SW19,4.0
+599,525000.0,"Lynmouth Avenue, SM4 ",SM4,4.0
+600,800000.0,"Links Road, SW17",SW17,5.0
+601,450000.0,"Merton Road, Wimbledon, SW19",SW19,2.0
+602,550000.0,"Hill Road, Mitcham, CR4",CR4,4.0
+603,550000.0,"Liberty House, Kingston Road, Raynes Park, London SW20 8DA",SW20,2.0
+604,465000.0,"Parkside House, High Street Wimbledon, London, SW19",SW19,1.0
+605,369950.0,"Bronson Road, Raynes Park, SW20 8DZ",SW20,1.0
+609,550000.0,"Liberty House, London SW20:  **EX SHOW FLAT/ GROUND FLOOR- MUST BE VIEWED**",SW20,2.0
+610,1500000.0,"Atkinson House, London, SW20",SW20,2.0
+614,425000.0,"Ashbourne Road, Mitcham, CR4",CR4,1.0
+615,1085000.0,"Hanford Row, London, SW19",SW19,2.0
+616,500000.0,"Hartfield Road, Wimbledon, London, SW19",SW19,1.0
+617,825000.0,"Milton Road, Wimbledon, SW19",SW19,3.0
+619,1100000.0,"Ravensbury Road, London, SW18",SW18,4.0
+620,265000.0,"London Road, Mitcham, CR4",CR4,1.0
+621,1025000.0,"Belvedere Drive, Wimbledon, SW19",SW19,3.0
+622,4350000.0,"The Downs, Wimbledon, SW20",SW20,6.0
+623,6000000.0,"Lambourne Avenue, Wimbledon, SW19",SW19,7.0
+624,450000.0,"Aston Road, Raynes Park, London, SW20",SW20,2.0
+625,499950.0,"Warren Road, London SW19",SW19,2.0
+626,350000.0,"Eveline Road, Mitcham, CR4",CR4,2.0
+627,450000.0,"Devonshire Road, Colliers Wood, London, SW19",SW19,2.0
+628,270000.0,"Britannic House, New Malden, KT3",KT3,0.0
+631,300000.0,"Eldertree Place, Mitcham, Surrey, CR4",CR4,2.0
+632,530000.0,"Melbury Gardens, London, SW20",SW20,2.0
+633,360000.0,"Kingston Road, Wimbledon, SW19",SW19,1.0
+637,1850000.0,"Cranleigh Road, Merton, London, SW19",SW19,6.0
+638,500000.0,"Eveline Road, Mitcham, Surrey, CR4",CR4,3.0
+642,300000.0,"St. Helier Avenue, Morden, SM4",SM4,2.0
+644,2795000.0,"Arterberry Road, Wimbledon, London, SW20",SW20,6.0
+648,350000.0,"Hogarth Crescent, Colliers Wood, SW19",SW19,1.0
+649,300000.0,"Lynmouth Avenue, MORDEN, Surrey, SM4",SM4,2.0
+652,425000.0,"Cannon Close, London, SW20",SW20,2.0
+653,650000.0,"Clarendon Road, London.  SW19 2DU",SW19,3.0
+654,300000.0,"Derwent Road, London, SW20",SW20,1.0
+655,285000.0,"Winding House, 23 Schoolgate Drive, Morden, SM4 ",SM4,1.0
+659,2795000.0,"Courthope Road, Wimbledon Village, SW19",SW19,5.0
+660,815000.0,"Firstway, London, SW20",SW20,3.0
+661,500000.0,"Brookfields Ave, Mitcham, CR4 ",CR4,3.0
+665,935000.0,"Fairway, Raynes park, SW20",SW20,4.0
+666,450000.0,"Topham Yard, Wimbledon, London, SW19",SW19,1.0
+667,495000.0,"Gladstone Road, Wimbledon, London, SW19",SW19,1.0
+668,785000.0,"Garfield Road, Wimbledon, London, SW19",SW19,3.0
+672,695000.0,"The Clockhouse, 4 Windmill Road, London, SW19",SW19,2.0
+675,335000.0,"Abbotsbury Road, Morden, SM4",SM4,2.0
+676,285000.0,"Ashtree Avenue, Mitcham, Surrey, CR4",CR4,1.0
+680,485000.0,"225 Streatham Road, Streatham, London, CR4",CR4,2.0
+681,385000.0,"225 Streatham Road, Streatham, London, CR4",CR4,1.0
+683,2950000.0,"Wool Road, Wimbledon, SW20",SW20,6.0
+685,2275000.0,"Ridgway Place, London, SW19",SW19,6.0
+686,779950.0,"Gunton Road, Tooting, London, SW17",SW17,4.0
+688,515000.0,"Kingston Road, Wimbledon, SW19",SW19,2.0
+689,490000.0,"225 Streatham Road, Streatham, London, CR4",CR4,2.0
+690,400000.0,"Alexandra Road, Wimbledon, London, SW19",SW19,1.0
+692,325000.0,"15a All Saints Road, Wimbledon, SW19",SW19,1.0
+693,740000.0,"Avondale Road, Wimbledon, SW19",SW19,2.0
+694,270000.0,"Spencer Road, Mitcham, CR4",CR4,1.0
+696,2750000.0,"Barham Road, London, SW20",SW20,5.0
+697,2750000.0,"Barham Road, Wimbledon, London, SW20",SW20,5.0
+701,535000.0,"Vision House, Wimbledon Chase, London, SW20",SW20,2.0
+703,1100000.0,"Melrose Avenue, Wimbledon Park, London, SW19",SW19,4.0
+704,465000.0,"South Park Road, Wimbledon, SW19",SW19,2.0
+709,1350000.0,"Normanton Avenue, London SW19",SW19,4.0
+710,465000.0,"Hidcote Gardens, London, SW20",SW20,3.0
+711,400000.0,"Bushey Court, Bushey Road, London, SW20",SW20,2.0
+712,799950.0,"Tennyson Road, London, SW19",SW19,3.0
+716,365000.0,"Worple Road, Wimbledon, London, SW20",SW20,1.0
+717,565000.0,"Seaforth Avenue, New Malden, KT3",KT3,2.0
+718,1050000.0,"Worple Road, London, SW19",SW19,2.0
+719,419950.0,"Bronson Road, SW20",SW20,2.0
+725,650000.0,"Windermere Road, Streatham, London, SW16",SW16,4.0
+726,450000.0,"Courtney Road, Colliers Wood, SW19",SW19,3.0
+728,220000.0,"Kathleen Godfree Court, Wimbledon, SW19 8LB",SW19,1.0
+730,575000.0,"Trinity Road, Wimbledon, London, SW19",SW19,2.0
+732,560000.0,"Queens Road, London, SW19",SW19,2.0
+733,1349500.0,"Newstead Way, Wimbledon, SW19",SW19,4.0
+734,3750000.0,"Seymour Road, Wimbledon, SW19",SW19,6.0
+735,1795000.0,"Devas Road, Wimbledon, London, SW20",SW20,5.0
+739,575000.0,"York Lane, Surrey, CR4",CR4,4.0
+742,465000.0,"Avenue Road, London, SW16",SW16,3.0
+743,6750000.0,"Home Park Road, Wimbledon, London, SW19",SW19,7.0
+745,3450000.0,"Mansel Road, Wimbledon, SW19",SW19,5.0
+747,123000.0,"Reed House, Wimbledon, London, SW19",SW19,2.0
+748,795000.0,"Southdown Road, Wimbledon, SW20",SW20,3.0
+750,1750000.0,"Courthope Villas, Wimbledon, London, SW19",SW19,6.0
+751,1450000.0,"Walham Rise, Wimbledon Village, SW19",SW19,4.0
+755,279950.0,"West Barnes Lane, Motspur Park, KT3",KT3,1.0
+756,389950.0,"Grenfell Road, Mitcham, CR4",CR4,2.0
+758,995000.0,"Cottenham Drive, London, SW20",SW20,3.0
+761,325000.0,"Rosebery Close, Morden, SM4",SM4,2.0
+769,800000.0,"Cannon Hill Lane, London, SW20",SW20,4.0
+770,4900000.0,"Greenoak Way, Wimbledon, SW19",SW19,7.0
+771,2600000.0,"Copse Hill, Wimbledon, SW20",SW20,5.0
+772,275000.0,"Stirling Close, LONDON, SW16",SW16,2.0
+773,1195000.0,"Parkway, London, SW20",SW20,4.0
+774,695000.0,"Woodside, London, SW19",SW19,2.0
+778,475000.0,"Hartfield Road, Wimbledon, SW19",SW19,1.0
+785,950000.0,"Thurstan Road, London, SW20",SW20,3.0
+788,450000.0,"Manor Way, Mitcham, CR4",CR4,3.0
+789,500000.0,"Sherwood Park Road, Mitcham, CR4",CR4,3.0
+790,600000.0,"Consfield Avenue, London, New Malden, KT3",KT3,3.0
+792,745000.0,"Nursery Road Wimbledon, London, SW19",SW19,3.0
+794,650000.0,"Hatherleigh Close, Morden, SM4",SM4,3.0
+798,550000.0,"Commonside East, Mitcham, CR4",CR4,5.0
+800,400000.0,"Totham Lodge, Richmond Road, London, SW20",SW20,2.0
+801,850000.0,"Trafalgar Road, The Battles,  Wimbledon, SW19",SW19,3.0
+802,1175000.0,"Lancaster Place, Wimbledon, SW19",SW19,2.0
+803,1395000.0,"Alfreton Close, Wimbledon, London, SW19",SW19,6.0
+805,425000.0,"Kingston Road, London, SW20",SW20,1.0
+808,1095000.0,"High Street Mews, Wimbledon Village, London, SW19",SW19,2.0
+809,850000.0,"Hardy Road, Wimbledon, SW19",SW19,3.0
+810,350000.0,"Crown Mill, Mitcham/ Morden Borders, CR4",CR4,2.0
+814,800000.0,"Ravensbury Terrace, Earlsfield, SW18",SW18,3.0
+815,700000.0,"Ravensbury Terrace, Earlsfield, SW18",SW18,2.0
+817,395000.0,"Durham Road, Raynes Park, SW20",SW20,2.0
+818,380000.0,"Gore Road, London, London, SW20",SW20,1.0
+819,349999.0,"Harewood Road, London SW19",SW19,1.0
+820,800000.0,"Durham Road, London, SW20",SW20,3.0
+821,250000.0,"Dahlia Gardens, Mitcham, CR4",CR4,1.0
+822,375000.0,"Austen Court, Mitcham, CR4",CR4,2.0
+823,475000.0,"University Road, Colliers Wood, SW19",SW19,2.0
+826,525000.0,"Durnsford Road, London, SW19",SW19,3.0
+828,659950.0,"Graveney Mews, Tooting, Mitcham, CR4",CR4,2.0
+829,415000.0,"Richmond Road, London, SW20",SW20,2.0
+830,775000.0,"St Mary's Road, Wimbledon Village, SW19",SW19,2.0
+831,535000.0,"Oakhill Court, Edge Hill, Wimbledon, SW19",SW19,2.0
+832,799000.0,"Denmark Road, London, SW19",SW19,2.0
+836,1025000.0,"Belvedere Drive, London, SW19",SW19,4.0
+840,8500000.0,"Burghley Road, Wimbledon, SW19",SW19,5.0
+841,317000.0,"Barnes End, Motspur Park, New Malden, KT3",KT3,2.0
+845,600000.0,"Worple Road, Wimbledon, SW19",SW19,2.0
+847,650000.0,"The Drive, Morden, Surrey, SM4",SM4,3.0
+849,202500.0,"Kingston Road, Wimbledon, London, SW20",SW20,1.0
+850,400000.0,"Totham Lodge, Richmond Road, London, SW20",SW20,2.0
+851,8500000.0,"Burghley Road, London, SW19",SW19,6.0
+853,399950.0,"Dryden Road, London, SW19",SW19,1.0
+854,750000.0,"Beverley Way, London, SW20",SW20,4.0
+861,325000.0,"Oxtoby Way, LONDON, SW16",SW16,2.0
+862,1000000.0,"West Barnes Lane, KT3 ",KT3,5.0
+863,440000.0,"Edge Hill, Wimbledon Common, SW19",SW19,1.0
+865,3950000.0,"Edge Hill, Wimbledon, SW19",SW19,5.0
+866,365000.0,"Bushey Road, Raynes Park, London, SW20",SW20,1.0
+867,400000.0,"Roslyn Close, Merton, Mitcham, CR4",CR4,2.0
+868,625000.0,"Tomblin Mews, Streatham, SW16",SW16,4.0
+873,375000.0,"Elm Walk, London, SW20",SW20,2.0
+874,350000.0,"Middleton Road, Morden, SM4",SM4,2.0
+875,1300000.0,"Ryfold Road, Wimbledon Park, London, SW19",SW19,5.0
+876,3950000.0,"Edge Hill, Wimbledon, London, SW19",SW19,5.0
+884,1595000.0,"Copse Hill, London, London, SW20",SW20,4.0
+889,3450000.0,"Marryat Place, Wimbledon, London, SW19",SW19,5.0
+890,925000.0,"Woodside, London, SW19",SW19,3.0
+891,1625000.0,"Newstead Way, London, SW19",SW19,4.0
+892,360000.0,"Worple Road, London, SW20",SW20,1.0
+895,200000.0,"Talbot Close, Mitcham, Surrey, CR4",CR4,1.0
+897,500000.0,"Lantern Court, Worple Road, West Wimbledon, SW20",SW20,2.0
+898,575000.0,"Denmark Avenue, London, SW19",SW19,2.0
+899,2675000.0,"Copse Hill, Wimbledon, London, SW20",SW20,5.0
+900,2695000.0,"Somerset Road, London, SW19",SW19,5.0
+907,1300000.0,"Rayleigh Road, London, SW19",SW19,4.0
+908,465000.0,"Hidcote Gardens, Raynes Park, London, SW20",SW20,4.0
+909,650000.0,"Cranford Close, London, SW20",SW20,3.0
+914,2500000.0,"Spencer Hill, London, SW19",SW19,6.0
+916,375000.0,"Clandon Terrace Kingston Road, London, SW20",SW20,2.0
+920,345000.0,"Chapter Way, London, SW19",SW19,1.0
+921,1790000.0,"Clifton Road, Wimbledon, SW19",SW19,2.0
+922,795000.0,"Hartfield Crescent, Wimbledon, SW19",SW19,2.0
+923,430000.0,"lammas av, mitcham, CR4",CR4,2.0
+925,515000.0,"Faraday Road, London, SW19",SW19,2.0
+926,450000.0,"14 East Road, Colliers Wood, SW19",SW19,2.0
+929,315000.0,"Tudor Drive, Morden, SM4 ",SM4,2.0
+932,550000.0,"Parkside, High Street, Wimbledon, SW19",SW19,2.0
+934,200000.0,"Silbury Avenue, Colliers Wood, Mitcham, CR4",CR4,0.0
+935,809950.0,"Bertram Cottages, London, SW19",SW19,3.0
+937,479500.0,"Haydons Road, Wimbledon, London, SW19",SW19,2.0
+938,1950000.0,"Helix Terrace, 20 Queensmere Road, Wimbledon, London, SW19",SW19,5.0
+939,4500000.0,"Ellerton Road, Wimbledon Common, SW20",SW20,6.0
+944,2695000.0,"Somerset Road, London, SW19",SW19,5.0
+947,375000.0,"Dahlia Gardens, Mitcham, CR4",CR4,3.0
+948,700000.0,"Ridgway, Wimbledon, SW19",SW19,2.0
+958,389950.0,"Leominster Road, Morden, SM4 ",SM4,2.0
+959,850000.0,"Hartfield Crescent, Wimbledon, SW19",SW19,2.0
+961,699950.0,"Lanherne House, 9 The Downs, London, SW20",SW20,3.0
+963,400000.0,"Bushey Road,, Raynes Park, London, SW20",SW20,2.0
+965,2300000.0,"Ridgway Place, Wimbledon Village, SW19",SW19,4.0
+966,2175000.0,"Ridgway Place, Wimbledon Village, SW19",SW19,4.0
+967,2200000.0,"Ridgway Place, Wimbledon Village, SW19",SW19,4.0
+968,1295000.0,"Oldfield Road, London, SW19",SW19,3.0
+970,700000.0,"Adela Avenue, New Malden, KT3",KT3,4.0
+972,500000.0,"Caithness Road, Mitcham, CR4",CR4,2.0
+975,400000.0,"Kingston Road, WImbledon, London, SW19",SW19,2.0
+977,390000.0,"27 Coombe Lane, Raynes Park, SW20",SW20,1.0
+980,325000.0,"Northborough Road, London, SW16",SW16,3.0
+982,225000.0,"Abinger House, 207A London Road, Mitcham, CR4",CR4,2.0
+983,845000.0,"Somerset Road, Oakfield, SW19",SW19,2.0
+987,685000.0,"Kenilworth Avenue, Wimbledon, SW19",SW19,2.0
+990,425000.0,"Claremont Avenue, New Malden, KT3",KT3,3.0
+992,900000.0,"The Clockhouse, 4 Windmill Road, London, SW19",SW19,3.0
+997,1000000.0,"Somerset Road, London, SW19",SW19,2.0
+998,450000.0,"Beeleigh Road, Morden, SM4",SM4,3.0
+999,810000.0,"Buckleigh Avenue, Merton Park, SW20",SW20,3.0
+1001,900000.0,"Windmill Road, Wimbledon, SW19",SW19,3.0
+1004,500000.0,"3, 262a The Broadway, London SW19 1SB",SW19,2.0
+1005,650000.0,"Southey Road, Wimbledon, SW19",SW19,2.0
+1008,300000.0,"Imperial Gardens, MITCHAM, Surrey, CR4",CR4,2.0
+1009,750000.0,"Marina Avenue, New Malden, New Malden, KT3",KT3,4.0
+1014,400000.0," Lilian Road,  London, SW16",SW16,2.0
+1015,450000.0,"Kingston Road, Merton, London, SW19",SW19,2.0
+1016,699950.0,"Downings House, 21 Southey Road, London, SW19",SW19,3.0
+1017,1200000.0,"Chester Road, Wimbledon, SW19",SW19,4.0
+1018,1495000.0,"Lingfield Road, Wimbledon Village, SW19",SW19,3.0
+1019,1495000.0,"Lingfield Road, London, SW19",SW19,3.0
+1021,280000.0,"Derwent Road, Raynes Park, SW20",SW20,1.0
+1024,1750000.0,"Courthope Villas, Wimbledon, London, SW19",SW19,6.0
+1026,1750000.0,"Courthope Villas, London, SW19",SW19,6.0
+1029,387500.0,"225 Streatham Road, Streatham, CR4",CR4,1.0
+1030,490000.0,"225 Streatham Road, Streatham, London, CR4",CR4,2.0
+1033,1295000.0,"Lingfield Road, London, SW19",SW19,2.0
+1036,187500.0,"Kingston Road, London, Merton, SW20",SW20,1.0
+1044,575000.0,"Trinity Road, Wimbledon, London, SW19",SW19,2.0
+1045,2950000.0,"Berkeley Place, Wimbledon, London, SW19",SW19,6.0
+1046,570000.0,"Biggin Avenue, Mitcham, CR4",CR4,3.0
+1048,325000.0,"Martin Way, Morden, SM4",SM4,2.0
+1049,300000.0,"Langham Court, Wyke Road, London, SW20",SW20,1.0

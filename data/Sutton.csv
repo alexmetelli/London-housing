@@ -1,0 +1,401 @@
+,price,address,postcode,number_bedrooms
+1,275000.0,"44 Carshalton Grove, Sutton, SM1",SM1,1.0
+8,530000.0,"Sutton Common Road, Sutton, SM3",SM3,3.0
+9,500000.0,"Alma Crescent, Cheam, Sutton, SM1",SM1,3.0
+10,380000.0,"Elizabeth Close, Cheam, Sutton, Surrey, SM1",SM1,2.0
+11,335000.0,"Denmark Road, Carshalton, Surrey, SM5",SM5,2.0
+12,260000.0,"Sunkist Way, Wallington, Surrey, SM6",SM6,1.0
+20,590000.0,"Alma Road, Carshalton, SM5",SM5,3.0
+21,415000.0,"Southdown Road, Carshalton, SM5",SM5,2.0
+23,250000.0,"Otter Drive, Carshalton, SM5",SM5,1.0
+30,415000.0,"Beddington Grove, Wallington, SM6",SM6,3.0
+34,375000.0,"Elles House, Shotfield, Wallington, SM6",SM6,2.0
+35,625000.0,"St. Albans Road, Sutton, SM1",SM1,4.0
+40,335000.0,"Langley Park Road, Sutton, SM2",SM2,2.0
+45,564950.0,"Sackville Road, Sutton, SM2",SM2,4.0
+46,149950.0,"Forest Dene Court, Sutton, SM2 5LP",SM2,1.0
+47,530000.0,"Tonfield Road, Sutton, Surrey, SM3",SM3,3.0
+52,300000.0,"Cotswold Way, Worcester Park, Surrey, KT4",KT4,2.0
+58,230000.0,"Bolton Drive, Morden, SM4 ",SM4,1.0
+59,570000.0,"Malden Road, SM3",SM3,4.0
+64,325000.0,"Denmark Gardens, Carshalton, SM5",SM5,3.0
+65,500000.0,"Poulton Avenue, SUTTON, Surrey, SM1",SM1,3.0
+67,315000.0,"Stonecot Hill, Sutton, SM3",SM3,2.0
+70,425000.0,"Peterborough Road, Carshalton, SM5",SM5,3.0
+72,335000.0,"Calthorpe Gardens, Sutton, SM1",SM1,2.0
+75,250000.0,"Autumn Drive, Belmont, Sutton, SM2",SM2,1.0
+77,425000.0,"Bushey Lane, Sutton, SM1",SM1,2.0
+81,700000.0,"Shirley Avenue, Sutton, SM1",SM1,3.0
+82,735000.0,Worcester Park KT4,KT4,5.0
+83,415000.0,"Ringstead Road, Sutton, SM1",SM1,3.0
+85,250000.0,"Autumn Drive, Belmont, Sutton, SM2",SM2,1.0
+86,630000.0,"Camden Gardens, Sutton, Surrey, SM1",SM1,4.0
+88,500000.0,"Longfellow Road, Worcester Park, Surrey, KT4",KT4,2.0
+91,265000.0,"2 Clover Way, Wallington, SM6",SM6,2.0
+93,285000.0,"Stanmore Gardens, Sutton, SM1",SM1,2.0
+94,359950.0,"Oak Tree Court, 40 Overton Road, Sutton, Surrey, SM2",SM2,2.0
+95,385000.0,"North Avenue, Carshalton, SM5",SM5,2.0
+96,365000.0,"Carshalton Road, Sutton, SM1",SM1,2.0
+97,785000.0,"Elm Way, Worcester Park, Surrey, KT4",KT4,4.0
+98,250000.0,"Percy Road, Mitcham, Surrey, CR4",CR4,1.0
+100,695000.0,"Gander Green Lane, Sutton, SM3",SM3,3.0
+101,265000.0,"Mulgrave Road, Sutton, Surrey, SM2",SM2,1.0
+102,265000.0,"Worcester Road, Sutton.  SM2 6QQ",SM2,1.0
+103,244950.0,"Valerie Court, Stanley Road, Sutton, SM2",SM2,1.0
+107,390000.0,"Amberwood Close, Wallington, Surrey, SM6",SM6,2.0
+108,350000.0,"Rochford Way, Croydon, CR0 3AD",CR0,2.0
+112,320000.0,"Cotswold Way, Worcester Park, KT4",KT4,2.0
+121,450000.0,"Buckland Way, Worcester Park, Surrey, KT4",KT4,3.0
+123,350000.0,"Sandpiper Road, Sutton, SM1",SM1,2.0
+124,300000.0,"Holmwood Gardens, Wallington, SM6",SM6,2.0
+128,425000.0,"Westmead Road, Sutton, SM1",SM1,2.0
+129,424995.0,"Kingswood Drive, Carshalton, SM5",SM5,3.0
+130,400000.0,"Welhouse Road, Carshalton, Surrey, SM5",SM5,3.0
+136,900000.0,"Timberslip Drive, Wallington, Surrey, SM6",SM6,4.0
+137,215000.0,"Autumn Drive , South Sutton, Sutton, SM2",SM2,1.0
+138,250000.0,"Marlborough Court (Wallington), Wallington, SM6 9PG",SM6,2.0
+140,400000.0,"The Spinney, London Road, Cheam, Sutton, SM3",SM3,2.0
+144,240000.0,"Robin Hood Lane, Sutton, SM1",SM1,1.0
+149,450000.0,"Longfield Avenue , Wallington , Surrey, SM6 7AZ",SM6,3.0
+151,530000.0,"St. Albans Road, Cheam, Sutton, SM1",SM1,3.0
+154,190000.0,"Boullen Court, Brunswick Road, Sutton, SM1",SM1,0.0
+155,625000.0,"Court Drive, Sutton, Surrey, SM1",SM1,4.0
+157,650000.0,"Warner Avenue, North Cheam, Sutton , SM3 ",SM3,3.0
+158,550000.0,"St Johns Road, Sutton, SM1 ",SM1,3.0
+161,424950.0,"Oakwood Gardens, Sutton, SM1",SM1,2.0
+163,585000.0,"Glyn Road, Worcester Park, Surrey, ., KT4",KT4,4.0
+165,615000.0,"Bridgewood Road, Worcester Park, Surrey, KT4",KT4,4.0
+166,250000.0,"52 Nightingale Road, Carshalton, SM5",SM5,2.0
+167,275000.0,"Denmark Gardens, Carshalton, SM5",SM5,2.0
+171,785000.0,"Harcourt Road, Wallington, SM6",SM6,5.0
+173,375000.0,"Halesowen Road, Morden, SM4",SM4,2.0
+174,325000.0,"Hanno Close, Wallington, SM6",SM6,2.0
+175,1400000.0,"Grange Road, South Sutton, Surrey, SM2",SM2,7.0
+176,400000.0,"Osprey Close, Sutton, SM1",SM1,2.0
+183,500000.0,"St. Cecilia's Close, Sutton, SM3",SM3,3.0
+184,340000.0,"Stoneleigh Road, Carshalton, SM5",SM5,2.0
+190,475000.0,"Washington Road, KT4",KT4,3.0
+192,300000.0,"Balmoral Road, Worcester Park, Surrey, KT4",KT4,1.0
+194,500000.0,"Gander Green Lane , SM1 ",SM1,3.0
+195,480000.0,"Kew Crescent, Cheam, Sutton, Surrey, SM3",SM3,3.0
+199,220000.0,"Ashdown Court, 30 Cedar Road, Sutton, SM2",SM2,1.0
+201,375000.0,"West Street, Carshalton, SM5",SM5,2.0
+202,200000.0,"Throwley Way, Sutton, SM1",SM1,0.0
+204,270000.0,"Central Road, Worcester Park, Surrey, KT4",KT4,1.0
+207,249950.0,"Packham Court, Lavender Avenue, Worcester Park, KT4",KT4,1.0
+208,385000.0,"Grove Avenue, Sutton, Surrey, SM1",SM1,2.0
+212,500000.0,"Longacre Place, Carshalton, SM5",SM5,3.0
+213,540000.0,"Kenley Walk, Cheam, Surrey, SM3",SM3,3.0
+214,248000.0,"Saxon House, 170, London Road, Hackbridge, Wallington, SM6",SM6,1.0
+215,450000.0,"Gomshall Avenue, Wallington, SM6",SM6,3.0
+217,475000.0,"London Road, Cheam, Sutton, SM3",SM3,3.0
+220,350000.0,"Green Wrythe Lane, Carshalton, Surrey, SM5",SM5,3.0
+221,325000.0,"Beechmore Gardens, Cheam, Sutton, SM3",SM3,2.0
+222,378995.0,"Hackbridge Road, Wallington, Greater London
+SM6 7AX",SM6,2.0
+223,414995.0,"Hackbridge Road, Wallington, Greater London
+SM6 7AX",SM6,2.0
+224,629995.0,"Hackbridge Road, Wallington, Greater London
+SM6 7AX",SM6,3.0
+226,1350000.0,"Sherbrooke Way, Worcester Park, KT4",KT4,6.0
+227,200000.0,"Nutfield Close, Carshalton, SM5",SM5,1.0
+233,650000.0,"Manor Road, Wallington, Surrey, SM6",SM6,3.0
+234,399950.0,"Crystal Place, Worcester Park, KT4",KT4,2.0
+236,355000.0,"Rose Hill, Sutton, SM1",SM1,2.0
+238,800000.0,"Onslow Gardens, WALLINGTON, Surrey, SM6",SM6,5.0
+239,750000.0,"Central Way, Carshalton, Surrey, SM5",SM5,4.0
+241,375000.0,"Malden Road, Cheam, Sutton, SM3",SM3,2.0
+246,400000.0,"Erskine Road, Sutton, SM1",SM1,3.0
+248,350000.0,"Cranley Gardens, Wallington, Surrey, SM6",SM6,3.0
+253,435000.0,"Ridge Road, Sutton, Cheam, SM3",SM3,3.0
+254,485000.0,"Shepley Close, Carshalton, SM5",SM5,3.0
+257,270000.0,"Wordsworth Drive, Cheam/Sutton, SM3",SM3,1.0
+261,380000.0,"Middleton Road, Carshalton, Surrey, SM5",SM5,3.0
+270,825000.0,"York Road, Cheam, Surrey, Sutton, SM2",SM2,4.0
+273,340000.0,"Mayfield House, 2 Damson Way, Carshalton, Surrey, SM5",SM5,2.0
+274,250000.0,"161-163 Carshalton Road, Sutton, SM1",SM1,1.0
+275,1350000.0,"Cornwall Road, Cheam, Sutton, Surrey, SM2",SM2,6.0
+277,285000.0,"Reynolds Close, Carshalton, SM5",SM5,2.0
+278,160000.0,"Patricia Gardens, Sutton, SM2",SM2,1.0
+279,280000.0,"Abbotts Road, Cheam, Sutton, SM3",SM3,2.0
+280,514950.0,"Windsor Avenue, Cheam, Sutton, SM3",SM3,3.0
+281,375000.0,"Bishopsford House, Poulter Park, Morden, SM4",SM4,2.0
+284,285000.0,"Plesman Way, Wallington, SM6",SM6,1.0
+285,325000.0,"London Road, Wallington, Surrey, SM6",SM6,2.0
+291,535000.0,"Clarkes Avenue, Worcester Park, KT4",KT4,4.0
+295,350000.0,"Thicket Road, Sutton, SM1",SM1,2.0
+300,385000.0,"Grove Avenue, Sutton, Surrey, SM1",SM1,2.0
+301,250000.0,"Cedar Gardens, Sutton, SM2",SM2,1.0
+302,300000.0,"Grove Road, Sutton, SM1",SM1,1.0
+303,220000.0,"127 Stonecot Hill, Sutton, SM3",SM3,1.0
+304,475000.0,"Bakers Gardens, Carshalton, SM5",SM5,3.0
+306,300000.0,"819 London Road, Sutton, SM3",SM3,2.0
+308,500000.0,"Poulton Avenue, Sutton, Surrey, SM1",SM1,3.0
+315,650000.0,"Fryston Avenue, Coulsdon, CR5",CR5,4.0
+317,220000.0,"Stonecot Hill, Sutton, SM3",SM3,1.0
+318,550000.0,"Manor Lane, Sutton, Surrey, SM1",SM1,4.0
+321,500000.0,"Century House, Station Way, Sutton, SM3",SM3,2.0
+324,190000.0,"Patricia Gardens, Sutton, Surrey, SM2",SM2,1.0
+328,300000.0,"Grasmere Court, 3 Cedar Gardens, Sutton, Surrey, SM2",SM2,2.0
+329,365000.0,"Rushen Walk, Carshalton, SM5",SM5,2.0
+332,780000.0,"Harcourt Road, Wallington, SM6",SM6,4.0
+335,220000.0,"Clouston Close, Wallington, SM6",SM6,1.0
+337,150000.0,"Bute Road, Wallington, Surrey, SM6",SM6,1.0
+339,280000.0,"Relko Gardens, Sutton, Surrey, SM1",SM1,2.0
+340,290000.0,"Chelsea Gardens, Cheam, Sutton, SM3",SM3,2.0
+341,330000.0,"Miami House, 38 Sandy Lane North, Wallington, SM6",SM6,2.0
+342,500000.0,"Selwood Road, Sutton, SM3",SM3,3.0
+343,475000.0,"Gassiot Way, Sutton, SM1 3BA",SM1,3.0
+347,200000.0,"Egmont Road, Sutton, SM2",SM2,1.0
+350,680000.0,"Pine Ridge, Carshalton, Surrey, SM5",SM5,4.0
+357,300000.0,"Conifer Gardens, Sutton, SM1",SM1,2.0
+361,900000.0,"Colston Avenue, Carshalton Village, Surrey, SM5",SM5,5.0
+371,320000.0,"Queensfield Court, London Road, Cheam, Surrey, SM3",SM3,2.0
+372,575000.0,"Church Hill Road, Cheam, Sutton, Surrey, SM3",SM3,4.0
+384,460000.0,"Banstead Way, Wallington, SM6",SM6,3.0
+391,480000.0,"Orchard Road, Sutton, SM1",SM1,3.0
+398,325000.0,"Spring Gardens, Wallington, SM6",SM6,2.0
+399,397500.0,"Daffodil Close, Mitcham Junction, Mitcham, CR4",CR4,3.0
+401,265000.0,"Daffodil Close, Mitcham Junction, Mitcham, CR4",CR4,3.0
+402,212000.0,"Daffodil Close, Mitcham Junction, Mitcham, CR4",CR4,3.0
+403,275000.0,"Lind Road, Sutton, SM1",SM1,1.0
+406,275000.0,Cleeve Way Sutton SM1,SM1,2.0
+407,900000.0,"Timberslip Drive, Wallington, Wallington, SM6",SM6,4.0
+408,500000.0,"The Causeway, Carshalton, SM5",SM5,3.0
+413,685000.0,"Greenhill, Sutton, Surrey, SM1",SM1,4.0
+416,975000.0,"Westmount Close, Worcester Park, KT4",KT4,5.0
+417,390000.0,"Wandle Road, Wallington, Surrey, SM6",SM6,2.0
+424,400000.0,"Cheyne Court, 59 Christchurch Park, Sutton, SM2",SM2,2.0
+428,350000.0,"40 Cedar Road, Sutton, SM2",SM2,2.0
+429,2000000.0,"Burdon Lane, Cheam, Sutton, SM2",SM2,11.0
+430,750000.0,"Heatherlea Grove, Worcester Park, KT4",KT4,4.0
+431,400000.0,"Spencer Road, Mitcham, CR4",CR4,4.0
+433,500000.0,"Benfleet Close, Sutton, SM1",SM1,2.0
+436,325000.0,"Stable Court, Millpond Place, Carshalton, SM5",SM5,2.0
+439,735000.0,"Park Road, WALLINGTON, Surrey, SM6",SM6,5.0
+440,335000.0,"West Street, Sutton, SM1",SM1,2.0
+443,240000.0,"Lansdowne House, 98 Brighton Road, Sutton, SM2",SM2,1.0
+451,390000.0,"Overton Road, Sutton, SM2",SM2,2.0
+453,575000.0,"St. Clair Drive, Worcester Park, Surrey, KT4",KT4,2.0
+456,575000.0,"Chudleigh Gardens, Sutton, Surrey, SM1",SM1,3.0
+459,275000.0,"Carisbrook Court, Station Approach, Cheam, SM2 7BN",SM2,1.0
+461,270000.0, London Road SM3,SM3,2.0
+463,575000.0,"Carshalton Park Road, Carshalton, Surrey, SM5",SM5,4.0
+465,249950.0,"Lewis Road, Sutton, Surrey, SM1",SM1,1.0
+466,280000.0,"Throwley Way, Sutton, SM1",SM1,2.0
+467,375000.0,"Carshalton Road, Sutton, SM1",SM1,2.0
+469,495000.0,"Benhill Road, Sutton SM1",SM1,3.0
+470,750000.0,"Birchwood Avenue, Wallington, SM6",SM6,5.0
+473,635000.0,"Hillcroome Road, Sutton, SM2 ",SM2,4.0
+474,360000.0,"Thicket Road, Sutton, SM1",SM1,2.0
+476,600000.0,"Priory Road, Cheam, Sutton, SM3",SM3,4.0
+478,201500.0,"Chenille Court, Wallington, London, SM6",SM6,2.0
+483,130000.0,"Moire Court, London, Sutton, SM6",SM6,1.0
+485,335000.0,"Carlton Towers, North Street, Carshalton, SM5",SM5,2.0
+486,349950.0,"Scotsdale Close, Cheam, Sutton, SM3",SM3,2.0
+491,270000.0,"St. James Road, Sutton, SM1",SM1,2.0
+493,280000.0,"Wigan Court, 11 Thread Street, Wallington, SM6",SM6,1.0
+498,250000.0,"Reynolds Close, Carshalton, SM5",SM5,2.0
+499,252500.0,"Poppy Close, Hackbridge, Surrey, SM6 7HD",SM6,2.0
+505,660000.0,"Ross Road, Wallington, SM6",SM6,4.0
+512,225000.0,"Wendling Road, Sutton, Surrey, SM1",SM1,1.0
+513,235000.0,"Contour House, North Cheam, SM3 ",SM3,1.0
+516,280000.0,"Ewell Road, Cheam, SM3",SM3,1.0
+517,290000.0,"Heron Way, Wallington, Surrey, SM6",SM6,2.0
+519,335000.0,"Manor Park Road, Sutton, SM1",SM1,2.0
+520,335000.0,"Manor Park Road, Sutton, SM1",SM1,2.0
+523,325000.0,"Woodglen, Bishopsford Road, Morden, SM4",SM4,2.0
+525,695000.0,"Gander Green Lane, Sutton, SM3",SM3,3.0
+526,300000.0,"St. James Road, Sutton, SM1",SM1,2.0
+530,349950.0,"Hampton Road, Worcester Park, Surrey, KT4",KT4,2.0
+544,295000.0,"Dover Gardens, Carshalton, Surrey, SM5",SM5,2.0
+549,240000.0,"Brambledown Road, WALLINGTON, Surrey, SM6",SM6,1.0
+551,375000.0,"Osborne Place, Sutton, Surrey, SM1",SM1,2.0
+556,800000.0,"Arundel Road, Cheam, Sutton, Surrey, SM2",SM2,5.0
+568,349950.0,"Brabham Court, 39 Central Road, Worcester Park, KT4",KT4,2.0
+570,475000.0,"Parchment Close, Mitcham, CR4",CR4,2.0
+571,285000.0,"Benhill Road, Sutton, SM1",SM1,1.0
+575,365000.0,"Carshalton Road, Sutton, SM1",SM1,2.0
+578,415000.0,"Ewell Road, Cheam Village, Sutton, Surrey, SM3",SM3,2.0
+579,227500.0,"Hendfield Court, Beddington Gardens, Wallington, SM6",SM6,1.0
+580,830000.0,"Hill Crescent, Worcester Park, Surrey, KT4",KT4,4.0
+582,800000.0,"Park Hill, Carshalton Beeches, , SM5 3SA",SM5,4.0
+584,220000.0,"Lenham Road, Sutton, Surrey, SM1",SM1,2.0
+585,310000.0,"Lavender Avenue, Worcester Park,KT4",KT4,2.0
+589,449950.0,"Brocks Drive, Cheam, Sutton, SM3",SM3,3.0
+595,575000.0,"Sutton Common Road, Sutton, SM1",SM1,4.0
+596,315000.0,"Stanley Road, Carshalton, SM5",SM5,2.0
+597,850000.0,"Furzedown Road, Sutton, Surrey, SM2",SM2,5.0
+598,385000.0,"Stanley Road, Sutton, Surrey, SM2",SM2,3.0
+606,215000.0,"283 Stafford Road, Croydon, CR0",CR0,1.0
+607,319950.0,"London Road, North Cheam,SM3",SM3,2.0
+610,500000.0,"Berkeley Court, Wallington, SM6",SM6,3.0
+613,235000.0,"Franklin Way, Croydon, CR0",CR0,1.0
+619,465000.0,"Malden Road, Cheam, Surrey, SM3",SM3,3.0
+620,675000.0,"Beaumont Drive, Worcester Park, KT4",KT4,3.0
+621,350000.0,"Bridge Road, Wallington, SM6",SM6,3.0
+633,213500.0,"Braid Court, Wallington, London, SM6",SM6,2.0
+638,465000.0,"Malden Road, SM3.",SM3,3.0
+639,375000.0,"Grove Avenue, Sutton, SM1",SM1,2.0
+644,550000.0,"Covey Road, Worcester Park, Surrey, ., KT4",KT4,4.0
+646,275000.0,"Egmont Road, Sutton, SM2",SM2,1.0
+647,300000.0,"Shirley Heights, Shirley Road, Wallington, SM6",SM6,2.0
+652,400000.0,"Vale Road, Sutton, SM1",SM1,2.0
+655,900000.0,"Cuddington Way, South Cheam, Sutton, Surrey, SM2",SM2,6.0
+658,700000.0,"Dower Avenue, Wallington, SM6",SM6,3.0
+664,900000.0,"Cuddington Way, Cheam, SM2",SM2,6.0
+669,599950.0,"Sutton Common Road, Sutton, Surrey, SM3",SM3,4.0
+675,280000.0,"Relko Gardens, Sutton, Surrey, SM1",SM1,2.0
+676,264000.0,"Conifer Gardens, Sutton, Surrey, SM1",SM1,1.0
+682,495000.0,"Lymescote Gardens, Sutton, SM1",SM1,3.0
+687,375000.0,"Midsummer Apartments,  Sackville Road, Sutton, SM2 ",SM2,2.0
+689,295000.0,"The Elms, Wallington, SM6",SM6,2.0
+694,700000.0,"The Newlands, Wallington, SM6",SM6,4.0
+697,290000.0,"38 Wolseley Road, Mitcham, CR4",CR4,2.0
+698,500000.0,"Canterbury Close, Worcester Park, Surrey, KT4",KT4,3.0
+700,365000.0,"Brighton Road, Sutton, SM2",SM2,2.0
+701,375000.0,"Gander Green Lane  , Sutton, SM1 ",SM1,2.0
+702,860000.0,"Belmont Rise, Cheam, Sutton, SM2",SM2,4.0
+703,150000.0,"Brook Court, Wordsworth Drive, Cheam, Surrey, SM3",SM3,1.0
+704,145000.0,"Brook Court, 78 Wordsworth Drive, SUTTON, Surrey, SM3",SM3,1.0
+714,640000.0,"Hurstcourt Road, Sutton, Surrey, SM1",SM1,4.0
+715,530000.0,"Osmond Gardens, Wallington, SM6",SM6,3.0
+721,340000.0,"Onslow Gardens, WALLINGTON, Surrey, SM6",SM6,3.0
+724,485000.0,"Gloucester Gardens, Sutton, SM1",SM1,3.0
+727,320000.0,"Hemingford Road, Sutton, SM3",SM3,2.0
+730,230000.0,"Canon Court, 91 Manor Road, WALLINGTON, Surrey, SM6",SM6,1.0
+734,239950.0,"Waddon House, 283 Stafford Road, Waddon, CR0",CR0,1.0
+737,535000.0,"The Chase, Wallington, SM6",SM6,4.0
+738,365000.0,"Brighton Road, Sutton, SM2",SM2,2.0
+740,150000.0,"Ashby Grange, Stafford Road, WALLINGTON, Surrey, SM6",SM6,1.0
+741,310000.0,"Elles House, Shotfield, Wallington, SM6",SM6,1.0
+742,415000.0,"Rose Hill, Sutton, SM1",SM1,2.0
+751,550000.0,"Milton Avenue, Sutton, SM1",SM1,3.0
+753,625000.0,"Haslam Avenue, Sutton, SM3",SM3,4.0
+759,560000.0,"Bridge Road, Wallington, Surrey, SM6",SM6,4.0
+763,295000.0,"Salisbury House, 8 Melbourne Road, Wallington, SM6",SM6,2.0
+764,260000.0,"Autumn Drive, Sutton, SM5",SM5,2.0
+775,900000.0,"Colston Avenue, Carshalton Village, Surrey, SM5",SM5,5.0
+776,250000.0,"Carisbrooke Court, Station Approach, Sutton, Surrey, SM2",SM2,1.0
+781,625000.0,"Haslam Avenue, Sutton, SM3 ",SM3,4.0
+782,365000.0,"Girtin House, 44 Brighton Road, Sutton, SM2",SM2,2.0
+783,385000.0,"4 Sutton Park Road, Sutton, SM1",SM1,2.0
+788,315000.0,"Priory Road, Sutton, SM3",SM3,2.0
+791,695000.0,"Gander Green Lane, Sutton, SM3",SM3,3.0
+792,265000.0,Mulgrave Road Sutton SM2,SM2,1.0
+793,500000.0,"Marlow Drive, Cheam, Sutton, SM3",SM3,3.0
+794,875000.0,"Beresford Road, Cheam, Sutton, Surrey, SM2",SM2,5.0
+798,600000.0,"Elgin Road, Wallington, SM6",SM6,4.0
+799,1500000.0,"The Downsway, Sutton, SM2",SM2,4.0
+801,575000.0,"Elgin Road, Wallington, SM6",SM6,4.0
+802,275000.0,"Leith Towers, Grange Vale, Sutton, Surrey, SM2",SM2,2.0
+803,360000.0,"Brighton Road, Sutton, SM2",SM2,2.0
+804,130000.0,"Forest Dene Court, Cedar Road, Sutton, SM2",SM2,1.0
+805,425000.0,"Gander Green Lane, Sutton, SM1",SM1,2.0
+808,725000.0,"Ruskin Road, Carshalton, Surrey, SM5",SM5,4.0
+813,600000.0,"Carshalton Grove, Sutton, Surrey, SM1",SM1,4.0
+815,599995.0,"Spinning Wheel Way, Wallington, SM6",SM6,3.0
+816,325000.0,"Lyndhurst Court, Grange Road, Sutton, SM2",SM2,2.0
+817,280000.0,"Thicket Crescent, Sutton, Surrey, SM1",SM1,2.0
+818,575000.0,"Rose Hill Park West, Sutton, SM1",SM1,4.0
+819,365000.0,"Cricketers Terrace, Carshalton, SM5",SM5,2.0
+820,450000.0,"Churchill Road, North Cheam , Surrey, SM3",SM3,3.0
+821,280000.0,"Lewis Road, Sutton, SM1",SM1,1.0
+823,240000.0,"Lenham Road, Sutton, Surrey, SM1",SM1,2.0
+824,245000.0,"Lind Road, Sutton, SM1",SM1,2.0
+826,775000.0,"Holland Avenue, Cheam, Sutton, SM2",SM2,4.0
+827,375000.0,"Abbotts Road, Cheam, Sutton, SM3",SM3,2.0
+831,300000.0,"The Maisonettes, Alberta Avenue, Cheam, Sutton, SM1",SM1,2.0
+834,390000.0,"Sovereign Apartment,High Street. Sutton, SM1",SM1,2.0
+835,475000.0,"Munslow Gardens, Sutton, SM1",SM1,3.0
+844,290000.0,"Restmor Way, Hackbridge, Wallington, Surrey, SM6",SM6,1.0
+846,280000.0,"The Maisonettes, Alberta Avenue, SUTTON, Surrey, SM1",SM1,2.0
+849,155000.0,"Forest Dene Court, Sutton, SM2 5LP",SM2,1.0
+853,300000.0,"Cedar Road, Sutton, Surrey, SM2",SM2,2.0
+854,190000.0,"Foxglove Way, Wallington, SM6",SM6,0.0
+856,380000.0,"Sovereign House, 328 High Street, Sutton, SM1",SM1,2.0
+862,480000.0,"Hackbridge Park Gardens, Carshalton, Surrey, SM5",SM5,3.0
+864,350000.0,"Cheam Mansions, Station Way, Cheam, Sutton, SM3",SM3,2.0
+865,169995.0,"Caversham House, Croydon, CR0",CR0,0.0
+866,600000.0,"Alma Road, Carshalton, Surrey, SM5",SM5,3.0
+867,310000.0,"Brighton Road, Sutton, SM2",SM2,2.0
+870,270000.0,"Bramley Court, Ross Road, Wallington, SM6",SM6,2.0
+873,595000.0,"Caversham Avenue, North Cheam, SM3",SM3,4.0
+874,300000.0,"Longfellow Road, Worcester Park, Surrey, KT4",KT4,2.0
+876,680000.0,"Pine Ridge, Carshalton, Surrey, SM5",SM5,4.0
+879,725000.0,"Banstead Road, Carshalton Beeches SM5",SM5,4.0
+886,130000.0,"Thicket Road, Sutton, SM1",SM1,1.0
+889,287000.0,"Caraway Place, Wallington, SM6",SM6,2.0
+890,320000.0,"Sweet Briar Avenue, Carshalton, Surrey, SM5",SM5,2.0
+892,250000.0,"Clare Court, 14 Overton Road, Sutton, Surrey, SM2",SM2,1.0
+896,280000.0,"Kempton Lodge, 21 Church Paddock Court, Wallington, SM6",SM6,2.0
+899,495000.0,"Woodcote Hall, Woodcote Avenue, Wallington, Surrey, SM6",SM6,3.0
+902,474950.0,Denbigh Close Cheam SM1,SM1,3.0
+903,230000.0,"Egmont Road, Sutton, SM2",SM2,1.0
+905,599950.0,"Willowhayne Gardens, Worcester Park, Surrey, ., KT4",KT4,3.0
+909,227500.0,"Damson Way, Carshalton, Surrey, SM5",SM5,0.0
+910,175000.0,"Mullards Close, Hackbridge, Surrey, CR4 4FE",CR4,0.0
+912,300000.0,"Bisley Close, Worcester Park, Surrey, KT4",KT4,2.0
+917,250000.0,"52 Overton Road, Sutton, SM2",SM2,1.0
+921,230000.0,"Providence House, 80 Woodcote Road, Wallington, SM6",SM6,1.0
+927,325000.0,"Tavernelle House, 289 High Street, Sutton, Surrey, SM1",SM1,2.0
+928,900000.0,"Woodcote Avenue, Wallington, SM6",SM6,4.0
+929,184950.0,"Camborne Road, Sutton, SM2",SM2,0.0
+931,750000.0,"West Dene, Park Lane, Sutton, SM3",SM3,3.0
+934,200000.0,"St. Dunstans Hill, Sutton, Surrey, SM1",SM1,1.0
+936,439950.0,"Hilldale Road, Cheam, Sutton, Surrey. SM1 2JD",SM1,2.0
+938,240000.0,"Melford Court, 3-5 Cavendish Road, Sutton, SM2",SM2,1.0
+940,375000.0,"Kirksted Road, Morden, Surrey, SM4",SM4,2.0
+950,265000.0,"2 Clover Way, Wallington, SM6",SM6,2.0
+951,180000.0,"Royal Crest House, 22-26 Upper Mulgrave Road, Sutton, Surrey, SM2",SM2,0.0
+954,355000.0,"Rushen Walk, Carshalton, SM5",SM5,2.0
+955,630000.0,"Ross Road, Wallington, SM6",SM6,3.0
+956,285000.0,"Fairlawnes, Maldon Road, Wallington, SM6",SM6,2.0
+958,150000.0,"Wordsworth Drive, SM3 8HH",SM3,1.0
+964,299950.0,"Crown Road, Sutton, SM1",SM1,3.0
+966,355000.0,"Croydon Road,
+Wallington,
+SM6 7LQ",SM6,2.0
+967,88750.0,"Croydon Road,
+Wallington,
+SM6 7LQ",SM6,2.0
+969,175000.0,"Lower Road, Sutton, Surrey, SM1",SM1,0.0
+973,325000.0,"SM2, Sutton",SM2,2.0
+974,550000.0,"Stonecot Hill, Sutton, Surrey, SM3",SM3,4.0
+976,379000.0,"Station Way, Cheam. SM3 8SA",SM3,2.0
+978,220000.0,"York Court, 11 Ross Road, Wallington, SM6",SM6,1.0
+981,1500000.0,"Kingsmead Avenue, Worcester Park, KT4",KT4,5.0
+984,165000.0,"Oak Lodge, Sutton, SM1 4QN",SM1,1.0
+986,365000.0,"Hemingford Road, North Cheam, Surrey, SM3 ",SM3,2.0
+987,240000.0,"Beddington Gardens, Wallington, SM6",SM6,1.0
+989,325000.0,"Throwley Way, Sutton, SM1",SM1,2.0
+990,315995.0,"Hackbridge Road, Wallington, Greater London
+SM6 7AX",SM6,1.0
+994,145000.0,"Forest Dene Court, Sutton, SM2 5LP",SM2,1.0
+995,290000.0,"Cromer Mansions, Cheam Road, Sutton SM1 2SR",SM1,2.0
+997,195000.0,"148 St James Road, Sutton, SM1",SM1,1.0
+998,311995.0,"Hackbridge Road, Wallington, Greater London
+SM6 7AX",SM6,1.0
+999,255000.0,"Printwork Apartments, 819 London Road, Cheam, Sutton, SM3",SM3,1.0
+1001,169000.0,"Marlborough Court (Wallington), Wallington, SM6 9PG",SM6,1.0
+1003,275000.0,"Westmead Road, Sutton, Surrey, SM1",SM1,2.0
+1005,230000.0,"Bradley Close, Sutton, Surrey, SM2",SM2,1.0
+1009,202500.0,"Ian Macdonald Court, Wallington, London, SM6",SM6,2.0
+1010,300000.0,"Porchfield Close, Sutton, SM2",SM2,3.0
+1012,165000.0,"Cavendish Court, 15 Holmwood Gardens, Wallington, SM6",SM6,1.0
+1015,289950.0,"Brinkley Road, Worcester Park, Surrey, KT4",KT4,2.0
+1016,415000.0,"Homemead Road, Croydon / Beddington, CR0",CR0,3.0
+1023,170000.0,"Bridge Road, Wallington, Surrey, SM6",SM6,1.0
+1024,159000.0,"Oak Lodge, Sutton, SM1 4QN",SM1,1.0
+1025,900000.0,"Colston Avenue, Carshalton Village, Surrey, SM5",SM5,5.0
+1026,313995.0,"Hackbridge Road, Wallington, Greater London
+SM6 7AX",SM6,1.0
+1027,313995.0,"Hackbridge Road, Wallington, Greater London
+SM6 7AX",SM6,1.0
+1030,202500.0,"Typhoon Way, Wallington, London, SM6",SM6,2.0
+1035,290000.0,"Hove Gardens, Sutton, SM1",SM1,2.0
+1039,715000.0,"Springfield Road, Wallington, SM6",SM6,4.0
+1041,390000.0,"Rolls Royce Close, Wallington, SM6",SM6,3.0
+1042,220000.0,"Titchfield Road, Carshalton, SM5",SM5,1.0
+1044,160000.0,"Patricia Gardens, Sutton, Surrey, SM2",SM2,1.0
+1045,515000.0,"Church Hill Road, Cheam, Surrey, SM3",SM3,4.0

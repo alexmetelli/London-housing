@@ -1,0 +1,844 @@
+,price,address,postcode,number_bedrooms
+0,3115000.0,"Worship Street, London EC2A 2BA",EC2A,2.0
+1,780000.0,"Dove Row, London, E2",E2,4.0
+2,385000.0,"Sherard House, Frampton Park Road, London, E9",E9,2.0
+4,365000.0,"Geffrye Court, Hoxton, N1",N1,1.0
+6,600000.0,"Manor Road, London, N16",N16,2.0
+7,425000.0,"Cottrill Gardens, Marcon Place, London, E8",E8,1.0
+11,425000.0,"Kingsland Road, De Beauvoir Town, London, E8",E8,1.0
+12,310000.0,"Warwick Grove, Hackney, E5",E5,1.0
+13,550000.0,"Evering Road, London, E5",E5,2.0
+14,1400000.0,"Bodney Road, London, E8",E8,6.0
+15,1150000.0,"Principal Tower, 2 Worship Street, London, EC2A",EC2A,1.0
+16,385000.0,"Clarence Road, Hackney, E5",E5,1.0
+18,1550000.0,"Sutton Place, London, E9",E9,4.0
+20,365000.0,"402 Seven Sisters Road, Finsbury Park, N4",N4,1.0
+21,750000.0,"Benn Street, London, E9",E9,3.0
+23,865000.0,"One Crown Place, Shoreditch, London, EC2A",EC2A,1.0
+27,400000.0,"Stoke Newington High Street, N16",N16,2.0
+28,500000.0,"Parkholme Road, London, E8",E8,1.0
+29,460000.0,"Beatty Road, London, N16 8EB",N16,1.0
+30,425000.0,"Whitwell House, Northwold Road, London, E5",E5,2.0
+31,885000.0,"Boleyn Road, London, N16",N16,3.0
+32,795000.0,"Long & Waterson, Long Street, E2",E2,1.0
+33,525000.0,"Dunsmure Road, London, N16",N16,2.0
+34,575000.0,"Harmony House, Piano Lane, London, N16",N16,2.0
+35,1200000.0,"Parkholme Road, London, E8",E8,3.0
+36,450000.0,"Kedleston Court, 70 Redwald Road, London, E5",E5,3.0
+37,865000.0,"Long & Waterson, Long Street, E2",E2,2.0
+39,600000.0,"Scriven Court, Livermere Road, London, E8",E8,4.0
+40,750000.0,"Alvington Crescent, Hackney, London, E8",E8,1.0
+43,470000.0,"Derby Court, 2 Overbury Street, London, E5",E5,3.0
+44,620000.0,"Broadway Market, London, E8",E8,1.0
+47,495000.0,"Shore Road, Hackney, London, E9",E9,0.0
+50,415000.0,"Atkins Square, Dalston Lane, London, E8",E8,1.0
+51,650000.0,"Academy Apartments, 236 Dalston Lane, London, E8",E8,2.0
+52,485000.0,"Southgate Road, London, N1",N1,1.0
+53,540000.0,"Buttermere Walk, London, E8",E8,2.0
+54,550000.0,"Waterloo Close, London, E9",E9,3.0
+55,1675000.0,"Mare Street, Hackney, London, E8",E8,4.0
+56,425000.0,"Murray Grove, London, N1 ",N1,2.0
+57,650000.0,"Riversdale Road, Highbury, London, N5",N5,2.0
+58,435000.0,"Forburg Road, London, N16",N16,1.0
+60,485000.0,"Barretts Grove, London, N16",N16,1.0
+61,370000.0,"398 Seven Sisters Road, London, N4",N4,1.0
+62,1150000.0,"Sheperdess Place, Hoxton, London, N1",N1,2.0
+63,425000.0,"Wick Road, Hackney, London, E9",E9,3.0
+64,260000.0,"Bethune Road, N16",N16,0.0
+65,550000.0,"Rectory Road, N16",N16,2.0
+67,1250000.0,"Paragon Road, London, E9",E9,4.0
+68,425000.0,"Defoe Road, London, N16 ",N16,1.0
+71,799950.0,"Riversdale Road, London, N5",N5,2.0
+73,5750000.0,"Principal Place,
+Worship Street,
+London,
+EC2A",EC2A,3.0
+74,550000.0,"Fellows Court , Weymouth Terrace , London, E2 8LL",E2,3.0
+76,500000.0,"31 Wenlock Road, Islington, N1",N1,1.0
+78,575000.0,"Portland Rise, N4",N4,2.0
+80,965000.0,"The Residence, Shoreditch, N1 ",N1,3.0
+81,725000.0,"Crondall Street, London, N1",N1,2.0
+82,695000.0,"Crondall Street, Shoreditch, N1",N1,2.0
+83,350000.0,"Balls Pond Road, London, N1",N1,1.0
+84,850000.0,"Dalston Square, London, E8",E8,3.0
+85,550000.0,"Weymouth Terrace, London, E2 ",E2,3.0
+86,1225000.0,"Coopersale Road, Lower Clapton, E9",E9,5.0
+87,895000.0,"Eagle Point, City Road, London, EC1V",EC1V,2.0
+88,1500000.0,"Dumont Road, London, N16",N16,4.0
+89,550000.0,"Strand Building, 29 Urswick Road, London, E9",E9,2.0
+91,695000.0,"Crondall Street, London, N1",N1,2.0
+93,730000.0,"Bushberry Road, London, E9",E9,3.0
+94,695000.0,"The Residence Hoxton, London, N1",N1,2.0
+95,725000.0,"The Residence Hoxton, Islington, London, N1",N1,2.0
+96,649000.0,"Haberdasher Street, London, N1",N1,2.0
+97,420000.0,"Boundary Street, Shoreditch, E2",E2,0.0
+98,1675000.0,"Mare Street, London E8",E8,4.0
+100,795000.0,"Long & Waterson, Long Street, E2",E2,1.0
+101,450000.0,"Kyverdale Road, Stoke Newington, N16",N16,2.0
+102,599950.0,"Clapton Square, London, E5",E5,2.0
+103,375000.0,"Rectory Road, London, N16",N16,1.0
+104,450000.0,"Bradbury Mews, Dalston, London, N16",N16,1.0
+105,375000.0,"Drysdale Place, Islington, N1",N1,1.0
+106,725000.0,"Digby Crescent, N4 2HS",N4,3.0
+107,525000.0,"Amhurst Park, Stoke Newington, N16",N16,2.0
+109,1795000.0,"Union Wharf, Arlington Avenue, Islington, London, N1",N1,3.0
+111,435000.0,"Welbury Court, 453 Kingsland Road, London, E8",E8,1.0
+112,450000.0,"Stoke Newington High Street, London, N16",N16,2.0
+113,525000.0,"16 Goldsmiths Row, London, E2",E2,1.0
+114,650000.0,"Basing Place, London, E2",E2,2.0
+115,630000.0,"Downs Park Road, London, E8",E8,2.0
+116,1650000.0,"Parkholme Road, Hackney, London, E8",E8,4.0
+117,500000.0,"Kingsland Road, London, E2",E2,2.0
+118,420000.0,"Boundary Street, Shoreditch, London, E2",E2,1.0
+119,775000.0,"Quebec Wharf, 315 Kingsland Road, London, E8",E8,1.0
+120,875000.0,"Goldsmiths Row, London, E2",E2,2.0
+122,570000.0,"Orwell Court, Pownall Road, London, E8",E8,3.0
+124,595000.0,"Adolphus Road, N4 2AT",N4,2.0
+125,600000.0,"14 Orsman Road, De Beauvoir, N1",N1,2.0
+126,495000.0,"Shore Road, London, E9",E9,1.0
+129,900000.0,"Whitmore Road, London, N1",N1,3.0
+130,395000.0,"Gibson Gardens, Stoke Newington, N16",N16,1.0
+131,4000000.0,"Graham Road, London, E8",E8,5.0
+132,610000.0,"Castlewood Road, Stamford Hill,
+London, 
+E5 9AJ",E5,2.0
+133,480000.0,"Castlewood Road, Stamford Hill,
+London, 
+E5 9AJ",E5,1.0
+134,595000.0,"Castlewood Road, Stamford Hill,
+London, 
+E5 9AJ",E5,2.0
+135,1050000.0,"Hassett Road, London, E9",E9,4.0
+136,785000.0,"Glenarm Road, London, E5",E5,3.0
+137,550000.0,"Laxfield Court, Pownall Road, London, E8",E8,3.0
+138,490000.0,"Warburton House, Warburton Street, London, E8",E8,3.0
+139,500000.0,"Balcorne Street, South Hackney, London, E9",E9,2.0
+140,600000.0,"201 Albion Road, Stoke Newington, N16",N16,2.0
+141,450000.0,"Boleyn Road, London, N16",N16,2.0
+142,650000.0,"Graham Road, Hackney, E8",E8,2.0
+143,475000.0,"Roseberry Place, Hackney, E8",E8,1.0
+144,650000.0,"Abraham House, Roseberry Place, London, E8",E8,2.0
+145,600000.0,"Denver Road, London, N16",N16,2.0
+147,350000.0,"Chatsworth Road, E5 ",E5,1.0
+148,875000.0,"Bayford Mews, London Fields, E8",E8,3.0
+149,750000.0,"Whiston Road, Shoreditch, London, E2",E2,2.0
+150,500000.0,"Sandpiper, Woodberry Down, Finsbury Park, London, N4",N4,1.0
+151,600000.0,"Dalston Lane, London, E8",E8,1.0
+152,625000.0,"Adolphus Road, London, N4",N4,2.0
+153,850000.0,"Shacklewell Lane, London, E8",E8,2.0
+154,725000.0,"Drysdale Street, Shoreditch, London, N1",N1,1.0
+155,750000.0,"Kingsland Road, London, E8",E8,3.0
+156,499995.0,"Brownswood Road, London, N4",N4,2.0
+157,500000.0,"Reighton Road, Stoke Newington, N16",N16,1.0
+158,420000.0,"Leaside Road, London, E5",E5,2.0
+159,375000.0,"Chiltern House, Stamford Hill, London, N16",N16,2.0
+160,900000.0,"Great Eastern Street, London EC2",EC2,1.0
+161,900000.0,"Great Eastern Street, London, EC2A",EC2A,1.0
+162,550000.0,"Northwold Road, Stoke Newington, London, N16",N16,2.0
+164,450000.0,"Amhurst Court, Pinehurst, Cambridge, CB3",CB3,2.0
+165,450000.0,"Green Lanes, London, N16",N16,1.0
+166,525000.0,"Amhurst Park, Stoke Newington, N16",N16,2.0
+171,700000.0,"Gloucester Drive, Finsbury Park, N4",N4,2.0
+173,650000.0,"190 City Road, London, EC1V",EC1V,2.0
+174,525000.0,"Balls Pond Road, Islington N1",N1,2.0
+176,625000.0,"Kingsland Road, London, E8",E8,2.0
+177,575000.0,"Portfleet Place, De Beauvoir Road, London, N1",N1,2.0
+178,550000.0,"Purcell Street, Hoxton, London, N1",N1,3.0
+179,1100000.0,"Wilmer Place, London, N16",N16,4.0
+181,650000.0,"Aumbrey Apartments, Eastway, London, E9",E9,3.0
+183,450000.0,"Lower Clapton Road, London, E5",E5,2.0
+184,885000.0,"One Crown Place, Hackney, EC2A",EC2A,1.0
+186,500000.0,"Downham Wharf, Islington, N1",N1,1.0
+189,375000.0,"Warwick Grove, E5",E5,2.0
+190,700000.0,"Royle Building, 31 Wenlock Road, London, N1",N1,1.0
+191,525000.0,"Queens Drive, London, N4",N4,2.0
+192,500000.0,"Murrain Road, London, N4",N4,1.0
+194,775000.0,"Eagle Wharf Road, Hoxton, N1",N1,2.0
+195,775000.0,"Eagle Wharf Road, Islington, London, N1",N1,2.0
+196,425000.0,"Amhurst Road, Hackney, E8",E8,1.0
+198,575000.0,City Road London EC1V,EC1V,0.0
+199,550000.0,"Windus Road, Stoke Newington, N16",N16,2.0
+200,775000.0,"Shoreditch Exchange, Hackney Road,
+E2 8ET",E2,1.0
+201,475000.0,"Kenninghall Road, London, E5",E5,2.0
+202,459000.0,Woodberry Grove London N4,N4,1.0
+204,475000.0,"Skyline Apartments Devan Grove London, N4",N4,1.0
+206,1500000.0,"Englefield Road, London, N1",N1,3.0
+207,1500000.0,"Englefield Road, London, N1",N1,3.0
+208,425000.0,"Allen Road, Stoke Newington, N16",N16,1.0
+209,425000.0,"Digby Crescent, London, N4",N4,1.0
+210,715000.0,"Marcon Place, Hackney Downs, London, E8",E8,3.0
+211,600000.0,"14 Orsman Road, De Beauvoir, N1",N1,2.0
+212,925000.0,"6 Rufus Street,, N1",N1,2.0
+213,475000.0,"Devan Grove, London, N4",N4,1.0
+214,950000.0,"Christina Street, London, EC2A",EC2A,2.0
+215,950000.0,"Sylvester Road, London, E8",E8,2.0
+216,255000.0,"De Beauvoir Place, 1-3 Tottenham Road, London, N1",N1,1.0
+217,350000.0,"Wellington Mansions, Shacklewell Road, London, N16",N16,1.0
+218,550000.0,"Colville Estate, Shoreditch N1",N1,3.0
+219,950000.0,"Kenton Road, Victoria Park, London, E9",E9,2.0
+220,450000.0,"Julius Seal House, 1A Belsham Street, London, E9",E9,1.0
+221,410000.0,"Clarence Road, Hackney, E5",E5,3.0
+222,1575000.0,"Graham Road, Hackney, London, E8",E8,4.0
+225,675000.0,"Castlewood Road, Stamford Hill,
+London, 
+E5 9AJ",E5,2.0
+226,785000.0,"Burville House, Finsbury Park, N4",N4,3.0
+227,500000.0,"Provost Street, Shoreditch, London, N1",N1,1.0
+229,750000.0,"Cotton Exchange, N16",N16,3.0
+230,500000.0,"Enfield Road, London, London, N1 ",N1,1.0
+233,360000.0,"Salcombe Road, Dalston, N16",N16,1.0
+234,750000.0,"Pellerin Road, London, N16",N16,3.0
+235,1825000.0,"Southborough Road, London, E9",E9,5.0
+236,415000.0,"Atkins Square, Dalston Lane, London, E8",E8,1.0
+237,450000.0,"Clapton Square, Clapton, E5",E5,1.0
+239,1050000.0,"Mortimer Road, London, N1",N1,3.0
+241,750000.0,"Union Wharf IV, Wenlock Road, London N1",N1,1.0
+245,650000.0,"Palladium Court, 319 Queensbridge Road, London, E8",E8,3.0
+247,400000.0,"Stoke Newington High Street, N16",N16,1.0
+249,240000.0,"Beaumont Court, Upper Clapton Road, London, E5",E5,1.0
+250,785000.0,"Glenarm Road, London, E5",E5,3.0
+251,300000.0,"Gascoyne Road, Victoria Park, London, E9",E9,0.0
+252,420000.0,"Tolsford Road, E5, Hackney Downs, London, E5",E5,2.0
+253,1350000.0,"Gloucester Drive, N4 2LN",N4,6.0
+254,350000.0,"Regents Court, Pownall Road, Hackney, E8",E8,1.0
+255,1175000.0,"Long & Waterson Apartments, 7 Long Street, Hackney, London, E2",E2,3.0
+257,1175000.0,"Long & Waterson, Long Street, London, E2",E2,3.0
+258,600000.0,"Strand Building, 29 Urswick Road, London, E9",E9,2.0
+260,650000.0,"Hertford Road, London, N1",N1,2.0
+261,899995.0,"Dalston Lane, London, E8",E8,2.0
+262,570000.0,"Brookfield Road, Victoria Park, London, E9",E9,3.0
+265,375000.0,"Woodberry Down Estate, London N4",N4,3.0
+266,700000.0,"Glebe Road, London, E8",E8,2.0
+267,885000.0,"Kenninghall Road, London, E5",E5,3.0
+268,999950.0,"Chester Crescent, Dalston, London, E8",E8,3.0
+269,650000.0,"Lynmouth Road, London, N16 ",N16,2.0
+270,2775000.0,"One Crown Place, Hackney, EC2A",EC2A,3.0
+271,1290000.0,"One Crown Place, Hackney, EC2A",EC2A,2.0
+274,345000.0,"21 Rosina Street, Hackney, E9",E9,1.0
+275,715000.0,"Marcon Place, Hackney Downs, London, E8",E8,3.0
+276,400000.0,"Homerton High Street, Homerton, E9",E9,1.0
+277,610000.0,"Gloucester Drive, London, N4",N4,2.0
+278,775000.0,"The Textile Building, Hackney Central, E9",E9,2.0
+279,439000.0,Woodberry Grove London N4,N4,1.0
+280,625000.0,"Malcolm House, Hoxton, N1",N1,4.0
+283,575000.0,"Shore Place, London, E9",E9,3.0
+284,550000.0,"Castle Close, London, E9",E9,3.0
+285,3174000.0,"Principal Tower, Worship Street EC2A",EC2A,3.0
+286,1413000.0,"Principal Tower, Worship Street, EC2A",EC2A,2.0
+288,350000.0,"Silver House, 10 Shacklewell Road, London, N16",N16,1.0
+289,695000.0,"Arthaus Building, E8",E8,2.0
+290,650000.0,"Richmond Road, London, E8",E8,3.0
+291,500000.0,"Gainsborough Studios South, 1 Poole Street, London, N1",N1,1.0
+292,450000.0,"4 Andre Street, Hackney, E8",E8,2.0
+293,849950.0,"Amhurst Road, London, E8",E8,2.0
+294,750000.0,"Barretts Grove, London, N16",N16,3.0
+296,485000.0,"Castlewood Road, Stamford Hill,
+London, 
+E5 9AJ",E5,1.0
+299,685000.0,"Cottrill Gardens, Marcon Place, Hackney, E8",E8,3.0
+301,1750000.0,"One Crown Place, Hackney, EC2A",EC2A,2.0
+302,900000.0,"Harrowgate Road, London, E9",E9,3.0
+303,1180000.0,"One Crown Place, Hackney, EC2A",EC2A,1.0
+304,995000.0,"One Crown Place, Hackney, EC2A",EC2A,1.0
+305,575000.0,"Essence House, Selsea Place, N16",N16,2.0
+308,450000.0,"Paragon Road, London, E9",E9,3.0
+310,425000.0,"Victorian Grove, Stoke Newington, N16",N16,2.0
+312,650000.0,"Digby Crescent, London, N4",N4,2.0
+313,699950.0,"Hertford Road, N1",N1,2.0
+314,665000.0,"Hawksley Road, Stoke Newington, London N16",N16,2.0
+315,300000.0,"Upper Clapton Road, E5",E5,1.0
+317,500000.0,"Grand Canal Apartments, London, N1",N1,1.0
+318,500000.0,"Dunsmure Road, Stoke Newington, N16",N16,2.0
+319,525000.0,"3 Casbeard Street, Clissold Park, N4",N4,1.0
+320,675000.0,"Forest Road, London Fields, E8",E8,2.0
+322,585000.0,"Mylne Apartments, 93 Barretts Grove, London, N16",N16,2.0
+325,450000.0,"Paragon Road, London, E9",E9,3.0
+327,550000.0,"Evering Road, E5",E5,2.0
+328,415000.0,"Darnley Road, Hackney, London, E9",E9,2.0
+329,375000.0,"Garnham Close, Stoke Newington, N16",N16,1.0
+330,725000.0,"Casterton Street, London, E8 ",E8,3.0
+331,335000.0,"Amhurst Park, Stoke Newington, N16",N16,1.0
+332,445000.0,"Retreat Place, London, E9",E9,3.0
+333,375000.0,"Forburg Road, London, N16",N16,1.0
+335,1500000.0,"Arlington Avenue, Islington, N1",N1,3.0
+336,435000.0,"Sach Road, London, E5",E5,1.0
+337,675000.0,"Malpas Road, London, E8",E8,4.0
+339,660000.0,"Osbaldeston Road, London, N16",N16,2.0
+340,325000.0,"Warwick Grove, London, E5 ",E5,1.0
+341,435000.0,"Balls Pond Road, London, N1",N1,1.0
+342,850000.0,"Bentley Road, London, N1",N1,3.0
+343,590000.0,"Bentley Road, London, N1",N1,2.0
+344,500000.0,"Boundary Street, Shoreditch, E2",E2,1.0
+345,775000.0,"Tudor Road, South Hackney, London, E9",E9,2.0
+346,625000.0,"Queen Elizabeths Walk, London, N16",N16,2.0
+347,875000.0,"Principal Tower, Worship Street, EC2A",EC2A,1.0
+348,875000.0,"Principal Tower, Worship Street, EC2A",EC2A,1.0
+349,450000.0,"Glenarm Road, E5",E5,1.0
+350,675000.0,"Odell House, The Park Collection, Woodberry Down, N4",N4,2.0
+351,290000.0,"Edmeston Close, London, E9",E9,1.0
+352,595000.0,"Elderfield Road, London, E5",E5,3.0
+353,450000.0,"Evelyn Walk, London N1",N1,2.0
+355,1500000.0,"Forburg Road, Stoke Newington, London, N16",N16,5.0
+356,325000.0,"Marshall House, Cranston Estate, London, N1",N1,0.0
+357,675000.0,"Ocean House, Dalston Square, London, E8",E8,2.0
+358,690000.0,"Bevenden Street,
+Hoxton,
+London,
+N1 6BP,",N1,1.0
+359,920000.0,"Bevenden Street,
+Hoxton,
+London,
+N1 6BP,",N1,2.0
+360,920000.0,"Bevenden Street,
+Hoxton,
+London,
+N1 6BP,",N1,2.0
+361,870000.0,"Bevenden Street,
+Hoxton,
+London,
+N1 6BP,",N1,2.0
+362,850000.0,"Celandine Drive, Hackney, London, E8",E8,4.0
+363,600000.0,"Innovation Studios, Long Street, London, E2",E2,1.0
+364,314995.0,"Trelawny Estate, Paragon Road, London, E9 6PQ",E9,1.0
+365,725000.0,"2 Bedroom Apartments, Colour House, Bentley Road, London, N1",N1,2.0
+366,720000.0,"3 Bedroom Apartments, Colour House, Bentley Road, London, N1",N1,3.0
+367,500000.0,"1 Bedroom Apartments, Colour House, Bentley Road, London, N1",N1,1.0
+368,425000.0,"Hilborough Court, Livermere Road, London, E8",E8,2.0
+369,350000.0,"Clarence Mews, London, E5",E5,1.0
+370,1150000.0,"Perch Street, London, E8",E8,5.0
+371,425000.0,"Albion Road, N16",N16,1.0
+372,550000.0,"Paradise Park, 142A Lea Bridge Road, London, E5",E5,2.0
+373,425000.0,"17 Atkins Square, Hackney, E8",E8,1.0
+374,85000.0,"Eagle Wharf Marina, Islington N1",N1,1.0
+375,775000.0,"Barn Street Yard, Church Street, N16",N16,3.0
+376,1400000.0,"Chippendale Street, London, E5",E5,5.0
+378,500000.0,"Enfield Road, Islington, London, N1",N1,2.0
+379,450000.0,"Holly Street, Hackney, London, E8",E8,2.0
+380,550000.0,"Pellerin Road, London, N16",N16,2.0
+381,450000.0,"Lauriston Road, Victoria Park, E9",E9,2.0
+384,1250000.0,"Principal Tower, Worship Street, EC2A",EC2A,1.0
+385,400000.0,"Wilkinson House, Cranston Estate, Hoxton, London, N1",N1,2.0
+386,520000.0,"Enfield Road, London, N1 ",N1,2.0
+387,375000.0,"Biggs Square, Felstead Street, London, E9",E9,1.0
+389,950000.0,"Belgrade Road, London, N16",N16,4.0
+390,695000.0,"The Westacre, Woodberry Down, London, N4",N4,2.0
+392,635000.0,Woodberry Grove London N4,N4,2.0
+393,900000.0,"Southgate Road, De Beauvoir Town, London, N1",N1,2.0
+394,400000.0,"Riverside Apartments, , Goodchild Road, London, N4",N4,1.0
+395,600000.0,"Willowbrook House, Woodberry Down, Finsbury Park, N4",N4,1.0
+396,600000.0,"Willowbrook House, Woodberry Down, Finsbury Park, N4",N4,1.0
+399,750000.0,"Eagle Wharf Road, Islington, London, N1",N1,2.0
+400,1295000.0,"Ravey Street, London EC2",EC2,1.0
+401,1395000.0,"Hertford Road, Islington, London, N1",N1,4.0
+402,675000.0,"Crondall Street, Hoxton, London, N1",N1,3.0
+406,645000.0,"Saw Mill Way, London N16",N16,2.0
+408,425000.0,"Kingsland Road, Shoreditch, London, E2",E2,1.0
+410,600000.0,"Southgate Road, London, N1",N1,2.0
+411,550000.0,"Ufton Road, De Beauvoir, N1",N1,1.0
+412,675000.0,"Balls Pond Road, London, N1",N1,2.0
+413,575000.0,"Amhurst Road, Stoke Newington, London, N16",N16,1.0
+414,420000.0,"Hackney Downs, Hackney, London, E5",E5,3.0
+415,775000.0,"Gainsborough Studios North, 1 Poole Street, London, N1",N1,2.0
+416,720000.0,"Middleton Road, London, E8",E8,3.0
+421,530000.0,"Morland Estate, London, E8",E8,2.0
+422,615000.0,"Adelaide Wharf, 120 Queensbridge Road, London, E2",E2,2.0
+423,395000.0,"Thistlewaite Road, London, E5",E5,1.0
+425,685000.0,"75-89 Wallis Road & 59 Berkshire Road, 
+Hackney Wick,
+London
+E9",E9,3.0
+426,725000.0,"Hanover Court, 5 Stean Street, London, E8",E8,3.0
+427,895000.0,"Mortimer Road, London N1",N1,2.0
+428,350000.0,"Forburg Road, Stoke Newington, London, N16",N16,1.0
+429,570000.0,"Maldon Apartments, Micawber Street, Islington, London, N1",N1,1.0
+430,500000.0,"Royle Building , 31 Wenlock Road, London, N1",N1,1.0
+431,715000.0,"City Lofts ,  112 Tabernacle Street, London, EC2A",EC2A,1.0
+433,699000.0,"Bradbury Mews, London, N16",N16,2.0
+434,385000.0,"Glenarm Road, London, E5",E5,1.0
+436,475000.0,"Upper Clapton Road, London, E5",E5,3.0
+440,450000.0,"Pentland House, N16",N16,3.0
+441,1205000.0,"Shoreditch Exchange, Hackney Road,
+E2 8ET",E2,3.0
+442,2899000.0,"City Road, Shoreditch, London, EC1V",EC1V,3.0
+443,500000.0,"Gloucester Drive, N4 2LE",N4,1.0
+444,1295000.0,"Ravey Street, London EC2",EC2,1.0
+445,475000.0,"Dynevor Road, Stoke Newington, N16",N16,2.0
+447,375000.0,"Beecholme Estate, Clapton, E5",E5,2.0
+449,475000.0,"Albion Road, London, N16",N16,3.0
+450,400000.0,"Watermead House, Hackney, E9",E9,3.0
+451,450000.0,"Arbor Court, London, N16",N16,2.0
+452,340000.0,"Upper Clapton Road, London, E5",E5,1.0
+453,500000.0,"Seven Sisters Road, Finsbury Park, London, N4",N4,2.0
+454,500000.0,"Shoreditch High Street, London, E1",E1,1.0
+455,750000.0,"Hutley Wharf, 29 Branch Place, London, N1",N1,2.0
+456,825000.0,"Haberdasher Street, London, N1",N1,3.0
+458,1500000.0,"Queensbridge Road, Hackney, E8",E8,5.0
+460,585000.0,"Fellows Court, Weymouth Terrace, London, E2",E2,3.0
+461,400000.0,"Abney Park Court, N16",N16,2.0
+462,425000.0,"Shakspeare Walk, Stoke Newington, N16",N16,2.0
+463,435000.0,"Brooke Road, London, N16",N16,1.0
+465,585000.0,"The Old Ice Cream Works, Chatsworth Road, London E5",E5,2.0
+467,350000.0,Sigdon Rd E8,E8,1.0
+468,725000.0,"Greenway Close, London, N4",N4,3.0
+469,1175000.0,"Ayrsome Road, London, N16",N16,4.0
+472,950000.0,"Barnabas Road, London, E9",E9,3.0
+474,2300000.0,"Stamford Road, London, N1",N1,4.0
+475,425000.0,"Allen Road, Stoke Newington, N16",N16,1.0
+477,387500.0,"Oakleigh Court, Murray Grove, Islington, London, N1",N1,1.0
+478,400000.0,"Scriven Street, Hackney, London, E8",E8,2.0
+480,700000.0,"Atlas Building, EC1V",EC1V,1.0
+481,1150000.0,"Sewdley Street, London, E5",E5,2.0
+482,500000.0,"29 Tryon Crescent, London, E9",E9,1.0
+483,475000.0,"Bentley Road, London, N1",N1,2.0
+484,1300000.0,"Lidfield Road, Stoke Newington, N16",N16,4.0
+486,650000.0,"Kingly Building, 18 Woodberry Down, London, N4",N4,2.0
+487,525000.0,"Evering Road, Stoke Newington, London E5",E5,2.0
+488,585000.0,"Richmond Road, London, E8",E8,2.0
+489,385000.0,"Edward Dodd Court, Chart Street, London, N1",N1,1.0
+490,400000.0,"Rectory Road, Stoke Newington, London, N16",N16,2.0
+491,700000.0,"Scholars Place, Stoke Newington, London, N16",N16,2.0
+492,525000.0,"Enfield Road, Islington, London, N1",N1,2.0
+493,650000.0,"Halidon Close, E9 ",E9,3.0
+495,475000.0,"St. John's Estate, Islington, N1",N1,3.0
+499,475000.0,"Lichen Court, 79 Queens Drive, N4 2BH",N4,2.0
+500,575000.0,"Clevedon Close, Stoke Newington, N16",N16,2.0
+504,600000.0,"Finsbury Park Road, N4 2JY",N4,2.0
+505,650000.0,"Red Square, Piano lane, Stoke Newington, N16",N16,2.0
+506,1100000.0,"Allen Road, London, N16",N16,4.0
+507,495000.0,"Allen Road, London, N16",N16,2.0
+508,525000.0,"Reighton Road, Stoke Newington, London, E5",E5,1.0
+509,550000.0,"Kingsland Road, Dalston, London, E8",E8,1.0
+511,336000.0,"Fletcher House, Hackney, London, N1",N1,2.0
+512,525000.0,"Lordship Grove, London, N16",N16,2.0
+513,475000.0,"Charles Gardner Court, Haberdasher Street, London, N1",N1,2.0
+516,475000.0,"Marcon Place, Hackney, E8",E8,1.0
+517,475000.0,"Shoreditch House, Charles Square, London, N1",N1,2.0
+518,1000000.0,"Waterfront Mews, London, N1",N1,2.0
+519,425000.0,"Elm House, Brooke Road, N16",N16,2.0
+520,1400000.0,"Buckingham Road, Islington, London, N1",N1,3.0
+521,500000.0,"Lower Clapton Road, E5 0QH",E5,1.0
+522,715000.0,Woodberry Grove London N4,N4,3.0
+523,500000.0,"Earlston Grove, London, E9",E9,2.0
+524,635000.0,"2 Murrain Road, Stoke Newington, N4",N4,2.0
+525,955000.0,"Worship Street, London EC2A 2BA",EC2A,1.0
+526,525000.0,"205 Richmond Road, Hackney, E8",E8,2.0
+527,625000.0,"Ashwin Street, London, E8",E8,2.0
+528,750000.0,"Roding Road, London, E5",E5,3.0
+530,950000.0,"Durrington Road, E5",E5,2.0
+531,900000.0,"Powell Road, London, E5",E5,3.0
+533,350000.0,"Selman House, Hedgers Grove, London E9",E9,3.0
+534,535000.0,"Alvares House, 5 Furrow Lane, London, E9",E9,2.0
+535,475000.0,"Tudor Road, South Hackney, London, E9",E9,1.0
+536,565000.0,"Lower Clapton Road, E5",E5,3.0
+537,325000.0,"Abney Park Court, Stoke Newington High Street, N16",N16,1.0
+538,550000.0,"Wharf Place, London Fields, E2",E2,2.0
+539,600000.0,"Goodchild Road, Stoke Newington, London, N4",N4,2.0
+540,870000.0,"Principal Tower,Worship Street, London, EC2A",EC2A,1.0
+541,525000.0,"Wenlock Road, Islington, London, N1",N1,3.0
+542,450000.0,"4 downs road, London, E5",E5,1.0
+543,1250000.0,"Principal Tower, EC2A",EC2A,2.0
+544,425000.0,"Brooke Road, London, N16",N16,2.0
+548,500000.0,"Durley Road, London, N16",N16,2.0
+549,565000.0,"Haberdasher Street, London, N1",N1,2.0
+550,350000.0,"Cottrill Gardens, Marcon Place, Hackney, E9",E9,1.0
+551,550000.0,"Shacklewell Road, London, N16",N16,2.0
+552,400000.0,"Stamford Hill, Stoke Newington, N16",N16,2.0
+553,280000.0,"Landmark Heights, 172 Daubeney Road, London, E5",E5,1.0
+554,765000.0,"Eagle Point, City Road, London, EC1V",EC1V,1.0
+558,899950.0,"Atlantic House, 14 Waterson Street, Shoreditch, London, E2",E2,3.0
+559,500000.0,"St Peter's Way, Islington, N1",N1,2.0
+560,850000.0,"Stanford Mews, Hackney, E8",E8,3.0
+561,925000.0,"Kingsland Road, Hackney, London, E8",E8,2.0
+563,890000.0,Woodberry Down London N4,N4,2.0
+564,1550000.0,"Kyverdale Road, Stoke Newington, N16",N16,5.0
+565,825000.0,"Spenlow Apartments, Wenlock Road, Islington, London, N1",N1,2.0
+567,425000.0,"Provost Estate, Islington, London, N1",N1,2.0
+568,575000.0,"205 Southgate Road, London, N1",N1,1.0
+569,699950.0,"Smalley Close, Stoke Newington, London, N16",N16,3.0
+570,485000.0,"50 Brooksby's Walk, London E9",E9,2.0
+571,485000.0,"Raddon Tower, Dalston Square, London, E8",E8,1.0
+572,400000.0,"Lewis Gardens, London, N16",N16,2.0
+573,650000.0,"Dalston Lane, London, E8",E8,2.0
+574,525000.0,"Lansdowne Drive, London, E8 ",E8,1.0
+575,350000.0,"Regents Court, Pownall Road, Hackney, E8",E8,1.0
+576,2400000.0,"Bergholt Crescent, Stoke Newington, London, N16",N16,5.0
+577,700000.0,"Isabella Mews, Balls Pond Road, London, N1",N1,2.0
+578,400000.0,"Gibson Gardens, Stoke Newington, London, N16",N16,2.0
+579,390000.0,"Mildenhall Road, London, E5",E5,1.0
+580,750000.0,"Mildenhall Road, London, E5",E5,3.0
+581,525000.0,"Alvares House, 5 Furrow Lane, London, E9",E9,2.0
+582,475000.0,"Foulden Road, London, N16",N16,2.0
+583,400000.0,"Gibson Gardens, Stoke Newington, N16",N16,2.0
+584,550000.0,"Foulden Road, London, N16",N16,3.0
+585,675000.0,"Malpas Road, Hackney, E8",E8,4.0
+588,585000.0,"Richmond Road, Hackney, London, E8",E8,2.0
+589,1250000.0,"The Atlas Building,City Road, London EC1V",EC1V,2.0
+590,525000.0,"Albion Road, N16",N16,2.0
+591,600000.0,"Caldecott Way, London, E5",E5,3.0
+592,400000.0,"Matthias House, Howard Road, London, N16",N16,2.0
+593,749999.0," Southgate Road,  De Beauvoir Town, N1",N1,2.0
+594,690000.0,"Atlas Building, EC1V",EC1V,1.0
+595,925000.0,"Skipworth Road, London, E9",E9,3.0
+597,725000.0,"Acton Apartments, 13 Branch Place, London, N1",N1,2.0
+598,995000.0,"Shore Road, Hackney, London, E9",E9,3.0
+599,1376000.0,"Principal Tower, Worship Street, EC2A",EC2A,2.0
+601,525000.0,"Amhurst Road, Hackney, London, E8",E8,2.0
+602,415000.0,"Kenninghall Road, Clapton, E5",E5,1.0
+603,525000.0,"Brownswood Road, London, N4",N4,2.0
+604,800000.0,"Green Lanes, Finsbury Park N4",N4,3.0
+605,400000.0,"Manor Road, Stoke Newington, London, N16",N16,2.0
+606,625000.0,"King Edwards Road, London, E9",E9,2.0
+607,675000.0,"Hackney, Hackney, London, E9",E9,3.0
+608,650000.0,"Balls Pond Road, London, N1",N1,2.0
+610,650000.0,"Andre Street, E8",E8,2.0
+611,399000.0,"Mabley Street, London, E9",E9,2.0
+613,600000.0,"Stamford Hill, London, N16",N16,2.0
+614,785000.0,Devan Grove London N4,N4,2.0
+615,400000.0,"62a, Castlewood Road, London, N16 6DW",N16,1.0
+616,1145000.0,"Long & Waterson Apartments, 7 Long Street,, Hackney,, London,, E2",E2,2.0
+618,1000000.0,"Monohaus, London Fields, E8",E8,3.0
+619,600000.0,"St. Mary's Court, Defoe Road, London, N16",N16,2.0
+625,1500000.0,"Englefield Road, London, N1",N1,3.0
+626,1595000.0,"Ickburgh Road, London E5",E5,5.0
+627,280000.0,"Riverside Close, London, E5",E5,1.0
+629,800000.0,"Albion Drive, London, E8",E8,3.0
+630,800000.0,"Town Hall Approach, Stoke Newington, London, N16",N16,3.0
+631,1450000.0,"Shoreditch High Street, Shoreditch, London, E1",E1,2.0
+633,585000.0,"Mylne Apartments, 93 Barretts Grove, London, N16",N16,2.0
+634,325000.0,"Cecilia Road, Hackney, E8",E8,1.0
+635,650000.0,"Culford Mews, London, N1",N1,2.0
+637,325000.0,"Forburg Road, N16",N16,1.0
+639,450000.0,"Wenlock Street, N1 7QW",N1,1.0
+640,425000.0,"Gibson Gardens, N16",N16,2.0
+641,700000.0,"Walford Road, London, N16",N16,2.0
+643,1950000.0,"Sutton Place, London, E9",E9,4.0
+645,600000.0,"Albion Road, London, N16",N16,2.0
+646,500000.0,"Beechwood Road, Dalston Square, London, E8",E8,1.0
+647,950000.0,"Perch Street, Hackney, E8",E8,4.0
+648,750000.0,"Southgate Road, London, N1",N1,2.0
+649,370000.0,"Ironside House, Homerton Road, London, E9",E9,2.0
+650,1150000.0,"Sheperdess Place, Hoxton, London, N1",N1,2.0
+651,500000.0,"Alexandra Grove, Finsbury Park, N4",N4,2.0
+652,900000.0,"Abney Mews, Bouverie Road, N16",N16,2.0
+653,845000.0,"Hertford Wharf, London, N1",N1,3.0
+654,775000.0,"Shoreditch Exchange, Hackney Road,
+E2 8ET",E2,1.0
+655,825000.0,"84 Kingsland Road,, E2",E2,2.0
+656,425000.0,"Kenninghall Road, London, E5",E5,2.0
+657,425000.0,"Belsham Street, London, E9",E9,1.0
+658,575000.0,"Glenarm Road, London, E5",E5,2.0
+659,400000.0,"Richmond Road, London, E8",E8,1.0
+660,345000.0,"Kingsland Road, London, E2",E2,1.0
+662,575000.0,"Amhurst Road, Dalston, London, E8",E8,2.0
+663,340000.0,"Woodmill Road, Hackney, London, E5 9GB",E5,2.0
+665,469995.0,"Woolridge Way, Loddiges Road, London, E9",E9,4.0
+666,324995.0,"Lower Clapton Road, London, E5",E5,1.0
+667,525000.0,"Brownlow Road, Hackney, London, E8",E8,3.0
+668,325000.0,"Classic Mansions, Well Street, London, E9",E9,1.0
+669,615000.0,"Alexandra Grove, Finsbury Park, London, N4",N4,2.0
+671,625000.0,Goodchild Road London N4,N4,2.0
+673,700000.0,"Somerfield Road, London, N4",N4,3.0
+674,920000.0,"One Crown Place, Hackney, EC2A",EC2A,1.0
+675,425000.0,"Collins Road, N5 2UB",N5,2.0
+676,325000.0,"Richmond Road, London, E8",E8,1.0
+677,550000.0,"Thomas Tower, Dalston Square, Hackney, London, E8",E8,2.0
+678,1150000.0,"Monohaus, 143 Mare Street, London, E8",E8,3.0
+679,675000.0,"Duo Tower, Hoxton, N1",N1,1.0
+680,775000.0,"Gloucester Drive, London, N4",N4,3.0
+681,760000.0,"Glaserton Road, Stamford Hill, N16",N16,3.0
+682,880000.0,"Atlantic House, 14 Waterson Street, London, E2",E2,3.0
+685,700000.0,"Willow Cottages, N16",N16,3.0
+686,3250000.0,"Union Wharf, Arlington Avenue, London, N1",N1,5.0
+687,480000.0,"Ocean House, Dalston Square, London, E8",E8,1.0
+691,595000.0,"Shore Road, London, E9",E9,2.0
+692,900000.0,"Regents Canal, De Beauvoir Town, London, N1",N1,2.0
+693,649950.0,"Brett Road, London, E8",E8,3.0
+695,470000.0,"Weymouth Terrace, London, E2",E2,2.0
+697,500000.0,"2 Dunn Street, London, E8",E8,2.0
+698,700000.0,"Station Approach, Stoke Newington, N16",N16,3.0
+699,445000.0,"Stoke Newington High Street, London, N16",N16,2.0
+700,2350000.0,"Shepherdess Walk Building, N1",N1,3.0
+701,795000.0,"Burville House, Finsbury Park, N4",N4,3.0
+702,695000.0,"Burville House, Finsbury Park, N4",N4,2.0
+703,680000.0,"Burville House, Finsbury Park, N4",N4,2.0
+704,820000.0,"Burville House, Finsbury Park, N4",N4,2.0
+705,700000.0,"Burville House, Finsbury Park, N4",N4,2.0
+706,775000.0,"Burville House, Finsbury Park, N4",N4,3.0
+707,675000.0,"Burville House, Finsbury Park, N4",N4,2.0
+709,595000.0,"Shore Road, London, E9",E9,2.0
+710,530000.0,"Jackman Street, Broadway Market E8",E8,3.0
+712,1000000.0,"Timber Yard, Drysdale Street, Shoreditch, London, N1",N1,1.0
+713,900000.0,"Cube Building, Banyan Wharf, London, N1",N1,2.0
+714,1550000.0,"Penshurst Road, South Hackney, London, E9",E9,3.0
+715,875000.0,"Southgate Road, London, N1",N1,2.0
+716,800000.0,"Mortimer Road, De Beauvoir, London, N1",N1,2.0
+718,750000.0,"Finsbury Park Road, N4 2JY",N4,3.0
+720,149950.0,"Regents Canal, London, N1",N1,2.0
+721,595000.0,"Essence House, Selsea Place, London, N16",N16,2.0
+722,375000.0,"Stanway Street, Islington, N1",N1,1.0
+724,1100000.0,"1-6 Bateman's Row, London, EC2A",EC2A,2.0
+725,550000.0,"Castle Close, London, E9",E9,3.0
+726,900000.0,"Academy Apartments, 236 Dalston Lane, London, E8",E8,4.0
+727,775000.0,"Benyon Wharf, 295 Kingsland Road, London, E8",E8,2.0
+728,675000.0,"Castlewood Road, Stamford Hill,
+London, 
+E5 9AJ",E5,2.0
+729,1000000.0,"Acer Road, London, E8",E8,3.0
+730,425000.0,"Mountgrove Road, Highbury, N5",N5,1.0
+731,750000.0,"Barn Street, Stoke Newington, N16",N16,2.0
+732,435000.0,"BrinkWorth Way, Hackney Wick E9",E9,2.0
+733,650000.0,"Clissold Crescent, London, N16",N16,3.0
+734,690000.0,"Bevenden Street,
+Hoxton,
+London,
+N1 6BP,",N1,1.0
+735,450000.0,"Weymouth Terrace, London, E2",E2,2.0
+736,650000.0,"Lavers Road, N16",N16,2.0
+737,595000.0,"Shore Road, Hackney, London, E9",E9,2.0
+739,450000.0,"Walford Road, London, N16",N16,2.0
+740,665000.0,"Eagle Wharf Road, Hoxton, N1",N1,1.0
+742,849000.0,"Dericote Street, London E8",E8,3.0
+743,899950.0,"Dalston Lane, Hackney Central E8",E8,4.0
+745,400000.0,Woodberry Grove London N4,N4,1.0
+746,770000.0,"Steven's Avenue, London, E9",E9,3.0
+747,665000.0,"Eagle Wharf Road, Islington, London, N1",N1,1.0
+748,650000.0,"Oakleigh Court, Murray Grove, N1",N1,2.0
+749,480000.0,"Trafalgar Point, N1",N1,1.0
+750,1150000.0,"Mehetabel Road, London, E9",E9,2.0
+751,700000.0,"Manor Road, London, London, N16",N16,3.0
+752,480000.0,"Provost Street, London, N1",N1,1.0
+753,475000.0,"Yoakley Road, Stoke Newington, N16",N16,2.0
+754,750000.0,"Grove House, 27 Frampton Park Road, Hackney, Lodnon, E9",E9,3.0
+756,435000.0,"The Link, N1",N1,1.0
+757,1250000.0,"Poole Road, Hackney, London E9",E9,4.0
+758,450000.0,"Arbor Court, Stoke Newington, London, N16",N16,2.0
+759,485000.0,"Windsor Terrace, Islington, London, N1",N1,3.0
+761,1250000.0,"Poole Road, Hackney, E9",E9,3.0
+762,1250000.0,"Poole Road, Hackney, E9",E9,4.0
+764,425000.0,"Victorian Grove, London, N16 8EZ",N16,2.0
+765,1100000.0,"Union Wharf, N1",N1,2.0
+766,650000.0,"Glebe Road, London, E8",E8,2.0
+770,475000.0,"Inver Close, London, E5",E5,3.0
+771,435000.0,"Dalecroft, Queens Drive, London, N4",N4,2.0
+774,375000.0,"Balls Pond Road, London, N1",N1,1.0
+776,450000.0,"Arbor Court, London, N16",N16,2.0
+777,2000000.0,"St Philips Road, London E8",E8,4.0
+778,475000.0,"Evering Road, Stoke Newington, N16",N16,2.0
+782,575000.0,"FiftySevenEast, Kingsland High Street, Dalston E8",E8,1.0
+783,880000.0,"FiftySevenEast, Kingsland High Street, Dalston E8",E8,2.0
+784,750000.0,"Curtain Road, London, EC2A ",EC2A,2.0
+785,725000.0,"Atkins Square, Dalston Lane, London, E8",E8,3.0
+786,550000.0,"Brownswood Road, Finsbury Park, London, N4",N4,3.0
+787,1350000.0,"Alconbury Road, Clapton E5 ",E5,7.0
+788,650000.0,"Barretts Grove, London, N16",N16,3.0
+792,425000.0,"Clarence Place, London, E5",E5,2.0
+793,450000.0,"Mare Street, Hackney, London, E8",E8,2.0
+795,500000.0,"Clissold Quarter, N4",N4,1.0
+797,1050000.0,"Glenarm Road, Off Chatsworth Road, Hackney, E5",E5,6.0
+798,440000.0,"Providence Close, Hackney, E9",E9,2.0
+800,375000.0,"Rectory Road, London, N16",N16,1.0
+801,325000.0,"Tottenham Road, London, N1",N1,1.0
+802,570000.0,"5-7 Downs Road, London, E5",E5,2.0
+803,1300000.0,"Principal Tower, Worship Lane, Shoreditch, EC2A",EC2A,2.0
+804,240000.0,"Fountayne Road, London, N16",N16,0.0
+805,2800000.0,"Long & Waterson Apartments, 7 Long Street, Hackney, London, E2",E2,3.0
+806,900000.0,"Long & Waterson Apartments, 7 Long Street, Hackney, London, E2",E2,1.0
+807,600000.0,"Carysfort Road, London, N16",N16,2.0
+809,650000.0,"Evering Road, Stoke Newington, London N16",N16,2.0
+810,995000.0,"Clifden Road, E5",E5,3.0
+811,550000.0,"Amhurst Road, E8 ",E8,2.0
+813,255000.0,"Tottenham Road, De Beauvoir, London, N1",N1,1.0
+815,1180000.0,"Eagle Point, City Road, London, EC1V",EC1V,3.0
+816,365000.0,"Abney Park Court, Stoke Newington, N16",N16,1.0
+817,525000.0,"New North Road, Islington, London, N1",N1,3.0
+818,550000.0,"Dalston Lane, Hackney, London, E8",E8,3.0
+820,440000.0,"Colvestone Crescent, London, E8",E8,1.0
+821,1050000.0,"Finsbury Park Road, N4 2LA",N4,2.0
+822,645000.0,"Winston Road, N16 9LU",N16,3.0
+823,450000.0,"Weymouth Terrace, London, E2",E2,2.0
+826,770000.0,145 City Road London EC1V,EC1V,1.0
+827,1200000.0,"Mount Pleasant Hill, Clapton, London, E5",E5,2.0
+828,750000.0,"The German Hospital, Riston Road, London, E8",E8,2.0
+829,695000.0,"Gloucester Drive, N4 2LE",N4,2.0
+830,600000.0,"Gloucester Drive, N4 2LE",N4,2.0
+831,650000.0,"Gloucester Drive, N4 2LE",N4,2.0
+832,850000.0,"Gloucester Drive, N4 2LE",N4,3.0
+833,750000.0,"Gloucester Drive, N4 2LE",N4,3.0
+834,800000.0,"Belgrade Road, London, N16",N16,3.0
+835,485000.0,"Albion Road, Stoke Newington, N16",N16,2.0
+836,1750000.0,"Victorian Grove, London, N16",N16,4.0
+837,770000.0,"Shoreditch Exchange, Hackney Road, Shoreditch, E2",E2,2.0
+838,800000.0,"Shoreditch Exchange, Hackney Road, Shoreditch, E2",E2,2.0
+839,575000.0,"Hackney Road, London, E2",E2,2.0
+840,650000.0,"Dalston Lane, Hackney, London, E8",E8,2.0
+841,425000.0,"Amhurst Road, London, E8",E8,1.0
+843,650000.0,"Academy Apartments, 236 Dalston Lane, London, E8",E8,2.0
+845,650000.0,"Cricketfield Road, London, E5",E5,2.0
+847,1150000.0,"Ritson Road, London, E8",E8,2.0
+848,500000.0,"Bishop Woods Almshouses, Lower Clapton Road, London, E5",E5,1.0
+849,1395000.0,"Barbauld Road, Stoke Newington, London, N16",N16,5.0
+850,1075000.0,"Cowper Street, London, EC2A",EC2A,1.0
+851,699995.0,"Shore Road, Victoria Park, London, E9",E9,2.0
+852,425000.0,Lower Clapton E5,E5,2.0
+854,575000.0,"Kingsland High Street, London, E8",E8,1.0
+855,475000.0,"Mountgrove Road, London, N5",N5,1.0
+857,675000.0,"Tyssen Street, Hackney, London, E8",E8,3.0
+858,515000.0,"Amhurst Road, Hackney, London, E8",E8,1.0
+859,430000.0,"Walford Road, N16",N16,2.0
+861,1295000.0,"Buttesland Street, Islington, N1",N1,3.0
+862,500000.0,"Green Lanes, London, N16",N16,3.0
+864,75000.0,"Wenlock Basin, Wharf Road, Islington, N1",N1,1.0
+865,735000.0,"Gainsborough Studios, Poole Street, London N1",N1,2.0
+866,699000.0,"Kyverdale Road, Cazenove, N16",N16,3.0
+868,500000.0,"Daubeney Road, Clapton, E5",E5,3.0
+869,1000000.0,"Corsham Street, London, N1",N1,3.0
+870,750000.0,"Petherton Road, London, N5",N5,2.0
+871,925000.0,"135 Shepherdess Walk, Islington, N1",N1,2.0
+872,365000.0,"Elderfield Court, Elderfield Road, London, E5",E5,1.0
+873,550000.0,"De Beauvoir Road, Islington, London, N1",N1,3.0
+874,375000.0,"Courtlands, Harrington Hill, London, E5",E5,2.0
+875,500000.0,"Regents Court, Hackney, E8",E8,3.0
+876,500000.0,"Gloucester Drive, London, N4",N4,2.0
+877,1200000.0,Woodberry Down London N4,N4,3.0
+878,1500000.0,Springpark Drive Wooderry Down N4,N4,3.0
+879,775000.0,"Gainsborough Studios North, 1 Poole Street, London, N1",N1,2.0
+881,450000.0,"Kleine Wharf, 14 Orsman Road, N1",N1,1.0
+882,925000.0,"Stanford Mews, London E8",E8,3.0
+883,550000.0,"Wilberforce Road, London, N4",N4,2.0
+884,775000.0,"Shepherdess Place, Islington, London, N1",N1,1.0
+885,725000.0,"Tottenham Road, Islington, N1",N1,3.0
+886,400000.0,"Stanway Court, Geffrye Estate, London, N1",N1,2.0
+887,489000.0,"Shaftesbury Street, N1",N1,2.0
+889,550000.0,"Greenwood Road, Hackney, E8",E8,3.0
+891,425000.0,"Collins Road, N5 2UB",N5,2.0
+892,1700000.0,"Warwick Grove, London, E5",E5,7.0
+893,335000.0,"Richmond Road, London Fields, E8",E8,1.0
+896,550000.0,"Virginia Road, E2",E2,2.0
+897,600000.0,"Oldfield Road, N16",N16,2.0
+898,550000.0,"Finsbury Park Road, London, N4",N4,2.0
+899,699995.0,"Shore Road, London, E9",E9,2.0
+901,425000.0,"Albion Road, Stoke Newington, N16",N16,1.0
+903,390000.0,"Bakers Hill, Riverside Clapton, E5",E5,2.0
+904,499995.0,"Julius Seal House, 1A Belsham Street, London, E9",E9,1.0
+905,625000.0,"Cavendish Mansions, Clapton Square, London, E5",E5,2.0
+906,550000.0,"Wimbourne Street, Islington, London, N1",N1,3.0
+907,480000.0,"Antony House, Pembury Place, London, E5",E5,2.0
+908,649950.0,"Paintworks, Kingsland Road, London, E2",E2,2.0
+909,495000.0,"Paintworks, Kingsland Road, London, E2",E2,1.0
+911,1475000.0,"Stannard Road, E8 1DB",E8,4.0
+913,700000.0,"Hertford Road, London, N1",N1,2.0
+914,1200000.0,"Great Eastern Street, London, EC2A",EC2A,1.0
+915,930000.0,"Kyverdale Road, London, N16",N16,4.0
+917,380000.0,"Kenworthy Road, London, E9",E9,1.0
+919,899000.0,"Hertford Road, Islington, London, N1",N1,3.0
+920,1000000.0,"HKR Hoxton, Dawson Street, London, E2",E2,2.0
+921,1675000.0,"Springdale Road, Stoke Newington, N16",N16,5.0
+922,425000.0,"Marcon Place, London, E8",E8,1.0
+923,350000.0,"Amhurst Road, E8",E8,1.0
+924,650000.0,"Defoe Road, Stoke Newington, N16",N16,3.0
+926,825000.0,"Arthaus, 205 Richmond Road, Hackney, E8",E8,3.0
+927,400000.0,"Petherton Road, London, N5",N5,1.0
+928,375000.0,"Riverside Close, London, E5",E5,2.0
+929,600000.0,"Balls Pond Road, London, N1",N1,3.0
+930,480000.0,18 Woodberry Down London N4,N4,1.0
+931,900000.0,"Coronet Street, Shoreditch, London, N1",N1,2.0
+932,650000.0,"81 Mount Pleasant Lane, Clapton, E5",E5,3.0
+933,1300000.0,"Alvington Crescent, Hackney, London, E8",E8,4.0
+934,775000.0,"Barn Street Yard, Church Street, N16",N16,3.0
+935,575000.0,"Adolphus Road, Finsbury Park, N4",N4,2.0
+936,430000.0,"Mulberry Apartments, Coster Avenue, London, N4",N4,1.0
+937,1050000.0,"Hackney Gardens, London, E8",E8,3.0
+938,799000.0,"Hackney Gardens, London, E8",E8,2.0
+939,825000.0,"Hackney Gardens, London, E8",E8,3.0
+940,595000.0,"Hackney, E8",E8,1.0
+941,810000.0,Hackney Gardens E8,E8,2.0
+943,475000.0,"Bakers Hill, Clapton, London, E5",E5,3.0
+944,1500000.0,"Dynevor Road, London, N16",N16,5.0
+952,920000.0,"Bevenden Street,
+Hoxton,
+London,
+N1 6BP,",N1,2.0
+953,910000.0,"Bevenden Street,
+Hoxton,
+London,
+N1 6BP,",N1,2.0
+954,515000.0,"Hartingtons, Woodberry Down, London, N4",N4,1.0
+956,549995.0,"1 Prince Edward Road, London, Greater London, E9",E9,2.0
+957,900000.0,"Casimir Road, Hackney, London, E5",E5,3.0
+959,595000.0,"Blackburn House, Prodigal Square, Hackney Gardens, London, E8",E8,1.0
+960,825000.0,"Blackburn House, Prodigal Square, Hackney Gardens, London, E8",E8,2.0
+961,850000.0,"Wyles House, Prodigal Square, Hackney Gardens, London, E8",E8,2.0
+962,825000.0,"Blackburn House, Prodigal Square, Hackney Gardens, London, E8",E8,3.0
+963,799000.0,"Wyles House, Prodigal Square, Hackney Gardens, London, E8",E8,2.0
+964,1150000.0,"Blackburn House, Prodigal Square, Hackney Gardens, London, E8",E8,3.0
+967,1100000.0,145 City Road London EC1V,EC1V,2.0
+968,425000.0,"Kenninghall Road, E5",E5,1.0
+970,1150000.0,"The Atlas Building, City Road, Old Street, EC1V",EC1V,2.0
+972,2400000.0,"Shepherdess Walk, Old Street, London, N1",N1,3.0
+973,575000.0,woodberry Down London N4,N4,2.0
+974,325000.0,"171-173 Mare Street, Hackney, London, E8",E8,1.0
+975,1050000.0,"Hassett Road, London, E9",E9,4.0
+977,1300000.0,"Union Central Building, Kingland Road, London E2",E2,2.0
+978,525000.0,"Myddleton Avenue, London, N4",N4,3.0
+979,550000.0,"Barley Court, N4",N4,2.0
+980,495000.0,"Furrow Lane, Homerton E9",E9,2.0
+981,475000.0,"Mead Place, Hackney, London, E9",E9,2.0
+982,800000.0,"Shoreditch Exchange, Shoreditch, E2",E2,2.0
+983,635000.0,"Southgate Road, N1 3HA",N1,2.0
+984,795000.0,"Long & Waterson Apartments, 1-3 Long Street, Hackney, London, E2",E2,1.0
+986,1400000.0,"Woodberry Grove, Finsbury Park, London, N4",N4,5.0
+987,425000.0,"Clapton, Clapton, London, E5",E5,1.0
+988,1800000.0,"Forest Road, London Fields, E8",E8,5.0
+989,510000.0,"Hartingtons, Woodberry DownLondon, N4",N4,1.0
+990,550000.0," Fountayne Road,  London, N16",N16,3.0
+991,795000.0,"Sheep Lane, E8",E8,2.0
+992,730000.0,"Wilberforce Road, London, N4",N4,3.0
+994,539950.0,"Gaumont Tower, Dalston Square, London, E8",E8,1.0
+995,800000.0,"Poole Street, Islington, London, N1",N1,2.0
+997,750000.0,"Queens Drive, N4 2BE",N4,3.0
+998,400000.0,"Brooksby's Walk, Hackney, E9",E9,1.0
+999,425000.0,"Riverside Close, London, E5",E5,2.0
+1001,485000.0,"Evering Road, Stoke Newington, N16",N16,2.0
+1002,725000.0,"Casterton Street, London, E8",E8,3.0
+1003,325000.0,"Lea View House, Springfield, London, E5",E5,1.0
+1004,525000.0,"Ridley Road, London, E8",E8,2.0
+1006,1525000.0,"Digby Crescent, London, N4",N4,5.0
+1008,575000.0,"Ruffin House, Dalston Square, London, E8",E8,2.0
+1009,680000.0,"75-89 Wallis Road & 59 Berkshire Road, 
+Hackney Wick,
+London
+E9",E9,3.0
+1010,825000.0,"Geffrye Place, 32 Cremer Street, London, E2",E2,2.0
+1011,825000.0,"Geffrye Place, 32 Cremer Street, London, E2",E2,2.0
+1012,300000.0,"Belgrade Road, London, N16",N16,0.0
+1013,950000.0,"Queens Drive, N4 2BE",N4,4.0
+1014,675000.0,"Queens Drive, N4 BE",N4,2.0
+1015,725000.0,"Queens Drive, N4 2BE",N4,2.0
+1016,340000.0,"Ashview Apartments, Katherine Close, London, N4",N4,1.0
+1017,150000.0,"Gainsborough Wharf, Hoxton N1",N1,1.0
+1018,1570000.0,"Southgate Road, Islington, London, N1",N1,6.0
+1020,425000.0,"Portland Rise, London N4",N4,2.0
+1022,425000.0,"Queensbridge Road, London, E2",E2,1.0
+1023,895000.0,"Watermark, Sheep Lane, London, E8",E8,3.0
+1024,795000.0,"Watermark, Sheep Lane, London, E8",E8,2.0
+1025,875000.0,"Enfield Road, Islington, London, N1",N1,3.0
+1026,725000.0,"Kinnoul Mansions, Rowhill Road, London, E5",E5,3.0
+1027,500000.0,"Sigdon Road, E8",E8,1.0
+1028,400000.0,"Albion Parade, Stoke Newington, N16",N16,2.0
+1029,350000.0,"Albion Road, Stoke Newington, N16",N16,1.0
+1031,695000.0,"43 Upper Clapton, Clapton, London, E5",E5,3.0
+1032,1100000.0,"Culford Road, London, N1",N1,4.0
+1033,950000.0,"Richmond Road, London, E8",E8,2.0
+1035,900000.0,"Colne Road, Clapton, E5",E5,4.0
+1036,420000.0,"Marcon Place, London, E8",E8,1.0
+1037,550000.0,"Navarino Road, London, E8",E8,2.0
+1039,1250000.0,"Ovanna Mews, Buckingham Road, London, N1",N1,3.0
+1040,299995.0,"Athelstan House, Hackney, London, E9",E9,1.0
+1041,420000.0,"Cottrill Gardens, Hackney, London, E8",E8,1.0
+1044,925000.0,"Victoria Park Studios, Milborne Street, London, E9",E9,3.0
+1045,1300000.0," Eagle Point, City Road, EC1V 1AT",EC1V,3.0
+1046,600000.0,"Median Road, Lower Clapton, Hackney, E5",E5,2.0
+1047,2490000.0,"30 Shepherdess Walk, Islington, London, N1",N1,3.0
+1048,485000.0,"Median Road, Lower Clapton, Hackney, E5",E5,1.0
+1049,2200000.0,"Median Road, Lower Clapton, Hackney, E5",E5,7.0

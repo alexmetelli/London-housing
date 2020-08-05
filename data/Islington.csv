@@ -1,0 +1,853 @@
+,price,address,postcode,number_bedrooms
+0,1150000.0,"Martineau Mews, Highbury, London, ., N5",N5,3.0
+2,365000.0,"Geffrye Court, Hoxton, N1",N1,1.0
+3,500000.0,"Holloway Road, Islington, London, N7",N7,2.0
+6,1200000.0,"Maiden Place, London, NW5",NW5,3.0
+8,425000.0,"Bunning Way, London, N7",N7,2.0
+9,860000.0,"Britton Street, EC1M",EC1M,2.0
+10,420000.0,"Seaforth Crescent, London, N5",N5,1.0
+12,900000.0,"Dance Square, London, EC1V",EC1V,2.0
+17,2850000.0,"Barnsbury Street, Barnsbury, Islington, London, N1",N1,4.0
+18,800000.0,"Islington Green, London, N1",N1,2.0
+19,450000.0,"Legard Works, Legard Road, Islington, London, N5",N5,0.0
+20,625000.0,"Eaststand Apartments, Highbury Stadium Square, London, N5",N5,2.0
+21,425000.0,"Kingsland Road, De Beauvoir Town, London, E8",E8,1.0
+22,620000.0,"St John Street, London, EC1V",EC1V,1.0
+23,1100000.0,"Islington Green, Angel, London, N1",N1,2.0
+24,960000.0,"Aldersgate Street, Barbican, London, EC1A",EC1A,2.0
+25,500000.0,"St Peter's Way, Islington, N1",N1,2.0
+26,1000000.0,"Hornsey Road, Islington, London, N7",N7,4.0
+30,1100000.0,"Palmerston House, St Paul Street, London, N1",N1,2.0
+31,650000.0,"Essex Road, Angel, Islington, N1",N1,2.0
+32,475000.0,"Howell House, Hilldrop Estate, London, N7",N7,2.0
+34,650000.0,"Stradbroke Road, London, N5",N5,2.0
+37,350000.0,"King Henry's Walk, N1",N1,1.0
+38,750000.0,"Queensland Road, Islington, London, N7",N7,2.0
+39,500000.0,"Aubert Court, Avenell Road, Highbury, London, N5",N5,2.0
+40,630000.0,"Gulland Walk, London, N1",N1,3.0
+41,1050000.0,"Highbury Place, London, N5",N5,2.0
+42,1050000.0,"Windsor Road, Holloway, London, N7",N7,6.0
+44,450000.0,"Northampton Street, N1 2UX",N1,1.0
+45,375000.0,"Charlton Court, 75 Brecknock Road, London, N7",N7,1.0
+46,750000.0,"Waterlow Road, Archway, N19",N19,2.0
+48,565000.0,"Southgate Road, London, N1",N1,2.0
+49,750000.0,"Sterling Way, London Square, Islington, N7",N7,2.0
+50,700000.0,"Alwyne Place, London, N1",N1,1.0
+51,485000.0,"Southgate Road, London, N1",N1,1.0
+52,525000.0,"City Walk Apartments, 29 Seward Street, London, EC1V",EC1V,1.0
+53,1450000.0,"Plimsoll Road, London, N4",N4,4.0
+54,700000.0,"New North Road, Islington, London, N1",N1,2.0
+55,1100000.0,"Highgate Hill, Highgate, London, N19",N19,2.0
+56,2200000.0,"Colebrooke Row, London, N1",N1,4.0
+58,425000.0,"Murray Grove, London, N1 ",N1,2.0
+59,650000.0,"Riversdale Road, Highbury, London, N5",N5,2.0
+60,800000.0,"Farringdon Road, London, EC1R",EC1R,2.0
+61,875000.0,"The Lexicon, Chronicle Tower, City Road, Old Street, London, EC1V",EC1V,2.0
+62,750000.0,"The Lexicon, Chronicle Tower, City Road, Old Street, London, EC1V",EC1V,1.0
+63,395000.0,"766 Holloway Road, London, N19",N19,1.0
+64,1150000.0,"Sheperdess Place, Hoxton, London, N1",N1,2.0
+66,479950.0,"Tiltman Place, London, N7",N7,2.0
+67,400000.0,"King's Cross Road, London, WC1X",WC1X,1.0
+68,500000.0,"Highbury Stadium Square, Islington, N5",N5,1.0
+69,460000.0,"Sparsholt Road, London, N19",N19,3.0
+72,350000.0,"Drayton Park, London, N5",N5,1.0
+73,450000.0,"Ashburton Triangle, Drayton Park, London, N5",N5,2.0
+74,600000.0,"Mildmay Park, Islington, N1",N1,2.0
+75,650000.0,"Highbury Stadium Square, Highbury, N5",N5,2.0
+76,910000.0,"Carrera Tower, 250 City Road, Islington, EC1V",EC1V,1.0
+78,799950.0,"Riversdale Road, London, N5",N5,2.0
+80,500000.0,"31 Wenlock Road, Islington, N1",N1,1.0
+83,965000.0,"The Residence, Shoreditch, N1 ",N1,3.0
+84,725000.0,"Crondall Street, London, N1",N1,2.0
+85,695000.0,"Crondall Street, Shoreditch, N1",N1,2.0
+86,350000.0,"Balls Pond Road, London, N1",N1,1.0
+88,950000.0,"Thorpedale Road, London, N4",N4,3.0
+89,375000.0,"Caledonian Road, N1",N1,2.0
+91,365000.0,"Caledonian Road, N1",N1,1.0
+92,375000.0,"Caledonian Road, N1",N1,1.0
+93,625000.0,"The Academy, Highgate, N19",N19,1.0
+94,350000.0,"Caledonian Road, N1",N1,1.0
+95,200000.0,"Holloway Road, N7",N7,0.0
+96,895000.0,"Eagle Point, City Road, London, EC1V",EC1V,2.0
+97,525000.0,"Hepworth Court, Anderson Square, Angel, Islington, London, N1",N1,1.0
+99,695000.0,"Crondall Street, London, N1",N1,2.0
+101,1100000.0,"Canaletto Tower, City Road, London, EC1V",EC1V,2.0
+103,925000.0,"The Lexicon, Chronicle Tower, City Road, Old Street, London, EC1V",EC1V,2.0
+104,695000.0,"The Residence Hoxton, London, N1",N1,2.0
+105,725000.0,"The Residence Hoxton, Islington, London, N1",N1,2.0
+106,649000.0,"Haberdasher Street, London, N1",N1,2.0
+107,799000.0,"Windsor Street, London, N1",N1,2.0
+108,1350000.0,"Highbury Park, London, N5",N5,4.0
+109,200000.0,"Holloway Road, N7",N7,0.0
+110,1000000.0,"Carrara Tower, 250 City Road, Islington EC1V",EC1V,1.0
+111,1150000.0,"261 City Road, London, EC1V",EC1V,1.0
+112,675000.0,"Petherton Road, Islington, London, N5",N5,2.0
+113,375000.0,"Drysdale Place, Islington, N1",N1,1.0
+116,1795000.0,"Union Wharf, Arlington Avenue, Islington, London, N1",N1,3.0
+117,1425000.0,"Elfort Road, London, N5",N5,4.0
+118,912000.0,"Carrara Tower, Bollinder Place, London, EC1V",EC1V,1.0
+119,1095000.0,"Kingsway Place, EC1R",EC1R,2.0
+120,450000.0,"Crouch Hill, Crouch End N8",N8,1.0
+121,435000.0,"Welbury Court, 453 Kingsland Road, London, E8",E8,1.0
+122,475000.0,"St. John Street, London, EC1V",EC1V,1.0
+123,550000.0,"Drayton Park, Islington, London, N5",N5,2.0
+124,650000.0,"Basing Place, London, E2",E2,2.0
+125,600000.0,"14 Orsman Road, De Beauvoir, N1",N1,2.0
+126,670000.0,"Islington Green, London, N1",N1,1.0
+127,850000.0,"Paget Street, London, EC1V",EC1V,2.0
+128,850000.0,"Offord Street, Barnsbury, Islington, N1",N1,2.0
+129,775000.0,"Quebec Wharf, 315 Kingsland Road, London, E8",E8,1.0
+131,575000.0,"Hedingham Close, London, N1",N1,2.0
+132,475000.0,"Heathville Road, N19 3AL ",N19,2.0
+134,675000.0,"St. Williams Court, 1 Gifford Street, Kings Cross, N1",N1,2.0
+135,460000.0,Ashley Road N19 3AE,N19,1.0
+136,425000.0,"20-32 Pentonville Road, Islington, N1",N1,1.0
+140,650000.0,"Melville Place, N1 8ND",N1,2.0
+142,900000.0,"Whitmore Road, London, N1",N1,3.0
+143,425000.0,"Eden Grove, Islington, London, N7",N7,1.0
+144,575000.0,"145 Whitecross Street, Clerkenwell, London, EC1Y",EC1Y,1.0
+145,450000.0,"Scholefield Road, Islington, London, N19",N19,3.0
+146,1750000.0,"Willow Bridge Road, Canonbury, Islington, London, N1",N1,3.0
+147,450000.0,"Boleyn Road, London, N16",N16,2.0
+150,465000.0,"Axminster Road, Holloway, N7",N7,3.0
+151,2300000.0,"Myddelton Street, London, EC1R",EC1R,5.0
+153,1250000.0,"Shaftesbury Road, London, N19",N19,4.0
+155,725000.0,"St Williams Court, 1 Gifford Street, London, N1",N1,2.0
+156,450000.0,"Ockendon Road, Islington, N1",N1,1.0
+158,395000.0,"Hanley Road, London, N4",N4,1.0
+160,1350000.0,"New North Road, London, N1",N1,5.0
+161,1395000.0,"Gladsmuir Road, Whitehall Park Conservation N19",N19,4.0
+163,500000.0,"Tufnell Park Road, Islington, N7",N7,1.0
+164,369950.0,"Hilldrop Lane, London, N7",N7,1.0
+165,600000.0,"Pissarro House, Augustas Lane, London, N1",N1,1.0
+166,725000.0,"Drysdale Street, Shoreditch, London, N1",N1,1.0
+167,785000.0,"Canaletto Tower, 257 City Road, London, EC1V",EC1V,1.0
+170,525000.0,"Gladsmuir Road, Whitehall Park N19",N19,1.0
+171,900000.0,"Great Eastern Street, London EC2",EC2,1.0
+172,900000.0,"Great Eastern Street, London, EC2A",EC2A,1.0
+173,995000.0,"St John Street, Clerkenwell, London, EC1M",EC1M,2.0
+175,350000.0,"Axminster Road, Holloway, N7",N7,1.0
+177,600000.0,"St. John's Grove, Archway, London N19",N19,2.0
+178,2750000.0,"Huntingdon Street, London, N1",N1,4.0
+179,2000000.0,"Noel Road, London, N1",N1,5.0
+180,1350000.0,"John Spencer Square, London, N1",N1,3.0
+181,1750000.0,"Offord Road, London, N1",N1,3.0
+182,850000.0,"248 Goswell Road, London, EC1V",EC1V,2.0
+183,650000.0,"190 City Road, London, EC1V",EC1V,2.0
+184,810000.0,"John Spencer Square, Islington, London, N1",N1,2.0
+185,1000000.0,"Windsor Road, Islington, London, N7",N7,3.0
+186,525000.0,"Balls Pond Road, Islington N1",N1,2.0
+187,575000.0,"Portfleet Place, De Beauvoir Road, London, N1",N1,2.0
+188,365000.0,"Caledonian Road, Islington, N1",N1,1.0
+189,550000.0,"Purcell Street, Hoxton, London, N1",N1,3.0
+192,699950.0,"Clephane Road, Canonbury, London, N1",N1,3.0
+193,157500.0,"White Lion Street, London, N1",N1,1.0
+195,500000.0,"Wilmington Square, London, WC1X",WC1X,1.0
+196,500000.0,"Downham Wharf, Islington, N1",N1,1.0
+197,700000.0,"Royle Building, 31 Wenlock Road, London, N1",N1,1.0
+198,875000.0,"Paget Street, London, EC1V",EC1V,2.0
+199,585000.0,"Book House, EC1V",EC1V,1.0
+200,650000.0,"Myddelton Passage, Finsbury, London, EC1R",EC1R,1.0
+202,850000.0,"Offord Street, London, N1",N1,2.0
+203,775000.0,"Eagle Wharf Road, Hoxton, N1",N1,2.0
+205,775000.0,"Eagle Wharf Road, Islington, London, N1",N1,2.0
+206,1400000.0,"Dallington Street, EC1V",EC1V,2.0
+208,600000.0,"Loraine Mansions, Widdenham Road, London, N7",N7,3.0
+209,1050000.0,"Chronicle Tower, City Road, N1",N1,2.0
+210,1300000.0,"Eburne Road, Holloway, London, N7",N7,4.0
+211,575000.0,City Road London EC1V,EC1V,0.0
+213,600000.0,"Tompion House, Percival Street, London, EC1V",EC1V,3.0
+214,385000.0,"Westbourne Road, London, N7",N7,0.0
+217,665000.0,"Hillmarton Road, N7 9JE",N7,2.0
+219,599950.0,"Wilmington Square, London, WC1X",WC1X,1.0
+220,470000.0,"Almorah Road, N1 3ER",N1,1.0
+221,575000.0,"Ambler Road, London N4",N4,2.0
+222,425000.0,"Tufnell Park Road, Islington, N7",N7,2.0
+223,325000.0,"Holly Park Estate, Crouch End, London, N4",N4,1.0
+224,1500000.0,"Englefield Road, London, N1",N1,3.0
+225,525000.0,"Branston House, Hornsey Road, London, N7",N7,3.0
+226,1500000.0,"Englefield Road, London, N1",N1,3.0
+227,780000.0,"John Spencer Square, London, N1",N1,2.0
+228,600000.0,"14 Orsman Road, De Beauvoir, N1",N1,2.0
+229,925000.0,"6 Rufus Street,, N1",N1,2.0
+230,480000.0,"Northstand Apartments, Highbury Stadium Square, London, N5",N5,1.0
+233,255000.0,"De Beauvoir Place, 1-3 Tottenham Road, London, N1",N1,1.0
+234,950000.0,"Orchard Building, 25 Pear Tree Street, London, EC1V",EC1V,2.0
+235,550000.0,"Colville Estate, Shoreditch N1",N1,3.0
+236,825000.0,"Wharf Road, Islington, London, N1",N1,2.0
+237,675000.0,"City Road, Clerkenwell, London, EC1V",EC1V,1.0
+242,500000.0,"Provost Street, Shoreditch, London, N1",N1,1.0
+243,740000.0,"The Heron,London, EC2Y",EC2Y,1.0
+245,900000.0,"Arundel Square, Islington, London, N7",N7,2.0
+246,895000.0,"Venus, Elfort Road, London N5",N5,2.0
+247,600000.0,"Downham Road, London, N1",N1,2.0
+248,1750000.0,"Mildmay Grove North, London, N1",N1,4.0
+249,500000.0,"Enfield Road, London, London, N1 ",N1,1.0
+250,300000.0,"Jackson Road, Holloway, London, N7 6EJ",N7,1.0
+251,400000.0,"Northpoint House, Essex Road, London, N1",N1,1.0
+252,1450000.0,"Arlington Square, Islington, London, N1",N1,3.0
+253,600000.0,"Ward Road, Tufnell Park, London, ., N19",N19,2.0
+254,700000.0,"Avenell Road, Highbury, London, N5",N5,2.0
+255,750000.0,"Canonbury Road, Canonbury, London, N1",N1,2.0
+256,700000.0,"Woodville Road, London, N16",N16,4.0
+258,1050000.0,"Mortimer Road, London, N1",N1,3.0
+259,650000.0,"Myddelton Passage, Finsbury, London, EC1R",EC1R,1.0
+260,750000.0,"Union Wharf IV, Wenlock Road, London N1",N1,1.0
+261,450000.0,"Essex Road, N1 2SF",N1,1.0
+262,300000.0,"Jackson Road, Holloway, London, N7 6EJ",N7,1.0
+263,550000.0,"Stock Orchard Crescent, Islington, London, N7",N7,2.0
+264,900000.0,"Weststand Apartments, Highbury Stadium Square, London, N5",N5,2.0
+265,2000000.0,"Aubert Park, N5 1TU",N5,5.0
+266,475000.0,"Mildmay Avenue, Islington, London, N1",N1,1.0
+270,3000000.0,"Devonia Road, London, N1",N1,4.0
+271,625000.0,"Popham Road, Islington, London, Uk, N1",N1,2.0
+272,410000.0,"Axminster Road, Islington N7",N7,1.0
+273,350000.0,"Heddington Grove, London, N7",N7,1.0
+274,890000.0,"The Denizen, Golden Lane, Barbican, EC1Y",EC1Y,1.0
+275,775000.0,"Bridgeman Road, London, N1",N1,2.0
+276,1100000.0,"Medina Road, Holloway, Islington, London, N7",N7,3.0
+277,2250000.0,"Cloudesley Road, London, N1",N1,3.0
+278,425000.0,"Prince Alfred Mansions, Barnsbury, London, N1",N1,1.0
+279,286000.0,"Saxon Court, 5 York way, London, N1C 4AN",N1C,1.0
+280,400000.0,"Hayhurst Court, Dibden Street, Islington, London, N1",N1,1.0
+281,700000.0,"Moray Road, Stroud Green, N4",N4,2.0
+283,1089000.0,"Carrera Tower, 250 City Road, Islington, EC1V",EC1V,2.0
+284,795000.0,"Barnsbury Road, Islington, London, N1",N1,2.0
+287,650000.0,"Hertford Road, London, N1",N1,2.0
+288,725000.0,"St. Christophers Court, Junction Road, London, London, N19",N19,2.0
+289,750000.0,"Tufnell Park Road, London, N7",N7,2.0
+290,437000.0,"Beresford Road, Islington, London, N5",N5,1.0
+291,495000.0,"Gee Street, Clerkenwell, London, EC1V",EC1V,1.0
+292,950000.0,"Orchard Building, 25 Pear Tree Street, London, EC1V",EC1V,2.0
+293,800000.0,"Canonbury Park North, London, N1",N1,2.0
+294,1990000.0,"Marketing Suite at Petrone House,
+13 Phoenix Place,
+London,
+WC1X 0DH",WC1X,3.0
+295,930000.0,"Elizabeth Avenue, Canonbury, Islington, London, N1",N1,2.0
+296,2350000.0,"Gibson Square, Islington, London, N1",N1,3.0
+297,1600000.0,"Hartham Road, Islington, N7",N7,4.0
+299,895000.0,"Carrara Tower, 250 City Road, London, EC1",EC1,1.0
+300,300000.0,"Terrace Apartments, Drayton Park, N5",N5,0.0
+301,840000.0,"Carrara Tower, 250 City Road, London, EC1",EC1,1.0
+302,500000.0,"Dixon Clark Court, Canonbury Road, London, N1",N1,2.0
+303,200000.0,"Holloway Road, Holloway, London, N7",N7,0.0
+304,375000.0,"Caledonian Road, Islington N1",N1,2.0
+305,375000.0,"Caledonian Road, Islington, N1",N1,1.0
+306,675000.0,"Albion Road, London, N16",N16,2.0
+307,1300000.0,"Mildmay Park, London, N1",N1,4.0
+308,925000.0,"Hatley Road, London, N4",N4,3.0
+310,560000.0,"Yonge Park, London N4",N4,2.0
+311,670000.0,"Caledonian Road, London, N1",N1,2.0
+312,559750.0,"Sparsholt Road, Crouch End, London, N19",N19,1.0
+313,625000.0,"Malcolm House, Hoxton, N1",N1,4.0
+314,950000.0,"St John Street, London, EC1V",EC1V,2.0
+316,850000.0,"Highbury Grove, Highbury, London, N5",N5,2.0
+317,485000.0,"St Pauls Road, London, N1",N1,1.0
+318,729995.0,"Mitchison Road, Islington, London, N1",N1,2.0
+319,860000.0,"Myddelton Square, London, EC1R",EC1R,2.0
+320,487500.0,"Farringdon Road, EC1R",EC1R,1.0
+322,500000.0,"Gainsborough Studios South, 1 Poole Street, London, N1",N1,1.0
+323,415000.0,"Gordon Close, Archway, London, N19",N19,1.0
+324,1150000.0,"Tysoe Street, London, EC1R",EC1R,2.0
+325,795000.0,"248 Goswell Road, London, EC1V",EC1V,2.0
+327,460000.0,"Camden Road, Islington, London, N7",N7,2.0
+329,400000.0,"Manor Gardens, Holloway, London, N7",N7,1.0
+330,3300000.0,"Colebrooke Row, Angel, London, N1",N1,5.0
+331,800000.0,"Paton Street, London, EC1V",EC1V,2.0
+335,565000.0,"Elia Street, London, N1",N1,2.0
+336,699950.0,"Hertford Road, N1",N1,2.0
+337,599999.0,"Shaftesbury Road, N19 ",N19,2.0
+338,450000.0,"Shaftesbury Road, N19",N19,1.0
+339,500000.0,"Grand Canal Apartments, London, N1",N1,1.0
+340,2250000.0,"Hemingford Road, Barnsbury, Islington, London, N1",N1,4.0
+341,575000.0,"City of London Point, 107 York Way, Camden, London, N7",N7,2.0
+342,2500000.0,"Highwood Road, Tufnell Park, London N19",N19,6.0
+343,2295000.0," Noel Road,  Islington, N1",N1,3.0
+344,550000.0,"Havelock Street, Islington, N1",N1,2.0
+345,525000.0,"Hornsey Rise Gardens, Crouch End Borders, London, N19",N19,2.0
+346,850000.0,"Westbourne Road, Islington, N7",N7,4.0
+348,550000.0,"Gable Lodge, Essex Road, London, N1",N1,2.0
+351,315000.0,"Holloway Road, Archway, N19",N19,1.0
+352,550000.0,"Angelis Apartments, 69 Graham Street, London, N1",N1,1.0
+353,1250000.0,"Elliotts Place, London, N1",N1,2.0
+354,385000.0,"Axminster Road, London N7",N7,1.0
+355,1500000.0,"Arlington Avenue, Islington, N1",N1,3.0
+356,599999.0,"Orleston Road, London, N7",N7,2.0
+357,625000.0,"Wharfdale Road, London, N1",N1,1.0
+358,725000.0,"St Johns Villas, Archway, N19",N19,2.0
+359,435000.0,"Balls Pond Road, London, N1",N1,1.0
+360,850000.0,"Bentley Road, London, N1",N1,3.0
+361,590000.0,"Bentley Road, London, N1",N1,2.0
+362,1615000.0,"Marketing Suite at Petrone House,
+13 Phoenix Place,
+London,
+WC1X 0DH",WC1X,2.0
+363,595000.0,"Holloway Road, Islington, London, N7",N7,2.0
+364,650000.0,"Pissarro House, Augustas Lane, London, N1",N1,1.0
+365,4500000.0,"Bezier Apartments, 91 City Road, London, EC1Y",EC1Y,3.0
+366,799950.0,"St Davids Apartments, Lough Road, London, N7",N7,2.0
+367,650000.0,"Dance Square, London, EC1V",EC1V,1.0
+368,1500000.0,"Florence Street, Angel, Islington, London, N1",N1,4.0
+369,620000.0,"King's Cross, London, N7",N7,1.0
+370,650000.0,"Tufnell Park Road, Tufnell Park, London, N7",N7,3.0
+371,489995.0,Tollington Park N4 3AD,N4,1.0
+373,550000.0,"Carleton Road, Tufnell Park, N7",N7,2.0
+374,419950.0,"Marlborough Road, Archway,N19",N19,1.0
+376,450000.0,"Evelyn Walk, London N1",N1,2.0
+377,625000.0,"Malta Street, Clerkenwell, London, EC1V",EC1V,3.0
+379,525000.0,"Crayford Road, London, N7",N7,2.0
+380,400000.0,"Warlters Road, Islington, London, N7",N7,2.0
+381,450000.0,"Hatchard Road, London, N19",N19,1.0
+382,650000.0,"Graham Street, London, N1",N1,2.0
+383,1750000.0,"Poets Road, London, N5",N5,5.0
+384,600000.0,"Tibberton Square, London, N1",N1,2.0
+385,600000.0,"Hornsey Road, London, N19",N19,2.0
+386,1495000.0,"Eagle Point, City Road, London, EC1V",EC1V,2.0
+387,640000.0,"Hornsey Road, London, N19",N19,2.0
+391,275000.0,"Hunter House, 213-217 Junction Road, London, N19",N19,1.0
+392,925000.0,"Downham Road, London, N1",N1,2.0
+393,385000.0,"Taverner Square, Highbury, N5",N5,1.0
+394,325000.0,"Marshall House, Cranston Estate, London, N1",N1,0.0
+395,690000.0,"Bevenden Street,
+Hoxton,
+London,
+N1 6BP,",N1,1.0
+396,920000.0,"Bevenden Street,
+Hoxton,
+London,
+N1 6BP,",N1,2.0
+397,920000.0,"Bevenden Street,
+Hoxton,
+London,
+N1 6BP,",N1,2.0
+398,870000.0,"Bevenden Street,
+Hoxton,
+London,
+N1 6BP,",N1,2.0
+399,465000.0,"Highbury Square, Highbury, London, N5",N5,1.0
+400,795000.0,"248 Goswell Road, London, EC1V",EC1V,2.0
+401,1050000.0,"Islington Green, Angel, London, N1",N1,2.0
+402,725000.0,"2 Bedroom Apartments, Colour House, Bentley Road, London, N1",N1,2.0
+403,720000.0,"3 Bedroom Apartments, Colour House, Bentley Road, London, N1",N1,3.0
+404,500000.0,"1 Bedroom Apartments, Colour House, Bentley Road, London, N1",N1,1.0
+405,675000.0,"Gifford Street, London, N1 ",N1,2.0
+406,500000.0,"Highbury Stadium Square, Highbury, N5",N5,1.0
+407,900000.0,"Thornhill Road, Islington, N1",N1,2.0
+409,685000.0,"Newland Court, Old Street, Islington, London, EC1V",EC1V,3.0
+410,85000.0,"Eagle Wharf Marina, Islington N1",N1,1.0
+411,379950.0,"Camden Road, London, N7",N7,2.0
+412,500000.0,"Enfield Road, Islington, London, N1",N1,2.0
+413,750000.0,"Southstand Apartments, Highbury Stadium Square, London, N5",N5,2.0
+414,750000.0,"Bickerton Road, Archway, London, N19",N19,2.0
+416,400000.0,"Wilkinson House, Cranston Estate, Hoxton, London, N1",N1,2.0
+417,520000.0,"Enfield Road, London, N1 ",N1,2.0
+418,650000.0,"The Nautilus Building, 3 Myddelton Passage, London, EC1R",EC1R,1.0
+419,379950.0,"Camden Road, London, N7",N7,2.0
+420,425000.0,"Tufnell Park Road, London, N7",N7,1.0
+422,970000.0,"Marketing Suite at Petrone House,
+13 Phoenix Place,
+London,
+WC1X 0DH",WC1X,1.0
+423,1823000.0,"43 Golden Lane,
+London,
+EC1Y",EC1Y,3.0
+425,775000.0,"Bridgeman Road, London, N1",N1,2.0
+426,1200000.0,"Shaftesbury Road, Crouch End Borders, London, N19",N19,4.0
+427,500000.0,"Hornsey Rise, N19",N19,2.0
+428,735000.0,"Elmore House, 110 Elmore Street, Canonbury, Islington, N1",N1,2.0
+429,745000.0,"Chadwell Street, London, EC1R",EC1R,2.0
+431,900000.0,"Southgate Road, De Beauvoir Town, London, N1",N1,2.0
+433,1795000.0,"Aberdeen Park, London, N5",N5,3.0
+434,950000.0,"Bath Street, London, EC1V",EC1V,2.0
+435,750000.0,"Queensbury Street, London, N1",N1,3.0
+436,750000.0,"Eagle Wharf Road, Islington, London, N1",N1,2.0
+437,1395000.0,"Hertford Road, Islington, London, N1",N1,4.0
+438,675000.0,"Crondall Street, Hoxton, London, N1",N1,3.0
+440,500000.0,"Thornhill House, London, N1",N1,1.0
+441,750000.0,"Northchurch Road, Islington, N1",N1,2.0
+442,550000.0,"Junction Road, Archway, London, Uk, N19",N19,2.0
+443,910000.0,"Danbury Street, Islington, N1",N1,2.0
+444,1750000.0,"CORNER PENTHOUSE, Eaststand Appartments, Highbury StadiumSquare, London, N5",N5,3.0
+445,1750000.0,"Poets Road, London, N5",N5,5.0
+446,650000.0,"Balfour Road, London, N5",N5,2.0
+447,900000.0,"Brooksby Street, London, N1",N1,2.0
+448,1850000.0,"Ripplevale Grove, London, N1",N1,3.0
+449,650000.0,"Thornhill Road, London, N1",N1,2.0
+450,500000.0,"Hanley Road, Stroud Green, N4",N4,3.0
+451,500000.0,"Thornhill Road, Islington, London, N1",N1,1.0
+454,600000.0,"Southgate Road, London, N1",N1,2.0
+455,550000.0,"Ufton Road, De Beauvoir, N1",N1,1.0
+456,1175000.0,"Gillespie Road, N5 1LH",N5,4.0
+457,675000.0,"Balls Pond Road, London, N1",N1,2.0
+458,650000.0,"Lough Road, Islington, London, N7",N7,3.0
+459,500000.0,Queensland Road N7 7FF,N7,1.0
+460,775000.0,"Gainsborough Studios North, 1 Poole Street, London, N1",N1,2.0
+461,660000.0,"Caledonian Road, London, N1",N1,2.0
+463,435000.0,"Hornsey Street, N7 8GF",N7,1.0
+464,1575000.0,"Highbury Quadrant, London, N5",N5,4.0
+466,475000.0,"Tollington Way, Holloway, London, N7",N7,2.0
+467,1650000.0,"Cloudesley Road, London, N1",N1,3.0
+468,575000.0,"Garrett Street, London, EC1Y",EC1Y,1.0
+471,895000.0,"Mortimer Road, London N1",N1,2.0
+472,275000.0,"Junction Road, Islington, London, N19",N19,1.0
+473,570000.0,"Maldon Apartments, Micawber Street, Islington, London, N1",N1,1.0
+474,450000.0,"Jack Walker Court, London, N5",N5,1.0
+475,1150000.0,"Sheperdess Place, Hoxton, London, N1",N1,2.0
+476,500000.0,"Rotherfield Street, Canonbury, N1",N1,2.0
+477,650000.0,"Arundel Square, London, N7",N7,2.0
+478,500000.0,"Royle Building , 31 Wenlock Road, London, N1",N1,1.0
+479,400000.0,"Drayton Park, London, N5",N5,1.0
+480,550000.0,"Goswell Road, London, EC1V",EC1V,1.0
+481,470000.0,"Highbury Grove, London, N5",N5,1.0
+482,450000.0,"Evershot Road, London, N4",N4,1.0
+483,325000.0,"Conistone Way, London, N7",N7,1.0
+484,2899000.0,"City Road, Shoreditch, London, EC1V",EC1V,3.0
+486,725000.0,"Hampton Court, London, N1",N1,2.0
+487,470000.0,"Essex Road, Islington, London, N1",N1,1.0
+488,350000.0,"Tollington Road, London, N7 6PG",N7,1.0
+489,625000.0,"Crayle House, Malta Street, London, EC1V",EC1V,3.0
+490,1775000.0,"Dagmar Terrace, N1 2BN",N1,4.0
+491,470000.0,"Essex Road, N1 2YG",N1,1.0
+494,2000000.0,"Melgund Road, London, N5",N5,4.0
+495,700000.0,"Alwyne Place, London, N1",N1,1.0
+497,715000.0,"City North Place, N4",N4,2.0
+498,710000.0,"City North Place, N4",N4,2.0
+499,720000.0,"City North Place, N4",N4,2.0
+500,2100000.0,"Penn Street, 
+Hoxton, 
+London, 
+N1",N1,3.0
+501,650000.0,"Huddleston Road, London, N7",N7,2.0
+502,500000.0,"Shoreditch High Street, London, E1",E1,1.0
+503,750000.0,"Hutley Wharf, 29 Branch Place, London, N1",N1,2.0
+505,1750000.0,"Ritchie Street, Islington, London, N1",N1,4.0
+507,1950000.0,Upper Street N1,N1,2.0
+508,825000.0,"Haberdasher Street, London, N1",N1,3.0
+510,700000.0,"Esther Anne Place, London, N1",N1,1.0
+511,950000.0,"Chronicle Tower, 261B City Road, London, EC1V",EC1V,2.0
+512,1350000.0,"Berry Street, London, EC1V",EC1V,2.0
+514,1000000.0,"Hatchard Road, London, N19",N19,4.0
+515,800000.0,"Naoroji Street, London, WC1X",WC1X,2.0
+518,1775000.0,"Dagmar Terrace, London, N1",N1,4.0
+519,425000.0,"Compton House, 16 Sussex Way, London, N7",N7,1.0
+520,800000.0,"St. Pauls Road, London, N1",N1,2.0
+521,575000.0,"Thornhill Crescent, London, N1",N1,1.0
+522,650000.0,"Hornsey Road, Holloway, N7",N7,3.0
+523,835000.0,"City Road, London, EC1V",EC1V,2.0
+525,535000.0,"Ann Street, Islington, N1",N1,1.0
+526,325000.0,"Green Lanes, Stoke Newington, N16",N16,1.0
+527,900000.0,"Nelson Place, London, N1",N1,2.0
+528,2300000.0,"Stamford Road, London, N1",N1,4.0
+531,465000.0,"Axminster Road, Holloway, N7",N7,3.0
+532,387500.0,"Oakleigh Court, Murray Grove, Islington, London, N1",N1,1.0
+533,1200000.0,"Shaftesbury Road, Crouch End Borders, London, N19",N19,4.0
+534,1100000.0,"Islington Green, London, N1",N1,2.0
+535,1455000.0,"Carrara Tower, London, EC1V",EC1V,2.0
+536,700000.0,"Atlas Building, EC1V",EC1V,1.0
+537,1455000.0,"Carrara Tower, London, EC1V",EC1V,2.0
+538,600000.0,"Anson Road, London, London, N7",N7,2.0
+539,560000.0,"The Heron,5 Moor Lane, London, EC2Y",EC2Y,0.0
+541,475000.0,"Bentley Road, London, N1",N1,2.0
+542,1352000.0,"43 Golden Lane,
+London,
+EC1Y",EC1Y,2.0
+543,450000.0,"Crouch Hill, London, N4",N4,2.0
+544,1500000.0,"Riversdale Road, LONDON, N5",N5,4.0
+545,950000.0,"New Wharf Road, Islington, London, N1",N1,1.0
+551,350000.0,"Walkinshaw Court, Rotherfield Street, London, N1",N1,1.0
+552,600000.0,"Steadman Court, 165 Old Street, London, EC1V",EC1V,2.0
+553,675000.0,"Manor Gardens, Islington, London, N7",N7,2.0
+554,385000.0,"Edward Dodd Court, Chart Street, London, N1",N1,1.0
+555,525000.0,"Enfield Road, Islington, London, N1",N1,2.0
+556,699995.0,"Baron Street, Islington, London, N1",N1,2.0
+557,1100000.0,"Legion Close, Islington, London, N1",N1,4.0
+559,895000.0,"Rosebery Avenue, EC1R",EC1R,2.0
+560,600000.0,"Mildmay Road, Islington, N1",N1,2.0
+561,3000000.0,"Canonbury Park South, Canonbury, Islington, London, N1",N1,4.0
+562,427500.0,"Dance Square, London, EC1V",EC1V,1.0
+563,600000.0,"St George's Avenue, Tufnell Park, Islington, London, N7",N7,1.0
+564,475000.0,"St. John's Estate, Islington, N1",N1,3.0
+566,495000.0,"Kingsdown Road, London, N19",N19,3.0
+567,2399500.0,"Hemingford Road, London, N1",N1,4.0
+568,750000.0,"Ecclesbourne Road, London, N1",N1,2.0
+570,425000.0,"Caledonian Road, Barnsbury, London, N1",N1,1.0
+571,425000.0,"Upper Street, Islington, London, N1",N1,1.0
+572,500000.0,"Holloway Road, London, N7",N7,1.0
+573,1345000.0,"Marketing Suite at Petrone House,
+13 Phoenix Place,
+London,
+WC1X 0DH",WC1X,2.0
+575,1500000.0,"Englefield Road, London, N1",N1,3.0
+576,625000.0,"Crayle House, Malta Street, London, EC1V",EC1V,3.0
+577,955000.0,"Marketing Suite at Petrone House,
+13 Phoenix Place,
+London,
+WC1X 0DH",WC1X,1.0
+578,900000.0,"Upper Street, London, N1",N1,3.0
+579,350000.0,"Whitby Court, London, London, N7",N7,1.0
+580,336000.0,"Fletcher House, Hackney, London, N1",N1,2.0
+581,650000.0,"The Nautilus Building, 3 Myddelton Passage, Clerkenwell, EC1R",EC1R,1.0
+582,2450000.0,"CITY ROAD, London, EC1V",EC1V,5.0
+583,850000.0,"Clerkenwell Road, London, EC1M",EC1M,2.0
+584,499950.0,"Ashley Road, London, N19",N19,2.0
+585,475000.0,"Charles Gardner Court, Haberdasher Street, London, N1",N1,2.0
+586,390000.0,"Highlands Close, London, N4",N4,1.0
+589,575000.0,"Lady Margaret Road, London, N19",N19,1.0
+591,475000.0,"Shoreditch House, Charles Square, London, N1",N1,2.0
+592,835000.0,"43 Golden Lane,
+London,
+EC1Y",EC1Y,1.0
+593,1100000.0,"Alexander Road, Archway, N19",N19,4.0
+594,1000000.0,"Waterfront Mews, London, N1",N1,2.0
+595,1750000.0,"Ripplevale Grove, Barnsbury, N1",N1,3.0
+596,525000.0,"Highbury Stadium Square, Islington, London, N5",N5,1.0
+597,375000.0,"Hill House, 17 Highgate Hill, London, N19",N19,0.0
+599,1400000.0,"Buckingham Road, Islington, London, N1",N1,3.0
+600,1695000.0,"The Factory, Nile Street, London, N1",N1,2.0
+602,800000.0,"Augustas Lane, London, N1",N1,2.0
+603,1350000.0,"Northburgh Street, Clerkenwell, London, EC1V",EC1V,2.0
+604,749950.0,"Grosvenor Avenue, Highbury, London, N5",N5,3.0
+611,350000.0,"Caledonian Road, N1",N1,1.0
+612,265000.0,"Caledonian Road, London, N1",N1,0.0
+615,2475000.0,"Esther Anne Place, London, N1",N1,3.0
+616,2475000.0,"Esther Anne Place, London, N1",N1,3.0
+621,1395000.0,"Bridel Mews, Angel, Islington, London, N1",N1,2.0
+622,525000.0,"Freegrove Road, Islington, London, N7",N7,2.0
+623,525000.0,"Wenlock Road, Islington, London, N1",N1,3.0
+628,695000.0,"St. Pauls Road, London, N1",N1,2.0
+629,500000.0,"Essex Road, N1",N1,2.0
+630,950000.0,"Hilldrop Road, London, N7",N7,3.0
+631,440000.0,"Finsbury Court, Queensland Terrace, Islington N7",N7,1.0
+632,700000.0,"Loraine Road, London, N7",N7,2.0
+635,565000.0,"Haberdasher Street, London, N1",N1,2.0
+636,425000.0,"St Williams Yard, Islington, London, N1",N1,1.0
+637,850000.0,"Peninsula Court, 2 Basire Street, London, N1",N1,2.0
+639,1630000.0,"City Road, London, EC1V",EC1V,2.0
+640,765000.0,"Eagle Point, City Road, London, EC1V",EC1V,1.0
+644,500000.0,"St Peter's Way, Islington, N1",N1,2.0
+645,600000.0,"Hornsey Rise, Crouch End Borders, London, N19",N19,2.0
+652,535000.0,"Bezier Apartments, 91 City Road, Shoreditch, London, EC1Y",EC1Y,0.0
+653,925000.0,"Kingsland Road, Hackney, London, E8",E8,2.0
+654,2150000.0,"Dickinson Court, Brewhouse Yard, City, London, EC1V",EC1V,3.0
+655,750000.0,"Ecclesbourne Road, Canonbury, N1",N1,2.0
+656,715000.0,"City North, Goodwwin Street, Finsbury Park, London, N4",N4,2.0
+657,2000000.0,"Calabria Road, London, N5",N5,5.0
+658,899950.0,"Hatchard, London, N19",N19,5.0
+659,825000.0,"Spenlow Apartments, Wenlock Road, Islington, London, N1",N1,2.0
+660,425000.0,"Provost Estate, Islington, London, N1",N1,2.0
+661,575000.0,"205 Southgate Road, London, N1",N1,1.0
+662,500000.0,"39 Pyrland Road, London, N5",N5,2.0
+663,450000.0,"The Beaux Arts Building, Manor Gardens, London, N7",N7,1.0
+664,600000.0,"Canalside Square, London, N1",N1,1.0
+667,765000.0,"Bezier Apartments, 91 City Road, London, EC1Y",EC1Y,2.0
+668,1600000.0,"Bartholomew Square, London, EC1V",EC1V,2.0
+669,800000.0,"Highbury New Park, Islington, London, N5",N5,2.0
+670,1200000.0,"Merino Court, 154 Lever Street, London, EC1V",EC1V,2.0
+671,350000.0,"Charterhouse Square, Clerkenwell, London, EC1M",EC1M,0.0
+672,700000.0,"Isabella Mews, Balls Pond Road, London, N1",N1,2.0
+673,1750000.0,"St. Georges Avenue, London, N7",N7,5.0
+674,375000.0,"Victor Cazalet House, Gaskin Street, London, N1",N1,0.0
+677,475000.0,"Grosvenor Avenue, London, N5",N5,1.0
+678,720000.0,"Rectangular Tower, City North, Finsbury Park, N4",N4,2.0
+679,715000.0,"Rectangular Tower, City North, Finsbury Park, N4",N4,2.0
+680,710000.0,"Rectangular Tower, City North, Finsbury Park, N4",N4,2.0
+681,440000.0,"Ivinghoe House, Dalmeny Avenue, Tufnell Park, London, N7",N7,2.0
+682,730000.0,"Angelis Apartments, 69 Graham Street, London, N1",N1,2.0
+683,625000.0,"St. James House, 28 Drayton Park, London, N5",N5,2.0
+684,475000.0,"Newington Green Road, Islington, London, N1",N1,2.0
+685,1350000.0,"Pentonville Road, Islington, London, N1",N1,3.0
+686,625000.0,"Copenhagen Street, N1 0XW",N1,2.0
+687,1250000.0,"The Atlas Building,City Road, London EC1V",EC1V,2.0
+689,749999.0," Southgate Road,  De Beauvoir Town, N1",N1,2.0
+690,690000.0,"Atlas Building, EC1V",EC1V,1.0
+692,1050000.0,"City Road, Bollinder Place, London, EC1V",EC1V,2.0
+694,725000.0,"Acton Apartments, 13 Branch Place, London, N1",N1,2.0
+695,710000.0,"City North Place, London N4",N4,2.0
+696,715000.0,"3 City North Place, London N4",N4,2.0
+697,720000.0,"3 City North Place, London N4",N4,2.0
+698,700000.0,"Lofting Road, Islington, London, N1",N1,2.0
+700,650000.0,"Hertford Road, London, N1",N1,2.0
+701,375000.0,"Bryantwood Road, London, N7",N7,1.0
+702,1300000.0,"Wynford Road, King's Cross, N1",N1,4.0
+703,1585000.0,"Fairmead Road, Tufnell Park, London, N19",N19,4.0
+704,1585000.0,"Fairmead Road, London, N19",N19,4.0
+705,720000.0,"City North East Tower, 3 City North Place, London, N4",N4,2.0
+706,710000.0,"City North East Tower, 3 City North Place, London, N4",N4,2.0
+707,625000.0,"Highbury New Park, London, N5",N5,2.0
+708,1100000.0,"Manor Gardens, Holloway, London, N7",N7,3.0
+709,600000.0,"Sotheby Road, London, N5",N5,2.0
+710,1450000.0,"Richmond Crescent, Barnsbury, Islington, London, N1",N1,2.0
+711,1100000.0,"Baring Street, London, N1",N1,3.0
+712,850000.0,"Northchurch Road, London, N1",N1,2.0
+713,1250000.0,"Hornsey Road, London, N7",N7,4.0
+714,4750000.0,"Alwyne Road, Canonbury, London, N1",N1,5.0
+715,650000.0,"Balls Pond Road, London, N1",N1,2.0
+716,1250000.0,"Pied Bull Yard, Islington, London, N1",N1,3.0
+717,350000.0,"Beachcroft Way, London, ., N19",N19,1.0
+722,375000.0,"Coleman Mansions, Crouch Hill N8",N8,1.0
+723,500000.0,"Prebend Street, London, N1",N1,1.0
+724,375000.0,"Caledonian Road, Islington, London, N1",N1,1.0
+725,1695000.0,"The Factory, Nile Street, London, N1",N1,2.0
+726,650000.0,"Mercers Road, London, N19",N19,1.0
+727,375000.0,"Greenhills Terrace, Islington, N1",N1,1.0
+728,575000.0,"Sunnyside Road, N19",N19,2.0
+729,550000.0,"Blackstock Road, Islington, London, N5",N5,2.0
+731,137500.0,"20 Bardolph Road, London, N7 0NJ",N7,2.0
+732,720000.0,"City North, Finsbury Park, London, N4",N4,2.0
+733,715000.0,"3 City North Place, Finsbury Park , London, N4",N4,2.0
+734,710000.0,"3 City North, Finsbury Park, London , N4",N4,2.0
+735,600000.0,"Stanley Terrace, London, N19",N19,2.0
+737,715000.0,"The Rectangular Tower, City North N4",N4,2.0
+738,720000.0,"The Rectangular Tower, City North N4",N4,2.0
+739,1395000.0,"Esther Anne Place, London, N1",N1,2.0
+740,1335000.0,"Esther Anne Place, London, N1",N1,2.0
+741,1295000.0,"Esther Anne Place, London, N1",N1,2.0
+742,1335000.0,"Esther Anne Place, London, N1",N1,2.0
+743,1295000.0,"Esther Anne Place, London, N1",N1,2.0
+747,700000.0,"Downham Road, Islington, N1",N1,2.0
+749,425000.0,"New North Road, Islington, London, N1",N1,1.0
+751,1200000.0,"St John Street, Clerkenwell, London, EC1V",EC1V,2.0
+753,1100000.0,"The Beaux Arts Building, Manor Gardens, London N7",N7,2.0
+754,1000000.0,"Kingsdown Road, Islington, London, N19",N19,4.0
+756,800000.0,"Highbury Grove, London, N5",N5,2.0
+759,590000.0,"Masons Yard, Clerkenwell, London, EC1V",EC1V,1.0
+760,900000.0,"Empire Square, London, N7",N7,3.0
+761,600000.0,"City of London Point, 107 York Way, London, N7",N7,2.0
+762,1350000.0,"John Spencer Square, London, N1",N1,3.0
+763,525000.0,"433 Holloway Road, Holloway, London, N7",N7,1.0
+764,1450000.0,"Shoreditch High Street, Shoreditch, London, E1",E1,2.0
+766,355000.0,"New North Road, N1 7AT",N1,0.0
+767,450000.0,"17a Legard Road, Highbury, London, N5",N5,0.0
+768,400000.0,"Marlborough Road, Upper Holloway, London, ., N19",N19,1.0
+769,495000.0,"Mildmay Park, Islington, London, N1",N1,2.0
+770,625000.0,"Queensland Road, London, N7",N7,2.0
+771,725000.0,"Great Percy Street, Kings Cross WC1",WC1,3.0
+772,650000.0,"Culford Mews, London, N1",N1,2.0
+773,675000.0,"Anson Road, London, N7",N7,2.0
+774,1350000.0,"John Spencer Square, London, N1",N1,3.0
+775,839950.0,"Herbal Hill, EC1R",EC1R,2.0
+776,450000.0,"Wenlock Street, N1 7QW",N1,1.0
+778,550000.0,"The Old School, 146 York Way, London, N1.",N1,1.0
+779,400000.0,"Stroud Green Road, N4",N4,1.0
+780,1100000.0,"St. Georges Avenue, London, London, N7",N7,3.0
+781,1650000.0,"Northampton Park, Canonbury, Islington, London, N1",N1,5.0
+783,650000.0,"Offord Road, London, N1",N1,1.0
+784,600000.0,"St. Peter's Street, London, N1",N1,1.0
+785,525000.0,"Cottage Road, Islington, London, N7",N7,2.0
+786,500000.0,"Coombe House, Dalmeny Avenue, London, N7",N7,3.0
+787,750000.0,"Southgate Road, London, N1",N1,2.0
+788,799950.0,"Rumsey Mews, Islington, London, N4",N4,3.0
+789,525000.0,"Aubert Park, Highbury, London, N5",N5,3.0
+790,1000000.0,"Lough Road, Islington, London, N7",N7,3.0
+791,1350000.0,"Batchelor Street, Islington, London, N1",N1,3.0
+792,450000.0,"Bath Street, Clerkenwell, London, EC1V",EC1V,1.0
+794,845000.0,"Hertford Wharf, London, N1",N1,3.0
+795,495000.0,"Kingsdown Road, London, N19",N19,3.0
+796,385000.0,"Westbourne Road, London, N7",N7,1.0
+799,625000.0,"Lyndon Court, Kelvin Road, London, N5",N5,2.0
+800,2250000.0,"York Central, Kings Cross, N1",N1,1.0
+802,700000.0,"Liverpool Road, Islington, London, N1",N1,2.0
+803,380000.0,"Blair Close, London, N1",N1,1.0
+804,450000.0,"Chanel Islands Estate, Canonbury, London, N1",N1,2.0
+805,450000.0,"Gastingny House, Lever Street, EC1V",EC1V,2.0
+807,600000.0,"Highbury Stadium Square, N5 1FL",N5,1.0
+808,800000.0,"Liverpool Road, Islington, London, N1",N1,2.0
+809,600000.0,"Cylinder Building, City North, Finsbury Park, N4",N4,1.0
+810,735000.0,"Islay Walk, Islington, London, N1",N1,3.0
+812,675000.0,"Duo Tower, Hoxton, N1",N1,1.0
+813,550000.0,"Thane Villas, Holloway, London, N7",N7,3.0
+814,460000.0,"Highbury Estate, London N5",N5,3.0
+815,3250000.0,"Union Wharf, Arlington Avenue, London, N1",N1,5.0
+816,1100000.0,"Waterloo Terrace, London, N1",N1,2.0
+819,875000.0,"Pitt House, 11 Loxford Gardens, London, N5",N5,3.0
+822,515000.0,"Pooles Park, Finsbury Park, N4",N4,2.0
+823,900000.0,"Regents Canal, De Beauvoir Town, London, N1",N1,2.0
+824,690000.0,"River Street, Clerkenwell, London, EC1R",EC1R,1.0
+825,775000.0,"Bridgeman Road, London, N1",N1,2.0
+826,475000.0,"St Paul Street, Islington, London, N1",N1,1.0
+827,500000.0,"Gillespie Court, Queensland Terrace, Islington, N7",N7,1.0
+828,165000.0,"Holloway Road, London N7",N7,0.0
+829,165000.0,"Holloway Road, London, London, N7 8JG",N7,0.0
+831,485000.0," Caledonian Road,  Islington, N1",N1,1.0
+832,565000.0," Caledonian Road,  Islington, N1",N1,2.0
+834,700000.0,"Highbury Grove, Highbury, London, N5",N5,2.0
+835,880000.0,"Britton Street, EC1M",EC1M,2.0
+836,625000.0,"Courtauld Road, Archway N19",N19,2.0
+837,925000.0,"Northchurch Road, London, N1",N1,3.0
+838,1595000.0,"70-78 York Way, Kings Cross, N1",N1,2.0
+839,575000.0,"Goswell Road, London, EC1V",EC1V,1.0
+840,1000000.0,"Timber Yard, Drysdale Street, Shoreditch, London, N1",N1,1.0
+841,895000.0,"Caledonian Road, London, N1",N1,2.0
+842,900000.0,"Cube Building, Banyan Wharf, London, N1",N1,2.0
+843,700000.0,"Queensland Road, Islington, London, N7",N7,2.0
+844,875000.0,"Southgate Road, London, N1",N1,2.0
+845,800000.0,"Mortimer Road, De Beauvoir, London, N1",N1,2.0
+846,950000.0,"Green Man Tower, Goswell Road, London, EC1V",EC1V,1.0
+847,759999.0,"4 Hungerford Road, Islington, N7",N7,3.0
+851,475000.0,"Hargrave Mansions, N19 5SR",N19,1.0
+852,450000.0,"Caledonian Road, Islington, London, N1",N1,2.0
+853,500000.0,"Northstand Apartment, N5 1FL",N5,1.0
+854,149950.0,"Regents Canal, London, N1",N1,2.0
+856,400000.0,"Gaskin Street, London, N1",N1,1.0
+857,385000.0,"Hilton House, Parkhurst Road, London, N7",N7,1.0
+858,475000.0,"Tollington Park, Wray Crescent, London, N4",N4,2.0
+859,375000.0,"Stanway Street, Islington, N1",N1,1.0
+860,1000000.0,"Oakley Road, London, N1",N1,3.0
+861,1000000.0,"Liverpool Road, London, N7",N7,2.0
+862,2500000.0,"Ockendon Road, London, N1",N1,4.0
+863,500000.0,"Hanley Road, Stroud Green, N4",N4,3.0
+864,1100000.0,"1-6 Bateman's Row, London, EC2A",EC2A,2.0
+865,775000.0,"Benyon Wharf, 295 Kingsland Road, London, E8",E8,2.0
+866,800000.0,"Garrett Street, London, EC1Y",EC1Y,2.0
+867,5250000.0,"Highbury Terrace, Highbury, London, N5",N5,5.0
+868,1400000.0,"Ferntower Road, London, N5",N5,5.0
+871,425000.0,"Mountgrove Road, Highbury, N5",N5,1.0
+872,590000.0,"Leonard Street, London, EC2A",EC2A,1.0
+873,500000.0,"St Williams Court, 1 Gifford Street, Kings Cross, London, N1",N1,1.0
+874,680000.0,"Sawmill Studios, Parr Street, Hoxton, N1",N1,2.0
+875,775000.0,"Eagle Wharf Road, Hoxton, N1",N1,2.0
+876,690000.0,"Bevenden Street,
+Hoxton,
+London,
+N1 6BP,",N1,1.0
+877,450000.0,"Tufnell Park Road, London, N7",N7,1.0
+878,650000.0,"Book House, City Road, London, EC1V",EC1V,1.0
+879,650000.0,"Chronicle Tower, 261 City Road, Lexicon, London, EC1V",EC1V,1.0
+880,600000.0,"Packington Square, London, N1",N1,1.0
+881,850000.0,"Highbury Grange, London, N5",N5,2.0
+882,550000.0,"Mildmay Avenue, London, N1",N1,2.0
+883,400000.0,"Fortuna Close, Islington, London, N7",N7,1.0
+884,775000.0,"Bridgeman Road, London, N1",N1,2.0
+885,665000.0,"Eagle Wharf Road, Hoxton, N1",N1,1.0
+886,950000.0,"Lidyard Road, London, N19",N19,3.0
+887,550000.0,"Carronade Court, Eden Grove, London, N7",N7,2.0
+888,999950.0,"Crouch Hill, N8",N8,3.0
+890,280000.0,"Dalmeny Avenue, Islington, London, N7",N7,1.0
+891,750000.0,"Lucerne Road, Highbury, N5",N5,2.0
+892,400000.0,"Gillespie Road, Highbury, London, N5",N5,1.0
+893,740000.0,"Westbourne Road, London, N7 8AA",N7,2.0
+894,349000.0,"Mowatt Close, Archway, N19",N19,1.0
+895,475000.0,"Newington Green Road, Islington, London, N1",N1,1.0
+897,665000.0,"Eagle Wharf Road, Islington, London, N1",N1,1.0
+898,495000.0,"Lidyard Road, Archway, N19",N19,2.0
+899,2000000.0,"Huntingdon Street, London, N1",N1,4.0
+900,1100000.0,"Alexander Road, Archway, N19",N19,4.0
+901,1500000.0,"Oakley Crescent, London, EC1V",EC1V,4.0
+902,1000000.0,"Highbury Crescent, London, N5",N5,3.0
+903,775000.0,"Upper Street, Islington, London, N1",N1,2.0
+904,700000.0,"Staveley Close, Islington, London, N7",N7,3.0
+906,425000.0,"Caledonian Road, Islington, London, N1",N1,2.0
+907,650000.0,"Gardner Court, 1 Brewery Square, London, EC1V",EC1V,1.0
+908,500000.0,"Grosvenor Avenue, Highbury, London, N5",N5,2.0
+909,600000.0,"Dibden Street, Islington, London, N1",N1,2.0
+910,1150000.0,"Canaletto Tower, 257 City Road, London, EC1V",EC1V,2.0
+913,650000.0,"Oakleigh Court, Murray Grove, N1",N1,2.0
+914,450000.0,"Essex Road, Islington, London, N1",N1,1.0
+915,550000.0,"Tiltman Place, Islington, London, N7",N7,2.0
+918,2500000.0,"Barnsbury Terrace, N1 1JH",N1,4.0
+919,480000.0,"Trafalgar Point, N1",N1,1.0
+920,1000000.0,"Leonard Street, Shoreditch, London, EC2A",EC2A,2.0
+921,525000.0,"Branston House, Hornsey Road, London, N7",N7,3.0
+923,480000.0,"Provost Street, London, N1",N1,1.0
+924,750000.0,"City North, Finsbury Park, N4",N4,2.0
+925,675000.0,"Petherton Road, Islington, London, N5",N5,2.0
+927,1420000.0,"Rocliffe Street, Islington, London, N1",N1,3.0
+928,550000.0,"Yonge Park, London, N4",N4,2.0
+930,435000.0,"The Link, N1",N1,1.0
+931,750000.0,"1 Caledonian Road, Islington, N1",N1,2.0
+932,650000.0,"Flat 3 254 Sussex Way, Archway, N19",N19,2.0
+933,1650000.0,"Coleman Fields, London, N1",N1,4.0
+934,485000.0,"Windsor Terrace, Islington, London, N1",N1,3.0
+935,3300000.0,"Cross Street, Islington, London, N1",N1,5.0
+936,730000.0,"Chronicle Tower, City Road, Old Street, London, EC1V",EC1V,1.0
+938,425000.0,"Axminster Road, Finsbury Park, Islington, London, N7",N7,1.0
+939,750000.0,"Highbury Stadium Square, Highbury, N5",N5,2.0
+940,999950.0,"Highbury Place, Highbury, London, N5",N5,2.0
+942,1100000.0,"Union Wharf, N1",N1,2.0
+944,800000.0,"Ecclesbourne Road, London, N1",N1,2.0
+948,950000.0,"Gardner Court, 1 Brewery Square, Clerkenwell, London, EC1V",EC1V,2.0
+949,725000.0,"Windsor Road, Islington, London, N7",N7,3.0
+950,675000.0,"St. Williams Court, 1 Gifford Street, Kings Cross, N1",N1,2.0
+951,2350000.0,"Cruden Street, Angel, Islington, London, N1",N1,4.0
+955,820000.0,"Emerson Court, 2A Rodney Street, London, N1",N1,0.0
+956,950000.0,"Florence Street, London, N1",N1,3.0
+958,500000.0,"Highbury Stadium Square, Highbury, N5",N5,1.0
+959,500000.0,"Highbury Stadium Square, Highbury, N5",N5,1.0
+961,325000.0,"Balls Pond Road, Islington, London, N1",N1,1.0
+965,765000.0,"Eagle Point, City Road, EC1V",EC1V,1.0
+967,375000.0,"Balls Pond Road, London, N1",N1,1.0
+968,575000.0,"St Thomas's Road, London, N4",N4,2.0
+970,560000.0,"Worcester Point, Clerkenwell Quarter, Clerkenwell EC1V",EC1V,1.0
+971,699950.0,"Worcester Point, Central Street, Clerkenwell, EC1V",EC1V,2.0
+972,750000.0,"Liverpool Road, Lower Holloway, London, N7",N7,2.0
+973,250000.0,"Findon Lodge, Popham Street, Islington, London, N1",N1,2.0
+975,700000.0,"Royle Building, 31 Wenlock Road, London, N1",N1,1.0
+976,750000.0,"Curtain Road, London, EC2A ",EC2A,2.0
+978,850000.0,"Offord Street, Islington, London, N1",N1,2.0
+981,1320000.0,"St John's Way, Whitehall Park, Islington, London, N19",N19,6.0
+983,560000.0,"Pentonville Road, Angel, London, N1",N1,1.0
+984,800000.0,"Harecourt Road, Canonbury, Islington, London, N1",N1,2.0
+986,450000.0,"Axminster Road, Finsbury Park, Islington, London, N7",N7,2.0
+987,375000.0,"Athenaeum Court, Highbury New Park, London, N5",N5,1.0
+988,325000.0,"Tottenham Road, London, N1",N1,1.0
+989,695000.0,"St. John's Grove, London, N19",N19,2.0
+991,725000.0,"Holford House, Great Percy Street, Bloomsbury, London, WC1X",WC1X,3.0
+992,700000.0,"Ashley Road, Stroud Green N19",N19,2.0
+993,450000.0,"Axminster Road, London, N7",N7,2.0
+994,400000.0,"Regina Road, Finsbury Park, N4",N4,1.0
+995,1250000.0,"Islington Park Street, London, N1",N1,4.0
+996,1000000.0,"Amwell Street, London, EC1R",EC1R,3.0
+997,1600000.0,"Rees Street, London, N1",N1,2.0
+998,450000.0,"Clare Lane, London, N1",N1,1.0
+999,450000.0,"9 Queensland Road, Islington, N7",N7,1.0
+1001,600000.0,"Hilldrop Lane, Islington, London, N7",N7,2.0
+1002,740000.0,"Hilldrop Lane, Islington, London, N7",N7,2.0
+1004,770500.0,"Goodwin Street, 
+Finsbury Park,
+London, 
+N4",N4,3.0
+1005,475000.0,"Goodwin Street, 
+Finsbury Park,
+London, 
+N4",N4,1.0
+1007,1000000.0,"Goodwin Street, 
+Finsbury Park,
+London, 
+N4",N4,3.0
+1008,925000.0,"Goodwin Street, 
+Finsbury Park,
+London, 
+N4",N4,4.0
+1009,475000.0,"53 Lough Road, Islington, N7",N7,1.0
+1010,825000.0,"New Wharf Road, Islington, London, N1",N1,2.0
+1011,255000.0,"Tottenham Road, De Beauvoir, London, N1",N1,1.0
+1012,385000.0,"Seven Sisters Road, Holloway, London, N7",N7,1.0
+1013,1180000.0,"Eagle Point, City Road, London, EC1V",EC1V,3.0
+1014,725000.0,"New North Road, London, N1",N1,2.0
+1017,525000.0,"New North Road, Islington, London, N1",N1,3.0
+1019,425000.0,"Theseus Walk, Islington, N1",N1,1.0
+1021,770000.0,145 City Road London EC1V,EC1V,1.0
+1022,2500000.0,"Barnsbury Road, Islington, N1",N1,4.0
+1023,645000.0,"BookHouse, City Road, Angel, EC1V",EC1V,1.0
+1024,600000.0,"Islington, London, N1",N1,1.0
+1025,600000.0,"14 Orsman Road, De Beauvoir, N1",N1,2.0
+1026,1050000.0,"Hand Axe Yard, St Pancras Place, Kings Cross, WC1X",WC1X,2.0
+1027,1075000.0,"The Lexicon, Chronicle Tower, London, EC1V",EC1V,2.0
+1028,550000.0,"Wilmington House, 17-18 Highbury Crescent, Highbury, London, N5",N5,1.0
+1029,400000.0,"Bakersfield, Crayford Road, N7",N7,3.0
+1030,700000.0,"Almorah Road, Canonbury, London, N1",N1,2.0
+1031,1250000.0,"Canning Road, N5 2JR",N5,3.0
+1032,475000.0,"Brecknock Road, Tufnell Park, London, N19",N19,1.0
+1035,1250000.0,"Almorah Road, London, N1",N1,3.0
+1036,899000.0,"Chapman Place, Finsbury Park, London, N4",N4,4.0
+1037,995000.0,"Chronicle Tower, 261B City Road, Shoreditch, London, EC1V",EC1V,2.0
+1038,650000.0,"Abbotts Close, Alwyne Road, Islington, London, N1",N1,2.0
+1040,900000.0,"Carrera Tower, 250 City Road, EC1",EC1,2.0
+1041,978888.0,"Carrera Tower, 250 City Road, EC1V",EC1V,2.0
+1042,775000.0,"Axminster Rd, Islington, N7",N7,3.0
+1045,1400000.0,"Deacons Terrace, Harecourt Road, London, N1",N1,4.0
+1046,1100000.0,"Mayton Street, Islington, London, N7",N7,4.0
+1047,1375000.0,"St. John Street, London, EC1V",EC1V,1.0
+1048,550000.0,"Tompion House, Clerkenwell, London, EC1V",EC1V,2.0
+1049,795000.0,"248 Goswell Road, London, EC1V",EC1V,2.0

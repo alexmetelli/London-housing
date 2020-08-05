@@ -1,0 +1,765 @@
+,price,address,postcode,number_bedrooms
+0,499950.0,"Underhill Road, London, SE22",SE22,3.0
+1,425000.0,"Nigel Road, Peckham Rye, London, SE15",SE15,2.0
+2,220000.0,"Crystal Palace Parade, London, SE19",SE19,1.0
+4,700000.0,"Camberwell Grove, London, SE5",SE5,3.0
+7,485000.0,Forest Hill Road East Dulwich SE22,SE22,2.0
+8,700000.0,"119 Newington Causeway, Elephant & Castle, SE1",SE1,3.0
+9,500000.0,"Crofton Road, Camberwell, SE5",SE5,2.0
+10,695000.0,"Hicks House, Frean Street, London, SE16",SE16,2.0
+11,500000.0,"Hayes Grove, London, SE22",SE22,2.0
+12,950000.0,"Piermont Road, East Dulwich, London, SE22 0LN",SE22,5.0
+13,500000.0,"Barset Road, London, SE15",SE15,2.0
+14,449500.0,"New Place Square, London, SE16",SE16,3.0
+15,2500000.0,"Butlers Wharf Building, 36 Shad Thames, London, SE1",SE1,2.0
+16,725000.0,"Herne Hill, Herne Hill, SE24",SE24,3.0
+17,475000.0,"Grove Lane, Camberwell, SE5",SE5,2.0
+18,400000.0,"Queens Road, Peckham, SE15",SE15,1.0
+22,680000.0,"Constable Walk, College Road, Dulwich, London, SE21",SE21,3.0
+23,550000.0,Alvey Street London SE17,SE17,2.0
+24,450000.0,"Camberwell Passage, Camberwell, SE5",SE5,1.0
+25,700000.0,"119 Newington Causeway, Elephant & Castle, SE1",SE1,3.0
+26,495000.0,"Champion Hill, Camberwell, SE5",SE5,2.0
+29,600000.0,"Pollard House, 122A Spa Road, London, SE16",SE16,2.0
+30,1500000.0,"Ildersly Grove, London, SE21",SE21,4.0
+31,390000.0,"William Rushbrooke House, Eveline Lowe Estate, London, SE16",SE16,2.0
+32,875000.0,"Upland Road, London, SE22",SE22,3.0
+33,400000.0,"Wood Vale, London, SE23",SE23,2.0
+34,450000.0,"Therapia Road, East Dulwich, London, SE22",SE22,2.0
+35,900000.0,"242 Underhill Road, Dulwich, SE22",SE22,5.0
+36,499950.0,"Underhill Road, London, SE22",SE22,3.0
+37,375000.0,"Grove Lane, Denmark Hill, London, SE5",SE5,1.0
+38,925000.0,"Wilds Rents, London Bridge, London, SE1",SE1,2.0
+39,360000.0,"Bew Court, Lordship Lane, London, SE22",SE22,3.0
+41,650000.0,"Forest Hill Road, Dulwich, SE22",SE22,2.0
+43,625000.0,"East Street, London SE17",SE17,3.0
+44,375000.0,"Woods Road, Peckham, SE15",SE15,2.0
+46,500000.0,"Jowett Street, Peckham, SE15",SE15,2.0
+47,310000.0,"Havil St, SE5",SE5,1.0
+48,450000.0,Sumner Road London SE15,SE15,2.0
+49,675000.0,"Larch Court, Royal Oak Yard, SE1  ",SE1,2.0
+50,750000.0,"Queen's Road,
+Peckham,
+London,
+SE15 2DH",SE15,3.0
+54,450000.0,Dawes Street Walworth SE17,SE17,2.0
+55,435000.0,"East Street, London, SE17",SE17,1.0
+56,189000.0,"Empire Square South, Empire Square, London, SE1",SE1,1.0
+61,850000.0,"Oliver Mews, Peckham, SE15",SE15,3.0
+62,425000.0,"Skyline Court, 9 Grange Yard, London, SE1",SE1,1.0
+63,375000.0,"Dunstans Road, Dulwich, SE22 ",SE22,1.0
+64,900000.0,"Barry Road, Dulwich, SE22",SE22,4.0
+67,1100000.0,"Upper Ground, London, SE1",SE1,1.0
+69,500000.0,"Maude Road, Camberwell, SE5",SE5,2.0
+70,500000.0,"Mary Datchelor Close, Camberwell, London, SE5",SE5,3.0
+71,950000.0,"Quadrangle Close, London Bridge, London, SE1",SE1,3.0
+72,445000.0,"Lordship Lane, East Dulwich, SE22",SE22,2.0
+73,450000.0,"Lordship Lane, East Dulwich, London, SE22",SE22,1.0
+75,550000.0,"Dunstans Road, SE22",SE22,3.0
+76,319950.0,"Croft Street, London, SE8",SE8,1.0
+77,330000.0,Half Moon Lane Herne Hill SE24 9HS,SE24,1.0
+79,550000.0,"Casino Avenue, Herne Hill, London, SE24",SE24,2.0
+80,2000000.0,"Southbank, London, SE1",SE1,2.0
+81,700000.0,"Keston Road, Peckham, SE15",SE15,2.0
+82,1150000.0,"Plover Way, London, SE16",SE16,3.0
+84,425000.0,"10 Odessa Street, Surrey Quays, SE16",SE16,2.0
+85,385000.0,"Empire Square South, Empire Square, London, SE1",SE1,1.0
+86,324950.0,"Melville Court, Croft Street, London, SE8",SE8,1.0
+87,1000000.0,"Langford Green, London, SE5",SE5,5.0
+88,580000.0,"Upland Road, London, SE22",SE22,2.0
+89,625000.0,"Tamarind Court, 18 Gainsford Street, London, SE1",SE1,1.0
+90,875000.0,"River View Heights, 27 Bermondsey Wall West, London, SE16",SE16,1.0
+91,1245000.0,"Sawyer Street, Brigade Court, Southwark, SE1",SE1,3.0
+92,400000.0,"Valmar Road, Camberwell, SE5",SE5,1.0
+93,450000.0,"Candle Grove, Nunhead, London, SE15",SE15,2.0
+94,389950.0,"Middleton House, Grenard Close, Peckham, London, SE15",SE15,2.0
+100,300000.0,"Pearlec House, Walworth Place, London, SE17",SE17,1.0
+102,375000.0,"2 Beckwith Road, West Dulwich, SE24",SE24,1.0
+103,375000.0,Orb Street Kennington SE17,SE17,2.0
+104,1300000.0,"The Circle, Queen Elizabeth Street, London, SE1",SE1,2.0
+105,660000.0,Peckham Hill Street Peckham SE15,SE15,2.0
+106,670000.0,"Manor Place, SE17",SE17,2.0
+108,1450000.0,"55 Upper Ground, London, SE1",SE1,2.0
+109,575000.0,Elsted Street London SE17,SE17,3.0
+110,800000.0,Jennings Road East Dulwich SE22,SE22,2.0
+112,350000.0,"Kennoldes, Croxted Road, London, SE21",SE21,1.0
+113,600000.0,Peckham SE15,SE15,3.0
+115,1250000.0,"Oglander Road, East Dulwich London SE15",SE15,4.0
+116,1250000.0,"Chesterfield Grove, East Dulwich London SE22",SE22,4.0
+117,400000.0,Alscot Road London SE1,SE1,1.0
+119,400000.0,"Stacy Path, London, SE5 7SL",SE5,3.0
+120,575000.0,"Upland Road, East Dulwich, SE22",SE22,2.0
+122,430000.0,Aberdour Street London SE1,SE1,2.0
+123,535000.0,"Denman Road, Peckham Rye, SE15",SE15,1.0
+124,160000.0,"Gaumont House, Southwark, London, SE15",SE15,1.0
+125,599950.0,"Metro Central Heights, 119 Newington Causeway, London, SE1",SE1,2.0
+128,390000.0,"67 Green Dale, Dulwich, SE5",SE5,1.0
+129,475000.0,"Maltings Bermondsey Village, London Bridge, SE1",SE1,1.0
+131,360000.0,Smyrks Road London SE17,SE17,1.0
+132,375000.0,Marmont Road Peckham SE15,SE15,1.0
+133,550000.0,Upland Road East Dulwich SE22,SE22,2.0
+134,315000.0,Camberwell Station Road Camberwell SE5,SE5,1.0
+135,380000.0,"Tavern Quay, Rotherhithe SE16",SE16,1.0
+136,775000.0,"Kelvington Road, Nunhead, London, SE15",SE15,3.0
+137,850000.0,"Waveney Avenue, Nunhead, London, SE15",SE15,3.0
+138,350000.0,Evan Cook Close Peckham SE15,SE15,1.0
+139,575000.0,"Birch Close, Peckham, SE15",SE15,3.0
+140,410000.0,"East Dulwich Estate, Dulwich, SE22",SE22,2.0
+142,400000.0,"Doddington Grove, Kennington, SE17",SE17,2.0
+143,700000.0,"Corio House, 12 The Grange, London, SE1",SE1,2.0
+145,565000.0,"Plover Way, London, SE16",SE16,2.0
+146,1200000.0,"Glengarry Road, London, SE22",SE22,6.0
+150,500000.0,"Penton Place, Pullens Buildings, SE17",SE17,2.0
+151,650000.0,"2b Mundania Road, Dulwich, SE22",SE22,2.0
+157,465000.0,"Lymer Avenue, London, SE19",SE19,2.0
+158,500000.0,"East Dulwich Road, Peckham Rye, London, SE15",SE15,2.0
+160,425000.0,"Fenwick Road, London, SE15",SE15,3.0
+163,450000.0,"Silvester Road, London, SE22",SE22,1.0
+164,450000.0,"Grantham Court, Rotherhithe SE16",SE16,1.0
+165,525000.0,"Woods Road, Peckham, SE15",SE15,1.0
+166,619950.0,"Hillcourt Road, East Dulwich, SE22",SE22,2.0
+167,1250000.0,"Friern Road, London, SE22",SE22,5.0
+168,1325000.0,"Grove Vale, East Dulwich, London, SE22",SE22,4.0
+169,330000.0,"Barry Road, East Dulwich, London, SE22",SE22,1.0
+170,550000.0,"Besant Place, East Dulwich, London, SE22",SE22,2.0
+171,740000.0,"Steers Way, Rotherhithe SE16",SE16,3.0
+172,375000.0,"Wesley Close, London, SE17",SE17,1.0
+173,795000.0,"Elephant And Castle, London, SE1",SE1,2.0
+174,925000.0,"Portland Court, 50 Trinity Street, London, SE1",SE1,3.0
+177,485000.0,"Azenby Road, Peckham Rye , London, SE15",SE15,2.0
+183,325000.0,King Arthur Close Peckham SE15,SE15,1.0
+184,290000.0,Lettsom Street Camberwell SE5,SE5,1.0
+185,845000.0,"Tower Bridge Road,
+London,
+SE1 3JE",SE1,2.0
+186,875000.0,"Tower Bridge Road,
+London,
+SE1 3JE",SE1,2.0
+187,845000.0,"Tower Bridge Road,
+London,
+SE1 3JE",SE1,2.0
+189,410000.0,"Olney Road, SE17",SE17,3.0
+190,397500.0,"Horsman House, Bethwin Road, Camberwell, London, SE5",SE5,2.0
+191,385000.0,"Consort Road, Peckham, London, SE15",SE15,1.0
+192,375000.0,"Marcia Road, Bermondsey, London, SE1",SE1,1.0
+193,400000.0,"Mossington Gardens, Bermondsey, London, SE16",SE16,1.0
+194,675000.0,"Vesta Court, City Walk, SE1 ",SE1,2.0
+195,400000.0,"Grove Vale, East Dulwich, London, SE22",SE22,1.0
+196,315000.0,"Camberwell Road, London SE5",SE5,1.0
+197,475000.0,"Beckway Street, London SE17",SE17,3.0
+198,550000.0,"Hansler Road, London, SE22",SE22,2.0
+199,550000.0,"Corio House, 12 The Grange, London Bridge, SE1",SE1,1.0
+200,499950.0,"Underhill Road, London, SE22",SE22,3.0
+202,450000.0,"Alliance Court, Sumner Road, London, SE15",SE15,2.0
+204,450000.0,"The Gardens, East Dulwich, London, SE22",SE22,1.0
+205,450000.0,"South Croxted Road, London, SE21",SE21,2.0
+206,300000.0,"Purbrook Estate, Tower Bridge Road, London, SE1",SE1,0.0
+210,425000.0,"Wansey Street, London, SE17",SE17,1.0
+212,450000.0,"Graces Road, Camberwell, SE5",SE5,2.0
+213,325000.0,"Addy House, Rotherhithe New Road, London, SE16",SE16,2.0
+217,600000.0,"Rotherhithe New Road, Bermondsey, London, SE16",SE16,2.0
+218,350000.0,Marsland Close London SE17,SE17,1.0
+221,300000.0,"St. Georges Way, Peckham, SE15",SE15,1.0
+224,940000.0,"One The Elephant, St Gabriel's Walk, London SE1 6FS",SE1,3.0
+226,275000.0,"Stewart House, Leroy Street, London, SE1",SE1,1.0
+227,955000.0,"Cuthbert House, Brigade Court, Southwark, SE1",SE1,2.0
+228,1285000.0,"Sawyer Street, Brigade Court, Southwark, SE1",SE1,3.0
+229,1000000.0,"Davies House, Brigade Court, Southwark, SE1",SE1,2.0
+230,650000.0,"Champion Hill, London, SE5",SE5,3.0
+231,1300000.0,"Oglander Road, Peckham Rye, London, SE15",SE15,4.0
+232,900000.0,"Playfield Crescent, East Dulwich, London, SE22",SE22,4.0
+233,600000.0,"Colyton Road, East Dulwich, London, SE22",SE22,2.0
+234,1500000.0,"Barry Road, East Dulwich, London, SE22",SE22,5.0
+235,400000.0,"Cross Court, London, SE5",SE5,3.0
+236,500000.0,"Aylesbury Road, London SE17",SE17,2.0
+237,699950.0,"Muschamp Road, Peckham Rye, SE15",SE15,2.0
+238,635000.0,"Muschamp Road, Peckham Rye, SE15",SE15,2.0
+242,400000.0,"St Georges Road, Elephant and Castle, London, SE1",SE1,1.0
+244,550000.0,"Crystal Palace Road, East Dulwich, London, SE22",SE22,2.0
+245,164000.0,"Coldharbour Lane, London, SE5",SE5,2.0
+246,1175000.0,"De Laune St, SE17",SE17,2.0
+247,485000.0,"The Grange, SE1",SE1,1.0
+248,550000.0,"Crystal Palace Road, London SE22",SE22,2.0
+249,1400000.0,"50, Holland Street, SE1 9FU",SE1,2.0
+250,335000.0,"Camberwell Road,
+London,
+SE5 0EE",SE5,0.0
+253,500000.0,"Portland Court, Falmouth Road, London, SE1",SE1,1.0
+254,450000.0,Metro Central Heights SE1,SE1,2.0
+255,575000.0,"Prince Regent Court, 36 Edward Square, Rotherhithe Street, SE16",SE16,2.0
+256,840000.0,"Grosvenor Terrace, London, SE5",SE5,2.0
+257,1100000.0,"Searles Road, London, ., SE1",SE1,5.0
+258,400000.0,"Sumner Road, Peckham, SE15",SE15,1.0
+259,1200000.0,"Elm Grove, Peckham, SE15",SE15,4.0
+260,400000.0,"St. Georges Buildings, 37 St. Georges Road, London, SE1",SE1,1.0
+262,795000.0,"Tudor House, Duchess Walk, London, SE1",SE1,1.0
+263,460000.0,"Maltings Place, London, SE1",SE1,1.0
+264,350000.0,"Browning Street, Elephant and Castle, London, SE17",SE17,1.0
+265,700000.0,"Donne Court, Burbage Road, Herne Hill, SE24 9HH",SE24,2.0
+266,725000.0,"Bentham House, 7 Falmouth Road, London, SE1",SE1,2.0
+267,265000.0,"East Point, Avondale Square, London, SE1",SE1,1.0
+268,850000.0,"Grosvenor Terrace, London, SE5",SE5,2.0
+269,300000.0,"Pearlec House, Walworth Place, London, SE17",SE17,1.0
+270,550000.0,"Abbey Street, Bermondsey, SE1",SE1,2.0
+271,700000.0,"Peckham Rye, London, SE15",SE15,3.0
+272,800000.0,"Upland Road, London, SE22",SE22,3.0
+275,520000.0,"Southwark Bridge Road, Elephant & Castle, SE1",SE1,0.0
+279,435000.0,"Wooler Street, Elephant & Castle, London, SE17",SE17,2.0
+280,399999.0,"Baltic Quay, Surrey Quays SE16",SE16,1.0
+283,475000.0,"East Dulwich Road, London, SE22",SE22,1.0
+286,315000.0,Sedgmoor Place Camberwell SE5,SE5,1.0
+287,350000.0,Camberwell Road London SE5,SE5,2.0
+289,800000.0,Rainbow Street Camberwell SE5,SE5,3.0
+291,1599950.0,"Half Moon Lane London , Herne Hill, London, SE24",SE24,5.0
+293,375000.0,"Varcoe Road, London, SE16",SE16,2.0
+294,250000.0,"Melville Court, Deptford SE8",SE8,0.0
+295,1075000.0,"St. Saviours House, 21 Bermondsey Wall West, London, SE16",SE16,2.0
+296,825000.0,"Hatfields, Waterloo, SE1",SE1,2.0
+298,400000.0,"Riseholme House, East Dulwich Estate, London, SE22",SE22,2.0
+299,375000.0,"Wellington House, 148 Peckham Rye, London, SE22",SE22,1.0
+301,1100000.0,"Heber Road, East Dulwich, London, SE22",SE22,5.0
+302,1350000.0,"Dolben Street, London, SE1 0UQ",SE1,3.0
+303,550000.0,"Sumner Road, Peckham, SE15",SE15,2.0
+304,475000.0,"Latvia Court, Walworth, London, SE17",SE17,2.0
+305,695000.0,"Falcon Point, Hopton Street,  SE1 9JW",SE1,1.0
+306,425000.0,"Vine Yard, Borough, London, SE1",SE1,0.0
+307,475000.0,"Heber Road, East Dulwich, London, SE22",SE22,1.0
+308,375000.0,"103 Cobourg Road, Camberwell, SE5",SE5,1.0
+311,375000.0,Marmont Road Peckham SE15,SE15,2.0
+315,450000.0,"Plot 12, Bombay Street , Bermondsey, SE16 3UX",SE16,1.0
+316,700000.0,"Plot 17, Bombay Street , Bermondsey, SE16 3UX",SE16,3.0
+317,465000.0,"Plot 16, Bombay Street , Bermondsey, SE16 3UX",SE16,1.0
+318,475000.0,"Plot 20, Bombay Street , Bermondsey, SE16 3UX",SE16,1.0
+319,685000.0,"Plot 7, Bombay Street , Bermondsey, SE16 3UX",SE16,2.0
+323,499950.0,"Landcroft Road, East Dulwich, London, SE22",SE22,2.0
+326,900000.0,"Frogley Road, East Dulwich London SE22",SE22,3.0
+330,1250000.0,"Market Yard Mews, SE1",SE1,2.0
+331,250000.0,"Roman Way, London, SE15",SE15,1.0
+332,550000.0,"Arnold Estate, London Bridge, SE1",SE1,2.0
+333,725000.0,"Plot 21, Bombay Street , Bermondsey, SE16 3UX",SE16,3.0
+335,650000.0,"Rennie Court, 11 Upper Ground, South Bank, London, SE1",SE1,2.0
+336,475000.0,"Drake Court, London, SE19",SE19,2.0
+337,850000.0,"Ivydale Road, Nunhead, SE15",SE15,3.0
+338,475000.0,"East Dulwich Rd, East Dulwich, London SE22",SE22,2.0
+339,425000.0,Peckham Rye Peckham SE15,SE15,2.0
+341,850000.0,"Archdale Road, Dulwich, SE22",SE22,3.0
+342,260000.0,"Camberwell Station Road, London, SE5",SE5,1.0
+343,400000.0,Albany Road Camberwell SE5,SE5,2.0
+345,385000.0,"Rope Street, South Dock Marina SE16",SE16,1.0
+348,420000.0,"Wooler Street, Elephant & Castle, SE17",SE17,1.0
+349,325000.0,"31 Borland Road, Upper Nunhead, SE15",SE15,1.0
+350,450000.0,"South Croxted Road, London, SE21",SE21,2.0
+351,450000.0,"Forest Hill Road, Dulwich, SE22",SE22,2.0
+353,650000.0,"Rosler Building Ewer Street,  London, SE1",SE1,1.0
+354,765000.0,"Denman Road, Peckham Rye, SE15",SE15,2.0
+356,1325000.0,"Love Walk, Camberwell, SE5",SE5,4.0
+357,1125000.0,"16 Maltby Street, Borough, SE1",SE1,3.0
+358,975000.0,"Holmes Close, East Dulwich, SE22",SE22,3.0
+359,1850000.0,"Hitherwood Drive, London, SE19",SE19,5.0
+360,1000000.0,"Cinnamon Wharf, 24 Shad Thames, SE1",SE1,2.0
+367,575000.0,"Ivanhoe Road, Camberwell, London, SE5",SE5,2.0
+369,375000.0,"Kirkwood Road, Peckham, SE15",SE15,1.0
+370,460000.0,"Linsey Street, Southwark, London, SE16",SE16,2.0
+372,449000.0,"The Pavilion, One The Elephant, Elephant & Castle, SE1",SE1,0.0
+373,300000.0,"Woolstaplers Way, Bermondsey, SE16",SE16,1.0
+374,795000.0,"The School House, Pages Walk, SE1",SE1,2.0
+375,525000.0,"Meridian Court, East Lane, SE16",SE16,1.0
+377,350000.0,Underhill Road East Dulwich SE22,SE22,1.0
+378,350000.0,Lomond Grove Camberwell SE5,SE5,1.0
+379,500000.0,"Freda Street, London SE16",SE16,1.0
+380,400000.0,Pennethorne Road Peckham SE15,SE15,1.0
+382,475000.0,"Elgar Street, Canada Water, SE16",SE16,2.0
+384,500000.0,Underhill Road East Dulwich SE22,SE22,2.0
+385,400000.0,"Peckham Grove, Peckham, SE15",SE15,2.0
+386,500000.0,"Caraway Apartments, Cayenne Court, Curlew Street, London, SE1",SE1,1.0
+387,733000.0,"Rodney Road, Elephant & Castle, SE17",SE17,2.0
+388,425000.0,"Vestry Rd, Camberwell, SE5",SE5,1.0
+389,1300000.0,"County Grove, Camberwell, London, SE5",SE5,5.0
+392,425000.0,"22 Amelia Street, London, SE17",SE17,1.0
+393,1300000.0,"Denman Road, Peckham, SE15",SE15,4.0
+396,1250000.0,"Frankfurt Road, North Dulwich London SE24",SE24,4.0
+398,600000.0,"Montague Square, London, SE15",SE15,3.0
+399,660000.0,"The Jam Factory, Green Walk, London SE1",SE1,1.0
+400,465000.0,"Grange Walk, SE1 ",SE1,1.0
+401,370000.0,"Sophia Square, Rotherhithe SE16",SE16,1.0
+402,685000.0,"Weller Street Lofts, Borough, London, SE1",SE1,2.0
+403,400000.0,Kennington Park Road Kennington SE11,SE11,1.0
+405,350000.0,Bronti Close Walworth SE17,SE17,2.0
+406,985000.0,"Royal Oak Yard, SE1",SE1,3.0
+409,400000.0,Overhill Road London SE22,SE22,2.0
+413,360000.0,Doddington Grove Walworth SE17,SE17,1.0
+414,1500000.0,"Newspaper House, 40 Rushworth Street, London, SE1",SE1,3.0
+415,950000.0,"Colby Road , Upper Norwood, London, SE19",SE19,4.0
+416,1600000.0,"Turney Road, Dulwich Village London SE21",SE21,4.0
+418,525000.0,"Triangle court , Camberwell , London, SE5 0AT",SE5,2.0
+421,325000.0,"Rotherhithe New Road, Surrey Quays SE16",SE16,2.0
+423,400000.0,"Sturdy Road, Peckham, London, SE15",SE15,1.0
+424,320000.0,"Ivanhoe Road, Camberwell, London, SE5",SE5,1.0
+425,450000.0,"South Croxted Road, London, SE21",SE21,2.0
+426,450000.0,"Grove Park, Camberwell, London, SE5",SE5,1.0
+427,379950.0,"Copleston Road, Peckham Rye, London, SE15",SE15,1.0
+428,550000.0,"Copleston Road, Peckham Rye, London, SE15",SE15,2.0
+430,750000.0,"Friern Road, Dulwich, SE22",SE22,3.0
+431,565000.0,"Lancaster Street, London, SE1",SE1,1.0
+432,650000.0,"Peckham Rye, Peckham Rye, London, SE15",SE15,1.0
+435,725000.0,"Hayles Street, Kennington, SE11",SE11,2.0
+436,525000.0,"Garden Flat Cheltenham Road,  London, SE15",SE15,2.0
+437,450000.0,"Marine Street, London SE16",SE16,1.0
+445,400000.0,Friary Road London SE15,SE15,1.0
+449,725000.0,"Caraway Apartments, 2 Cayenne Court, London, SE1",SE1,1.0
+452,460000.0,Queens Road Peckham SE15,SE15,1.0
+453,450000.0,Queens Road Peckham SE15,SE15,1.0
+454,300000.0,Asylum Road Peckham SE15,SE15,1.0
+455,435000.0,Queens Road Peckham SE15,SE15,1.0
+459,899950.0,"Ardbeg Road, Herne Hill, London, SE24",SE24,3.0
+460,525000.0,"Gerridge Court Gerridge Street, London, SE1",SE1,2.0
+462,320000.0,"Overhill Road, East Dulwich, London, SE22",SE22,1.0
+463,425000.0,Hatfields SE1,SE1,1.0
+465,379950.0,"Copleston Road, East Dulwich, London, SE15",SE15,1.0
+470,475000.0,"St James's Road, Bermondsey, London, SE1",SE1,1.0
+471,230000.0,"Linwood Close, Camberwell, London, SE5",SE5,0.0
+472,430000.0,"Acorn Walk, Rotherhithe SE16",SE16,2.0
+473,435000.0,Southampton Way London SE5,SE5,3.0
+475,700000.0,"Walworth Road, London, SE1",SE1,2.0
+476,400000.0,Allendale Close Cambewrell SE5,SE5,1.0
+477,1000000.0,Weller Street SE1,SE1,2.0
+478,350000.0,Granville Square London SE15,SE15,2.0
+480,750000.0,"Blue Anchor Lane, London, SE16",SE16,2.0
+481,600000.0,"Harwood Point, 307 Rotherhithe Street, Rotherhithe, SE16",SE16,2.0
+482,625000.0,"Pilgrim House, Rotherhithe SE16",SE16,2.0
+483,500000.0,"Canon Beck Road, Rotherhithe SE16",SE16,2.0
+484,325000.0,"Caleb Court, Milkwell Yard, London, SE5 9PH",SE5,1.0
+486,400000.0,"114 Commercial Way, Peckham, SE15",SE15,2.0
+489,635000.0,"John Ruskin Street, Camberwell, London, SE5",SE5,2.0
+490,450000.0,"Upland Road, East Dulwich, London, SE22",SE22,1.0
+491,600000.0,"Underhill Road, Dulwich, SE22",SE22,2.0
+492,485000.0,Penrose Street Walworth SE17,SE17,3.0
+493,335000.0,Don Phelan Close Camberwell SE5,SE5,1.0
+494,400000.0,Sedgmoor Place Camberwell SE5,SE5,3.0
+495,385000.0,Peckham Road Camberwell SE5,SE5,2.0
+496,850000.0,"Butterworth Terrace, Sutherland Walk, London SE17",SE17,4.0
+497,950000.0,"Fendall Street, SE1",SE1,2.0
+498,575000.0,"Butlers & Colonial Wharf, 10 Shad Thames, London, SE1",SE1,1.0
+500,1000000.0,"Davies House, Brigade Court, Southwark, SE1",SE1,2.0
+505,565000.0,"Roffo Court, Boyson Road, London, SE17",SE17,3.0
+506,1150000.0,"Rodwell Road, East Dulwich, London, SE22",SE22,4.0
+507,575000.0,"Aura Court, 163 Peckham Rye, London, SE15",SE15,2.0
+508,1000000.0,"Upland Road, East Dulwich, London, SE22",SE22,4.0
+509,475000.0,"The Gardens, East Dulwich, London, SE22",SE22,2.0
+510,1195000.0,"Grange  Road, SE1 ",SE1,4.0
+512,625000.0,"Underhill Road, Dulwich, SE22",SE22,2.0
+513,499999.0,"Streamline Mews, London SE22",SE22,2.0
+514,284000.0,"Daniel Gardens, London SE15",SE15,1.0
+515,575000.0,"Borough High Street, London, SE1",SE1,1.0
+516,465000.0,"St. Francis Road, London, SE22",SE22,1.0
+517,600000.0,"Hayes Grove, Denmark Hill, SE22",SE22,2.0
+518,374999.0,"Rodney Road, Elephant and Castle, SE17",SE17,2.0
+519,260000.0,St. Saviours Estate Bermondsey SE1,SE1,0.0
+520,230000.0,"Linden Grove, Nunhead, SE15",SE15,0.0
+521,1900000.0,"Townley Road, Dulwich, London, SE22",SE22,5.0
+522,450000.0,Hillingdon Street London SE17,SE17,3.0
+524,300000.0,"Bird in Bush Road, Peckham, London, SE15",SE15,1.0
+525,699995.0,"Cinnamon Wharf, Shad Thames, SE1",SE1,1.0
+526,525000.0,"Beacon Gate, New Cross, SE14",SE14,2.0
+527,1500000.0,"Keppel Row, London, SE1",SE1,3.0
+528,425000.0,"South City Court, Peckham, SE15",SE15,2.0
+529,1450000.0,"Tannery Lofts, Tower Bridge Road, London, SE1",SE1,2.0
+530,715000.0,"The School House, Pages Walk, London, SE1",SE1,2.0
+531,600000.0,"5 Verney Road, South Bermondsey, SE16",SE16,3.0
+532,459950.0,"Queens Row, Walworth, London, SE17",SE17,1.0
+533,3750000.0,"Doyce Street, London SE1",SE1,3.0
+535,1000000.0,Lordship Lane East Dulwich SE22,SE22,5.0
+536,225000.0,"Kirby Estate, Southwark Park Road, London, SE16",SE16,0.0
+537,350000.0,"Copped Hall, Croxted Road, SE21",SE21,1.0
+538,225000.0,"Rennie Estate, London, SE16",SE16,0.0
+539,1075000.0,"St. Georges Wharf, 6 Shad Thames, London, SE1",SE1,2.0
+541,485000.0,"Adams Gardens Estate, London, SE16 4JH",SE16,3.0
+542,545000.0,"Surrey Road, Nunhead, SE15",SE15,2.0
+543,430000.0,Harold Estate Pages Walk SE1,SE1,2.0
+550,450000.0,"Plot 12, Bombay Street , Bermondsey, SE16 3UX",SE16,1.0
+551,950000.0,"Landells Road, East Dulwich, London, SE22",SE22,4.0
+552,600000.0,"Underhill Road, East Dulwich, London, SE22",SE22,2.0
+553,350000.0,"Friern Road, East Dulwich, London, SE22",SE22,2.0
+554,1500000.0,"St. Georges Wharf, 6 Shad Thames, London, SE1",SE1,3.0
+556,900000.0,"Southbank Tower 55 Upper Ground, London, SE1",SE1,1.0
+557,825000.0,"Fraser Court, 1 Brockham Street, London, SE1",SE1,3.0
+559,645000.0,Danson Mews SE17,SE17,2.0
+560,550000.0,"Philip Walk, Peckham, SE15",SE15,2.0
+562,1000000.0,"John Ruskin Street, London, SE5",SE5,3.0
+563,550000.0,"Underhill Road, East Dulwich, London, SE22",SE22,2.0
+566,480000.0,"St. Georges Court, Garden Row, London, SE1",SE1,2.0
+567,1750000.0,"Austral Street, London SE11",SE11,4.0
+568,495000.0,Bermondsey Street Tyers Estate SE1,SE1,2.0
+569,475000.0,"95 Alscot Road, London, SE1",SE1,2.0
+575,425000.0,"Wansey Street, London, SE17",SE17,1.0
+576,725000.0,"York Grove, Peckham, London, SE15",SE15,3.0
+577,615000.0,Crystal Palace Road East Dulwich SE22,SE22,2.0
+578,550000.0,"Wilmot House, George Mathers Road, SE11",SE11,2.0
+579,730000.0,"The Tower, One The Elephant, London SE1",SE1,2.0
+580,690000.0,"Mansfield Point, Rodney Road, London, SE17",SE17,2.0
+581,999950.0," St. Aidans Road,  London, SE22",SE22,4.0
+582,700000.0,Brook Drive Kennington SE11,SE11,2.0
+583,450000.0,"Beechdene, Peckham, London, SE15",SE15,3.0
+584,1300000.0,"Great Spilmans, Dulwich, London, SE22",SE22,4.0
+586,1795000.0,"The Penthouse, Globe Wharf, SE16",SE16,3.0
+587,450000.0,Linwood Close London SE5,SE5,2.0
+588,400000.0,"Bredinghurst, Dulwich SE22",SE22,2.0
+589,525000.0,"3a Blenheim Grove, Peckham, SE15",SE15,2.0
+591,1350000.0,"Derwent Grove, East Dulwich, London, SE22",SE22,4.0
+592,1150000.0,"Rodwell Road, East Dulwich, London, SE22",SE22,5.0
+593,575000.0,"East Dulwich Grove, East Dulwich, London, SE22",SE22,2.0
+594,625000.0,"Brandon Street, London, SE17",SE17,3.0
+595,525000.0,"Meridian Court, East Lane, SE16",SE16,1.0
+596,335000.0,"Wood Vale, Forest Hill, London, SE23",SE23,1.0
+599,1250000.0,"Maxted Road, Peckham, SE15",SE15,4.0
+600,375000.0,"Marcia Road, Bermondsey, London, SE1",SE1,1.0
+607,545000.0,"One The Elephant, St Gabriel Walk, Elephant and Castle, SE1",SE1,1.0
+609,550000.0,"Tarling House, Elephant Park, London, SE17",SE17,1.0
+611,575000.0,Rodwell Road East Dulwich SE22,SE22,2.0
+612,500000.0,"Baltic Quay, 1 Sweden Gate, London, SE16",SE16,2.0
+613,875000.0,"Rennie Court, 11 Upper Ground, South Bank, London, SE1",SE1,2.0
+614,285000.0,"Investment Opportunity: One Bedroom Flat, Canada Estate, SE16",SE16,1.0
+615,315000.0,Harris Street Camberwell SE5,SE5,1.0
+616,450000.0,"Ingall House 8A Dulwich Wood Park,  London, SE19",SE19,2.0
+617,1250000.0,Underhill Road East Dulwich SE22,SE22,6.0
+618,280000.0,"Talfourd Road, Peckham, SE15",SE15,0.0
+619,300000.0,"Fearnley House, Vestry Road , London, SE5 8JR",SE5,1.0
+620,875000.0,"Cheltenham Road, Nunhead, London, SE15",SE15,3.0
+621,765000.0,"Lordship Lane, East Dulwich, SE22",SE22,2.0
+622,510000.0,"Leathermarket Court, Bermondsey SE1",SE1,1.0
+624,700000.0,"Prioress Street, London, SE1",SE1,3.0
+627,425000.0,"Clifton Way, Peckham, SE15",SE15,2.0
+629,2463800.0,"Earls Way, London, SE1",SE1,2.0
+631,425000.0,"Blenheim Court, King & Queen Wharf, Rotherhithe Street, London, SE16",SE16,1.0
+632,400000.0,"Flowers Avenue, Ruislip, HA4",HA4,2.0
+633,1300000.0,"Amott Road, Peckham, London, SE15",SE15,6.0
+634,900000.0,"Austins Court, 1 Peckham Rye, London, SE15",SE15,4.0
+635,2450000.0,"Butlers Wharf Building, 36 Shad Thames, London, SE1",SE1,3.0
+637,800000.0,"Chadwick Road, Peckham, SE15",SE15,3.0
+638,5000000.0,"Village Way, Dulwich Village, London, SE21",SE21,8.0
+644,600000.0,"Abbotswood Road, East Dulwich, London, SE22",SE22,2.0
+645,1400000.0,"Hansler Road, East Dulwich, London, SE22",SE22,5.0
+646,825000.0,"Trocette Mansions, 249 Bermondsey Street, London, SE1",SE1,2.0
+647,490000.0,"Sumner Buildings, Sumner Street, London, SE1",SE1,1.0
+648,675000.0,"Walworth Road, London, SE1",SE1,2.0
+650,380000.0,"Peckham Grove, London, SE15",SE15,2.0
+652,500000.0,"Baltic Quay, 1 Sweden Gate, London, SE16",SE16,2.0
+653,325000.0,Rye Hill Park SE15,SE15,1.0
+654,580000.0,"Hurlock Heights , Elephant Park, Elephant & Castle SE17",SE17,0.0
+655,480000.0,"251 Southwark Bridge Road, SE1",SE1,0.0
+656,500000.0,Dewar Street Peckham SE15,SE15,2.0
+657,900000.0,"Denmark Road, Camberwell, SE5",SE5,3.0
+659,700000.0,"Newington Causeway, London Bridge, London, SE1",SE1,3.0
+660,465000.0,"Burwash House, SE1",SE1,2.0
+661,599000.0,"Emperor Apartments, SE5",SE5,2.0
+662,2750000.0,"Stables Lodge, Beltwood Park Residences, London SE26 6TH",SE26,4.0
+663,850000.0,"Townley Road, Dulwich, London, SE22",SE22,3.0
+665,1055000.0,"58 Grange Road,
+Bermondsey,
+London,
+SE1",SE1,3.0
+667,575000.0,"2 Dunnage Crescent, London, SE16",SE16,2.0
+668,325000.0,Borland Road Peckham SE15,SE15,1.0
+671,925000.0,"Portland Court, 50 Trinity Street, London, SE1",SE1,3.0
+672,400000.0,Peckham Road London SE5,SE5,3.0
+673,365000.0,Lomond Grove London SE5,SE5,1.0
+674,630000.0,"Constable Walk, Dulwich, London, SE21",SE21,3.0
+675,700000.0,"Donne Court, Burbage Road, Herne Hill, SE24 9HH",SE24,2.0
+676,800000.0,"Arc House, 82 Tanner Street, London, SE1",SE1,2.0
+678,630000.0,College Road Dulwich SE21,SE21,3.0
+679,975000.0,Dunstans Road East Dulwich SE22,SE22,4.0
+683,900000.0,"Cheltenham Road, London, SE15",SE15,3.0
+686,325000.0,"North Cross Road, East Dulwich, London, SE22",SE22,1.0
+687,950000.0,"Dunstans Road, London, SE22",SE22,4.0
+688,375000.0,"Brenchley Gardens, Forest Hill, London, SE23",SE23,2.0
+689,550000.0,"Silvester Road, London, SE22",SE22,2.0
+690,500000.0,"Stanton House, 620 Rotherhithe Street, Rotherhithe, SE16",SE16,2.0
+691,1100000.0,"Tower Bridge Road, London, SE1",SE1,3.0
+692,300000.0,"Kingswood Estate, Sydenham Hill, SE21",SE21,2.0
+694,335000.0,"Underhill Road, London SE22",SE22,1.0
+695,340000.0,"Underhill Road, London SE22",SE22,1.0
+696,379250.0,"Staffordshire Street, London SE15",SE15,2.0
+698,699995.0,Pelham Close Grove Park SE5,SE5,3.0
+700,550000.0,"Crystal Palace Road, London SE22",SE22,2.0
+702,467500.0,"John Maurice Close, London, SE17",SE17,2.0
+705,499000.0,"Grange Road, SE1 ",SE1,1.0
+707,550000.0,"Hamilton Square, Kipling Street, London, SE1",SE1,2.0
+708,705000.0,"Abbotswood Road, East Dulwich, SE22",SE22,2.0
+709,795000.0,"Newhams Row, SE1 ",SE1,2.0
+710,375000.0,Becket House SE1,SE1,1.0
+711,575000.0,Newington Causeway SE1,SE1,2.0
+712,550000.0,"Hichisson Road, Nunhead, SE15",SE15,2.0
+713,375000.0,"Kendrick Court, 27 Woods Road, Peckham, SE15",SE15,2.0
+714,425000.0,"St. Aidans Road, London, SE22",SE22,1.0
+716,375000.0,Bushwood Drive London SE1,SE1,2.0
+717,1025000.0,"Waterloo Road, Waterloo, London, SE1",SE1,2.0
+718,925000.0,"Maltings Place, London Bridge, SE1",SE1,3.0
+723,345000.0,"St. Georges Way, Peckham, London, SE15",SE15,1.0
+724,309950.0,"Peckham Rye, London, SE15",SE15,2.0
+725,740000.0,"Steers Way, Rotherhithe SE16",SE16,3.0
+726,625000.0,"Melford Road, Dulwich, SE22",SE22,2.0
+727,225000.0,"Greenland Dock, Surrey Quays SE16",SE16,2.0
+728,675000.0,"Glengarry Road, East Dulwich, London, SE22",SE22,3.0
+729,575000.0,"Rotherhithe Street, Canada Water, SE16",SE16,3.0
+730,325000.0,Hopewell Street Camberwell SE5,SE5,1.0
+731,725000.0,"Bolanachi Building, Spa Road, London, SE16",SE16,2.0
+732,825000.0,"Lugard Road, Nunhead, London, SE15",SE15,3.0
+733,425000.0,"Honor Oak Rise, Honor Oak, SE23",SE23,2.0
+734,1600000.0,"Bankside Lofts, Hopton Street, SE1",SE1,2.0
+737,495000.0,"Odessa Wharf, 7 Odessa Street, London, SE16",SE16,2.0
+738,500000.0,"Crystal Palace Road, East Dulwich, London, SE22",SE22,2.0
+739,1000000.0,"Dunstans Road, East Dulwich, London, SE22",SE22,4.0
+740,425000.0,"Nutfield Road, East Dulwich, London, SE22",SE22,1.0
+741,1250000.0,"Barry Road, East Dulwich, London, SE22",SE22,5.0
+742,460000.0,"The Strata, Walworth Road, Elephant and Castle, London, SE1",SE1,1.0
+743,749950.0,"Glasshill Street, Southwark, London, SE1",SE1,2.0
+744,400000.0,"Sun Passage, Bermondsey, SE16 4AF",SE16,1.0
+747,495000.0,Great Suffolk St SE1,SE1,1.0
+748,700000.0,Monnow Road London SE1,SE1,3.0
+749,280000.0,"Friary Estate, Peckham, SE15",SE15,1.0
+750,585000.0,"St. Gabriel Walk, London, SE1",SE1,1.0
+751,565000.0,Maltby Street SE1,SE1,1.0
+752,525000.0,"Alliance Court, Sumner Road, Peckham, London, SE15",SE15,2.0
+753,950000.0,Henshaw Street London SE17,SE17,3.0
+755,749999.0,"St. Georges Cottages, Glasshill Street, London, SE1",SE1,2.0
+756,400000.0,"Colyton Road, East Dulwich, London, SE22",SE22,1.0
+757,899995.0,The Grange London SE1,SE1,2.0
+758,375000.0,"Peckham Rye, Peckham Rye, London SE22",SE22,1.0
+760,999000.0,"Colour House, Bell Yard Mews, London Bridge, SE1",SE1,2.0
+761,495000.0,"Highwood Close, East Dulwich, London, SE22",SE22,2.0
+762,1950000.0,"Townley Road , London, SE22",SE22,4.0
+766,335000.0,"Camberwell Road,
+London,
+SE5 0EE",SE5,0.0
+767,437500.0,"Camberwell Road,
+London,
+SE5 0EE",SE5,1.0
+768,655000.0,"Camberwell Road,
+London,
+SE5 0EE",SE5,2.0
+769,580000.0,"Camberwell Road,
+London,
+SE5 0EE",SE5,2.0
+770,550000.0,"Camberwell Road,
+London,
+SE5 0EE",SE5,2.0
+771,685000.0,"Camberwell Road,
+London,
+SE5 0EE",SE5,3.0
+774,475000.0,"Elmington Road, London, SE5",SE5,2.0
+775,625000.0,"East Street, London SE17",SE17,3.0
+776,400000.0,King & Queen Wharf SE16,SE16,1.0
+777,649950.0,Leroy Street London SE1,SE1,2.0
+778,950000.0,"Butlers and Colonial Wharf, Shad Thames, SE1",SE1,2.0
+779,1000000.0,"Ryedale, London, SE22",SE22,4.0
+780,500000.0,"Grove Lane, Camberwell, London, SE5",SE5,1.0
+781,1995000.0,"Highshore Road, Peckham Rye, SE15",SE15,4.0
+782,1250000.0,"Machell Road, Nunhead, SE15",SE15,4.0
+783,650000.0,"Overhill Road, East Dulwich, London, SE22",SE22,2.0
+784,825000.0,"Three Oak Lane, London, SE1",SE1,2.0
+785,400000.0,"Ledbury House, East Dulwich Estate, London, SE22",SE22,2.0
+786,975000.0,"The Cedar Penthouse, Woodland Crescent, SE16",SE16,2.0
+787,760000.0,"Bermondsey Street, London, SE1",SE1,2.0
+788,350000.0,Glengall Road Peckham SE15,SE15,1.0
+789,420000.0,"Peckham Rye, Peckham Rye, London, SE15",SE15,1.0
+791,525000.0,"Brook Drive, Kennington SE11",SE11,2.0
+792,375000.0,"Burbage Close, London, SE1",SE1,2.0
+796,925000.0,"Hulme Place, Borough, SE1",SE1,3.0
+797,350000.0,Melford Road East Dulwich SE22,SE22,2.0
+798,875000.0,"Buckstone Apartments, Blackfriars Circus, London, SE1",SE1,2.0
+799,525000.0,"St Agnes Place, SE11",SE11,3.0
+800,800000.0,"Grange Road, London, SE1",SE1,3.0
+801,495000.0,"238 St. James's Road, Bermondsey, SE1",SE1,2.0
+803,585000.0,"St. Gabriel Walk, London, SE1",SE1,1.0
+804,900000.0,"Grove Lane, London SE5",SE5,3.0
+805,400000.0,"East Dulwich Estate, Dulwich, SE22",SE22,2.0
+806,1225000.0,"Relf Road, Peckham Rye, SE15",SE15,4.0
+808,450000.0,"Layard Square, Bermondsey SE16",SE16,3.0
+809,450000.0,Grove Vale East Dulwich SE22,SE22,2.0
+812,500000.0,"12 Steedman Street, Elephant & Castle, SE17",SE17,1.0
+814,900000.0,"St. Saviours House, 21 Bermondsey Wall West, London, SE16",SE16,2.0
+816,900000.0,"St. Saviours House, 21 Bermondsey Wall West, London, SE16",SE16,2.0
+817,675000.0,"Southampton Way, Camberwell, SE5",SE5,2.0
+819,945000.0,"58 Grange Road,
+Bermondsey,
+London,
+SE1",SE1,2.0
+820,1085000.0,"58 Grange Road,
+Bermondsey,
+London,
+SE1",SE1,3.0
+821,1140000.0,"58 Grange Road,
+Bermondsey,
+London,
+SE1",SE1,2.0
+822,1250000.0,"58 Grange Road,
+Bermondsey,
+London,
+SE1",SE1,3.0
+823,1300000.0,"58 Grange Road,
+Bermondsey,
+London,
+SE1",SE1,3.0
+824,1300000.0,"58 Grange Road,
+Bermondsey,
+London,
+SE1",SE1,3.0
+825,750000.0,"Butlers & Colonial Wharf, Shad Thames, London, SE1",SE1,1.0
+826,1410000.0,"58 Grange Road,
+Bermondsey,
+London,
+SE1",SE1,3.0
+827,1600000.0,"Upland Road, East Dulwich, London, SE22",SE22,6.0
+828,360000.0,Henley Drive SE1,SE1,2.0
+829,545000.0,"Chancellor House, Rotherhithe SE16",SE16,2.0
+831,899950.0,"Hobbs Court, Jacob Street, SE1",SE1,2.0
+832,485000.0,"Sydenham Hill, London, SE26",SE26,2.0
+833,350000.0,Eveline Lowe Estate Bermondsey SE16,SE16,2.0
+834,435000.0,"Finland Street, Surrey Docks SE16",SE16,2.0
+840,379950.0,"Larch House, Ainsty Estate, London, SE16",SE16,2.0
+841,450000.0,"Highwood Close, East Dulwich, London, SE22",SE22,2.0
+842,450000.0,"Tawny Way, London, SE16",SE16,3.0
+843,850000.0,"Dowlas Street, London SE5",SE5,4.0
+844,350000.0,"Walworth Road, Elephant and Castle, London, SE1",SE1,0.0
+845,1395000.0,"Rose Stapleton Terrace, Pages Walk, SE1  ",SE1,4.0
+846,500000.0,"Arments Court, Albany Road, Camberwell SE5",SE5,2.0
+850,425000.0,"Bellenden Road, Peckham Rye, London, SE15",SE15,1.0
+851,680000.0,"Mundania Road, Dulwich, SE22",SE22,2.0
+852,699950.0,"Lyndhurst Way, Peckham Rye, SE15",SE15,2.0
+854,595000.0,"The Circle, Queen Elizabeth Street, London, SE1",SE1,1.0
+855,625000.0,"Spa Road, London, SE16",SE16,2.0
+858,300000.0,"Queens Road, London, SE15",SE15,1.0
+859,575000.0,"Garden Flat Goodrich Road,  London, SE22",SE22,2.0
+861,550000.0,"Southwark Bridge Road, London, SE1",SE1,1.0
+862,500000.0,"Queens Road, Peckham, SE15",SE15,2.0
+864,1325000.0,"Beauval Road, London, SE22",SE22,4.0
+865,325000.0,"Lower Road, London, SE16",SE16,1.0
+867,1525000.0,Pickwick Road Dulwich Village SE21 7JW,SE21,5.0
+868,325000.0,"Crossmount House, Camberwell SE5",SE5,2.0
+869,290000.0,Melford Road East Dulwich SE22,SE22,1.0
+873,450000.0,"Denmark Hill, SE5 8AA",SE5,2.0
+876,399995.0," 3 Calypso Crescent,  London, SE15",SE15,2.0
+877,995000.0,"Larcom Street, London, SE17",SE17,4.0
+878,445000.0,"Metro Central Heights, Elephant & Castle, SE1",SE1,2.0
+879,835000.0,"Trafalgar Street, London, SE17",SE17,3.0
+880,335000.0,"Peckham Rye, Peckham, SE15",SE15,2.0
+882,1700000.0,"Barry Road, London, SE22",SE22,6.0
+883,450000.0,"Colyton Road, East Dulwich, London, SE22",SE22,1.0
+884,475000.0,"Overhill Road, East Dulwich, London, SE22",SE22,1.0
+885,475000.0,"Lordship Lane, East Dulwich, London, SE22",SE22,2.0
+886,475000.0,"Haven Way, London, SE1",SE1,1.0
+887,550000.0,"Oxenford Street, Peckham, SE15",SE15,2.0
+888,360000.0,"Keswick House  Camberwell, SE5 9NL",SE5,2.0
+889,530000.0," Ayres Court, 74 New Church Road, SE5 7FA",SE5,2.0
+890,735000.0,"Bell Yard Mews, London, SE1",SE1,2.0
+891,8950000.0,"The Riverside Apartment, Anchor Brewhouse, 50 Shad Thames, London, SE1",SE1,3.0
+892,420000.0,"516 Lordship Lane, East Dulwich, London, SE22",SE22,2.0
+893,1250000.0,"NEO Bankside, Southwark, SE1",SE1,2.0
+894,815000.0,"Sultan House, St James's Road, SE1",SE1,3.0
+895,925000.0,"Tower Bridge Road, London Bridge, London, SE1",SE1,3.0
+896,525000.0,Underhill Road East Dulwich SE22,SE22,2.0
+897,450000.0,"Eastwell House, Weston Street, Waterloo, London, SE1",SE1,2.0
+898,1250000.0,"Bromar Road, Camberwell, SE5",SE5,4.0
+899,475000.0,"Grange Gardens, 1 Haven Way, London, SE1",SE1,1.0
+902,500000.0,"Penton Place, Pullens Buildings, SE17",SE17,2.0
+904,395000.0,"Olney Road, London, SE17",SE17,2.0
+905,900000.0,"Rotherhithe Street, Rotherhithe, London, SE16",SE16,2.0
+909,925000.0,Brunswick Court Bermondsey SE1,SE1,3.0
+910,750000.0,"Bromar Road, London, SE5",SE5,3.0
+912,425000.0,Bath Close Peckham SE15,SE15,2.0
+913,1500000.0,"West Square, London, SE11",SE11,4.0
+916,3500000.0,"Grove Park, London, SE5",SE5,7.0
+920,525000.0,"85 Crampton Street, Elephant & Castle, SE17",SE17,2.0
+922,875000.0,"Oglander Road, Peckham Rye, London, SE15",SE15,3.0
+923,2750000.0,"Peckham Rye, East Dulwich, London, SE22",SE22,5.0
+924,625000.0,"Elephant Park, Elephant & Castle, London SE17",SE17,1.0
+925,700000.0,"Walworth Road, London, SE1",SE1,2.0
+927,2200000.0,"Flat 1, Flat 2 And Office, 5 Risborough Street, London, Greater London, SE1 0HF",SE1,3.0
+929,400000.0,"Sears Street, Camberwell, London, SE5",SE5,1.0
+930,550000.0,"Redwood Park, Canada Water, SE16",SE16,2.0
+931,356250.0,"Buller Close., Peckham, London, SE15",SE15,2.0
+932,1200000.0,Lyndhurst Grove Peckham SE15,SE15,4.0
+933,1590000.0,"Court Lane, Dulwich, London, SE21",SE21,4.0
+934,475000.0,"Corelli Court, Bermondsey SE1",SE1,2.0
+935,1800000.0,"Pavilion C, NEO Bankside, SE1 9NX",SE1,2.0
+936,425000.0,"Herne Hill, London, SE24",SE24,1.0
+937,499950.0,"Underhill Road, East Dulwich, London, SE22",SE22,3.0
+938,500000.0,"East Surrey Grove, Peckham, London, .., SE15",SE15,4.0
+939,1750000.0,"Holly Grove, London SE15",SE15,5.0
+940,1400000.0,"Tea Trade Wharf, Shad Thames, London, SE1",SE1,2.0
+942,550000.0,"Shenley Road, Camberwell, London, SE5",SE5,2.0
+944,530000.0,"Trafalgar Place, Elephant & Castle, London SE17",SE17,1.0
+945,375000.0,Chaucer Drive Bermondsey SE1,SE1,2.0
+946,300000.0,"Kelly Avenue, Peckham, London, SE15",SE15,1.0
+947,479995.0,"Pullens Buildings, Penton Place, Walworth, London, SE17",SE17,1.0
+950,450000.0,"South Croxted Road, London, SE21",SE21,2.0
+951,650000.0,"North Cross Road, East Dulwich, London, SE22",SE22,2.0
+952,510000.0,"6 Burrows Mews, South Bank, London SE1 8LD",SE1,1.0
+953,750000.0,Bromar Road Camberwell SE5,SE5,3.0
+954,315000.0,Linwood Close Camberwell SE5,SE5,1.0
+956,465000.0,"Tanners Yard, Long Lane, SE1 ",SE1,1.0
+957,1150000.0,"Choumert Road, London, SE15",SE15,4.0
+960,425000.0,"Scena Way, Scena Way, Camberwell, SE5",SE5,1.0
+962,300000.0,"Roman Way, London, SE15",SE15,1.0
+963,375000.0,"Dartford Street, Elephant & Castle, SE17",SE17,2.0
+964,600000.0,"Caraway Building, 2 Cayenne Court, Curlew Street, SE1",SE1,1.0
+965,950000.0,"One Blackfriars, 1-16 Blackfriars Road, Blackfriars, SE1",SE1,1.0
+966,675000.0,"The Residence, Globe View House, Blackfriars Road, Se1, SE1",Se1,1.0
+967,500000.0,"Adys Road, Peckham Rye, London, SE15",SE15,2.0
+968,425000.0,"Lordship Lane, East Dulwich, London, SE22",SE22,1.0
+969,2250000.0,"South Bank Tower, 55 Upper Ground, South Bank, SE1",SE1,2.0
+970,585000.0,"Melbway House, 18 Meadow Row, London, SE1",SE1,2.0
+971,250000.0,"Bethwin Road, Camberwell, London, SE5",SE5,0.0
+975,1100000.0,"24 New Globe Walk, London, SE1",SE1,2.0
+976,425000.0,"Overhill Road, Dulwich, SE22",SE22,3.0
+977,2675000.0,"Hambledon Place, London, SE21",SE21,5.0
+978,2555000.0,"Hambledon Place, Dulwich, London, SE21",SE21,5.0
+979,465000.0,"Yarnfield Square, Peckham, London, SE15",SE15,2.0
+980,550000.0,"Walworth Road, SE1, Elephant and Castle, London, SE1",SE1,2.0
+981,600000.0,"Arnold Estate, Shad Thames, London, SE1",SE1,3.0
+982,680000.0,"Bellamys Court, Rotherhithe, London, SE16",SE16,3.0
+983,899999.0,"Waterloo Road, Waterloo, London, SE1",SE1,2.0
+984,350000.0,Evan Cook Close Peckham SE15,SE15,1.0
+985,425000.0,Winchester Close London SE17,SE17,2.0
+987,950000.0,"Hestia House, City Walk, London Bridge, SE1",SE1,2.0
+989,245000.0,"Choumert Road, Peckham, London, SE15",SE15,1.0
+992,550000.0,"Walworth Road, London, SE1",SE1,2.0
+994,350000.0,East Street Walworth SE17,SE17,2.0
+995,475000.0,"Prospect House, Frean Street, London, SE16",SE16,1.0
+996,475000.0,"Cherry Garden Street, London, SE16",SE16,3.0
+997,650000.0,"Redcross Way, London, SE1",SE1,3.0
+998,500000.0,Bird In Bush Road Peckham SE15,SE15,2.0
+999,635000.0,"Leathermarket Street, London Bridge, London, SE1",SE1,2.0
+1000,450000.0,"South Croxted Road, London, SE21",SE21,2.0
+1001,825000.0,"Henley Drive, SE1",SE1,3.0
+1003,450000.0,"Scylla Road, Nunhead, London, SE15",SE15,1.0
+1004,2000000.0,"South Bank Tower, 55 Upper Ground, London, SE1",SE1,2.0
+1005,750000.0,"Lant Street, London, SE1",SE1,2.0
+1006,650000.0,"Surrey Quays Road, Canada Water, London, SE16",SE16,2.0
+1007,475000.0,"Therapia Road, East Dulwich, London, SE22",SE22,2.0
+1008,650000.0,"Webber Street, London, SE1",SE1,2.0
+1009,3495000.0,"Blackfriars Road, London, SE1",SE1,3.0
+1011,325000.0,Elmington Road Camberwell SE5,SE5,1.0
+1017,275000.0,"Wood Vale, Forest Hill, SE23",SE23,1.0
+1018,450000.0,"Maxted Road, Bellenden Village / Peckham Rye, SE15",SE15,2.0
+1022,549950.0,"Rotherhithe Street, London, SE16",SE16,1.0
+1023,650000.0,Ethnard Road Peckham SE15,SE15,3.0
+1027,675000.0,"Howell Walk, London, SE1",SE1,3.0
+1028,450000.0,Wyndham Road Camberwell SE5,SE5,2.0
+1029,415000.0,"Neckinger, London, SE16",SE16,2.0
+1030,329950.0,"Marden Square, London, SE16",SE16,1.0
+1031,550000.0,"Dunstans Road, SE22",SE22,3.0
+1033,425000.0,Neckinger Estate London SE16,SE16,2.0
+1034,915000.0,"Vogans Mill Wharf, 17 Mill Street, London, SE1",SE1,2.0
+1035,525000.0,"Old Canal Mews, Peckham SE15",SE15,2.0
+1036,475000.0,"Bridge View Court, SE1",SE1,1.0
+1037,425000.0,"Garter Way, Rotherhithe, London, SE16",SE16,1.0
+1038,1470000.0,"Vogans Mill Wharf, 17 Mill Street, London, SE1",SE1,3.0
+1041,1400000.0,"Friern Road, East Dulwich, London, SE22",SE22,5.0
+1042,525000.0,"Old Canal Mews, Peckham, SE15",SE15,2.0
+1044,900000.0,"Melford Road, Dulwich, SE22",SE22,3.0
+1045,450000.0,"Grove Vale, London, SE22",SE22,2.0
+1046,899950.0,"Montpelier Road, London, SE15",SE15,4.0
+1047,550000.0,Hindmans Road East Dulwich SE22,SE22,2.0
+1048,585000.0," Tarbert Road,  London, SE22",SE22,2.0
+1049,375000.0,Chamberlain Court Surrey Quay SE16,SE16,1.0

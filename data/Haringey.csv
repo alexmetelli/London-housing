@@ -1,0 +1,859 @@
+,price,address,postcode,number_bedrooms
+0,2250000.0,"Eastern Road, East Finchley, London, N2",N2,4.0
+1,595000.0,"Colney Hatch Lane, Muswell Hill, London, N10",N10,2.0
+3,375000.0,"Cobham Road, London, N22",N22,2.0
+4,359995.0,"Gascoigne Close, Tottenham, London, N17",N17,2.0
+5,700000.0,"New Road, Crouch End, London, N8",N8,2.0
+6,240000.0,"Compton Crescent, London N17",N17,1.0
+8,360000.0,"Newnham Road, London, N22",N22,1.0
+11,725000.0,"North View Road, N8",N8,3.0
+12,495000.0,"Avenue Road, Highgate, London N6",N6,1.0
+14,550000.0,"Hewitt Road, London, N8",N8,2.0
+15,550000.0,"Hewitt Road, London, N8",N8,2.0
+16,365000.0,"White Hart Lane,
+London,
+N17 7NA",N17,1.0
+17,350000.0,"White Hart Lane,
+London,
+N17 7NA",N17,1.0
+18,399500.0,"White Hart Lane,
+London,
+N17 7NA",N17,2.0
+20,750000.0,"York Road, London, N11",N11,3.0
+21,700000.0,"Suffield Road, Seven Sisters, N15",N15,6.0
+22,415000.0,"Kimberley Gardens, London, N4",N4,1.0
+23,375000.0,"High Road, London, N15",N15,2.0
+24,600000.0,"Springcroft Avenue, East Finchley, N2",N2,2.0
+25,525000.0,"Church Crescent, N10",N10,1.0
+27,450000.0,"Glebe Road, Crouch End, London, N8",N8,2.0
+29,975000.0,"Rosebery Road, Muswell Hill, London, N10",N10,3.0
+31,550000.0,"Heart of Muswell Hill, N10",N10,2.0
+32,375000.0,"Creighton Avenue, London, N10",N10,1.0
+33,650000.0,"Bathurst Square, London, N15",N15,3.0
+34,300000.0,"Parkland Road, Wood Green N22",N22,1.0
+36,550000.0,"Alexandra Road, N8",N8,3.0
+38,5750000.0,"Compton Avenue, N6",N6,4.0
+39,475000.0,"Spring Apartments, Nightingale Lane, N8",N8,2.0
+41,325000.0,"Hampden Road, Harringay Ladder, London, N8",N8,1.0
+42,415000.0,"Salisbury Mansions, St. Ann's Road, London, N15",N15,2.0
+43,16999999.0,"Courtenay Avenue, London, N6",N6,8.0
+46,1200000.0,"Lauradale Road, East Finchley, London, N2",N2,3.0
+47,250000.0,"Somerset Gardens, London, N17",N17,2.0
+49,450000.0,"Tottenhall Road, Palmers Green, London, N13",N13,2.0
+50,450000.0,"Trinity Road, Bounds Green, London, N22",N22,2.0
+51,850000.0,"Broadwater Road, South Totteham, Haringey, London, N17",N17,5.0
+52,925000.0,"Christchurch Road, Crouch End N8",N8,3.0
+53,650000.0,"Sirdar Road, London, N22 ",N22,3.0
+54,435000.0,"Muswell Hill Broadway, Muswell Hill, London, Greater London, N10",N10,2.0
+55,1200000.0,"Muswell Avenue, Muswell Hill, London, N10",N10,3.0
+56,300000.0,"Nightingale Road, London, N22",N22,1.0
+58,500000.0,"Victoria Road, Alexandra Park, London, N22",N22,2.0
+59,499950.0,"Whittington Court, Aylmer Road, N2",N2,2.0
+60,650000.0,"Sirdar Road, London, N22",N22,3.0
+61,300000.0,"Portland Road, London, N15",N15,1.0
+62,400000.0,"Kessock Close, London, N17",N17,2.0
+63,2375000.0,"Great North Road, Highgate, London, N6",N6,6.0
+64,505000.0,"Apple Tree Road,
+London,
+N17 6PN",N17,2.0
+65,365000.0,"Appleby Close, Tottenham, London, N15",N15,2.0
+66,410000.0,"Broadwater Road, London, N17",N17,2.0
+67,399950.0,"Haslemere Road, Crouch End, London, N8",N8,1.0
+68,525000.0,"Maurice Avenue, London, N22",N22,2.0
+69,410000.0,"Lido Square, Tottenham, London, Uk, N17",N17,2.0
+71,830000.0,"Boyton Close, Hornsey N8",N8,3.0
+74,425000.0,"Westpoint Apartments, Clarendon Road, N8",N8,2.0
+75,715000.0,"Linley road, london, N17",N17,4.0
+76,415000.0,"Salisbury Mansions, St. Ann's Road, Harringay, London, N15",N15,2.0
+77,715000.0,"Cross Lane,
+Hornsey,
+London,
+N8",N8,3.0
+78,450000.0,"Amazon Apartments, New River Village, Hornsey, N8",N8,2.0
+80,1750000.0,"Glasslyn Road, N8",N8,5.0
+81,565000.0,"Richmond Road, London, N11",N11,2.0
+82,460000.0,"Pemberton Road, London, N4",N4,2.0
+83,370000.0,"Gilson Place, Coppetts Road, London, N10",N10,2.0
+85,525000.0,"Milton Road, London N22",N22,3.0
+86,435000.0,"Lascotts Road, London, N22",N22,2.0
+89,500000.0,"Haslemere Road, Crouch End, London, N8",N8,2.0
+90,425000.0,"Muswell Hill Place, Muswell Hill, London, N10",N10,1.0
+91,385000.0,"Poynton road, london, N17",N17,2.0
+92,553500.0,"Ferry Lane,
+London,
+N17",N17,2.0
+93,499995.0,"Willingdon Road, N22",N22,2.0
+94,700000.0,"Stanley Road, London, N15",N15,4.0
+95,800000.0,"Langham Road, London N15",N15,3.0
+96,517500.0,"Ferry Lane,
+London,
+N17",N17,2.0
+97,318500.0,"Ferry Lane,
+London,
+N17",N17,0.0
+99,395000.0,"Talbot Road, London, N15",N15,2.0
+100,575000.0,"Basset Court, London, N8",N8,2.0
+101,365000.0,"Crouch End Hill, Crouch End, London, N8",N8,1.0
+102,550000.0,"Park Avenue, London, N22",N22,2.0
+103,560000.0,"Duckett Road, Harringay Ladder, N4",N4,3.0
+104,250000.0,"Chisley Road, Seven Sisters, London, N15",N15,1.0
+105,650000.0,"Summerhill Road, London, N15",N15,3.0
+106,680000.0,"Earlsmead Road, London, N15",N15,4.0
+108,550000.0,"Lymington Avenue, London, N22",N22,2.0
+109,409995.0,"Woolmer Road, Edmonton, N18",N18,3.0
+110,375000.0,"Siward Road, Tottenham, Haringey, London, N17",N17,2.0
+112,475000.0,"Dagmar Road, London, N22",N22,2.0
+113,630000.0,"407 Archway Road, London, N6",N6,1.0
+114,425000.0,"Grosvenor Road, Muswell Hill, London, N10",N10,1.0
+117,390000.0,"Arcadian Garden, London N22",N22,2.0
+121,349995.0,"Kimberley Gardens, London, N4",N4,1.0
+122,450000.0,"Trinity Road, Bounds Green, London, N22",N22,2.0
+123,599950.0,"Hillfield Park Mews, Muswell Hill, London, N10",N10,1.0
+124,725000.0,"Milton Road, Highgate, London, N6",N6,2.0
+125,240000.0,"Compton Crescent, London N17",N17,1.0
+126,625000.0,"Dorset Road, Alexandra Palace N22",N22,2.0
+128,675000.0,"Higham Road, London, N17",N17,4.0
+129,550000.0,"Daisy Court, 6 Brownlow Road, London, N11",N11,3.0
+130,340000.0,"Lordship Lane, London, N17",N17,2.0
+131,1600000.0,"The Chine, Muswell Hill N10",N10,4.0
+132,525000.0,"Church Crescent, N10",N10,1.0
+133,400000.0," Linksview, N2",N2,2.0
+134,85000.0,"Eclipse House, Wood Green, Haringey, N22",N22,2.0
+135,375000.0,"Granville Court, Mount View Road, London, N4",N4,1.0
+136,419950.0,"Middle Lane, London, N8",N8,1.0
+137,550000.0,"Daisy Court, 6 Brownlow Road, London, Greater London, N11",N11,3.0
+138,775000.0,"Oakdale Road, Harringay, London, N4",N4,3.0
+139,935000.0,"Southwood Lane, Highgate, N6",N6,2.0
+140,375000.0,"Parkhurst Road, London, N22",N22,2.0
+141,375000.0,"Parkhurst Road, London, N22",N22,2.0
+142,750000.0,"Russell Avenue, London, N22",N22,3.0
+143,450000.0,"Smithfield Square, Crouch End, N8",N8,1.0
+144,400000.0,"New Road, Crouch End N8",N8,1.0
+145,3000000.0,"Denewood Road, Highgate, London, N6",N6,4.0
+146,575000.0,"Highcroft, North Hill, Highgate N6 4RD",N6,2.0
+148,425000.0,"Woodstock Road, London N4",N4,1.0
+149,625000.0,"Woodstock Road, London N4",N4,3.0
+150,375000.0,"Mount View Road, N4",N4,1.0
+151,285000.0,"Culpepper Close, London, N18",N18,2.0
+152,1395000.0,"Lansdowne Road, Muswell Hill, London, N10",N10,4.0
+154,450000.0,"Norman avenue, N22",N22,2.0
+155,225000.0,"Millstream Close, Palmers Green, London, N13",N13,1.0
+156,535000.0,"Compass Court, Smithfield Square, Hornsey N8",N8,2.0
+157,1200000.0,"Church Crescent, N10",N10,2.0
+158,700000.0,"Trinity Road, London, N22",N22,3.0
+161,350000.0,"Stapleton Hall Road, Stroud Green, London, N4",N4,1.0
+162,750000.0,"York Road, London, N11",N11,3.0
+163,535000.0,"Ferme Park Road, London, N4",N4,2.0
+164,650000.0,"Upsdell Avenue, Palmers Green, N13",N13,3.0
+165,525000.0,"Ferme Park Road, London, N4",N4,2.0
+166,585000.0,"Crescent Road, London, N8",N8,2.0
+167,585000.0,"Crescent Road, London, N8",N8,2.0
+169,375000.0,"Ferme Park Road, Stroud Green, London, N4",N4,1.0
+171,425000.0,"Hillfield Avenue, Crouch End, London, N8",N8,2.0
+172,800000.0,"Nightingale Lane, Hornsey, London, N8",N8,2.0
+173,550000.0,"Old Chapel Place, Princes Avenue, London, N10",N10,2.0
+174,560000.0,"Altitude, Hornsey, N8",N8,2.0
+175,640000.0,"Salisbury Road, Harringay, London, N4",N4,3.0
+176,420000.0,"Altitude, Hornsey, N8",N8,1.0
+177,385000.0,"Abbotsford Avenue, Turnpike Lane, London, N15",N15,2.0
+178,685000.0,"Muswell Hill Broadway, Muswell Hill, London, N10",N10,3.0
+179,793000.0,"High Street, N8",N8,3.0
+180,725000.0,"High Street, N8",N8,2.0
+181,390000.0,"Mountview Court,, Green Lanes, London, N8",N8,2.0
+182,335000.0,"Rathcoole Avenue, Crouch End, N8",N8,1.0
+183,838000.0,"High Street, N8",N8,3.0
+184,740000.0,"High Street, N8",N8,2.0
+185,480000.0,"St. Pauls Road, Tottenham, N17",N17,3.0
+186,250000.0,"Elizabeth Road, Seven Sisters, N15",N15,2.0
+187,515000.0,"Glendale Avenue, Wood Green, London, N22",N22,3.0
+188,880000.0,"Leaside Avenue, London, N10",N10,2.0
+189,410000.0,"Grimshaw Close, Highgate Village, London, N6",N6,2.0
+190,850000.0,"Sylvan Avenue, Wood Green N22",N22,4.0
+192,460000.0,"Clyde Road, Alexandra Park, London, N22",N22,2.0
+193,2000000.0,"Birchington Road, N8",N8,5.0
+194,500000.0,"Avenue Hall, Avenue Road, London N6",N6,2.0
+196,550000.0,"Ferme Park Road, London, N4",N4,2.0
+197,300000.0,"Templeton Road, London, N15",N15,1.0
+200,1000000.0,"Lightfoot Road, N8",N8,3.0
+203,450000.0,"Woodstock Road, Stroud Green, N4",N4,2.0
+204,500000.0,"Woodstock Road, Stroud Green, N4",N4,2.0
+206,600000.0,"Wilmot Road, Tottenham, London, N17",N17,3.0
+207,555000.0,"Clarendon, London, N8",N8,2.0
+208,400000.0,"Granville Court, Mount View Road, London, N4",N4,1.0
+209,650000.0,"Warham Road, Harringay, London, N4",N4,3.0
+210,285000.0,"Vartry Road, N15",N15,1.0
+211,1000000.0,"Lightfoot Road, N8",N8,3.0
+212,285000.0,"Commerce Road, Wood Green, London, N22",N22,2.0
+214,999950.0,"North Hill, London, N6",N6,2.0
+215,430000.0,"Lealand Road, South Tottenham, London, N15",N15,2.0
+217,675000.0,"Rathcoole Avenue, N8 9LY",N8,3.0
+219,585000.0,"Shepherds Hill, Highgate N6",N6,2.0
+220,795000.0,"Bathurst Square, Tottenham, London, N15",N15,4.0
+221,575000.0,"Forfar Road, Wood Green, London, N22",N22,3.0
+223,425000.0,"44 Finsbury Road, London, N22",N22,2.0
+225,750000.0,"Uplands Road, N8",N8,3.0
+226,1200000.0,"Victoria Road, N22",N22,4.0
+227,500000.0,"Church Lane, Crouch End, London, N8",N8,2.0
+228,550000.0,"Fairfield Gardens, N8",N8,2.0
+230,850000.0,"Woodfield Way, Bounds Green, London, N11",N11,3.0
+231,1350000.0,"Greenham Road, Muswell Hill, London, N10",N10,5.0
+232,1350000.0,"Stapleton Hall Road, Stroud Green, London, N4",N4,5.0
+234,550000.0,"Barrington Road, Crouch End, London N8",N8,2.0
+235,400000.0,"Kimberley Road, London, N18",N18,3.0
+237,700000.0,"Evesham Road, Bounds Green, London, N11",N11,4.0
+238,525000.0,"Heysham Road, Seven Sisters, London, N15",N15,3.0
+239,1650000.0,"Lanchester Road, Highate, N6",N6,3.0
+241,699950.0,"Ribblesdale Road, London, N8",N8,2.0
+242,460000.0,"Hornsey Park Place, Clarendon, Hornsey, N22",N22,1.0
+243,425000.0,"Canada Avenue, London, N18",N18,3.0
+245,1895000.0,"Muswell Road, Muswell Hill, London, N10",N10,5.0
+246,250000.0,"Taylor Close, Tottenham, Haringey, London, N17",N17,2.0
+247,475000.0,"Church Lane, N8",N8,2.0
+248,775000.0,"Hillside Gardens, Highgate, N6",N6,2.0
+250,525000.0,"Church Crescent, N10",N10,1.0
+251,550000.0,"Milton Road, Highgate, N6",N6,2.0
+252,350000.0,"Hudson Apartments, New River Village, Hornsey, N8",N8,1.0
+253,425000.0,"Thetford Close, Palmers Green, London, ., N13",N13,3.0
+254,450000.0,"Waterside Way, London, N17",N17,2.0
+255,485000.0,"Alexandra Gardens, London, N10",N10,1.0
+256,550000.0,"Bradley Road, London, N22",N22,2.0
+257,599950.0,"Oakley Gardens, London, N8",N8,3.0
+258,625000.0,"Stanley Road, Bounds Green, London, N11",N11,3.0
+259,700000.0,"North View Road, Crouch End N8",N8,2.0
+260,380000.0,"St Margarets Avenue, Turnpike Lane, London, N15",N15,2.0
+261,475000.0,"Lordship Lane, Wood Green, London, N22",N22,2.0
+262,1650000.0,"Lanchester Road, London, N6",N6,3.0
+263,1750000.0,"Kings Avenue, Muswell Hill, N10",N10,4.0
+264,699950.0,"Great North Road, London, N6",N6,2.0
+265,380000.0,"Durban road, london, N17",N17,3.0
+270,425000.0,"Lyndhurst Road, Wood Green, N22",N22,3.0
+271,650000.0,"Walpole Road, London, N17",N17,4.0
+273,720000.0,"Middle Lane, Crouch End, London, N8",N8,2.0
+275,525000.0,"Riddell Court, Campsbourne Road, London, N8 ",N8,2.0
+276,499950.0,"Rosebery Avenue, Tottenham, N17",N17,3.0
+277,400000.0,"Cannon Road, Tottenham, London, N17",N17,2.0
+278,725000.0,"Queens Road, Bounds Green, N11",N11,4.0
+279,500000.0,"Tottenham Lane, London, N8",N8,2.0
+280,325000.0,"Waterside Way, London, N17",N17,1.0
+281,525000.0,"Farrant Avenue, London, N22",N22,3.0
+282,1675000.0,"Cholmeley Park, Highgate Village, London, N6",N6,3.0
+283,385000.0,"Leyburn Road, Upper Edmonton, N18",N18,2.0
+284,415000.0,"Archway Road, Highgate, London, N6",N6,1.0
+285,1250000.0,"Mayfield Road, Crouch End N8",N8,3.0
+286,500000.0,"Hornsey Lane, Crouch End, Highgate Borders N6",N6,2.0
+287,385000.0,"Spencer Avenue, London, N13",N13,2.0
+288,400000.0,"Cline Road, Bounds Green, N11",N11,2.0
+289,500000.0,"The Roundway, london, N17",N17,3.0
+290,800000.0,"Barrington Road, N8",N8,3.0
+291,500000.0,"Kevelioc Road, London, N17",N17,3.0
+293,400000.0,"Bishops Road, London, N6",N6,1.0
+295,435000.0,"Westbury Avenue, Turnpike Lane, N22",N22,2.0
+296,1500000.0,"Parham Way, London, N10",N10,3.0
+297,325000.0,"Acacia Road, London, N22",N22,2.0
+300,499000.0,"White Hart Lane,
+London,
+N17 7NA",N17,3.0
+301,300000.0,"606 Lordship Lane, Wood Green, N22",N22,1.0
+303,750000.0,"Weston Park, N8",N8,2.0
+305,885000.0,"Rosebery Road, N10",N10,2.0
+306,280000.0,"1 The Roundway, London, N17",N17,1.0
+307,380000.0,"Tivendale, Brook Road, London, N8",N8,2.0
+308,500000.0,"Stanmore Road, London, N15",N15,2.0
+309,1350000.0,"The Chine, Muswell Hill N10",N10,4.0
+310,475000.0,"Avondale Road, London, N15",N15,2.0
+311,400000.0,"13 Finsbury Park Avenue, Finsbury Park, N4",N4,1.0
+312,640000.0,"Salisbury Road, Harringay, London, N4",N4,3.0
+313,2500000.0,"North Grove, Highgate, London, N6",N6,4.0
+314,475000.0,"Gloucester Road, Edmonton, N18",N18,3.0
+315,425000.0,"Campsfield Road, London, N8",N8,3.0
+321,450000.0,"Selborne Road, London, N22",N22,2.0
+322,300000.0,"Grand Parade, London, N4",N4,1.0
+323,500000.0,"Bradley Road, London, N22",N22,2.0
+325,975000.0,"Rosebery Road, Muswell Hill, London, N10",N10,3.0
+326,850000.0,"Shepherds Hill, Highgate, N6",N6,3.0
+327,575000.0,"Crescent Road, London, N8",N8,2.0
+328,925000.0,"Coolhurst Road, Crouch End N8",N8,2.0
+329,725000.0,"Willingdon Road, Wood Green, London, N22",N22,3.0
+330,561000.0,"Apartment E.31, 1 Ashley Road, Tottenham Hale, N17",N17,2.0
+331,399950.0,"Elgar House, Boyton Close, N8",N8,2.0
+332,1300000.0,"Greenham Road, Muswell Hill, London, N10",N10,5.0
+333,425000.0,"Osborne Road, N4 3SE",N4,2.0
+335,400000.0,"Stanmore Road, Harringay, London, N15",N15,2.0
+336,355000.0,Park Lane N17,N17,2.0
+337,300000.0,"Millicent Grove, Palmers Green, London, N13",N13,2.0
+338,425000.0,"Lyndhurst Road, London, N22",N22,3.0
+339,625000.0,"Steeds Road, Muswell Hill, London, N10",N10,3.0
+340,1475000.0,Rhodes Avenue N22,N22,5.0
+342,575000.0,"Tottenhall Road, Palmers Green, N13",N13,3.0
+343,925000.0,"Coolhurst Road, Crouch End, N8",N8,2.0
+344,1395000.0,"Lynmouth Road, N2",N2,5.0
+345,465000.0,"Avenue Road, Highgate, N6",N6,1.0
+347,320000.0,"Cline Road, London, N11 2NF",N11,1.0
+348,325000.0,"Palace Gates Road, London, N22",N22,2.0
+349,685000.0,"St. Michael's Terrace, Alexandra Park, N22",N22,3.0
+350,725000.0,"Milton Road, Highgate, London, N6",N6,2.0
+351,1315000.0,"Lauradale Road, N2",N2,4.0
+352,290000.0,"Victoria Crescent, South Tottenham, N15",N15,1.0
+353,475000.0,"Priory Road, Crouch End N8",N8,2.0
+354,425000.0,"Shepherds Hill, Highgate, London, N6",N6,1.0
+355,355000.0,Bathurst Square N15,N15,1.0
+357,350000.0,"Haslemere Road, London, N8",N8,1.0
+359,535000.0,"Mattison Road, Harringay, N4",N4,3.0
+360,500000.0,"Lausanne Road, London, N8",N8,2.0
+361,700000.0,"Great North Road, Highgate, London, N6",N6,2.0
+362,425000.0,"Colney Hatch Lane, Muswell Hill, London, N10",N10,2.0
+363,495000.0,"Muswell Hill Place, Muswell Hill, London, N10",N10,3.0
+364,950000.0,"View Crescent, Tivoli Road, London, N8",N8,3.0
+365,1000000.0,"Cholmeley Park, Highgate, N6",N6,2.0
+366,635000.0,"Milton Avenue, Highgate, N6",N6,2.0
+367,350000.0,"Amazon Apartments, New River Village, Hornsey N8",N8,1.0
+368,515000.0,"Marlborough Road, London, N22",N22,2.0
+369,650000.0,"Weston Park, Crouch End, London, N8",N8,2.0
+370,550000.0,"Frobisher Road, London, N8",N8,2.0
+371,649950.0,"Sirdar Road, Wood Green, London, N22",N22,3.0
+372,430000.0,"Hamlet Court, Smithfield Square, Hornsey, N8",N8,1.0
+375,525000.0,"Ribblesdale Road, Hornsey N8",N8,3.0
+376,460000.0,"Muswell Hill, London, N10",N10,1.0
+377,475000.0,"Westbury Avenue, London, N22",N22,2.0
+378,400000.0,"Halefield Road, London, N17",N17,2.0
+379,599999.0,"Oakfield Road, London, N4",N4,2.0
+380,575000.0,"Colney Hatch Lane, Muswell Hill, London, N10",N10,2.0
+381,440000.0,"Egret Heights, Waterside Way, London, N17",N17,2.0
+384,425000.0,"Highgate Avenue, Highgate, N6",N6,1.0
+385,375000.0,"Avondale, Truro Road, London, N22",N22,2.0
+387,409995.0,"Woolmer Road, London, N18",N18,3.0
+388,895000.0,"Hornsey Lane, Highgate, Crouch End Borders N6",N6,3.0
+389,555000.0,Thorold Road N22,N22,2.0
+390,550000.0,"Shepherds Hill, Highgate N6",N6,2.0
+391,799999.0,"Myddelton Road, N8 ",N8,3.0
+392,469950.0,"Butterfly Court, Lawrence Road, London, N15",N15,2.0
+393,415000.0,"Marlborough Road, Bounds Green N22",N22,2.0
+394,275000.0,"Lordship Lane, Wood Green, London, N22",N22,1.0
+395,650000.0,"Belmont Road, Harringay, London, N15",N15,3.0
+396,3250000.0,"Onslow Gardens, Muswell Hill, London, N10",N10,6.0
+397,575000.0,"Wembury Road, Highgate, N6",N6,2.0
+399,755000.0,"Smithfield Yard, Cross Lane N8  (Apartment A-4-03) ",N8,3.0
+401,795000.0,"Smithfield Yard, Cross Lane N8  (Apartment B-G-04) ",N8,3.0
+405,275000.0,"Hampden Road, Harringay, London, N8",N8,1.0
+406,455000.0,"Whitehall Lodge, Pages Lane, N10",N10,2.0
+407,550000.0,"Beechwood Close, East Finchley, N2",N2,2.0
+409,315000.0,"Myddleton Road, London, N8",N8,1.0
+410,400000.0,Coniston Road N10,N10,1.0
+411,429000.0,"Great North Road, N2",N2,2.0
+412,479950.0,"Quernmore Road, London, N4",N4,2.0
+413,450000.0,"Hewitt Road, Harringay Ladder, N8",N8,2.0
+414,385000.0,"Butterfly Court, Bathurst Square, Seven Sisters, London, N15",N15,1.0
+416,325000.0,"Academia way, london, N17",N17,2.0
+417,600000.0,"Downhills Park Road, London, N17",N17,3.0
+419,574995.0,"Platinum Mews, Crowland Road, N15",N15,2.0
+420,525000.0,"Ribblesdale Road, Hornsey N8",N8,3.0
+423,375000.0,"The Avenue, London, N17",N17,2.0
+425,640000.0,"Salisbury Road, Harringay, London, N4",N4,3.0
+426,375000.0,"Nelson Road, Crouch End, N8",N8,1.0
+428,675000.0,"Carlingford Road, London, N15",N15,4.0
+429,1000000.0,"St. James Lane, Muswell Hill, London, N10",N10,4.0
+430,1500000.0,"Victoria Road, N22",N22,5.0
+431,1750000.0,Breathtaking Views N10,N10,4.0
+432,285000.0,"Archway Road, Highgate, London N6",N6,1.0
+433,760000.0,"Evesham Road, Bounds Green, London, N11",N11,4.0
+434,535000.0,"Oakfield Road, N4",N4,2.0
+435,425000.0,"Arcadian Gardens, N22",N22,2.0
+436,350000.0,"Bathurst Square, London, N15",N15,1.0
+437,475000.0,"Heysham Road, South Tottenham, London, N15",N15,2.0
+438,475000.0,"Northumberland Park, N17",N17,4.0
+439,399995.0,"Station Crescent, London, N15",N15,1.0
+441,430000.0,"Palace Gates Road, Alexandra Park, London,  N22",N22,1.0
+443,675000.0,"Princes Avenue, London, N13",N13,4.0
+444,465000.0,"Vicarage Road, London, N17",N17,3.0
+446,375000.0,"Cranbrook Park, Wood Green, London, N22",N22,2.0
+447,500000.0,"Woodstock Road, Finsbury Park, London, N4",N4,2.0
+448,500000.0,"Marlborough Road, Bowes Park, N22",N22,3.0
+449,500000.0,"Woodstock Road, Stroud Green, London, N4",N4,2.0
+450,400000.0,Coniston Road N10,N10,1.0
+451,550000.0,"Raleigh Road, Harringay Ladder, London N8",N8,2.0
+452,380000.0,"Belmont Road, Downhills Park, London, N15",N15,2.0
+456,675000.0,"Westbeech Road, Wood Green, N22",N22,5.0
+460,420000.0,"38 Mayfield Road, London, N8",N8,1.0
+461,760000.0,"Talbot Road, London, N15",N15,3.0
+463,333750.0,"Hollyhock Mansions, 1 Marwood Square, London, N10",N10,1.0
+464,475000.0,"Wilde Place, Palmers Green, London, N13",N13,3.0
+465,535000.0,"Terront Road, Harringay, London, N15",N15,3.0
+466,2650000.0,"Cholmeley Park, Highgate, N6",N6,5.0
+467,300000.0,"Dowsett Road, Tottenham, N17",N17,2.0
+469,800000.0,"Langham Road, Harringay, London, N15",N15,3.0
+470,600000.0,"Ferme Park Road, London, N8",N8,2.0
+471,1375000.0,"Shepherds Close, Highgate, London, N6",N6,3.0
+472,300000.0,"Richmond Road, Harringay, N15",N15,1.0
+473,445000.0,"Tewkesbury Ct, Warwick Road N11 2TX",N11,2.0
+474,1100000.0,"Chimes Terrace, Tottenham Lane, N8",N8,4.0
+475,760000.0,"Talbot Road, London, N15",N15,3.0
+479,1295000.0,"Archway Road, London, N6",N6,3.0
+480,375000.0,"Hermitage Road, Harringay, London, N4",N4,1.0
+481,735000.0,"Pastor Court, 56 Stanhope Road, London, N6",N6,2.0
+482,1100000.0,"Tara Mews, N8",N8,4.0
+484,600000.0,"Ferme Park Road, Crouch End, London, N8",N8,2.0
+485,700000.0,"Tancred Road, London, N4",N4,3.0
+486,1295000.0,"Hornsey Lane Gardens, London, N6",N6,4.0
+489,349995.0,"Prowse Court, 74 Fore Street, LONDON, N18",N18,2.0
+490,550000.0,"Shelbourne road, london, N17",N17,3.0
+492,375000.0,"Church Lane, Hornsey, N8",N8,3.0
+493,375000.0,"Myddleton Road, Bowes Park, N22",N22,1.0
+495,455000.0,"Vartry Road, South Tottenham, London, N15",N15,3.0
+496,550000.0,"Justin Place, Wood Green, N22",N22,3.0
+497,715000.0,"City North East Tower, 3 City North Place, London, N4",N4,2.0
+498,360000.0,"Bishops View Court, 24A Church Crescent, London, N10",N10,1.0
+499,410000.0,"Victoria Crescent, london, N15",N15,2.0
+500,1950000.0,"Milton Park, Highgate, London, N6",N6,6.0
+502,320000.0,"Palace Gates Road, London N22",N22,2.0
+503,425000.0,"Waverley Road, Crouch End, London, N8",N8,1.0
+504,700000.0,"Oulton Road, London, N15",N15,4.0
+505,395000.0,"Albany Road, London N18 ",N18,3.0
+506,425000.0,"Arcadian Gardens, London, N22",N22,2.0
+508,675000.0,"Cranbrook Park, London, N22",N22,3.0
+510,740000.0,"Ollerton Road, London, N11",N11,4.0
+511,375000.0,"Lyndhurst Road, London, N22",N22,2.0
+512,430000.0,"Farrant Avenue, Noel Park, N22",N22,2.0
+513,375000.0,"Mount View Road, N4",N4,1.0
+516,550000.0,"Church Lane, Crouch End N8",N8,2.0
+517,550000.0,"Effingham Road, London, N8",N8,2.0
+518,1000000.0,"Cholmeley Lodge, Cholmeley Park, Highgate, London, N6",N6,2.0
+519,765000.0,"Broadway House, The Broadway, Crouch End, N8",N8,3.0
+523,1350000.0,"Mayfield Road, London, N8",N8,5.0
+524,650000.0,"Inderwick Road, Crouch End, N8",N8,2.0
+525,565000.0,"Richmond Road, London, N11",N11,2.0
+526,1350000.0,"Stapleton Hall Road, N4 3QE",N4,5.0
+529,735000.0,"Cross Lane,
+Hornsey,
+London,
+N8",N8,3.0
+530,635000.0,"Cross Lane,
+Hornsey,
+London,
+N8",N8,2.0
+531,675000.0,"Cross Lane,
+Hornsey,
+London,
+N8",N8,2.0
+532,695000.0,"Cross Lane,
+Hornsey,
+London,
+N8",N8,2.0
+533,1650000.0,"Kingsley Place, London, N6",N6,4.0
+535,1395000.0,"Ridge Road, N8",N8,4.0
+536,400000.0,"Somerset Road, London, N18",N18,3.0
+537,925000.0,"Lynton Road, N8",N8,3.0
+538,915000.0,"Fairfax Road, London, N8",N8,5.0
+539,525000.0,"Ringslade Road, London, N22",N22,2.0
+540,365000.0,"Helena Court, 591 Lordship Lane, Wood Green, London, N22",N22,2.0
+542,2750000.0,"Queens Avenue, Muswell Hill, London, N10",N10,5.0
+544,629000.0,"Whittington Road, Bowes Park, N22",N22,3.0
+547,285000.0,"Chestnut Court, Middle Lane, N8",N8,0.0
+549,610000.0,"Black Boy Lane, London, N15",N15,3.0
+551,500000.0,"Avenue Road, Highgate N6",N6,2.0
+552,949950.0,"Archway Road, London, N6",N6,2.0
+553,400000.0,"Page Green Road, London, N15",N15,2.0
+554,232400.0,Isobel Place N15,N15,1.0
+555,335000.0,Isobel Place N15,N15,1.0
+556,450000.0,"Broadway Parade, Crouch End N8",N8,2.0
+557,435000.0,"Abbotsford Avenue, Turnpike Lane, London, N15",N15,2.0
+558,800000.0,"Muswell Road, London, N10",N10,2.0
+560,800000.0,"Addington Road, Stroud Green, London, N4",N4,2.0
+561,450000.0,"Park Road, Crouch End n8",n8,2.0
+562,439950.0,"Parkhurst Road, Wood Green N22 ",N22,2.0
+565,525000.0,"Maryland Road, London, N22",N22,4.0
+566,325000.0,"Millicent Grove, Palmers Green, N13",N13,2.0
+568,2350000.0,"Woodside Avenue, London, N10",N10,6.0
+569,570000.0,"Seymour Road, Harringay Ladder, London, N8",N8,3.0
+573,475000.0,"Warwick Gardens, London, N4",N4,2.0
+574,459950.0,Gospatrick Road N17,N17,3.0
+575,715000.0,"Cross Lane,
+Hornsey,
+London,
+N8",N8,3.0
+576,480000.0,"Norfolk Avenue, Palmers Green, N13",N13,3.0
+577,314950.0,"Arnold Road, N15",N15,1.0
+578,750000.0,"York Road, Bounds Green, London, N11",N11,5.0
+581,550000.0,"Primezone Mews, Crouch End N8",N8,2.0
+583,900000.0,"Stanmore Road, Harringay, London, N15",N15,4.0
+584,1000000.0,"Great North Road, Highgate, London, N6",N6,3.0
+585,360000.0,"Northern Heights, Crescent Road, London, N8",N8,1.0
+586,500000.0,"Mitchell Road, N13 6EE, London",N13,3.0
+587,600000.0,"Priory Avenue, London, N8",N8,2.0
+588,430000.0,"Boundary Road, Wood Green, London, N22",N22,2.0
+591,475000.0,"Muswell Hill,London,N10",N10,2.0
+593,950000.0,"Philip Lane, Downhills Park, London, N15",N15,5.0
+594,715000.0,"Linley road, london, N17",N17,4.0
+595,475000.0,"Arlington Court 444 Archway Road, Highgate, London, N6",N6,2.0
+596,1500000.0,"Ridge Road, Crouch End, London, N8",N8,6.0
+597,750000.0,"Hermitage Road, London N4",N4,6.0
+598,350000.0,"Palmerston Road, Bounds Green, N22",N22,2.0
+600,419000.0,"High Road, London, N22",N22,2.0
+602,200000.0,"Great North Road, Highgate, N6",N6,0.0
+603,440000.0,"Peabody Estates, Lordship Lane, London, N17",N17,3.0
+604,425000.0,"Leverton Close, N22 ",N22,2.0
+607,750000.0,"Lordship Lane, Wood Green, N22",N22,4.0
+608,500000.0,"Finsbury Road, Bowes Park, London, N22",N22,2.0
+609,289000.0,"Elm Place, Bruce Grove, N17",N17,1.0
+610,485000.0,"Stanley Road, Bounds Green N11",N11,2.0
+611,375000.0,"Steele Road, Tottenham, N17",N17,2.0
+612,360000.0,"Westgreen Road, London, N15",N15,1.0
+613,400000.0,"High Street, Hornsey, London, N8",N8,2.0
+615,384000.0,"Blackstock Road, London, N4",N4,2.0
+616,1750000.0,"Kings Avenue, Muswell Hill, London, N10",N10,4.0
+617,330000.0,"Beaumaris, Brownlow Road, Bounds Green, N11",N11,1.0
+618,745000.0,"Arcadian Gardens, Wood Green, N22",N22,4.0
+619,400000.0,"Finsbury Road, Bounds Green, London, N22",N22,2.0
+620,550000.0,"Crouch Hill, Crouch End, London, N8",N8,2.0
+621,390000.0,"Madderfields Court, Bailey Close, London, ., N11",N11,2.0
+622,350000.0,"Clarence Road, London, N22",N22,1.0
+624,475000.0,"Ireland Place, London, N22",N22,2.0
+625,475000.0,"Church Lane, N8",N8,2.0
+627,575000.0,"Eleanor Road, Bounds Green, London, N11",N11,2.0
+628,375000.0,"Russell Road, London, N13",N13,2.0
+629,379995.0,"Chandos Road, London, N17",N17,2.0
+630,309995.0,"Pembury Road, London, N17",N17,1.0
+631,360000.0,"Sutherland Road, Tottenham, London, N17",N17,2.0
+633,375000.0,"Cline Road, Bounds Green, London, N11",N11,2.0
+635,3999950.0,"Cholmeley Park, London, N6",N6,5.0
+636,1160000.0,"Blake Road, London, N11",N11,4.0
+637,2650000.0,"Cholmeley Park, London, N6",N6,5.0
+638,400000.0,"Campsbourne Road, Crouch End, London, N8",N8,2.0
+639,700000.0,"Hermitage Road, South Tottenham, London, N15",N15,4.0
+640,2650000.0,"Cholmeley Park, Highgate, London, N6",N6,5.0
+641,375000.0,"The Avenue, London, N17",N17,1.0
+642,465000.0,"Shobden Road, Tottenham, N17",N17,2.0
+644,460000.0,"Denmark Street, London, N17",N17,3.0
+645,585000.0,"High Street, Hornsey, London, N8",N8,2.0
+646,460000.0,"Denmark Street, London, N17",N17,3.0
+648,300000.0,"Tredegar Road, Bounds Green N11",N11,1.0
+649,450000.0,"Dagmar Road, Alexandra Palace, N22",N22,2.0
+650,715000.0,"Linley road, london, N17",N17,4.0
+654,650000.0,"Parkgate Mews, Highate, N6",N6,2.0
+655,285000.0,"Birkbeck Road, Hornsey, London, N8",N8,1.0
+658,300000.0,"Cordell House, Newton Road, London, N15",N15,2.0
+660,700000.0,"Nelson Road, Crouch End, London, N8",N8,3.0
+661,499950.0,"Stanhope Road, Highgate, London, N6",N6,2.0
+662,329950.0,"Parkside Court, 135 Palmerston Road, London, N22",N22,2.0
+663,494500.0,"RISE, Lock17, N17",N17,2.0
+664,315500.0,"RISE, Lock17, N17",N17,0.0
+666,575000.0,"Broadway Parade, Crouch End, N8",N8,3.0
+668,1875000.0,"Creighton Avenue, Muswell Hill, London, N10",N10,5.0
+671,350000.0,"Cross Lane,
+Hornsey,
+London,
+N8",N8,0.0
+672,585000.0,"Cross Lane,
+Hornsey,
+London,
+N8",N8,2.0
+673,325000.0,Foyle Road N17,N17,1.0
+674,590000.0,"Cross Lane,
+Hornsey,
+London,
+N8",N8,2.0
+675,1750000.0,"Kings Avenue, Muswell Hill, London, N10",N10,4.0
+676,595000.0,"Cross Lane,
+Hornsey,
+London,
+N8",N8,2.0
+677,600000.0,"Cross Lane,
+Hornsey,
+London,
+N8",N8,2.0
+678,225000.0,"Haynes Close, Tottenham, N17",N17,1.0
+679,2495000.0,"Stanhope Gardens, Highgate, London N6",N6,5.0
+683,389000.0,"Westbury Avenue, London, N22",N22,2.0
+685,775000.0,"Winchelsea road, london, N17",N17,6.0
+686,325000.0,"Lois Court, Tottenham, N17",N17,3.0
+689,320000.0,Bronhill Terrace N17,N17,2.0
+690,455000.0,"Wightman Road, London, N8",N8,2.0
+691,1450000.0,"New Road, N8",N8,4.0
+693,500000.0,"Compass Court, Smithfield Square, Hornsey, N8",N8,2.0
+696,800000.0,"Dorset Road, London, N15",N15,4.0
+697,380000.0,"Granville Road, Wood Green, N22",N22,2.0
+698,449000.0,"White Hart Lane,
+London,
+N17 7NA",N17,2.0
+699,434000.0,"White Hart Lane,
+London,
+N17 7NA",N17,2.0
+700,1200000.0,"Muswell Avenue, Muswell Hill, London, N10",N10,3.0
+701,499000.0,"White Hart Lane,
+London,
+N17 7NA",N17,3.0
+702,425000.0,"White Hart Lane,
+London,
+N17 7NA",N17,2.0
+703,425000.0,"Lyndhurst Road, Wood Green, N22",N22,2.0
+704,345000.0,"St. Michael'S Terrace, Alexandra Park, London, N22",N22,1.0
+705,400000.0,"Awlfield Ave, n17",n17,2.0
+707,1395000.0,"Acorn Terrace, Archway Road, London, N6",N6,4.0
+708,675000.0,"Cumberland Road, Alexandra Park, London, N22",N22,3.0
+710,550000.0,"Page Green Road, Seven Sisters, London, N15",N15,2.0
+711,525000.0,"Crouch End Hill, Crouch End, London, N8",N8,2.0
+712,800000.0,"Birchington Road, Crouch End, London, N8",N8,2.0
+713,724999.0,"Walpole Road, London, N17",N17,4.0
+715,450000.0,"Peabody Estate, Lordship Lane, London, UK, N17 7QJ",N17,3.0
+717,350000.0,"Elm Place, Bruce Grove, N17",N17,1.0
+718,475000.0,"Park View Road, Tottenham, Haringey, London, N17",N17,3.0
+720,575000.0,"Colney Hatch Lane, Muswell Hill, London, N10",N10,2.0
+722,800000.0,"Lausanne Road, Crouch End, London, N8",N8,5.0
+723,3000000.0,"Church Vale, London, N2",N2,5.0
+724,706000.0,"Apartment W.22, 1 Ashley Road, Tottenham Hale, N17",N17,3.0
+725,475000.0,"Avondale Road, London, N15",N15,2.0
+727,575000.0,"Hewitt Avenue, London, N22",N22,3.0
+728,399999.0,"North Point, Tottenham Lane, N8",N8,1.0
+729,1125000.0,"Southwood Park, London, N6",N6,3.0
+730,775000.0,"Rookfield Close, Muswell Hill, London, N10",N10,3.0
+732,1295000.0,"Hornsey Lane Gardens, Highgate, London, N6",N6,4.0
+733,800000.0,"Lausanne Road, Harringay, N8",N8,5.0
+737,900000.0,"Crouch End,London,N8",N8,3.0
+738,325000.0,"Hollam House, Denmark Road, Haringey, London, N8",N8,2.0
+741,600000.0,"Clyde Road, London, N15",N15,2.0
+743,1250000.0,"Eden House, Crouch End, N8",N8,2.0
+744,1250000.0,"Duplex Penthouse, Eden House, N8",N8,2.0
+746,399950.0,"Video Court, Mount View Road, London, N4",N4,1.0
+747,375000.0,"Mount Pleasant Road, London, N17",N17,2.0
+748,565000.0,"Emily Bowes Court, 
+Lebus Street, 
+London, 
+N17",N17,2.0
+749,475000.0,"Maybury Mews, London, N6",N6,2.0
+751,430000.0,"Emily Bowes Court, 
+Lebus Street, 
+London, 
+N17",N17,1.0
+753,725000.0,"Waldegrave Road, London, N8",N8,3.0
+754,750000.0,"Priory Road, Crouch End N8",N8,2.0
+755,795000.0,"Osier Crescent, Muswell Hill, London, N10",N10,4.0
+757,450000.0,"Sirdar Road, London, N22",N22,2.0
+758,560000.0,"Baronet Grove, London, Haringey, London, N17",N17,3.0
+759,450000.0,"West Green Road, London, N15",N15,2.0
+760,590000.0,"Cross Lane,
+Hornsey,
+London,
+N8",N8,2.0
+761,399999.0,"Saxon Chase, Dickenson Road, N8",N8,1.0
+762,575000.0,"Oulton Road, Tottenham, London, N15",N15,2.0
+763,550000.0,"Arnold Road, London, N15",N15,2.0
+767,599995.0,"Sandford Avenue, Wood Green, N22",N22,5.0
+768,550000.0,"Morley Avenue, London, N22",N22,3.0
+769,475000.0,"Victoria Road, London, N22",N22,1.0
+770,365000.0,"Connaught Road, London, N4",N4,1.0
+771,475000.0,"Amazon Apartments, New River Avenue, N8 ",N8,2.0
+772,270000.0,"Culpepper Close, Edmonton, London, N18",N18,2.0
+773,320000.0,"Helston Court, Culvert Road Seven Sisters, London, N15",N15,2.0
+775,299000.0,"High Street, Hornsey, London, N8",N8,1.0
+776,1999500.0,"Cairncross Mews, N8 ",N8,5.0
+777,400000.0,"Winkfield Road, Wood Green, London, N22",N22,2.0
+779,300000.0,"Sidney Avenue, Palmers Green, N13",N13,1.0
+780,950000.0,"Sydney Road, Harringay Ladder, London, N8",N8,4.0
+782,599999.0,"Frobisher Road, London, N8",N8,2.0
+783,650000.0,"Cecile Park, Crouch End, London, N8",N8,2.0
+786,1999500.0,"Cairncross Mews, Felix Avenue, Crouch End, London, N8",N8,5.0
+787,500000.0,"Crescent Road, London, N8",N8,2.0
+788,325000.0,"Langhedge Lane, London, UK, N18 2TJ",N18,3.0
+789,285000.0,"Scotland Green, Tottenham, London, N17",N17,1.0
+790,435000.0,"Dongola Road, Tottenham, N17",N17,3.0
+791,425000.0,"Carlingford Road, Haringey, N15",N15,2.0
+792,950000.0,"Aylmer Road, East Finchley, London, N2",N2,2.0
+794,435000.0,"White Hart Lane,
+London,
+N17 7NA",N17,2.0
+795,725000.0,"Harringay Road, London, N15",N15,5.0
+796,340000.0,"Flat 10  Reygate Court, Warwick Gardens, N4",N4,1.0
+797,935000.0,"Effingham Road, London, N8",N8,4.0
+799,299000.0,"High Street, Hornsey, London, N8",N8,1.0
+800,1750000.0,"Glasslyn Road, N8",N8,5.0
+802,720000.0,"Southwood Lane, Highgate, London N6",N6,2.0
+803,610000.0,"Napier Road, London, N17",N17,3.0
+804,650000.0,"Princes Avenue, Palmers Green, London, N13",N13,4.0
+805,399950.0,"Tetherdown, Muswell Hill, London, N10",N10,1.0
+806,400000.0,"Fortis Green, East Finchley, N2",N2,1.0
+807,355000.0,"High Street, N8",N8,0.0
+808,780000.0,"High Street, N8",N8,3.0
+809,650000.0,"High Street, N8",N8,2.0
+810,455000.0,"High Street, N8",N8,1.0
+811,350000.0,"Nightingale Road, London, N22",N22,1.0
+814,66250.0,"Alice Court, Wood Green, London, N22",N22,1.0
+816,1575000.0,"Kensington Place, Muswell Hill, London, N10",N10,4.0
+817,1395000.0,"Kensington Place, Muswell Hill, London, N10",N10,3.0
+818,1695000.0,"Kensington Place, Muswell Hill, London, N10",N10,4.0
+819,425000.0,"Lyndhurst Road, London, N22",N22,2.0
+820,425000.0,"Maryland Road, London, N22",N22,2.0
+822,500000.0,"Evesham Road, London, N11",N11,3.0
+823,2300000.0,"Yew Tree Close, Muswell Hill, London, N22",N22,5.0
+824,485000.0,"Hatherley Gardens, Crouch End, London, N8",N8,1.0
+825,1500000.0,"Victoria Road, N22",N22,5.0
+826,600000.0,High Street Smithfield Square N8,N8,2.0
+827,1950000.0,"Milton Park, Highgate, London, N6",N6,6.0
+828,419000.0,"High Road, London, N22",N22,2.0
+830,534950.0,"Everington Road, Muswell Hill, N10",N10,2.0
+832,425000.0,"Maidstone Road, London, N11",N11,2.0
+833,475000.0,"Hatherley Gardens, Crouch End, London, N8",N8,1.0
+835,500000.0,"Sylvan Avenue, Wood Green, London, N22",N22,2.0
+836,1950000.0,"Milton Park, Highgate, N6",N6,6.0
+837,535000.0,"Westbeech Road, Turnpike Lane, London, N22",N22,2.0
+841,475000.0,"Alexandra Park Road, Muswell Hill, London, N10",N10,2.0
+842,535000.0,"Westbeech Road, Noel Park, N22",N22,2.0
+843,284950.0,Stoneleigh Road N17,N17,1.0
+844,509950.0,Southey Road N15,N15,2.0
+845,675000.0,"Granville Road, Stroud Green N4",N4,2.0
+846,535000.0,"Lascotts Road, London, N22",N22,3.0
+847,415000.0,"Haslemere Road, Crouch End, London, N8",N8,1.0
+848,640000.0,"Highview, Shepherds Hill, London, London, N6",N6,2.0
+849,685000.0,"Smithfield Yard, Cross Lane N8  (Apartment A-6-02) ",N8,2.0
+850,240000.0,"Compton Crescent, London N17",N17,1.0
+851,695000.0,"Smithfield Yard, Cross Lane N8  (Apartment A-6-01) ",N8,2.0
+852,525000.0,"Allison Road, Harringay, London, N8",N8,2.0
+854,450000.0,"Albert Close, N22",N22,3.0
+855,800000.0,"Rookfield Close, Muswell Hill, N10",N10,3.0
+856,16999999.0,"Courtenay Avenue, Highgate, London, N6",N6,9.0
+860,365000.0,"Gilson Place, Coppetts Road, London, N10",N10,2.0
+861,435000.0,"High Road, Tottenham, London, N15",N15,2.0
+864,550000.0,"Whittington Road, London, N22",N22,2.0
+865,450000.0,"Sirdar Road, London, N22",N22,2.0
+866,950000.0,"Falkland Road, Harringay Ladder, London, N8",N8,4.0
+867,1700000.0,"Muswell Hill Road, London, N10",N10,6.0
+868,1000000.0,"Parklands, Highgate, N6",N6,2.0
+869,750000.0,"Uplands Road, N8",N8,3.0
+872,580000.0,"Thornaby Gardens, Edmonton, N18",N18,5.0
+873,580000.0,"Thornaby Gardens, London, N18",N18,5.0
+876,3250000.0,"Cholmeley Park, Highgate, N6",N6,7.0
+879,2495000.0,"Claremont Road, London, N6",N6,5.0
+880,300000.0,"Hampden Road, London, N8",N8,1.0
+881,965000.0,"Frobisher Road, Harringay Ladder, London, N8",N8,5.0
+884,445000.0,Compton Crescent N17,N17,3.0
+885,450000.0,"Perth Road, London, N22",N22,2.0
+886,2000000.0,"Langdon Park Road, N6",N6,6.0
+887,550000.0,"Hill Road, Muswell Hill, N10 ",N10,2.0
+888,300000.0,"Monument Way, Tottenham, N17",N17,1.0
+889,500000.0,"Harvey Road, Crouch End, London, N8",N8,2.0
+890,800000.0,"Effingham Road, Harringay, London, N8",N8,3.0
+891,395000.0,"Hawthorne Road, Edmonton, London, N18",N18,3.0
+892,475000.0,"Falkland Road, London, N8",N8,2.0
+893,515000.0,"Westbury Avenue, London, N22",N22,2.0
+894,280000.0,"Stonebridge Road, London, N15",N15,1.0
+895,575000.0,"Shepherds Hill, Highgate, London, N6",N6,2.0
+896,650000.0,"Topsfield Parade, Tottenham Lane, N8",N8,4.0
+897,450000.0,"Stanmore Road, London N15",N15,2.0
+898,629995.0,"Fenton road, london, N17",N17,5.0
+901,925000.0,"Milton Road, Highgate N6",N6,3.0
+903,999950.0,"Printworks, Crouch End, N8 ",N8,3.0
+904,499950.0,"Park Road, N8",N8,2.0
+905,390000.0,"Chesterfield Gardens, Harringay, London, N4",N4,1.0
+906,799999.0,"High Sheldon, Sheldon Avenue, Highgate, N6",N6,2.0
+908,375000.0,"Green Lanes, London, N8",N8,2.0
+909,740000.0,"Livingstone Road, London, N13",N13,4.0
+911,2500000.0,"Langdon Park Road, London, N6",N6,7.0
+912,560000.0,"Baronet Grove, London, N17",N17,3.0
+914,1850000.0,"Southwood Lane, Highgate Village N6",N6,5.0
+915,390000.0,"Mount Pleasant Road,, London, N17",N17,2.0
+918,700000.0,"Roslyn Road, Seven Sisters, N15",N15,3.0
+919,850000.0,"Wightman Road, London, N4",N4,4.0
+920,695000.0,"Priory Road, Crouch End, London, N8",N8,2.0
+921,459000.0,"White Hart Lane,
+London,
+N17 7NA",N17,2.0
+922,466000.0,"White Hart Lane,
+London,
+N17 7NA",N17,2.0
+923,725000.0,"Muswell Avenue, London, N10",N10,3.0
+924,1650000.0,"Southern Road, London, N2",N2,5.0
+925,1200000.0,"Muswell Avenue, Muswell Hill, London, N10",N10,3.0
+927,475000.0,"Avenue Road,London,N6",N6,1.0
+929,575000.0,"Burgoyne Road, Harringay, London, N4",N4,2.0
+930,400000.0,"Campsbourne Road, Crouch End, N8",N8,1.0
+931,550000.0,"Curzon Road, Muswell Hill, London, Greater London, N10",N10,2.0
+932,2595000.0,"Talbot Road, Highgate, London, N6",N6,6.0
+934,750000.0,"Coolhurst Road, London, N8",N8,2.0
+935,475000.0,"Tetherdown, Muswell Hill, N10",N10,2.0
+937,475000.0,"Langdon Park Road, Highgate, N6",N6,1.0
+938,1400000.0,"Stapleton Hall Road, N4 3QE",N4,5.0
+939,350000.0,"Cornwall Road, London, N15",N15,2.0
+940,475000.0,"Amazon Apartments, New River Village, Hornsey, N8",N8,2.0
+941,570000.0,"Downhills Way, Tottenham, London, N17",N17,3.0
+942,900000.0,"Rectory Gardens, Hornsey, N8",N8,3.0
+943,674950.0,"Hornsey Town Hall, Crouch End, London, N8",N8,2.0
+944,375000.0,"Princes Avenue, Palmers Green, London, N13",N13,2.0
+946,650000.0,"Melbourne Avenue, London, N13",N13,4.0
+947,390000.0,"Chesterfield Gardens, London, N4",N4,1.0
+948,350000.0,"Upper Tollington Park, London, N4",N4,1.0
+950,2250000.0,"Eastern Road, East Finchley, London, N2",N2,4.0
+951,400000.0,"Barrington Court, Colney Hatch Lane, London, Greater London, N10",N10,2.0
+955,375000.0,"Dukes Avenue, London, N10",N10,1.0
+957,460000.0,"Palmerston Road, Bounds Green, N22",N22,2.0
+958,549995.0,"Black Boy Lane, London, N15",N15,3.0
+959,494500.0,"Ferry Lane,
+London,
+N17",N17,2.0
+960,372500.0,"Ferry Lane,
+London,
+N17",N17,1.0
+961,424950.0,"Weir Hall Avenue, Edmonton, N18",N18,2.0
+962,599995.0,"Sandford Avenue, N22",N22,4.0
+963,375000.0,"Palace Gates Road, Alexander Park, London, N22",N22,1.0
+964,1730000.0,"North Grove, Highgate Village, London N6",N6,2.0
+965,675000.0,"Hornsey Lane Gardens, London, N6",N6,2.0
+970,1150000.0,"Hornsey Lane Gardens, Highgate,, London, N6",N6,3.0
+971,630000.0,"Walpole Road, London, N17",N17,4.0
+972,1150000.0,"Hornsey Lane Gardens, Highgate, N6",N6,3.0
+974,445000.0,"Kinnear Apartments, New River Village, Hornsey, N8",N8,2.0
+976,535000.0,"Lascotts Road, London, N22",N22,3.0
+978,437000.0,"Apartment E.35, Ashley Road, Tottenham Hale, N17",N17,1.0
+979,400000.0,"Colney Hatch Lane, Muswell Hill, N10",N10,2.0
+980,450000.0,"Grimshaw Close, Highgate, London, N6",N6,2.0
+983,475000.0,"Colney Hatch Lane, Muswell Hill, London, N10",N10,2.0
+984,375000.0,"Whittington Road, Bowes Park, London, N22",N22,2.0
+985,276000.0,"Apple Tree Road,
+London,
+N17 6PN",N17,1.0
+988,280000.0,"Apple Tree Road,
+London,
+N17 6PN",N17,1.0
+989,480000.0,"Linkway, London, N4",N4,3.0
+992,525000.0,"Butterfly Court, Lawrence Road, Tottenham, N15",N15,2.0
+993,385000.0,"Russell Road, London, N15",N15,2.0
+994,537500.0,"Butterfly Court, Bathurst Square, London, N15",N15,3.0
+995,475000.0,Lorne Road N4 3RU ,N4,2.0
+996,270000.0,"Apple Tree Road,
+London,
+N17 6PN",N17,1.0
+997,450000.0,"Tottenham Lane, Crouch End N8",N8,2.0
+998,550000.0,"The Chantry, Alexandra Park Road N22",N22,2.0
+999,450000.0,"Tottenham Lane, Crouch End, London, N8",N8,2.0
+1000,625000.0,"Avenue Lodge, Avenue Road, N6",N6,2.0
+1001,1100000.0,"Southwood Avenue, Highgate N6",N6,3.0
+1002,375000.0,"Osborne Road, Stroud Green, N4",N4,1.0
+1003,315500.0,"Ferry Lane,
+London,
+N17",N17,0.0
+1004,800000.0,"Hawthorn Road, Hornsey, London, N8",N8,3.0
+1007,850000.0,"York Road, Bounds Green, London, N11",N11,4.0
+1008,335000.0,"Napier Road, Tottenham, London, N17",N17,2.0
+1009,495000.0,"Manor Court, N2",N2,2.0
+1010,650000.0,"Weston Park, N8",N8,2.0
+1011,1600000.0,"Cholmeley Park, London, N6",N6,2.0
+1012,725000.0,"Apple Tree Road,
+London,
+N17 6PN",N17,3.0
+1013,1250000.0,"Hornsey Lane Gardens, Highgate, N6",N6,4.0
+1015,2150000.0,"Beech Drive, N2",N2,4.0
+1018,500000.0,"Avenue Mews, Muswell Hill, London, N10",N10,1.0
+1019,350000.0,"Fore Street, Edmonton, London, UK, N18 2FF",N18,2.0
+1021,274995.0,"Offord Close, Tottenham, London, UK, N17 0TD",N17,2.0
+1022,335000.0,Isobel Place N15,N15,1.0
+1024,750000.0,"Copper Beech, North Grove, Highgate, London, N6",N6,1.0
+1025,1200000.0,"Muswell Avenue, Muswell Hill, London, N10",N10,3.0
+1026,499950.0,"Park Avenue, Alexandra Palace, London, N22",N22,2.0
+1027,700000.0,"Mount Pleasant Road, London, N17",N17,3.0
+1030,650000.0,"Shepherds Hill, London, N6",N6,2.0
+1032,500000.0,"Birkbeck Road, London, N17",N17,4.0
+1033,500000.0,"Park Road, Crouch End N8",N8,2.0
+1034,400000.0,"Antill Road, Tottenham N15",N15,2.0
+1035,385000.0,"Birkbeck Mansions, Birkbeck Road, N8",N8,2.0
+1036,575000.0,"Strode Road, Tottenham, London, N17",N17,3.0
+1037,700000.0,"Northumberland Grove, LONDON, N17 0PY",N17,5.0
+1045,300000.0,"Bounds Green,London N22,N22",N22,1.0
+1048,975000.0,"Rathcoole Avenue, London, N8",N8,4.0
+1049,349950.0,"Gloucester Road, London, N17",N17,2.0

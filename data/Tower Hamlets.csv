@@ -1,0 +1,870 @@
+,price,address,postcode,number_bedrooms
+0,550000.0,"Millharbour, London, E14",E14,2.0
+1,730000.0,"Neroli House, Goodmans Fields, London, E1",E1,0.0
+2,550000.0,"24 Nellie Cressall Way, London, E3",E3,2.0
+4,495000.0,"Old Castle Street,London,E1",E1,2.0
+5,725000.0,"The Wardian, Canary Wharf, E14",E14,1.0
+7,650000.0,"Andersens Wharf, 20 Copenhagen Place, London, E14",E14,3.0
+8,650000.0,"Courtyard Apartments, London, E1",E1,1.0
+9,925000.0,"Avant Garde, London, E1",E1,2.0
+10,540000.0,"Landmark Pinnacle, Canary Wharf, E14",E14,1.0
+11,751000.0,"Marsh Wall, London, E14",E14,2.0
+12,595000.0,"Brabazon Street, Poplar, E14",E14,3.0
+13,925000.0,"Marsh Wall, London, E14",E14,2.0
+14,400000.0,"Old School Square, Canary Wharf, London, E14",E14,1.0
+15,635000.0,"Perilla House, Stable Walk, E1",E1,1.0
+16,900000.0,"Rococco House, 65 Princelet Street, London, E1",E1,2.0
+17,410000.0,"Chrisp Street, London, E14",E14,2.0
+19,650000.0,"Andersens Wharf, Limehouse, E14",E14,3.0
+20,620000.0,"49 Durant Street, London, E2",E2,2.0
+21,510000.0,"Pegasus House, Beaumont Square, London, E1",E1,3.0
+25,385000.0,"Mallard Point, Rainhill Way, London E3",E3,1.0
+26,389995.0,"Solebay Street, E1",E1,2.0
+27,750000.0,"Park Drive Develompent, 10 Upper Bank Street, E14",E14,1.0
+28,500000.0,"Baltimore Wharf, Canary Wharf, London, E14",E14,1.0
+29,975000.0,"Maine Tower, 9 Harbour Way, London, E14",E14,2.0
+30,650000.0,"Alie Street, E1",E1,1.0
+31,885000.0,"Alie Street, E1",E1,2.0
+32,399999.0,"Katherine Bell Tower, 52 Pancras Way, London, E3",E3,1.0
+33,430000.0,"Old Ford Road, Bethnal Green, London, E2",E2,2.0
+34,1300000.0,"Riverview Court, Isle Of Dogs, London, E14",E14,3.0
+35,275000.0,"Hayfield Passage, Stepney Green, E1",E1,0.0
+36,869995.0,"The Highway, London, E1W",E1W,2.0
+37,395000.0,"Portelet Road, E1 4EN",E1,2.0
+38,825000.0,"Temple Yard, London, E2",E2,2.0
+39,475000.0,"Charrington Tower, New Providence Wharf, London, E14",E14,1.0
+43,500000.0,"Augusta Street, Poplar, London, E14 6DY",E14,4.0
+45,1200000.0,"Landmark Pinnacle, Canary Wharf, E14",E14,2.0
+46,400000.0,"Moore House Cassilis Road, London, E14",E14,1.0
+48,108750.0,"Marsh Wall,
+London,
+E14 9SH",E14,0.0
+49,350000.0,"Oxley Square, Bromley-By-Bow, London, E3",E3,1.0
+50,600000.0,"Coopers Close, London, E1",E1,2.0
+52,550000.0,"Treadway Street, Bethnal Green, London, E2",E2,2.0
+53,650000.0,"New Road, London, E1",E1,2.0
+54,900000.0,"Wardian, East Tower, London, E14 ",E14,2.0
+55,675000.0,"One Park Drive, Canary Wharf, E14",E14,0.0
+56,438000.0,"Cobalt Point, 38 Millharbour, London, E14",E14,1.0
+57,535000.0,Landmark Pinnacle Marsh Wall E14,E14,1.0
+58,975000.0,"Aberdeen Wharf, 94 Wapping High Street, London, E1W",E1W,2.0
+60,480000.0,"Wager Street, London, E3",E3,4.0
+61,599950.0,"Chilton Street, London, E2",E2,2.0
+63,450000.0,"Old School Square, Canary Wharf, London, E14",E14,2.0
+65,499999.0,Manhattan Plaza Canary Wharf E14,E14,1.0
+66,820000.0,"120 Vallance Road, London, 
+E1 5BW",E1,3.0
+67,525000.0,"20 Westferry Road, London, E14",E14,2.0
+69,1250000.0,"Driffield Road, Bow, London, E3",E3,3.0
+70,1350000.0,"Hackney Road, London, E2",E2,3.0
+71,375000.0,"42 Violet Road, London, E3",E3,2.0
+73,1890000.0,"Bow Road, Bow, London, E3",E3,5.0
+74,800000.0,"Crawford Building, One Commercial Street, Aldgate E1",E1,2.0
+75,390000.0,"O'Brien House, Roman Road, London, E2",E2,2.0
+76,575000.0,The Madison Marsh Wall E14,E14,1.0
+79,850000.0,"Merchant Court, 61 Wapping Wall, London, E1W",E1W,2.0
+80,450000.0,"49 Durant Street, London, E2",E2,1.0
+81,840000.0,"Arena Tower, 25 Crossharbour Plaza, Canary Wharf, E14",E14,2.0
+82,350000.0,"Rounton Road, London, E3",E3,2.0
+88,359000.0,"Caraway Heights, Poplar High Street, London, E14",E14,1.0
+90,699000.0,Selsdon Way Canary Wharf E14,E14,2.0
+92,520000.0,"Bow, Bow, London, E3",E3,2.0
+93,1890000.0,"Bow Road, London, E3",E3,5.0
+94,800000.0,"Trinity Tower, 28 Quadrant Walk, London, E14",E14,2.0
+95,510000.0,"Glengarnock Avenue, London, E14",E14,2.0
+96,1450000.0,"Landmark Pinnacle, 10 Marsh Wall, Canary Wharf, E14",E14,2.0
+97,625000.0,"Pennington Court, E1W",E1W,2.0
+98,350000.0,"Dora Street, London, E14",E14,2.0
+99,420000.0,"Welwyn Street, Bethnal Green, London, E2",E2,1.0
+100,675000.0,"One Park Drive, Canary Wharf, E14",E14,0.0
+101,445000.0,"Pott Street, Bethnal Green, London, E2",E2,3.0
+102,1850000.0,"Heneage Street, Spitalfields, London, E1",E1,2.0
+105,850000.0,"Kingfield Street, London, E14",E14,3.0
+106,350000.0,"Bow Common Lane, London, E3",E3,2.0
+107,400000.0,"Sherwood Gardens, London, E14",E14,2.0
+108,168750.0,"Pilch House, 27 Violet Road, Bow, England, E3",E3,1.0
+109,575000.0,"Cascades Tower, Canary Wharf E14",E14,2.0
+111,450000.0,"Mohawk House, Bow E3",E3,3.0
+112,465000.0,"Trevithick Way, London E3",E3,2.0
+113,450000.0,"Violet Road, London E3",E3,2.0
+114,425000.0,Homer Drive London E14,E14,1.0
+115,300000.0,"Discovery Walk, London, E1W",E1W,1.0
+116,425000.0,"Coke Street, London, E1",E1,1.0
+117,900000.0,"Dunbar Wharf, 108-124 Narrow Street, London E14",E14,2.0
+118,850000.0,"Landons Close, Isle Of Dogs, London, E14",E14,4.0
+120,520000.0,"Harrison House, Martineau Square, London, E1 1BF",E1,2.0
+121,450000.0,"Bernhard Baron House, 71 Henriques Street, London, E1",E1,1.0
+122,2380000.0,"South Quay Plaza, 183 Marsh Wall, London, E14",E14,3.0
+123,650000.0,"Waterman Building, 14 Westferry Road, London, E14",E14,2.0
+124,480000.0,"Electric House, Bow Road, London, E3",E3,4.0
+125,630000.0,Imperial House Limehouse E14 ,E14,2.0
+127,550000.0,"Lowry House, Cassilis Road, South Quay, E14",E14,2.0
+128,650000.0,"Compass House, 11 Raine Street, London, E1W",E1W,2.0
+130,825000.0,"Damien Court Street, London, E1",E1,4.0
+131,550000.0,"Commercial Road, Aldgate East, London, E1",E1,2.0
+134,700000.0,"Swaton Road, London, E3",E3,3.0
+135,325000.0,"Wellington Way, London E3",E3,1.0
+136,500000.0,"Vivian Road, Bow, London, E3",E3,1.0
+137,1000000.0,"West India Quay, 26 Hertsmere Road, Canary Wharf, London, E14",E14,2.0
+138,475000.0,"Ontario Tower, London, E14",E14,1.0
+139,515000.0,"Wentworth Dwellings, 3 New Goulston Street, London, E1",E1,2.0
+141,400000.0,"Brick Lane, Spitalfields, E1",E1,1.0
+143,550000.0,"Hackney Road, London, E2",E2,2.0
+144,425000.0,"McCullum Road, Bow E3",E3,3.0
+146,699950.0,"Dunbar Wharf, 126-134 Narrow Street, London, E14",E14,2.0
+147,490000.0,"Violet Road, Bow, London, E3",E3,2.0
+148,290000.0,"Regent Square, E3 3HW",E3,1.0
+149,1485000.0,"Coborn Road, Bow, London, E3",E3,4.0
+150,799995.0,"Sarum Terrace, E3",E3,3.0
+152,575000.0,"Sclater Street, London, E1",E1,1.0
+153,899000.0,"St. Davids Square, London, E14",E14,5.0
+154,425000.0,"Carmine Wharf, Limehouse, E14",E14,2.0
+155,425000.0,"Ferguson Close, London, E14",E14,2.0
+156,525000.0,"16 Goldsmiths Row, London, E2",E2,1.0
+158,445000.0,"Stylus House, Devonport Street, London, E1",E1,2.0
+159,450000.0,"Duckman Tower, 3 Lincoln Plaza, Canary Wharf, London, E14",E14,1.0
+161,750000.0,"1 Pan Peninsula Square, West Tower, Canary Wharf , London, E14",E14,2.0
+162,350000.0,"73 Wentworth Street, London, E1",E1,1.0
+163,800000.0,"Bow Quarter, 60 Fairfield Road, London, E3",E3,3.0
+164,700000.0,"Stepney City Apartments, 49 Clark Street, London, E1",E1,2.0
+165,875000.0,"Goldsmiths Row, London, E2",E2,2.0
+166,525000.0,"Ionian Building, 45 Narrow Street, London, E14",E14,1.0
+167,525000.0,"Chichester Way, London, E14",E14,2.0
+169,500000.0,"Landmark West, Marsh Wall, London, E14",E14,1.0
+170,425000.0,"Mccullum Road, London, E3",E3,2.0
+173,375000.0,"Michigan Building, Canary Wharf, E14",E14,1.0
+174,335000.0,"Hudson House, Bow, E3",E3,1.0
+175,382000.0,"Dock East, Canary Wharf, E14",E14,1.0
+176,435000.0,"Millharbour, London, E14",E14,1.0
+178,285000.0,"Walburgh Street, London, E1",E1,2.0
+179,350000.0,"Leerdam Drive, E14 3JJ",E14,1.0
+180,800000.0,"Storers Quay, London, E14",E14,3.0
+182,550000.0,"Victoria Wharf, Narrow Street, London, E14",E14,1.0
+187,630000.0,"Altitude Point, 71 Alie Street, Aldgate, London, E1",E1,1.0
+188,500000.0,"Stepney Green, Stepney E1",E1,3.0
+189,450000.0,"Naxos Building, 4 Hutchings Street, London, E14",E14,2.0
+190,460000.0,"Langbourne Place, London, E14",E14,2.0
+191,540000.0,"Bermuda Way, Stepney, London, E1",E1,3.0
+192,375000.0,"8 Nicholson Square, London, E3",E3,1.0
+193,500000.0,"Blackthorn Street, London E3",E3,2.0
+194,850000.0,"Ivory House, St Katharine Docks, E1W",E1W,1.0
+195,925000.0,"Lichfield Road, London, E3",E3,3.0
+196,360000.0,"Cambridge Heath Road, Bethnal Green, London, E2",E2,1.0
+197,725000.0,"South Quay Plaza, Marsh Wall, London, E14",E14,1.0
+199,155000.0,"Emerald Gardens, Poplar, E14",E14,3.0
+201,575000.0,"Emerald Gardens, Poplar, E14",E14,2.0
+203,460000.0,"Kiran Apartments, 7A Chicksand Street, London, E1",E1,1.0
+204,620000.0,"Emerald Gardens, Poplar, E14",E14,3.0
+205,142500.0,"Emerald Gardens, Poplar, E14",E14,2.0
+206,575000.0,"China Court, Asher Way, Wapping, London, E1W",E1W,1.0
+207,175000.0,"Gladstone Place, London, E3",E3,2.0
+208,425000.0,"21 Hawgood Street, London, E3",E3,2.0
+209,400000.0,"Cubitt Wharf, E14",E14,1.0
+210,625000.0,"Wood Close, London, E2",E2,3.0
+211,900000.0,"Dunbar Wharf, 108-124 Narrow Street, Limehouse, London, E14",E14,2.0
+212,365000.0,"Devons Road, Bow, London, E3",E3,2.0
+213,625000.0,"New Crane Place, London, E1W",E1W,1.0
+214,1350000.0,"Hackney Road, Hackney, E2",E2,3.0
+215,495000.0,"Wardian, West Tower, London, E14 ",E14,0.0
+216,685000.0,"Stoneleigh Mews, London E3",E3,2.0
+217,395000.0,"Wardian London, East Tower, Marsh Wall, Canary Wharf, E14 ",E14,0.0
+218,375000.0,"Chainmakers House, 46 Blair Street, London, E14",E14,1.0
+219,450000.0,"Portelet Road, Stepney Green, London, E1",E1,2.0
+220,950000.0,"Dollar Bay, Dollar Bay Place, London, E14 ",E14,2.0
+221,435000.0,"Reef House, Isle of Dogs E14",E14,4.0
+222,495000.0,"5 Candle Street, London, E1",E1,2.0
+224,135000.0,"Dollar Bay Point, Canary Wharf E14",E14,1.0
+226,375000.0,"Alfred Street, London, E3",E3,2.0
+227,540000.0,"Dollar Bay Point, Canary Wharf E14",E14,1.0
+228,550000.0,"Claire Place, Isle of Dogs, London, E14",E14,2.0
+230,650000.0,"Jackson Tower, 1 Lincoln Plaza, E14",E14,2.0
+232,700000.0,"Spanby Road, London E3",E3,3.0
+233,510000.0,"2 Baltimore Wharf, Canary Wharf, London, E14",E14,2.0
+234,925000.0,"Bridewell Place, London, E1W",E1W,3.0
+235,580000.0,"Milligan Street, Limehouse, London, E14",E14,2.0
+236,875000.0,"Dock East, Canary Wharf, E14",E14,3.0
+237,669000.0,"Dock East, Canary Wharf, E14",E14,2.0
+238,382000.0,"Dock East, Canary Wharf, E14",E14,1.0
+239,310000.0,"Spanby Road, Bow, E3",E3,1.0
+240,595000.0,"Forge Square, Isle of Dogs, E14",E14,2.0
+241,520000.0,"Cumberland Mills Square, Isle of Dogs, E14",E14,2.0
+242,525000.0,"Galaxy Building, 5 Crews Street, Isle Of Dogs, London, E14",E14,2.0
+243,650000.0,"St Davids Square, E14",E14,2.0
+244,561000.0,"Oxbow Sales and Marketing Suite, Abbott Road, Aberfeldy Village, London, E14 0ND",E14,2.0
+245,424000.0,"Oxbow Sales and Marketing Suite, Abbott Road, Aberfeldy Village, London, E14 0ND",E14,1.0
+246,419000.0,"Oxbow Sales and Marketing Suite, Abbott Road, Aberfeldy Village, London, E14 0ND",E14,1.0
+247,1450000.0,"Ontario Tower, 4 Fairmont Avenue, London, E14",E14,2.0
+249,799999.0,"Oakland Quay, London, E14",E14,2.0
+251,880000.0,"The Wardian, East Tower, Canary Wharf, E14",E14,2.0
+252,450000.0,"36 Geoff Cade Way, London, E3",E3,2.0
+253,450000.0,"1227 New Providence Wharf, 1 Fairmount Avenue, London, E14 9PW",E14,2.0
+254,530000.0,"Schooner Close, London, E14",E14,2.0
+255,650000.0,"Horizon Building, 15 Hertsmere Road, Canary Wharf, London, E14",E14,2.0
+256,430000.0,"Pitsea Street, London, E1",E1,3.0
+258,450000.0,Cobalt Point Millharbour E14,E14,1.0
+259,525000.0,Landmark East Marsh Wall E14,E14,1.0
+261,225000.0,"Commercial Road, London, E14",E14,3.0
+262,725000.0,"Hemp Apartments, 70 Richard Tress Way, London, E3",E3,2.0
+263,284000.0,"David Hewitt House, Bow E3",E3,2.0
+264,173250.0,"Spencer Way, London, E1",E1,1.0
+265,275000.0,"Ingram House, Bow E3",E3,1.0
+266,500000.0,"Whites Row, London, E1",E1,1.0
+267,275000.0,"Daling Way, Bow, E3",E3,1.0
+268,449995.0," Bridge Wharf, E2",E2,2.0
+269,525000.0,"Altitude Point, Alie Street, Aldgate E1",E1,1.0
+270,910000.0,"Shoreditch Exchange, Hackney Road, London, E2",E2,2.0
+272,245000.0,"Brine House, E3",E3,0.0
+273,550000.0,"Sugar House, 99 Leman Street, London, E1",E1,1.0
+274,630000.0,"Dryden Building, Commercial Road, London, E1",E1,2.0
+276,825000.0,"Picture Frame House, Dunelm Street, London E1",E1,2.0
+277,171000.0,"4 Nicholson Square, London, E3",E3,3.0
+278,350000.0,"Flat 1005, 3 Pan Peninsula Square, London, E14 9HN",E14,1.0
+279,400000.0,"Millharbour, London, E14",E14,1.0
+280,525000.0,"Pan Peninsula, Canary Wharf, London E14",E14,1.0
+281,950000.0,"Telfords Yard, Wapping, E1W",E1W,2.0
+282,375000.0,"Leven Road, London, E14",E14,1.0
+285,510000.0,"North Boulevard, Baltimore Wharf, Canary Wharf E14",E14,2.0
+288,375000.0,"Pinnace House, Canary Wharf E14",E14,3.0
+289,350000.0,"Ducketts Apartments, Bow E3",E3,1.0
+290,480000.0,"Times Square, London, E1",E1,1.0
+291,400000.0,"City View Point, Poplar, E14",E14,1.0
+292,1200000.0,"Cashmere House, Goodman's Fields, Aldgate, E1",E1,2.0
+293,320000.0,"Columbia Road, London, E2",E2,1.0
+294,525000.0,"Harold House, Bethnal Green E2",E2,3.0
+295,695000.0,"120 Vallance Road, London, 
+E1 5BW",E1,2.0
+296,340000.0,"Norton House, Bigland Street, London, E1",E1,2.0
+297,475000.0,"Brigantine Court, Limehouse, E14",E14,2.0
+298,450000.0,"Nook Apartments, 29 Scarborough Street, London, E1",E1,1.0
+300,400000.0,"Brick Lane, Spitalfields, E1",E1,1.0
+302,500000.0,"Zenith House, E14",E14,2.0
+303,675000.0,"Basin Approach, E14",E14,2.0
+304,995000.0,"Wiverton Tower, E1",E1,2.0
+305,550000.0,Ability Place 37 Millharbour London E14 9DF,E14,1.0
+307,350000.0,"Wilson Tower, 16 Christian Street, London, E1",E1,0.0
+308,450000.0,"Fairmont Avenue, Docklands, London, E14",E14,2.0
+309,475000.0,"Westferry Road, Canary Wharf, London, E14",E14,1.0
+310,350000.0,"Wharfside Point South, London, E14",E14,1.0
+311,850000.0,"The Denim Factory, Davenant Street, London, E1 5AQ",E1,0.0
+312,500000.0,"Studley Court, LONDON, E14",E14,2.0
+316,375000.0,"Hercules House, London City Island, E14",E14,0.0
+318,600000.0,"Millharbour, London, E14",E14,2.0
+321,415000.0,"Globe Road, London, E1",E1,1.0
+322,1100000.0,"Exchange Building, 132 Commercial Street, Shoreditch, London, E1",E1,2.0
+323,390000.0,"O'Brien House, Roman Road, London, E2",E2,2.0
+325,530000.0,"Berglen Court, Limehouse, London, E14",E14,2.0
+326,325000.0,"Bromley High Street, London E3",E3,2.0
+327,915000.0,"Arena Tower, London, E14 ",E14,2.0
+328,500000.0,"Manchester Grove, Isle Of Dogs, London, E14",E14,2.0
+329,350000.0,"Burcham Street, Poplar, E14",E14,2.0
+330,870000.0,"Arena Tower, London, E14 ",E14,2.0
+331,600000.0,"Hertford Lock House, 201 Parnell Road, London, E3",E3,2.0
+332,435000.0,"Norton House, Mace Street, Bethnal Green, E2",E2,3.0
+334,500000.0,"Constable House, London, E14",E14,2.0
+335,600000.0,"Riverside Mansions, Wapping, London, E1W",E1W,2.0
+336,400000.0,"Commercial Road, Limehouse, London, E14",E14,1.0
+337,315000.0,Ceram Court Seven Sea Gardens E3,E3,1.0
+338,525000.0,"Whitby House, Canary Wharf E14",E14,2.0
+339,157500.0,"Whitby House, Canary Wharf E14",E14,2.0
+340,525000.0,"Cascades Tower, Canary Wharf E14",E14,2.0
+341,625000.0,"Boardwalk Place, London, E14",E14,2.0
+343,1550000.0,"Catalina House, Canter Way, Aldgate, London, E1",E1,3.0
+344,525000.0,"Wardian, East Tower, London E14",E14,1.0
+346,300000.0,"Canton Street, London E14",E14,1.0
+347,125000.0,"St Katharine Docks, Wapping, E1W",E1W,2.0
+348,400000.0,"St. Pauls Way, London E3",E3,2.0
+349,500000.0,"11 Manchester Grove, Isle of Dogs, London, E14 3BG",E14,2.0
+350,610000.0,Duke Shore Wharf Limehouse E14,E14,2.0
+351,425000.0,"Aegon House, 13 Lanark Square, Canary Wharf, London, E14",E14,2.0
+354,425000.0,"Diprose Court, Bow E3",E3,2.0
+355,720000.0,"Marsh Wall,
+London,
+E14",E14,1.0
+356,600000.0,"Coopers Close, London, E1",E1,2.0
+357,385000.0,"Neutron Tower, 6 Blackwall Way, London, E14 9GW",E14,1.0
+358,650000.0,"Shacklewell Street, E2",E2,2.0
+359,375000.0,"Ardent House, Bow E3",E3,2.0
+360,1250000.0,"Wardian West Tower, Canary Wharf, E14",E14,2.0
+363,590000.0,"Umberston Street, London, E1",E1,2.0
+364,550000.0,"Smeed Road, London, E3",E3,2.0
+365,1000000.0,"10 Park Drive, Canary Wharf, E14",E14,2.0
+366,425000.0,"Pan Peninsula, West Tower, Canary Wharf, E14",E14,1.0
+367,500000.0,"Courtyard Apartments, London, E1",E1,0.0
+368,399995.0,"Barrell Makers House, London, E14",E14,1.0
+369,605000.0,"Arena Tower, 25 Crossharbour Plaza, Canary Wharf, E14",E14,1.0
+370,925000.0,"Sanderling Lodge, Star Place, London, E1W",E1W,2.0
+372,450000.0,"Mornington Grove, London E3",E3,2.0
+373,475000.0,"Horseferry Road, E14",E14,1.0
+374,1275000.0,"Tredegar Road, London, E3",E3,3.0
+375,650000.0,"Arlington Building, Bow, E3",E3,2.0
+376,155000.0,"Parnham Street, E14",E14,2.0
+378,340000.0,"303 Salcombe Court, 16 St Ives Place, London, E14 0HX",E14,2.0
+379,450000.0,"Britley House, 6 Copenhagen Place, London, E14",E14,3.0
+381,375000.0,"Redcastle Close, Shadwell, London, E1W",E1W,2.0
+382,780000.0,"Wexner Building, 2 Strype Street, London, E1",E1,2.0
+384,710000.0,"Wardian London, Canary Wharf, E14",E14,1.0
+385,1000000.0,"Maine Tower, Isle Of Dogs, Canary Wharf, E14",E14,2.0
+386,790000.0,"Charrington Tower, Canary Wharf, E14",E14,2.0
+390,1000000.0,"10 Park Drive, Canary Wharf, E14",E14,2.0
+391,630000.0,"The Wardian, Canary Wharf, E14",E14,1.0
+392,605000.0,"The Madison, Marsh Wall, Canary Wharf, E14",E14,0.0
+393,349950.0,"Roman Road, Bethnal Green, E2",E2,1.0
+394,374995.0,"Cadogan Terrace, London, E9",E9,1.0
+397,630000.0,"Alloway Road, Bow, London, E3",E3,2.0
+398,530000.0,"Berglen Court, Limehouse, London, E14",E14,2.0
+401,550000.0,"Eluna Apartments, 4 Wapping Lane, Wapping, E1W",E1W,2.0
+402,1700000.0,"One Park Drive, Canary Wharf, E14",E14,2.0
+405,400000.0,"Whiteadder Way, Canary Wharf E14",E14,1.0
+406,650000.0,"Burrells Wharf Square, London, E14",E14,2.0
+407,625000.0,"Landmark Pinnacle, Canary Wharf, E14",E14,1.0
+408,365000.0,"Harford Street, London, E1",E1,1.0
+409,525000.0,"Ingot Tower, Ursula Gould Way, E14",E14,2.0
+410,325000.0,"Ability Place, Millharbour, E14",E14,0.0
+411,1200000.0,Albert Mews Narrow Street Limehouse E14,E14,3.0
+414,550000.0,"Cavell Street, London, E1",E1,2.0
+415,700000.0,"Discovery Dock East, London, E14",E14,2.0
+416,375000.0,"Redcastle Close, London, E1W",E1W,2.0
+418,340000.0,"Salcombe Court, Poplar, London, E14",E14,2.0
+419,425000.0,"Lanterns Way, Canary Wharf, London, E14",E14,1.0
+420,525000.0,"New Festival Quarter, Poplar, London, E14",E14,2.0
+421,465000.0,"2 Baltimore Wharf, London, E14",E14,1.0
+422,315000.0,"Brabazon Street, London, E14",E14,1.0
+423,900000.0,"Woodseer Street, London, E1",E1,3.0
+424,600000.0,"Cambridge Court, 220 Cambridge Heath Road, London, E2",E2,3.0
+425,1300000.0,"Riverview Court, Isle Of Dogs, London, E14",E14,3.0
+426,1195000.0,"Exchange Building, 132 Commercial Street, London, E1",E1,2.0
+427,520000.0,"Cable Street, Limehouse, London, E1W",E1W,2.0
+428,1000000.0,"Wapping Wall, Wapping, London, E1W",E1W,2.0
+430,1200000.0,"Cleveland Way, London, E1",E1,1.0
+431,689000.0,"Kent Building, London City Island, London, E14",E14,2.0
+432,375000.0,"Treloar House, Cambridge Heath Road, London, E2",E2,1.0
+433,350000.0,"City Tower, Limeharbour, London, E14",E14,1.0
+435,580000.0,"Milligan Street, London, E14",E14,2.0
+436,1150000.0,"Antill Road, E3",E3,3.0
+437,650000.0,"Martineau Square, Martineau Square, London E1",E1,3.0
+438,850000.0,"Jubilee Street, London, E1",E1,2.0
+439,760000.0,"162 Jubilee Street, London, E1",E1,2.0
+440,425000.0,"Cruden House, 33 Vernon Road, London, E3",E3,3.0
+441,565000.0,"Mulberry House, Victoria Park Square, London, E2",E2,2.0
+444,455000.0,"Ordell Court, 2 Ordell Road, London, E3",E3,2.0
+446,300000.0,"Salcombe Court, London, E14",E14,0.0
+447,475000.0,"City View House, Bethnal Green Road, Bethnal Green, London, E2",E2,2.0
+448,550000.0,"Wardian, East Tower, London, E14",E14,1.0
+449,375000.0,"Neutron Tower, Blackwall Way, London, E14",E14,1.0
+451,700000.0,"Old Ford Road, London, E3",E3,3.0
+452,500000.0,"Panama House, Beaumont Square, London, E1",E1,3.0
+453,139500.0,"Jessop Building, London, E14 ",E14,2.0
+454,465000.0,"Jessop Building, London, E14 ",E14,2.0
+456,1100000.0,"Tredegar Road, London, E3",E3,4.0
+457,820000.0,"West India Quay, 26 Hertsmere Road, London, E14",E14,2.0
+458,390000.0,"Campbell Road, Bow E3",E3,2.0
+460,775000.0,"Williamsburg Plaza, Manhattan Plaza, Canary Wharf, London, E14",E14,2.0
+461,550000.0,"St. Matthew's Row, London, E2",E2,2.0
+462,700000.0,"Pan Peninsula Square, Canary Wharf E14",E14,2.0
+463,450000.0,"Oast Court, 10 Three Colt Street, London, E14",E14,3.0
+464,340000.0,Fairmont Avenue London E14,E14,0.0
+465,500000.0,"Edison Building, 20 Westferry Road, E14",E14,2.0
+466,115000.0,"Boardwalk Place, London, E14",E14,1.0
+467,425000.0,"Mornington Grove, London E3",E3,2.0
+468,800000.0,"Arrow Road, London, E3",E3,3.0
+469,599990.0,"Comro Building, 6 Devonport Street,  Limehouse, E1",E1,2.0
+470,325000.0,"Bow Road, London, E3",E3,1.0
+471,550000.0,"Manilla Street, Canary Wharf E14",E14,2.0
+475,465000.0,"Baltimore Wharf, E14",E14,1.0
+477,600000.0,"8 Madeira Street, London, E14",E14,2.0
+478,325000.0,"Tudor Lodge, Bromley High Street, E3",E3,1.0
+479,400000.0,"146 Westferry Road, London, E14",E14,2.0
+480,440000.0,"Homer Drive, London, E14",E14,2.0
+481,499999.0,"Marner Point, 1 Jefferson Plaza, London, E3",E3,2.0
+482,385000.0,"William Whiffin Square, London E3",E3,1.0
+484,950000.0,"South Quay Plaza, Canary Wharf, E14",E14,1.0
+485,400000.0,"Old Bethnal Green Road, London, E2",E2,2.0
+486,895000.0,"Telfords Yard, London, E1W",E1W,2.0
+487,1000000.0,"West India Quay, 26 Hertsmere Road, London, E14",E14,2.0
+488,450000.0,"Lockesfield Place, Westferry Road, Docklands E14",E14,2.0
+490,325000.0,"Solander Gardens, Lowood Street, London, E1",E1,2.0
+491,425000.0,"Stanborough House, Empson Street,  Bow, E3",E3,3.0
+492,1000000.0,"Landmark Pinnacle, Canary Wharf, E14",E14,2.0
+493,1550000.0,"Canary Wharf's new district,
+Canary Wharf, London 
+E14 9SB",E14,2.0
+494,1230000.0,"Canary Wharf's new district,
+Canary Wharf, London 
+E14 9SB",E14,2.0
+495,1350000.0,"Canary Wharf's new district,
+Canary Wharf, London 
+E14 9SB",E14,2.0
+496,1885000.0,"Canary Wharf's new district,
+Canary Wharf, London 
+E14 9SB",E14,3.0
+497,2500000.0,"Canary Wharf's new district,
+Canary Wharf, London 
+E14 9SB",E14,3.0
+498,920000.0,"Canary Wharf's new district,
+Canary Wharf, London 
+E14 9SB",E14,1.0
+499,1915000.0,"Canary Wharf's new district,
+Canary Wharf, London 
+E14 9SB",E14,3.0
+500,960000.0,Marsh Wall Canary Wharf E14,E14,2.0
+501,997500.0,"Canary Wharf's new district,
+Canary Wharf, London 
+E14 9SB",E14,1.0
+502,860000.0,"Canary Wharf's new district,
+Canary Wharf, London 
+E14 9SB",E14,1.0
+503,1395000.0,"Canary Wharf's new district,
+Canary Wharf, London 
+E14 9SB",E14,2.0
+504,1485000.0,"Canary Wharf's new district,
+Canary Wharf, London 
+E14 9SB",E14,2.0
+505,885000.0,"Canary Wharf's new district,
+Canary Wharf, London 
+E14 9SB",E14,1.0
+506,550000.0,"Abbotts Wharf, Limehouse, E14",E14,2.0
+508,675000.0,"Jamestown Way, Docklands, London, E14",E14,2.0
+511,450000.0,"Lighterman Point, 3 New Village Avenue, London, E14",E14,2.0
+512,650000.0,"Fairclough Street, E1",E1,2.0
+513,550000.0,"Alie Street, E1",E1,1.0
+514,600000.0,"The Wardian, East Tower, Canary Wharf, E14",E14,0.0
+515,675000.0,"Turner Street, London, E1",E1,2.0
+516,599995.0,"Princelet Street, London, E1",E1,2.0
+517,550000.0,"Lavender House, 1B Ratcliffe Cross Street, London, E1",E1,2.0
+518,535000.0,"Buckle Street, Aldgate, London, E1",E1,1.0
+519,1000000.0,"Hertsmere Road, Canary Wharf, London, E14",E14,2.0
+520,950000.0,"Leyden Street, London, E1 ",E1,2.0
+521,350000.0,"14 Taylor Place, London, E3",E3,1.0
+523,680000.0,"Newlands Quay, London, E1W 3QZ",E1W,3.0
+524,365000.0,"Fairfield Road, London, E3",E3,1.0
+525,325000.0,"Pier Street, E14",E14,2.0
+526,1350000.0,"Old Ford Road, London, E3",E3,3.0
+527,975000.0,"Exchange Building, 132 Commercial Street, London, E1",E1,2.0
+528,485000.0,"Eluna Apartments, Wapping Lane, London, E1W",E1W,1.0
+529,530000.0,"Kirkwall Place, Bethnal Green, London, E2",E2,3.0
+530,275000.0,"1a Hayfield Passage, London, E1",E1,0.0
+532,340000.0,"Swan Passage, London, E1",E1,1.0
+535,770000.0,"Alpha Court, 20 Calvin Street, London, E1",E1,2.0
+537,1000000.0,"Yabsley Street, London, E14",E14,2.0
+538,450000.0,"Fairfield Road, Bow, London, E3",E3,2.0
+541,600000.0,"Ensign Street, London E1",E1,2.0
+542,295000.0,"Dewberry Street, Docklands E14",E14,1.0
+543,450000.0,"Wellington Row, London, E2",E2,3.0
+544,400000.0,"Old Library House, E3",E3,2.0
+545,45000.0,"Poplar Dock Marina, Docklands E14",E14,1.0
+546,750000.0,"Creek House, Limehouse E14",E14,2.0
+547,310000.0,"Byng Street, Canary Wharf, London, E14",E14,0.0
+548,190000.0,"Maltings Close, Bromley-By-Bow, London, E3 3TE",E3,1.0
+549,480000.0,"Undine Road, London, E14",E14,2.0
+550,155000.0,"Emerald Gardens, Poplar, E14",E14,3.0
+551,385000.0,"Clearbrook Way, London, E1",E1,2.0
+552,460000.0,"3 Bermuda Way, London, E1",E1,2.0
+554,430000.0,"Westferry Road, London, E14",E14,2.0
+555,425000.0,"Commercial Road, Limehouse, London, E1",E1,3.0
+556,460000.0,"Baltimore Wharf, Canary Wharf, London, UK, E14",E14,1.0
+557,1000000.0,"Hewlett Road, Bow E3",E3,4.0
+558,800000.0,"Landmark East Tower, 24 Marsh Wall, Canary Wharf, E14",E14,2.0
+559,430000.0,"Locksons Close, Poplar, London, E14",E14,2.0
+560,1250000.0,"Shipton, London, E2",E2,3.0
+561,1450000.0,"Tredegar Square, E3",E3,4.0
+562,875000.0,"Parliament Court, Artillery Lane, London, E1",E1,2.0
+563,105000.0,"Flat Westwood House, 54 Millharbour, E14",E14,2.0
+564,300000.0,"Ontario Tower, 4 Fairmont Avenue, London, E14",E14,0.0
+565,695000.0,"Ropery Street, London, E3",E3,2.0
+566,1100000.0,"The Wardian, Canary Wharf, E14",E14,2.0
+567,525000.0,"10 Park Drive, Canary Wharf, E14",E14,0.0
+568,470000.0,"Orchard Wharf, Orchard Place, Poplar, E14",E14,1.0
+569,1000000.0,"Gullivers Wharf, Wapping, London, E1W",E1W,2.0
+570,460000.0,"Kirkby Apartments, Mile End, London, E3",E3,2.0
+571,495000.0,"White Post Lane, London, E9",E9,1.0
+572,430000.0,"Elland House, Canary Wharf, London, E14",E14,3.0
+573,550000.0,"Phillip House, Heneage Street, Shoreditch, London, E1",E1,2.0
+574,550000.0,"Carillon Court, 41 Greatorex Street, London, E1",E1,2.0
+575,1650000.0,"Bethnal Green Rd, Shoreditch, E2",E2,5.0
+576,775000.0,"Albany Works, Gunmakers Lane, London, E3",E3,2.0
+577,420000.0,"Gun Place, 86 Wapping High Street, London, E1W",E1W,1.0
+578,445000.0,"Hudson House, Bow E3",E3,2.0
+580,675000.0,"Gowers Walk, London E1",E1,2.0
+581,485000.0,"Tredegar Square, London E3",E3,2.0
+582,825000.0,Arena Tower Crossharbour Plaza E14,E14,2.0
+583,785000.0,The Wardian Canary Wharf E14,E14,1.0
+584,575000.0,The Wardian Canary Wharf E14,E14,1.0
+585,82000.0,"St Katharine's Dock, Wapping E1W",E1W,3.0
+587,495000.0,"Wyllen Close, London, E1",E1,2.0
+588,445000.0,"Wardian, East Tower, London, E14",E14,0.0
+589,550000.0,"Charrington Tower, 11 Biscayne Avenue, London, E14",E14,1.0
+590,575000.0,"Sutton Street, Shadwell, London, E1",E1,4.0
+591,725000.0,"Ability Place, Canary Wharf E14",E14,2.0
+592,600000.0,"Brierly Gardens, Bethnal Green E2",E2,3.0
+593,415000.0,"Gainsborough House, Canary Wharf, E14",E14,1.0
+594,435000.0,"Wardian, East Tower, London, E14",E14,0.0
+595,600000.0,"Stepney Way, London, E1 ",E1,2.0
+596,445000.0,"Trafalgar Gardens, London E1",E1,2.0
+597,111250.0,"Carpenter House, Trafalgar Gardens, London E1",E1,2.0
+598,699995.0,"Discovery Dock Apartments East, 3 South Quay Square, Canary Wharf, London, E14",E14,2.0
+599,510000.0,"Orion Point, E14",E14,2.0
+601,1400000.0,"Tredegar Square, London, E3",E3,5.0
+602,370000.0,"New Village Avenue, E14",E14,0.0
+603,360000.0,"3 St. Annes Street, London, E14",E14,1.0
+604,350000.0,"Pepys House, Bethnal Green, E2",E2,1.0
+606,550000.0,"Mendip Houses, Welwyn Street, London, E2",E2,2.0
+607,425000.0,"Colefax Building, 23 Plumbers Row, London, E1",E1,1.0
+610,220000.0,"Ballinger Point, Bow E3",E3,1.0
+611,875000.0,"Salmon Lane, London, E14",E14,3.0
+612,725000.0,"Bow Brook House, Gathorne Street, London, E2",E2,2.0
+613,166250.0,"Tower 41
+Mastmaker Road
+London, 
+E14 9XS",E14,2.0
+614,665000.0,"Tower 41
+Mastmaker Road
+London, 
+E14 9XS",E14,2.0
+615,399999.0,"Turin Street, London, E2",E2,2.0
+616,565000.0,"Orion, Goodluck Hope, E14",E14,1.0
+617,945000.0,"Avantgarde Place, E1",E1,2.0
+619,475000.0,"Sherwood Gardens, Isle of Dogs, E14",E14,2.0
+620,900000.0,10 Park Drive Canary Wharf E14,E14,2.0
+621,108750.0,"Locksons Close, Poplar, London, E14",E14,2.0
+622,427000.0,"Studley Court, Prime Meridian Walk, E14",E14,1.0
+623,275000.0,"Ceram Court, 10 Seven Sea Gardens, E3",E3,0.0
+624,350000.0,"Pan Peninsula Square, E14",E14,1.0
+627,824500.0,"St Johns Court, 12 Scandrett Street, London, E1W",E1W,2.0
+628,675000.0,"Brick Lane, Shoreditch, London, E1",E1,2.0
+629,350000.0,"Storey House, Poplar, London, E14",E14,2.0
+630,575000.0,"Andersens Wharf, Docklands, London, E14",E14,3.0
+631,300000.0,"Hudson House, Bow, E3",E3,0.0
+632,575000.0,"Merchant Street, London, E3",E3,2.0
+637,175000.0,"Limehouse Basin, Limehouse E14",E14,1.0
+639,425000.0,"Wellington Way, London, E3",E3,2.0
+640,340000.0,"Ernest Street, London, Greater London, E1 4SL",E1,3.0
+641,1100000.0,"Oakland Quay, London, E14",E14,2.0
+642,350000.0,"William Smith House, Ireton Street, E3",E3,1.0
+644,325000.0,"Lake View Estate, Old Ford Road, London, E3",E3,2.0
+645,650000.0,"Crawford Building, 112 Whitechapel High Street, City, London, E1",E1,1.0
+646,450000.0,"Turner House, Canary Wharf, London, E14",E14,1.0
+647,500000.0,"Wingfield Court, Docklands, London, E14",E14,2.0
+648,800000.0,"St Davids Square, Canary Wharf, London, E14",E14,3.0
+649,510000.0,"Roosevelt Tower, Williamsburg Plaza, Blackwall, E14",E14,1.0
+650,575000.0,"China Court, Asher Way, Wapping, London, E1W",E1W,1.0
+651,615000.0,"Java House, London City Island, London, E14",E14,2.0
+652,400000.0,"Cottage Street, London, E14",E14,3.0
+653,500000.0,Banbury Point Cording Street Poplar E14,E14,2.0
+654,440000.0,"Cheval Street, Poplar, London, E14 8QE",E14,4.0
+656,550000.0,"Landmark Pinnacle, Canary Wharf, E14",E14,1.0
+657,750000.0,"Maine Tower, Harbour Central, E14",E14,2.0
+658,1000000.0,"Tradewinds Court, Asher Way, London, E1W",E1W,3.0
+659,999999.0,"Swan Court, Star Place, London, E1W",E1W,2.0
+660,675000.0,"Marc Brunel House, Wapping, London, E1W",E1W,1.0
+662,400000.0,"College Terrace, Bow, London, E3",E3,1.0
+663,340000.0,"697 Commercial Road, London, E14",E14,1.0
+664,600000.0,"10 Park Drive, Canary Wharf, London, E14",E14,1.0
+665,490000.0,"85 Stepney Way, The Silk District, London E1",E1,0.0
+666,435000.0,"Tyne Street, London E1",E1,1.0
+667,325000.0,"Tidworth Road, London E3",E3,1.0
+668,1350000.0,"Chilton Street, London, E2",E2,2.0
+669,500000.0,"Alpha Court, 20 Calvin Street, London, E1",E1,1.0
+670,350000.0,"Butler House, Bacton Street, London, E2",E2,1.0
+672,750000.0,"Anchorage Point, 42 Cuba Street, London, E14",E14,2.0
+673,375000.0,"Gernon Road, Tower Hamlets, London, E3",E3,1.0
+674,375000.0,"Harford Street, Stepney, London, E1",E1,1.0
+675,1650000.0,"Princelet Street, Spitalfields, E1",E1,5.0
+676,325000.0,"Horseshoe Close, Isle Of Dogs, London, E14",E14,1.0
+677,385000.0,"Triangle Apartments, E14",E14,1.0
+678,550000.0,"Pritchards Road, London, E2",E2,3.0
+680,325000.0,"Horseshoe Close, Isle of Dogs E14",E14,1.0
+681,440000.0,"Thorn Apartments, 5 Geoff Cade Way, London, E3",E3,2.0
+682,400000.0,"Hereford Road, London E3",E3,2.0
+684,699995.0,"Hermitage Waterside, Thomas More Street, London, E1W",E1W,2.0
+685,630000.0,"Hudson House, Bow, E3",E3,3.0
+686,1475000.0,"Coborn Road, London, E3",E3,4.0
+687,1250000.0,"Exchange Building, 132 Commercial Street, Shoreditch, London, E1",E1,2.0
+689,430000.0,"The Wardian, Canary Wharf, E14",E14,0.0
+690,450000.0,"7 Trevithick Way, London, E3",E3,2.0
+691,700000.0,"Catalina House, 4 Canter Way, Aldgate, London, E1",E1,1.0
+692,450000.0,"Vickery's Wharf, 87 Stainsby Road, London, E14",E14,2.0
+693,395000.0,"Stainsby Road, Poplar, E14",E14,1.0
+694,425000.0,"Pegswood Court, Shadwell E1",E1,3.0
+695,960000.0,"Cyprus Street, London, E2",E2,3.0
+696,1295000.0,"Sunlight Square, London, E2",E2,2.0
+697,500000.0,"City West Tower, High Street, E15",E15,3.0
+698,1950000.0,"Bow Road, London, E3",E3,5.0
+699,450000.0,"Cephas Avenue, London, E1",E1,1.0
+701,300000.0,"187 East India Dock Road, London, E14",E14,1.0
+703,560000.0,"Landmark East Tower, 24 Marsh Wall, Canary Wharf, London, E14",E14,1.0
+705,475000.0,"Meldola Yard, London, E9",E9,1.0
+707,875000.0,"Havering Street, London E1",E1,3.0
+709,400000.0,"Cumberland Mills Square, Isle Of Dogs, London, E14",E14,1.0
+710,700000.0,"Halcyon Wharf, 5 Wapping High Street, London, E1W",E1W,2.0
+711,1600000.0,"Millers Wharf House, 78 St. Katharines Way, London, E1W",E1W,2.0
+712,1250000.0,"Hermitage Court Knighten Street, London, E1W",E1W,3.0
+713,500000.0,"Calvin Street, E1",E1,1.0
+715,550000.0,"South Quay Plaza, South Quay, Canary Wharf, London, E14",E14,0.0
+716,1350000.0,"One Park Drive, Canary Wharf, E14",E14,2.0
+717,514500.0,"Phoenix Heights, South Quay, London, E14",E14,2.0
+718,650000.0,"16 Victoria Park Square, London, E2",E2,2.0
+719,725000.0,"Wheler Street, London, E1",E1,2.0
+720,550000.0,"Watergarden Apartments, 123 Sceptre Road, London, E2",E2,2.0
+721,375000.0,"Commercial Road, City, London, E1",E1,1.0
+722,475000.0,"Vallance Road, Tower Hamlets, London, E1",E1,2.0
+723,475000.0,"Vallance Road, Whitechapel, London, E1",E1,2.0
+727,450000.0,"Beatrice House, 43 Stepney Green, London, E1",E1,2.0
+728,365000.0,"Prospect Place, London, E1W",E1W,1.0
+729,400000.0,"Lime Tree Court, 112a Belton Way, London E3",E3,2.0
+730,400000.0,"Clovelly Way, London E1",E1,2.0
+731,299995.0,"Fern Street, E3",E3,2.0
+732,59000.0,"Limehouse Basin, Limehouse E14",E14,1.0
+733,425000.0,"The Chronos Building, Whitechapel, E1 ",E1,2.0
+735,300000.0,"Fusion Building, Poplar E14",E14,1.0
+737,550000.0,"Treves House, Vallance Road, London, E1",E1,3.0
+738,489000.0,"Amelia House, London City Island, London, E14",E14,1.0
+739,610000.0,Duke Shore Wharf Limehouse E14,E14,2.0
+740,375000.0,"Stepney Green, E1",E1,1.0
+741,445000.0,"Katherine Bell Tower, 52 Pancras Way, London, E3",E3,2.0
+742,380000.0,"Wilmot Street, London, E2",E2,1.0
+743,550000.0,"Wharf Place, London Fields, E2",E2,2.0
+744,500000.0,"The Watergardens, Limehouse E14",E14,1.0
+747,880000.0,Flamborough Walk Limehouse E14,E14,3.0
+749,815750.0,"59.06 The Landmark Pinnacle, Westferry Road, Isle Of Dogs, London, E14",E14,1.0
+750,350000.0,"Wharfside Point South, London, E14",E14,1.0
+751,559000.0,"42.12 The Landmark Pinnacle, Westferry Road, Isle Of Dogs, London, E14",E14,0.0
+752,1390000.0,"The Wardian, East Tower, Canary Wharf, E14",E14,2.0
+753,470000.0,Ivy Point Hannaford Walk E3,E3,2.0
+755,675000.0,"Perilla House, Goodman's Fields, Aldgate E1",E1,0.0
+756,425000.0,"Limeharbour, London, E14",E14,2.0
+759,775000.0,"Glengall Grove, London, E14",E14,5.0
+760,800000.0,"Port East Apartments, Hertsmere Road, London, E14",E14,2.0
+761,425000.0,"Pegswood Court, 92 Cable Street, Wapping, London, E1",E1,3.0
+763,250000.0,"Coopers Close, Stepney Green, London, E1",E1,0.0
+764,550000.0,Island Row London E14,E14,2.0
+765,815000.0,Pan Peninsula Square Canary Wharf E14,E14,2.0
+766,360000.0,"Stewart Street, London, E14",E14,3.0
+767,650000.0,"Bridewell Place, London, E1W",E1W,2.0
+768,172500.0,"41 Mastmaker Road, Salvor Tower, Millharbour, London, E14",E14,2.0
+769,173750.0,"41 Mastmaker Road, Salvor Tower, Millharbour, London, E14",E14,2.0
+770,70000.0,"Limehouse Basin, Limehouse E14",E14,1.0
+772,350000.0,"Talwin Street, London, E3",E3,2.0
+773,535000.0,"Lime Quarter, Devons Road, London, E3",E3,2.0
+774,570000.0,"Lime Quarter, Devons Road, London, E3",E3,2.0
+775,1250000.0,"Driffield Road, Bow, London, E3",E3,3.0
+777,325000.0,"Wellington Way, London E3",E3,1.0
+778,525000.0,"Francis Close, London, E14",E14,2.0
+779,400000.0,"Rhodeswell Road, Limehouse E14",E14,2.0
+780,700000.0,"Pepper Street, Canary Wharf E14",E14,3.0
+781,815000.0,"Pan Peninsula Square, Canary Wharf E14",E14,2.0
+782,725000.0,"Park Drive Development, 10 Upper Bank Street, E14",E14,1.0
+783,419000.0,"Wick Lane,
+London,
+E3",E3,1.0
+784,65000.0,"Limehouse Basin, Limehouse E14",E14,1.0
+785,1600000.0,"Gun Wharf, 124 Wapping High Street, London, E1W",E1W,4.0
+786,1250000.0,"Wiverton Tower, Aldgate Place, 4 New Drum Street, Aldgate, E1",E1,2.0
+787,350000.0,"Falcon Way, Nr Canary Wharf, London, E14",E14,1.0
+788,435000.0,"Lanterns Way, London, E14",E14,1.0
+789,475000.0,"Shalimar House, 26A Vallance Road, London, E1",E1,2.0
+790,475000.0,"Shalimar House, 26A Vallance Road, London, E1",E1,2.0
+791,425000.0,"Colefax Building, 23 Plumbers Row, London, E1",E1,1.0
+792,650000.0,"Sunlight Square, London, E2",E2,2.0
+795,439995.0,"New Goulston Street, Aldgate, E1",E1,1.0
+796,550000.0,"Dryden Building, 37 Commercial Road, London, E1",E1,2.0
+797,1250000.0,"Walden Street, London, E1",E1,3.0
+798,425000.0,"Hadfield House, Ellen Street,  Aldgate, E1",E1,4.0
+799,850000.0,"Bridewell Place, London, E1W",E1W,3.0
+801,560000.0,"South Quay Plaza, Canary Wharf, E14",E14,0.0
+802,640000.0,"Avantgarde Tower, E1",E1,1.0
+803,150000.0,"Limehouse Basin Marina, Limehouse E14",E14,2.0
+804,1330000.0,"43.1 Aspen, Marsh Wall, London, E14",E14,3.0
+805,815000.0,"Pan Peninsula, West Tower, Canary Wharf, London, E14",E14,2.0
+806,425000.0,"Orchard Wharf, Poplar, E14",E14,1.0
+807,630000.0,Imperial House Limehouse E14 ,E14,2.0
+808,599950.0,"Tredegar Road, London, E3",E3,2.0
+810,450000.0,"Lindley Street, Whitechapel, London, E1",E1,2.0
+811,400000.0,"Gascoigne Place, Shoreditch, London, E2",E2,1.0
+812,310000.0,"Beckley House, Hamlets Way, Mile End, London, E3",E3,2.0
+813,440000.0,"Charles Auffray House, Whitechapel, London, E1",E1,3.0
+815,325000.0,"St. Stephens Road, Bow, London, E3",E3,0.0
+816,380000.0,"Three Waters, Bow Creek, London, E3",E3,0.0
+817,380000.0,"David Hewitt House, Bow E3",E3,2.0
+818,650000.0,"Commercial Road, London E1",E1,2.0
+821,860000.0,"New Crane Wharf, New Crane Place, London, E1W",E1W,2.0
+822,88125.0,"Lime Quarter, 75 Devons Road, Bromley-By-Bow, London, E3",E3,1.0
+823,400000.0,"Reservoir Studios, London, E1W",E1W,1.0
+824,850000.0,"Westferry Circus, Canary Wharf, London, E14",E14,2.0
+825,440000.0,"Wharfside Point South, E14",E14,2.0
+826,815000.0,Pan Peninsula Square London E14,E14,2.0
+828,425000.0,"Landon Walk, Poplar, E14",E14,2.0
+831,1195000.0,"Hobart Building, 2 Wards Place, London, E14",E14,2.0
+832,675000.0,"Landmark Pinnacle, Canary Wharf, London, E14",E14,1.0
+834,475000.0,"Landmark Square, London, E14",E14,0.0
+835,585000.0,"Landmark Square, London, E14",E14,1.0
+837,500000.0,"Roosevelt Tower, 18 Williamsburg Plaza, London, E14",E14,1.0
+838,449995.0,"Schoolbell Mews, E3",E3,1.0
+839,550000.0,"Bartholomew Court, 10 Newport Avenue, London, E14",E14,2.0
+840,500000.0,"Napier Avenue, London, E14",E14,2.0
+841,869950.0,"Napier Avenue, London, E14",E14,4.0
+842,450000.0,"New Providence Wharf, 1 Fairmont Avenue, London, E14",E14,1.0
+843,400000.0,"Orion Point, 7 Crews Street, London, E14",E14,1.0
+844,490000.0,"The Silk District, Whitechapel, London, E1",E1,0.0
+845,450000.0,"The Watergarden, E14",E14,1.0
+846,425000.0,"Wellington Buildings, Wellington Way, London, E3",E3,1.0
+847,1250000.0,"Three Colt Street, Limehouse, London, E14",E14,4.0
+848,425000.0,"Chicksand Street, London, E1",E1,1.0
+849,450000.0,"Chicksand Street, London, E1",E1,1.0
+850,1350000.0,"Artemis Court, Westferry Road, E14",E14,3.0
+851,500000.0,"Chicksand Street, London, E1",E1,2.0
+852,499950.0,"Ravenscroft Street, London, E2",E2,3.0
+853,700000.0,"The Wardian, East Tower, Canary Wharf, E14",E14,1.0
+854,715000.0,"Osborn St, The Osborn Apartments, Spitalfields, London, E1",E1,1.0
+855,635000.0,"Osborn St, The Osborn Apartments, Spitalfields, London, E1",E1,1.0
+856,1300000.0,"Osborn St, The Osborn Apartments, Spitalfields, London, E1",E1,3.0
+857,765000.0,"Osborn St, The Osborn Apartments, Spitalfields, London, E1",E1,2.0
+858,875000.0,"Osborn St, The Osborn Apartments, Spitalfields, London, E1",E1,2.0
+859,549950.0,"Bethnal Green Road, London, E2",E2,2.0
+860,600000.0,"Victoria Park Square, London, E2",E2,2.0
+861,375000.0,"Stepney Way, London, E1",E1,1.0
+862,500000.0,"Amundsen Court, Isle of Dogs, E14",E14,2.0
+863,315000.0,"3 A Boulcott Street, London, E1",E1,1.0
+864,397500.0,"Naxos Building, 4 Hutchings Street, London, E14",E14,1.0
+865,440000.0,"Bay Court, Stepney E1",E1,3.0
+867,615000.0,Swallow Place Newell Street Limehouse E14,E14,2.0
+869,485000.0,"Three Waters, Bow Creek, London, E3",E3,1.0
+870,477500.0,"Three Waters, Bow Creek, London, E3",E3,1.0
+871,455000.0,"Baltimore Wharf, London, E14",E14,1.0
+872,769999.0,"Discovery Dock East, London, E14 ",E14,2.0
+874,400000.0,"Richard Neale House, Cornwall Street, London, E1",E1,3.0
+875,700000.0,"Spanby Road, London E3",E3,3.0
+876,700000.0,"Boardwalk Place, Canary Wharf E14",E14,2.0
+878,1150000.0,"New Drum Street, E1",E1,2.0
+879,450000.0,"Deal Street, London E1",E1,1.0
+882,650000.0,"Evesham House, Old Ford Road, London, E2",E2,3.0
+883,349999.0,"Globe Road, London, E2",E2,1.0
+884,365000.0,"John Bell Tower West, 5 Pancras Way, London, E3",E3,1.0
+885,700000.0,"Riviera Court, St Katharines Way, London E1W",E1W,2.0
+886,570000.0,"Royal Mint Gardens, Royal Mint Street, London, E1",E1,0.0
+888,750000.0,"Thermopylae Gate, London, E14",E14,3.0
+891,400000.0,"Wellington Way, London, E3",E3,2.0
+892,475000.0,"Tredegar Road, London, E3",E3,2.0
+893,450000.0,"Caledonian Wharf, Canary Wharf E14",E14,2.0
+894,160625.0,"Laker Court, 39 Harbour Way, London, E14",E14,2.0
+895,350000.0,"Hilliard House, Prusom Street, London, E1W",E1W,1.0
+897,1650000.0,"Mile End Road, London, E3",E3,4.0
+898,1100000.0,"Stanfield Road, London, E3",E3,3.0
+899,570000.0,"Guardian Apartments, E3",E3,2.0
+901,545000.0,"Charrington Tower, Canary Wharf E14",E14,1.0
+902,665000.0,"Cavell Street, London, E1",E1,2.0
+904,549995.0,"148 Wapping High Street, Wapping, E1W",E1W,1.0
+906,750000.0,"Gun Place, 86 Wapping Lane, Wapping, London, E1W",E1W,2.0
+907,755000.0,"Landmark Pinnacle, Canary Wharf, E14",E14,2.0
+908,535000.0,"Landmark Pinnacle, Canary Wharf, E14",E14,1.0
+909,188750.0,"Landmark Pinnacle, Canary Wharf, E14",E14,2.0
+910,680000.0,"Landmark Pinnacle, Canary Wharf, E14",E14,1.0
+913,500000.0,"24 Stebondale Street, London, E14",E14,2.0
+916,550000.0,"Manchester Road, London, E14",E14,3.0
+917,639950.0,"Java House, London City Island, London, E14",E14,2.0
+918,385000.0,"Turin Street, Bethnal Green, E2",E2,2.0
+919,1195000.0,"The Wardian, Marsh Wall, Canary Wharf, E14",E14,2.0
+920,285000.0,"Ming Street, Poplar E14",E14,1.0
+921,519000.0,"Orchard Wharf, London, E14",E14,1.0
+922,495000.0,"Buckhurst Street, Bethnal Green, E1",E1,2.0
+923,525000.0,"Cavell Street, London, England, E1",E1,2.0
+924,350000.0,"Taffrail House, Isle of Dogs E14",E14,1.0
+925,450000.0,"Britley House, 6 Copenhagen Place, London, E14",E14,3.0
+926,450000.0,"East Ferry Road, London, E14",E14,2.0
+927,550000.0,"Marner Plaza, London,E3",E3,3.0
+928,900000.0,"108-124 Narrow Street, London, E14",E14,2.0
+929,425000.0,"Sunlight Square, London, E2",E2,1.0
+930,495000.0,"Mariana Court, Stepney Green E1",E1,2.0
+932,1000000.0,"Monthope Road, London, E1",E1,5.0
+933,475000.0,"Milligan Street, London, E14",E14,2.0
+934,465000.0,"St. Katharines Way, London, E1W",E1W,2.0
+936,675000.0,"Free Trade Wharf, Wapping, E1W",E1W,2.0
+937,560000.0,"Albany Court, Plumbers Row, London, E1",E1,2.0
+938,1200000.0,"Cinnabar Wharf East, 28 Wapping High Street, London, E1W",E1W,0.0
+939,650000.0,"15 Indescon Square, Canary Wharf, London, E14",E14,3.0
+940,430000.0,"Sceptre Road, London, E2",E2,2.0
+941,560000.0,"Landmark East Tower, 24 Marsh Wall, London, E14",E14,1.0
+942,400000.0,"Bow Road, London, E3",E3,2.0
+943,650000.0,"Trinity Mews, London E1",E1,3.0
+944,550000.0,"Old Market Square, London, E2",E2,3.0
+945,475000.0,"Carron Close, London, E14",E14,4.0
+946,375000.0,"39 Portelet Road, London, E1",E1,2.0
+947,625000.0,"Burdett Road, London, E14",E14,3.0
+948,400000.0,"Nelson Gardens, London, E2",E2,1.0
+949,475000.0,"Cephas Avenue, Stepney Green, London, E1",E1,1.0
+951,625000.0,"The Wardian, Marsh Wall, London, E14",E14,1.0
+953,349995.0,"Tredegar Square, E3",E3,0.0
+954,300000.0,"East Mount Street, London, E1",E1,1.0
+955,415000.0,"Ringwood Gardens, London, E14",E14,2.0
+956,800000.0,"Naylor Building, 15 Adler Street, London, E1",E1,2.0
+957,810000.0,"London City Island, Orchard Place, London, E14 0JU",E14,2.0
+958,360000.0,"Hedley House, Canary Wharf E14",E14,3.0
+959,1095000.0,"Voss Street, London, E2",E2,3.0
+960,735000.0,"London City Island, Orchard Place, London, E14 0JU",E14,2.0
+961,533500.0,"Studley Court, Docklands, London, E14",E14,2.0
+962,560000.0,"Landmark Pinnacle, Docklands, E14",E14,1.0
+963,710000.0,"London City Island, Orchard Place, London, E14 0JU",E14,2.0
+965,730000.0,"London City Island, Orchard Place, London, E14 0JU",E14,2.0
+966,999950.0,"Basin Approach, London, E14",E14,3.0
+969,625000.0,"Java House, London City Island, London, E14",E14,2.0
+971,750000.0,"Sextant Avenue, Isle of Dogs E14",E14,3.0
+973,400000.0,"Westferry Road, London, E14",E14,2.0
+974,465000.0,"Menai Place, Bow, London, E3",E3,2.0
+975,450000.0,"Galleons View, E14",E14,2.0
+976,525000.0,"Tredegar Square, Bow, London, E3",E3,1.0
+977,575000.0,"Durham Villa, E14",E14,2.0
+978,1450000.0,"Galaxy Building, The Odyssey, E14",E14,4.0
+979,500000.0,"10 Park Drive, Canary Wharf, E14",E14,1.0
+980,525000.0,"Blackwall Reach, London, E14",E14,1.0
+981,560000.0,"Roach Road, 
+London,
+E3",E3,2.0
+982,1230000.0,"One Park Drive, Canary Wharf, E14",E14,2.0
+986,450000.0,"Newton Court, 1 Axio Way, London, E3",E3,2.0
+987,420000.0,"St Frideswides Mews, Poplar, London, E14",E14,1.0
+988,475000.0,"Caspian Apartments, Salton Square, London, E14",E14,2.0
+989,630000.0,"Lucienne Court, 72 Lindfield Street, London, E14",E14,2.0
+990,970000.0,"Telfords Yard, 6 -8 The Highway, Wapping, London, E1W",E1W,2.0
+994,665000.0,"Schoolbell Mews, London, E3",E3,2.0
+998,675000.0,Landmark Pinnacle Marsh Wall E14,E14,0.0
+1000,535000.0,"Lime Quarter, Devons Road, London, E3",E3,2.0
+1001,775000.0,"St Mary Graces Court, Cartwright Street, London E1",E1,4.0
+1002,635000.0,"Hedsor House, Ligonier Street, London, E2",E2,2.0
+1004,500000.0,"Tredegar Square, Bow, London, E3",E3,2.0
+1006,725000.0,"St. Faiths Court, 75 Harford Street, London, E1",E1,2.0
+1007,625000.0,"Charrington Tower, Biscayne Avenue, London, E14",E14,2.0
+1008,1195000.0,"The Wardian, West Tower, Canary Wharf, E14",E14,2.0
+1010,475000.0,"Langbourne Place, London, E14",E14,2.0
+1011,750000.0,"10 Park Drive, Canary Wharf, London, E14",E14,1.0
+1012,385000.0,"Clearbrook Way, London E1",E1,2.0
+1013,495000.0,"Rosemary Place, Royal Mint Gardens, E1",E1,0.0
+1014,450000.0,"New Atlas Wharf, 3 Arnhem Place, E14",E14,1.0
+1015,480000.0,"Caspian Apartments, 5 Salton Square, London, E14",E14,2.0
+1017,675000.0,"Cheshire Street, London, E2",E2,2.0
+1019,700000.0,"Alice Lane, Bow, London, E3",E3,3.0
+1020,1250000.0,"Perilla House, Goodman's Fields, 17 Stable Walk, Aldgate, London, E1",E1,2.0
+1021,440000.0,"Old Ford Road, London, E2 ",E2,2.0
+1022,350000.0,"85 Fairfield Road, London, E3",E3,1.0
+1023,775000.0,"Hermitage Court, Knighten Street, London, E1W",E1W,3.0
+1024,875000.0,"The Listed Building, 350 The Highway, Wapping, London, E1W",E1W,2.0
+1025,450000.0,"The Watergarden, E14",E14,1.0
+1026,745000.0,"Ability Place, 37 Millharbour, Canary Wharf, London, E14",E14,2.0
+1027,500000.0,"Wadeson Street, Bethnal Green, London, E2",E2,2.0
+1028,375000.0,"Talwin Street, London E3",E3,2.0
+1029,360000.0,"Sunlight Square, London, E2",E2,1.0
+1030,550000.0,"Riverside Mansions, Milk Yard, Wapping, E1W",E1W,2.0
+1031,600000.0,"Seacon Tower, 5 Hutchings Street, Isle Of Dogs, London, E14",E14,2.0
+1032,300000.0,"Harold House, Mace Street, LONDON, E2",E2,1.0
+1033,1600000.0,"The Madison, Canary Wharf, London, E14",E14,3.0
+1034,475000.0,"Navenby Walk, London E3",E3,3.0
+1035,350000.0,"Thomas Fyre Drive, London E3",E3,2.0
+1036,500000.0,"Cumberland Mills Square, London, E14",E14,2.0
+1037,585000.0,"51 Cotton Street, London, E14",E14,4.0
+1038,1000000.0,"Avantgarde Tower, 1 Avantgarde Place, London, E1",E1,3.0
+1039,630000.0,"Ensign Street, London E1",E1,2.0
+1041,140000.0,"Limehouse Basin, Limehouse E14",E14,2.0
+1043,485000.0,"Hereford Street, London, E2",E2,3.0
+1044,550000.0,EMERALD GARDENS BRESSAY HOUSE WESTFERRY ROAD E14 3AN,E14,2.0
+1045,850000.0,"The Denim Factory, Davenant Street, London, E1 5AQ",E1,3.0
+1046,700000.0,"Boyd Street, Aldgate, E1",E1,2.0
+1048,635000.0,"Osborn Apartments, Osborn Street, London, E1 6TD",E1,1.0
+1049,365000.0,"Arbour Square, Stepney, London, E1",E1,1.0

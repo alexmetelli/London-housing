@@ -1,0 +1,642 @@
+,price,address,postcode,number_bedrooms
+0,3995000.0,"Elms Road, London, SW4",SW4,7.0
+4,475000.0,"Gipsy Hill, Upper Norwood, London, SE19",SE19,2.0
+5,799950.0,"Babington Road, London, SW16",SW16,6.0
+6,1100000.0,"Ferndale Road, London, SW4",SW4,4.0
+9,525000.0,"Lilford Road, London, SE5",SE5,2.0
+11,290000.0,"Charters Close, Gipsy Hill, SE19",SE19,1.0
+14,390000.0,"Salisbury Place, London SW9",SW9,1.0
+17,425000.0,"Thurlow Park Road , London, SE21",SE21,2.0
+19,665000.0,"LARKHALL RISE, SW4",SW4,2.0
+20,330000.0,"Hamilton Road, West Norwood, London, SE27",SE27,1.0
+24,450000.0,"Auckland Hill, West Norwood, London, SE27",SE27,2.0
+26,850000.0,"Hamilton House, St George Wharf, Vauxhall, SW8",SW8,2.0
+28,499999.0,"Shakespeare Road, SE24",SE24,1.0
+29,625000.0,"Ballater Road, London, SW2",SW2,3.0
+30,525000.0,UNION ROAD SW4,SW4,1.0
+33,535000.0,"Arlingford Road , Brixton, London, SW2",SW2,2.0
+34,320000.0," 1 Westow Hill,  London, SE19",SE19,1.0
+35,400000.0,"Carpenters Place, Clapham, London, SW4 7TD",SW4,90.0
+36,475000.0,"Ambleside Avenue, London, SW16",SW16,2.0
+38,430000.0,"Southwell Road, London, SE5 9PG",SE5,2.0
+42,430000.0,"Elmhurst Mansions, SW4",SW4,1.0
+43,1750000.0,"Peninsula Heights, 93 Albert Embankment, London, SE1",SE1,2.0
+44,480000.0,"Palace Road, London, SW2",SW2,2.0
+45,330000.0,"Rusper Court, Clapham Road, London, SW9",SW9,1.0
+46,425000.0,"63 Lewin Road, London, SW16",SW16,1.0
+47,1750000.0,"Peninsula Heights, 93 Albert Embankment, SE1",SE1,2.0
+48,350000.0,"Drewstead Road, London, SW16",SW16,1.0
+49,500000.0,"137 Crescent Lane, London, SW4",SW4,2.0
+50,499950.0,"Ellison Road, Streatham, London, SW16",SW16,2.0
+51,4795000.0,"Albert Embankment, London, SE1",SE1,5.0
+52,725000.0,"Sternhold Avenue, Balham, SW2",SW2,3.0
+53,450000.0,"Hanway House, Brixton, London, SW9",SW9,3.0
+54,525000.0,"Lilford Road, Camberwell, London, SE5",SE5,2.0
+55,475000.0,"Crownstone Road, London, SW2",SW2,3.0
+59,300000.0,"Brixton Water Lane, Brixton, SW2",SW2,1.0
+61,5000000.0,"The Whitehouse Apartments, 9 Belvedere Road, Waterloo, SE1",SE1,3.0
+62,950000.0,"Aristotle Road, London, SW4",SW4,6.0
+63,799950.0,Babington Road London SW16,SW16,6.0
+64,174000.0,"Printworks, Camberwell, SE5",SE5,3.0
+65,600000.0,"Printworks, Camberwell, SE5",SE5,3.0
+66,350000.0,Leonora Tyson Mews West Dulwich SE21,SE21,1.0
+67,425000.0,"Blackburn Court, Bascombe Street, London, SW2",SW2,2.0
+68,600000.0,"Aristotle Road, Clapham North, London, SW4",SW4,2.0
+69,260000.0,"Loats Road, London, SW2",SW2,1.0
+72,285000.0,"Challice Way, Brixton, SW2",SW2,1.0
+75,550000.0,"Abbeville Road, SW4",SW4,1.0
+77,550000.0,"Pinfold Road, Streatham, London, London, SW16",SW16,2.0
+80,405000.0,"Santley Street, Brixton, SW4",SW4,1.0
+82,495000.0,"Streatham High Road, SW16",SW16,2.0
+84,699950.0,"Lyham Road, SW2",SW2,3.0
+85,625000.0,"Methley Street, SE11",SE11,2.0
+87,625000.0,"Coldharbour Lane, Camberwell, London, SE5",SE5,2.0
+89,750000.0,"Ferndale Road, Clapham, SW4",SW4,3.0
+90,475000.0,"Leigham Vale, London, SW16",SW16,3.0
+96,735000.0,"Mervan Road, London, SW2",SW2,3.0
+98,450000.0,"Chelsham Road, London, SW4",SW4,1.0
+99,375000.0,"Conyers Road, Streatham, SW16",SW16,1.0
+100,625000.0,"Coldharbour Lane, Camberwell, London, SE5",SE5,2.0
+101,727500.0,"Canterbury Grove, West Norwood, London, SE27",SE27,3.0
+102,350000.0,"65 Thurlow Park Road, London, SE21",SE21,2.0
+103,650000.0,"Arodene Road, SW2",SW2,2.0
+106,625000.0,"Trinity Rise, Tulse Hill, London, SW2",SW2,2.0
+107,445000.0,"The Library Building, St Luke's Avenue, London, SW4",SW4,1.0
+108,525000.0,"Streatham High Road, Streatham, London, SW16",SW16,2.0
+109,585000.0,"Leander Road, London, SW2",SW2,2.0
+110,575000.0,"Ferndale Road, Clapham, London, SW4",SW4,2.0
+112,600000.0,"Henry Road, Brixton, London, SW9",SW9,2.0
+113,535000.0,"Tremadoc Road, London, SW4",SW4,1.0
+114,585000.0,"Kennington Road, London, SE11",SE11,2.0
+115,375000.0,"Palace Road, Tulse Hill, SW2",SW2,1.0
+116,179950.0,"Cedar Close, Thurlow Park Road, Dulwich, SE21",SE21,1.0
+119,365000.0,"Woodvale Walk, London, SE27",SE27,3.0
+121,325000.0,"Elderwood Place, London, SE27",SE27,1.0
+122,450000.0,"Acre Lane, London, SW2",SW2,1.0
+123,550000.0,"Clapham Road, Kennington, SW9",SW9,3.0
+124,500000.0,Flaxman Road Camberwell SE5,SE5,2.0
+125,800000.0,"Parliament View, 1 Albert Embankment, SE1",SE1,2.0
+126,425000.0,"Hotspur Street, Kennington, London, SE11",SE11,1.0
+127,525000.0,"Palace Road, Tulse Hill, London, SW2",SW2,2.0
+128,325000.0,"Gipsy Hill, Crystal Palace, SE19",SE19,1.0
+129,579950.0,"Wolfington Road, London, SE27",SE27,2.0
+130,360000.0,"Challice Way, London, SW2",SW2,2.0
+132,375000.0,"Ambleside Avenue, Streatham Park, London, SW16",SW16,1.0
+133,700000.0,"Leithcote Gardens, Streatham, London, SW16",SW16,4.0
+134,625000.0,"Criffel Avenue, London, SW2",SW2,2.0
+137,490000.0,"Dumbarton Road, SW2",SW2,2.0
+141,153750.0,"18/18a Palace Road,
+Streatham Hill,
+Lambeth,
+London,
+SW2 3NG
+",SW2,3.0
+142,102500.0,"18/18a Palace Road,
+Streatham Hill,
+Lambeth,
+London,
+SW2 3NG
+",SW2,1.0
+143,132500.0,"18/18a Palace Road,
+Streatham Hill,
+Lambeth,
+London,
+SW2 3NG
+",SW2,2.0
+144,135000.0,"18/18a Palace Road,
+Streatham Hill,
+Lambeth,
+London,
+SW2 3NG
+",SW2,2.0
+145,615000.0,"18/18a Palace Road,
+Streatham Hill,
+Lambeth,
+London,
+SW2 3NG
+",SW2,3.0
+146,530000.0,"18/18a Palace Road,
+Streatham Hill,
+Lambeth,
+London,
+SW2 3NG
+",SW2,2.0
+147,410000.0,"18/18a Palace Road,
+Streatham Hill,
+Lambeth,
+London,
+SW2 3NG
+",SW2,1.0
+148,540000.0,"18/18a Palace Road,
+Streatham Hill,
+Lambeth,
+London,
+SW2 3NG
+",SW2,2.0
+149,500000.0,"Upstall Street, Camberwell, SE5",SE5,2.0
+150,750000.0,"Ferndale Road, Clapham, SW4",SW4,3.0
+152,1150000.0,"Exchange Gardens, London, SW8",SW8,3.0
+155,1850000.0,"Merano Residences, 30 Albert Embankment, Vauxhall,  SE1",SE1,2.0
+156,399950.0,"Hartington Court, Lansdowne Way, SW8",SW8,2.0
+157,422500.0,"Streatham High Road, Streatham, London, SW16 1HE",SW16,2.0
+161,525000.0,"Railton Road, SE24",SE24,2.0
+163,540000.0,"Sky Gardens, Wandsworth Road, Nine Elms, SW8",SW8,1.0
+164,375000.0,"Shore House, 8 Heather Close, London, SW8",SW8,2.0
+165,950000.0,"Keybridge Loft,, S Lambeth Road,, London, SW8",SW8,2.0
+166,825000.0,"Frazier Street, London, SE1",SE1,2.0
+171,900000.0,"Gibson Road, Kennington, London, SE11",SE11,3.0
+173,900000.0,"Fyfield Road, Brixton, London, SW9",SW9,4.0
+175,400000.0,"Becmead Avenue, London, SW16",SW16,2.0
+176,850000.0,"Drake House, 14 St George Wharf, Vauxhall, London, SW8",SW8,2.0
+182,1850000.0,"Merano Residences, London SE1",SE1,2.0
+183,475000.0,"Corben Mews, London, SW8",SW8,2.0
+184,340000.0,"Lloyd Court, York Hill, West Norwood, SE27",SE27,2.0
+188,825000.0,"Dassett Road, London, SE27",SE27,3.0
+189,595000.0,"Railton Road, Brixton, SE24",SE24,3.0
+190,875000.0,"Bach House, Nine Elms Point, Nine Elms, SW8",SW8,2.0
+191,495000.0,"4 Salamanca Place, London, SE1",SE1,1.0
+192,1150000.0,"Hamilton House, St George Wharf, Vauxhall, SW8",SW8,2.0
+195,350000.0,"Cork Tree House, Lakeview Road, West Norwood, London, SE27",SE27,2.0
+197,410000.0,"Leander Road, SW2",SW2,1.0
+198,1125000.0,"Sudbourne Road, SW2",SW2,5.0
+199,325000.0,"The Printworks, Clapham Road, London, SW9",SW9,1.0
+200,400000.0,"Highlands Court, Highland Road, London, SE19",SE19,2.0
+201,375000.0,"Crescent Lane, SW4",SW4,1.0
+204,535000.0,"Polworth Road, London, SW16",SW16,3.0
+205,1595000.0,"Sullivan Road, Kennington, London, SE11",SE11,4.0
+206,525000.0,"Beaufoy House, 1 Regents Bridge Gardens, Vauxhall, London, SW8",SW8,1.0
+207,515000.0,"Cambray Road, Balham, SW12",SW12,1.0
+210,555000.0,"10 Eythorne Road, Brixton / Oval, SW9",SW9,2.0
+211,735000.0,"Victoria Rise, London, SW4",SW4,2.0
+213,610000.0,"8 Henry Road, Oval Stockwell, SW9",SW9,2.0
+214,415000.0,"Whiteley Road, London, SE19",SE19,2.0
+215,345000.0,"Compton Court, Victoria Crescent, London, SE19",SE19,2.0
+216,450000.0,"46 Victoria Crescent,  London, SE19",SE19,2.0
+217,300000.0,"Streatham Common North, London, SW16",SW16,1.0
+223,399000.0,"Cliffsend house, Cowley Rd, SW9",SW9,2.0
+226,550000.0,"Wimbart Road, SW2",SW2,2.0
+227,500000.0,"Branksome Road, SW2",SW2,2.0
+230,375000.0,"Knollys Road, Streatham Tulse Hill, SW16",SW16,1.0
+232,475000.0,"1 Gaumont Place, Streatham Hill, SW2",SW2,1.0
+233,650000.0,"Trinity Close, The Pavement, London, SW4",SW4,2.0
+234,365000.0,"Hubbard Road, West Norwood, SE27",SE27,1.0
+236,650000.0,"South Block, County Hall, 1D Belvedere Road, London, SE1",SE1,1.0
+237,850000.0,"Tradescant Road, Oval, London, SW8",SW8,2.0
+238,700000.0,"Klea Avenue, SW4",SW4,2.0
+239,500000.0,"Gleneldon Road, London, SW16",SW16,2.0
+240,465000.0,"Usborne Mews, London SW8",SW8,1.0
+241,630000.0,"Fernwood Avenue, Streatham, London, SW16",SW16,3.0
+242,425000.0,"Southwell Road, Camberwell, London, SE5",SE5,1.0
+243,625000.0,"Nealden Street, Clapham, London, SW9",SW9,2.0
+244,650000.0,"Cato Road, Clapham High Street, London, SW4",SW4,3.0
+246,289999.0,"Norwood Road, West Norwood, SE27 ",SE27,1.0
+250,600000.0,"Henry Road, Brixton, London, SW9",SW9,2.0
+252,1725000.0,"Chelsham Road, London, SW4",SW4,5.0
+255,1495000.0,"Burnley Road, Stockwell, London, SW9",SW9,4.0
+256,735000.0,"Stansfield Road, London, SW9",SW9,2.0
+258,630000.0,"Fernwood Avenue, Streatham, SW16",SW16,3.0
+260,350000.0,"Durban Road, London, SE27",SE27,2.0
+261,5950000.0,"Clapham Common North Side, Clapham, London, SW4",SW4,7.0
+265,378000.0,"99 Thurlow Park Road, London, SE21 8JL",SE21,3.0
+266,575000.0,"Saltoun Road, SW2",SW2,2.0
+267,450000.0,"Lessar Avenue, Clapham South, SW4",SW4,1.0
+268,4795000.0,"Peninsula Heights, 93 Albert Embankment, Vauxhall, London, SE1",SE1,5.0
+269,945000.0,"Margate Road, Brixton SW2 5DU",SW2,4.0
+270,1650000.0,"Cautley Avenue, SW4",SW4,5.0
+273,575000.0,"Craster Road, Brixton Hill, London, SW2",SW2,2.0
+274,450000.0,"Gipsy Road, West Norwood, London, SE27",SE27,2.0
+279,275000.0,"Alexandra Walk, London, SE19",SE19,1.0
+280,1095000.0,"Clapham Road, London, SW9",SW9,3.0
+281,375000.0,"Effra Parade, SW2",SW2,1.0
+285,575000.0,"Gipsy Hill, Upper Norwood, London, SE19",SE19,3.0
+287,450000.0,"Hanover House, St. George Wharf, SW8",SW8,1.0
+288,450000.0,"Triangle Place, London, SW4",SW4,2.0
+290,550000.0,"Brixton Road, London, SW9",SW9,2.0
+291,850000.0,"Sky Gardens, Wandsworth Road, London, SW8",SW8,2.0
+292,575000.0,"Rosewood House, 35-39 Vauxhall Grove, London, SW8",SW8,2.0
+293,375000.0,"Camsey House, St. Matthew's Road, London, SW2",SW2,3.0
+294,300000.0,"Kettleby House, Barrington Road, London, SW9",SW9,2.0
+295,675000.0,"North Block, County Hall, Waterloo, SE1",SE1,1.0
+297,600000.0,"Causton House, 13 Printers Road, SW9",SW9,2.0
+298,1575000.0,Gipsy Hill London SE19,SE19,8.0
+303,500000.0,"Robsart Street, London, SW9",SW9,1.0
+307,550000.0,"Eastlake Road, Camberwell, SE5",SE5,2.0
+308,699950.0,"Deronda Road, Herne Hill, London, SE24",SE24,3.0
+309,1000000.0,"St Julians Farm Road, West Norwood, SE27",SE27,3.0
+310,2950000.0,"Gauden Road, London, SW4",SW4,4.0
+315,530000.0,"Coldharbour Lane, SW9",SW9,2.0
+318,480000.0,"Whitehouse Apartments, 9 Belvedere Road, London, SE1",SE1,0.0
+319,500000.0,"Clapham Road, SW9",SW9,1.0
+320,825000.0,"Mordaunt Street, SW9",SW9,3.0
+322,550000.0,"Polworth Road, Streatham, SW16",SW16,3.0
+325,449950.0,"Rosendale Road , West Dulwich , London, SE21",SE21,2.0
+326,540000.0,"Liberty Street, London, SW9",SW9,2.0
+328,2350000.0,"Abbeville Road, London, SW4",SW4,5.0
+332,385000.0,"Elam Close, London, SE5 9BW",SE5,2.0
+333,675000.0,"St. Faiths Road, London, SE21",SE21,3.0
+334,1595000.0,"Rozel Road, London, SW4",SW4,5.0
+336,1550000.0,"Cleaver Street, Kennington, London, SE11",SE11,3.0
+337,325000.0,"Macartney House, Gosling Way, Oval, London, SW9",SW9,1.0
+338,750000.0,"Pulross Road, SW9",SW9,3.0
+339,315000.0,"Abbots Park, Tulse Hill, London, SW2",SW2,2.0
+340,770000.0,"Cavendish Road, Balham, London, SW12",SW12,3.0
+341,525000.0,"Rushcroft Road, Brixton, London, SW2",SW2,2.0
+343,164000.0,"Coldharbour Lane, London, SE5",SE5,2.0
+344,625000.0,"South Lambeth Road, London, SW8",SW8,2.0
+345,389995.0,"Central Hill , Upper Norwood, London, SE19",SE19,2.0
+347,450000.0,"Thurlow Park Road, Dulwich, London, SE21",SE21,2.0
+350,375000.0,"Clapham Road, Clapham North, SW9",SW9,1.0
+351,725000.0,"St George Wharf, Vauxhall, London, SW8",SW8,2.0
+352,800000.0,"Wandsworth Road, Nine Elms, London, SW8",SW8,2.0
+353,625000.0,"Glenister Park Road, Streatham Vale, London, SW16",SW16,3.0
+359,435000.0,"Foxley Road, London SW9",SW9,1.0
+360,410000.0,"Brocket House, Union Road, Clapham, SW8",SW8,2.0
+361,850000.0,"Burnley Road, Stockwell, London, SW9",SW9,4.0
+362,550000.0,EDGELEY ROAD SW4,SW4,1.0
+363,925000.0,"St. Alphonsus Road, London, SW4",SW4,2.0
+364,560000.0,"Oak Square, Stockwell, SW9",SW9,2.0
+368,499950.0,"Macaulay Court, Macaulay Road, Clapham, SW4",SW4,2.0
+369,525000.0,"Selsdon Road, London, SE27",SE27,2.0
+372,399950.0,"Albert Square, Stockwell, London, SW8",SW8,1.0
+378,435000.0,"Gosling Way, Oval, SW9",SW9,2.0
+379,499950.0,"Morrish Road, Brixton, SW2",SW2,2.0
+382,700000.0,"Bridge House, St George Wharf, Vauxhall, SW8",SW8,2.0
+383,685000.0,"Klea Avenue, London, SW4",SW4,2.0
+386,1700000.0,"Eight Casson Square, London, SE1",SE1,2.0
+387,1500000.0,"Eight Casson Square, London, SE1",SE1,2.0
+388,2000000.0,"Keybridge, Vauxhall, SW8",SW8,3.0
+394,350000.0,"Beechcroft Close, Streatham, SW16",SW16,2.0
+396,475000.0,"Jasper Road, Upper Norwood, London, SE19",SE19,2.0
+397,560000.0,"Martell Road, London, SE21",SE21,2.0
+400,1200000.0,"Plum Tree Mews, Streatham Common, SW16",SW16,4.0
+402,875000.0,"Thornbury Road, London, SW2",SW2,3.0
+403,450000.0,"7 Eythorne Road, Oval, SW9",SW9,1.0
+404,379000.0,"Luxor Street, London, SE5 9QN",SE5,1.0
+408,1975000.0,"Damac Tower, SW8",SW8,2.0
+409,300000.0,"Pullman Court, Streatham Hill, London, SW2",SW2,1.0
+410,525000.0,"Gibson Road, Kennington, London, SE11",SE11,3.0
+411,550000.0,"Sky Gardens, Nine Elms, London, SW8",SW8,1.0
+412,650000.0,"Nine Elms, Nine Elms, London, SW8",SW8,1.0
+413,800000.0,"Nine Elms Point, Vauxhall, London, SW8",SW8,2.0
+415,575000.0,"Alexandra Drive, Crystal Palace, London, SE19",SE19,3.0
+416,850000.0,"Drake House, St George Wharf, Vauxhall SW8",SW8,2.0
+419,825000.0,"Milkwood Road , Herne Hill, London, SE24",SE24,3.0
+422,2000000.0,"Grafton Square, London, SW4",SW4,4.0
+423,550000.0,Thurlow Park Road Dulwich SE21,SE21,2.0
+424,375000.0,"Knatchbull Road, London, SE5",SE5,1.0
+439,499995.0,"Alexandra Drive, London, SE19",SE19,3.0
+440,1495000.0,"Cavendish Road, London, SW12",SW12,5.0
+443,550000.0,"Bromells Road, London, SW4",SW4,2.0
+444,899000.0,"Westminster Bridge Road, London, SE1",SE1,1.0
+445,875000.0,"Hubert Grove, Villiers Mews, London, SW9",SW9,2.0
+446,430000.0,"Lansdowne Green, Vauxhall, London, SW8",SW8,2.0
+447,400000.0,"Voltaire Road, Clapham, London, SW4",SW4,2.0
+449,575000.0,"Beresford House, Clapham, London, SW4",SW4,2.0
+450,425000.0,"Southwell Road, Camberwell, SE5",SE5,2.0
+451,300000.0,"Elmcourt Road, West Norwood, London, SE27",SE27,1.0
+452,575000.0,"Clapham Park Road, Clapham North, SW4",SW4,2.0
+453,722000.0,"Oval, Vauxhall, London, SE11",SE11,1.0
+454,822000.0,"Oval, Vauxhall, London, SE11",SE11,2.0
+455,625000.0,"Whitehouse Apartments, 9 Belvedere Road, London, SE1",SE1,1.0
+456,499950.0,"Ellison Road, Streatham, London, SW16",SW16,2.0
+457,595000.0,"Pearman Street, London, SE1",SE1,1.0
+458,595000.0,"Crewdson Road, London, SW9",SW9,2.0
+459,799999.0,"Sky Gardens, 155 Wandsworth Road, London, SW8",SW8,2.0
+460,475000.0,"Rollscourt Avenue, SE24",SE24,2.0
+462,640000.0,"Hargwyne Street, SW9",SW9,2.0
+463,400000.0,"Highlands Court, Highland Road, London, SE19",SE19,2.0
+466,360000.0,"Aubyn Hill, West Norwood, SE27",SE27,3.0
+467,349950.0,"Brixton Hill, Brixton, SW2",SW2,1.0
+468,385000.0,"Goodwood Mansion's, Brixton, SW9",SW9,2.0
+469,650000.0,"Dalyell Road, London, SW9",SW9,2.0
+470,425000.0,"Telford Avenue, Telford Park, London, SW2",SW2,1.0
+471,425000.0,"Campbell Close, Streatham Park, London, SW16",SW16,1.0
+472,535000.0,"Brixton Road, Stockwell, London, SW9",SW9,2.0
+475,784000.0,"York Hill, West Norwood, SE27",SE27,4.0
+476,500000.0,"Railton Road, London, SE24",SE24,2.0
+477,550000.0,"Victoria Rise, London, SW4",SW4,3.0
+478,599950.0,"Keybridge Tower, Exchange Gardens, SW8          ",SW8,1.0
+483,450000.0,"Ferndale Road, Brixton, London, SW9",SW9,1.0
+484,360000.0,"Coldharbour Lane, SE5",SE5,1.0
+485,700000.0,"Clapham Road, Clapham North, London, SW9",SW9,2.0
+487,565000.0,"Littlebury Road, London, SW4",SW4,1.0
+488,595000.0,"Endymion Road, London, SW2",SW2,2.0
+492,535000.0,"Nicholls Mews, SW16",SW16,2.0
+493,400000.0,"Elms Road, Clapham, SW4",SW4,1.0
+494,525000.0,"Tooting Bec Gardens, London, SW16",SW16,3.0
+497,500000.0,"Natal Road, Streatham Common, SW16",SW16,2.0
+500,899000.0,"Sky Gardens, Vauxhall, London, SW8",SW8,2.0
+503,1400000.0,"Milton Road, London, SE24",SE24,4.0
+509,725000.0,"Royal Circus, West Norwood, London, SE27",SE27,3.0
+510,345000.0,"Vauxhall street, Vauxhall, SE11",SE11,1.0
+511,725000.0,"Rita Road, London, SW8",SW8,3.0
+512,300000.0,"Haworth House, Brixton, London, SW2",SW2,1.0
+514,400000.0,"Tulse Hill, Brixton, London SW2 2HT",SW2,3.0
+515,599950.0,"Wanless Road, Herne Hill, London, SE24",SE24,2.0
+516,325000.0,"Thornlaw Road, West Norwood, London, SE27",SE27,1.0
+518,960000.0,"Keybridge, London, SW8",SW8,2.0
+519,550000.0,"Casewick Road, West Norwood, London, SE27",SE27,3.0
+520,550000.0,"Tierney Road, London, SW2",SW2,2.0
+521,1200000.0,"Brockwell Park Gardens, Herne Hill, London, SE24",SE24,4.0
+522,700000.0,"Keybridge Capital, London, SW8",SW8,1.0
+523,640000.0,"Wandsworth Road, Vauxhall, London, SW8",SW8,1.0
+524,1025000.0,"Heybridge Avenue, Streatham, SW16",SW16,4.0
+526,650000.0,"Somers Road, SW2",SW2,3.0
+527,415000.0,"Robsart Street, Stockwell, SW9",SW9,1.0
+528,645000.0,"Top Floor 24 Rita Road, London, SW8 1JU",SW8,3.0
+531,650000.0,"Grantham Road, Brixton, London, SW9",SW9,2.0
+533,800000.0,"St George Wharf, SW8, Vauxhall, London, SW8",SW8,2.0
+534,725000.0,"Stansfield Road, SW9",SW9,3.0
+536,550000.0,"Embassy Works, 12 Lawn Lane, Vauxhall, London, SW8",SW8,1.0
+539,850000.0,"Wellfield Road, London SW16",SW16,3.0
+540,475000.0,"Victoria Crescent, Crystal Palace, SE19",SE19,2.0
+542,750000.0,"Thornton Place, Clapham Common North Side, London, SW4",SW4,2.0
+547,560000.0,"1b Belvedere Road, Waterloo Westminster, SE1",SE1,1.0
+553,500000.0,"Alexandra Drive, London, SE19",SE19,3.0
+554,500000.0,"Pomfret road, Camberwell, SE5",SE5,2.0
+555,425000.0,"Harry Day Mews, West Norwood, London, SE27",SE27,2.0
+556,390000.0,"Mostyn Road, London SW9",SW9,1.0
+557,599999.0,"Aristotle Road, London, SW4",SW4,2.0
+558,699995.0,"Milkwood Road, London, SE24",SE24,2.0
+561,1350000.0,"Brailsford Road, Brixton, London, SW2",SW2,3.0
+562,750000.0,"Thornton Place, Clapham Common North Side, Clapham, SW4",SW4,2.0
+563,525000.0,"Lambeth Towers, 80 Kennington Road, London, SE11",SE11,2.0
+565,500000.0,"Salford Road, Balham, London, SW2",SW2,2.0
+566,500000.0,"Stockwell Road, London SW9",SW9,2.0
+567,425000.0,"Kings Avenue, SW4",SW4,1.0
+569,2100000.0,"Fitzwilliam Road, London, SW4",SW4,4.0
+570,500000.0,"The Chase, London, SW4",SW4,2.0
+571,1395000.0,"Turret Grove, London, SW4",SW4,4.0
+572,665000.0,"21 Old Town, Clapham, SW4",SW4,2.0
+573,550000.0,"Grafton Square, London, SW4",SW4,1.0
+574,450000.0,"Stanthorpe Road, London, SW16",SW16,2.0
+576,435000.0,"Gleneldon Road, London, SW16",SW16,2.0
+577,550000.0,"Hotspur Street, London SE11",SE11,3.0
+578,400000.0,"Cleveland Mansions, Mowll Street, London SW9",SW9,1.0
+579,410000.0,"Harleyford Road, London SE11",SE11,1.0
+582,1350000.0,"Regents Bridge Gardens, Vauxhall, London, SW8",SW8,4.0
+583,1300000.0,"Kenwyn Road, Clapham, SW4",SW4,5.0
+584,380000.0,"Thornicroft House, Stockwell, London, SW9",SW9,2.0
+585,500000.0,"Dassett Road, West Norwood, SE27",SE27,3.0
+586,689995.0,"Heralds Place, London, SE11",SE11,2.0
+587,525000.0,"Durham Street, London, SE11",SE11,1.0
+588,550000.0,"The Whitehouse Apartments, 9 Belvedere Road, London, SE1",SE1,1.0
+589,535000.0,"Norwood Road, Herne Hill, London, SE24",SE24,2.0
+590,365000.0,"Brixton Hill, Brixton, SW2",SW2,1.0
+594,550000.0,"Heyford Avenue, London SW8",SW8,2.0
+595,850000.0,"Orlando Road, London, SW4",SW4,2.0
+596,625000.0,"Clive Road , Dulwich , London, SE21",SE21,3.0
+599,715000.0,"Hawkshaw Close, Streatham Hill, SW2",SW2,3.0
+600,143625.0,"SO Resi Clapham Park, KingsAvenue,
+London, 
+SW4 8EU",SW4,2.0
+608,650000.0,"Brading Road, Brixton, SW2",SW2,2.0
+609,465000.0,"Grafton Square, Clapham, SW4",SW4,1.0
+612,360000.0,"Adelina Mews, London, SW12",SW12,1.0
+615,425000.0,"Broxholm Road, London, SE27",SE27,2.0
+616,499950.0,"Wingford Road, SW2",SW2,2.0
+617,485000.0,"Allen Edwards Drive, Vauxhall, London, SW8",SW8,2.0
+618,500000.0,"Black Prince Road, Kennington, London, SE11",SE11,3.0
+619,600000.0,"Newburn Street, Vauxhall, London, SE11",SE11,3.0
+620,435000.0,"Lyham Road, SW2",SW2,1.0
+621,625000.0,"Gaumont Place, London, SW2",SW2,2.0
+622,1500000.0,"Kennington Oval, SE11",SE11,5.0
+623,850000.0,"Estreham Road, London, SW16",SW16,4.0
+625,400000.0,"Brook Drive, London, SE11",SE11,1.0
+626,465000.0,"Richborne Terrace, Richborne Terrace, London SW8",SW8,1.0
+627,300000.0,"Upper Tulse Hill, London SW2",SW2,2.0
+628,295000.0,"Park Plaza County Hall, 1 Addington Street, South Bank, London, SE1",SE1,1.0
+632,375000.0,"Knights Hill, West Norwood, SE27",SE27,2.0
+635,350000.0,"Drewstead Road, London, SW16",SW16,2.0
+636,399950.0,"Landor Road, London, SW9",SW9,1.0
+638,799950.0,"Rosendale Road , Herne Hill, London, SE24",SE24,3.0
+641,700000.0,"Culverhouse Gardens, London SW16",SW16,3.0
+642,750000.0,"Lilford Road, London, SE5",SE5,3.0
+644,425000.0,"Gipsy Hill, London, SE19",SE19,2.0
+645,650000.0,"Jasper Road, SE19",SE19,3.0
+646,450000.0,"386 Streatham High Road, Streatham, SW16",SW16,2.0
+647,424000.0,"Crownstone Road, London, SW2",SW2,2.0
+648,439500.0,"Brixton Hill, London, SW2",SW2,2.0
+649,599995.0,Denmark Hill London SE5,SE5,2.0
+651,550000.0,"St. George Wharf, London, SW8",SW8,1.0
+652,650000.0,"Imperial Mews, London, SW9",SW9,1.0
+653,500000.0,"Byron Close, London, London, SW16",SW16,2.0
+654,475000.0,"Park Hill, London, SW4",SW4,1.0
+662,1395000.0,"Harleyford Road, Vauxhall, London, SE11",SE11,5.0
+664,395995.0,"Renton Close, Brixton Hill, Brixton, SW2",SW2,2.0
+666,1800000.0,"One Casson Square, Southbank Place, Waterloo, SE1",SE1,2.0
+667,400000.0,"Kennington Park Road, London, SE11",SE11,1.0
+668,1100000.0,"Acre Lane, SW2",SW2,2.0
+670,979950.0,"Roxburgh Road, West Norwood, London, SE27",SE27,4.0
+671,730000.0,"Hubert Grove, Villiers Mews, London, SW9",SW9,2.0
+672,1500000.0,"Galleon House, St George Wharf, SW8",SW8,3.0
+674,640000.0,"Bicycle Mews, London, SW4",SW4,2.0
+675,550000.0,"Abbeville Road, SW4",SW4,1.0
+676,280000.0,"Calidore Close, Brixton, London, SW2",SW2,1.0
+689,425000.0,"Cavendish Road, Balham, London, SW12",SW12,1.0
+690,650000.0,"Albert Square, London SW8",SW8,2.0
+691,695000.0,"Clapham Road, London, SW9",SW9,2.0
+692,1700000.0,"South Lambeth Road, SW8, Vauxhall, London, SW8",SW8,5.0
+693,575000.0,"Clapham Road, London, SW9",SW9,1.0
+694,450000.0,"Weir Road, Balham, London, SW12",SW12,2.0
+695,800000.0,"Abbeville road, Abbeville Village, London, SW4",SW4,3.0
+696,450000.0,"75 Larkhall Rise, Clapham North, SW4",SW4,1.0
+700,335000.0,"Acre Lane, Clapham North, SW2",SW2,1.0
+701,455000.0,"Usborne Mews, London, SW8 1LR",SW8,1.0
+703,350000.0,"Gaumont Place, London, SW2",SW2,1.0
+705,750000.0,"Wellfield Road, London, SW16",SW16,3.0
+706,470000.0,"Robertson Street, SW8",SW8,1.0
+708,575000.0,Orsett Street London SE11,SE11,2.0
+709,435000.0,"RASHLEIGH COURT, PEARDON STREET,SW8",SW8,3.0
+712,750000.0,"Camberwell New Road, Camberwell, SE5",SE5,2.0
+713,500000.0,"Upper Tulse Hill, London, SW2",SW2,2.0
+715,415000.0,"Helix Road, Brixton, SW2",SW2,1.0
+716,2350000.0,"Stockwell Park Crescent, London, SW9",SW9,5.0
+718,495000.0,"Anchor House, 21 St George Wharf, London, SW8",SW8,1.0
+720,350000.0,"Brixton Hill, Brixton Hill, London, SW2",SW2,1.0
+721,575000.0,"Park View Mews, Stockwell, London, SW9",SW9,2.0
+722,700000.0,"Rubens Place, Clapham North, London, SW4",SW4,3.0
+725,475000.0,"1 Gaumont Place, Streatham Hill, SW2",SW2,1.0
+727,300000.0,"Lewin Road, London, SW16",SW16,1.0
+729,735000.0,"Lowden Road, SE24",SE24,2.0
+730,400000.0,"Aytoun Road, Brixton, SW9",SW9,2.0
+731,569995.0,"South Lambeth Road, London, SW8",SW8,2.0
+732,325000.0,"Deerbrook Road, Herne Hill, SE24",SE24,1.0
+734,360000.0,"Streatham High Road, SW16",SW16,1.0
+735,525000.0,"Ashfield Court, 287 Clapham Road, London, SW9",SW9,2.0
+736,630000.0,"Woodmansterne Road, London, SW16",SW16,4.0
+737,3000000.0,"Tower Two, The Corniche, 23 Albert Embankment, Nine Elms, SE1",SE1,3.0
+738,482500.0,"Clement Avenue, Clapham, SW4",SW4,1.0
+739,499950.0,"Hemberton Road, Clapham, London, SW9",SW9,1.0
+740,749950.0,"Hannington Road, London, London, SW4",SW4,2.0
+743,345000.0,"10 Wynne Road, London, SW9",SW9,1.0
+744,480000.0,"Ferrier Apartments, 336 Clapham Road, London, SW9",SW9,1.0
+745,1125000.0,"The Dumont Albert Embankment,  Lambeth, SE1",SE1,1.0
+746,1350000.0,"Drake House, St George Wharf, Vauxhall, SW8",SW8,2.0
+747,1500000.0,"St. Luke's Avenue, London, SW4",SW4,2.0
+758,739000.0,"Oakden Street, Kennington, London, SE11",SE11,2.0
+759,800000.0,"Drake House, St George Wharf, Vauxhall, SW8",SW8,2.0
+760,340000.0,"Brixton Hill, Brixton, SW2",SW2,1.0
+761,380000.0,"Doctor Johnson House, 1A Babington Road, London, SW16",SW16,2.0
+762,550000.0,"Sherwood Avenue, Streatham Vale, London, SW16",SW16,3.0
+763,685000.0,"Tankerville Road, Streatham Common, London, SW16",SW16,2.0
+764,425000.0,"Gipsy Hill, London, SE19",SE19,2.0
+765,499995.0,"Fawnbrake Avenue, Herne Hill, London, SE24",SE24,2.0
+766,385000.0,"Stockwell Road, London, SW9",SW9,1.0
+767,600000.0,"Liberty Street, London SW9",SW9,2.0
+768,1050000.0,"Stane Grove, SW4",SW4,3.0
+769,665000.0,"Anchor House, St George Wharf, SW8",SW8,2.0
+770,152500.0,"Offenham Road, London, SW9",SW9,2.0
+771,1100000.0,"Benjamin Mews, London SW12",SW12,4.0
+772,715000.0,"Stansfield Road, SW9",SW9,2.0
+775,600000.0,"Henry Road, Brixton, London, SW9",SW9,2.0
+779,1250000.0,"Streatham Common South, SW16",SW16,3.0
+780,450000.0,"Brixton Hill, Brixton, SW2",SW2,2.0
+781,750000.0,"Lords Close, West Dulwich, SE21",SE21,3.0
+783,689995.0,"Herne Hill Road, Herne Hill, London, SE24",SE24,3.0
+787,500000.0,"Albans Close, 14 Leigham Court Road, London, SW16",SW16,2.0
+788,325000.0,"Beaumont Court, Streatham Place, London, SW2",SW2,1.0
+790,370000.0,"Babington Road, London, SW16",SW16,2.0
+791,585000.0,"Stockwell Green, Stockwell, SW9",SW9,2.0
+792,500000.0,"Allen Edwards Drive, Clapham Vauxhall, SW8",SW8,2.0
+793,550000.0,"Wilmot House, George Mathers Road, SE11",SE11,2.0
+794,600000.0,"Whitehouse Apartments, 9 Belvedere Road, Waterloo, SE1",SE1,1.0
+796,675000.0,"Acre Lane, Brixton Clapham Park, SW2",SW2,2.0
+797,1375000.0,"Cambray Road, London, SW12",SW12,5.0
+798,700000.0,Brook Drive Kennington SE11,SE11,2.0
+799,500000.0,"St George Wharf, Vauxhall, London, SW8",SW8,1.0
+801,575000.0,"Kendoa Road, London, SW4",SW4,3.0
+802,900000.0,Meadow Place Lambeth SW8,SW8,4.0
+803,689950.0,"St. Luke's Avenue, Clapham North, SW4",SW4,2.0
+804,950000.0,"Bromells Road, London, SW4",SW4,3.0
+805,425000.0,"Ferndale Road, Clapham, SW4",SW4,1.0
+806,490000.0,Kennington Road Kennington SE11,SE11,2.0
+807,1150000.0,"Courtenay House, 9 New Park Road, London, SW2",SW2,3.0
+809,485000.0,"Morrish Road, SW2",SW2,2.0
+810,775000.0,"North Block, 1C Belvedere Road, London, SE1",SE1,1.0
+811,365000.0,"Bowater Close, Brixton, SW2",SW2,1.0
+812,399995.0,", Hazlemere Court, Palace Road, SW2",SW2,1.0
+813,550000.0,"Tremadoc Road, London, SW4",SW4,1.0
+814,1495000.0,"Killyon Road, London, SW8",SW8,5.0
+817,425000.0,"Adare Walk, Streatham Hill, London, SW16",SW16,3.0
+818,465000.0,"Penistone Road, Streatham Common, London, SW16",SW16,2.0
+819,500000.0,"Thornton Road, Balham, London, SW12",SW12,4.0
+820,375000.0,"Elmcourt Road, West Norwood, London, SE27",SE27,1.0
+821,775000.0,"Thorsden Way, Upper Norwood, London, SE19",SE19,4.0
+830,485000.0,"Norwood Road, Herne Hill, SE24",SE24,2.0
+833,650000.0,"Rockhampton Close, West Norwood, SE27",SE27,3.0
+835,500000.0,"Brixton Road, London, SW9",SW9,2.0
+837,875000.0,"Norfolk House Road, Streatham, London, London, SW16",SW16,5.0
+838,475000.0,"Southwell Road , Camberwell , London , SE5 9PG",SE5,2.0
+839,360000.0,"Kennington Road, London, SE1",SE1,1.0
+840,490000.0,"Cornell Square, SW8, Stockwell, London, SW8",SW8,1.0
+841,550000.0,"Wandsworth Road, Stockwell, London, SW8",SW8,1.0
+842,325000.0,"Gipsy Hill, Crystal Palace, London, SE19",SE19,1.0
+843,585000.0,"George Mews, London, SW9",SW9,2.0
+844,725000.0,"Norwood Road , Herne Hill, London, SE24",SE24,3.0
+845,425000.0,"Mount Ephraim Road, Streatham Hill, SW16",SW16,2.0
+846,560000.0,"Martell Road, Dulwich, SE21 - FEELS LIKE A HOUSE INSIDE ",SE21,2.0
+847,1250000.0,"Torrens Road, SW2",SW2,5.0
+848,350000.0,"11 Gipsy Road, London, SE27",SE27,1.0
+849,3000000.0,"Woodfield Avenue, London SW16",SW16,6.0
+851,600000.0,"Cowley Road, London SW9",SW9,2.0
+852,500000.0,"Myton Road, Dulwich, London, SE21",SE21,2.0
+853,950000.0,"Langley Lane, Vauxhall, London, SW8",SW8,3.0
+854,575000.0,"Ferndale Road, Clapham North, London, SW4",SW4,2.0
+855,490000.0,"Cornell Square, Nine Elms, SW8",SW8,1.0
+859,725000.0,"Norwood Road, London, SE24",SE24,3.0
+861,425000.0,"Greenaway Apartments, 37 Bedford Road, London, SW4",SW4,1.0
+862,499950.0,"Santley Street, SW4",SW4,1.0
+863,425000.0,"Bonham Road, London, SW2 5HF",SW2,1.0
+864,685000.0,"Goodman Crescent, London, SW2",SW2,3.0
+866,2450000.0,"Stockwell Park Road, London, SW9",SW9,5.0
+875,575000.0,"Saltoun Road, SW2",SW2,2.0
+882,389950.0,"Spencer Mews, Stockwell, London, SW8",SW8,1.0
+883,1650000.0,"Cleaver Square, Kennington, London, SE11",SE11,3.0
+884,390000.0,"Annesley House - Gosling Way, Stockwell, SW9",SW9,2.0
+885,123750.0,"Lightford House 105 Loughborough Park, Brixton, SW9",SW9,2.0
+886,1900000.0,"Palm House, Vauxhall, London, SE11",SE11,3.0
+887,425000.0,"Knollys Road, Streatham, London, SW16",SW16,2.0
+890,1920000.0,"Belvedere Road, London, SE1",SE1,2.0
+891,1920000.0,"Belvedere Road, London, SE1",SE1,2.0
+892,550000.0,"Liberty Street, London SW9",SW9,2.0
+895,450000.0,"Abbots Park, Tulse Hill, SW2",SW2,2.0
+896,3750000.0,"St George Wharf, Vauxhall, London, SW8",SW8,3.0
+898,525000.0,"Charles Haller Street, Tulse Hill, London, SW2",SW2,2.0
+899,585000.0,"Leander Road, SW2",SW2,2.0
+902,425000.0,"Barcombe Avenue, Streatham Hill, SW2",SW2,1.0
+906,375000.0,"Bristowe Close, Brockwell Park, London, SW2",SW2,1.0
+907,920000.0,"Ufford Street, Waterloo, London, SE1",SE1,2.0
+908,390000.0,Vauxhall Street London SE11,SE11,2.0
+910,430000.0,"Gosling Way, London SW9",SW9,2.0
+911,690000.0,"The Latitude, 130 Clapham Common Southside, SW4",SW4,2.0
+912,529950.0,"Casewick Road, West Norwood, London, SE27",SE27,2.0
+915,499950.0,"Bromfelde Road, London, SW4",SW4,2.0
+916,435000.0,"Herne Hill, Brixton, London, SE24 9QJ",SE24,1.0
+919,625000.0,"Rattray Road, London, SW2",SW2,2.0
+920,895000.0,"Imperial Court, SE11",SE11,3.0
+921,410000.0,"Willow Court, Streatham, SW16",SW16,3.0
+923,750000.0,"Oakey Lane, London, SE1",SE1,3.0
+924,550000.0,"Cornwall Court, Cleaver Street, SE11 ",SE11,1.0
+925,480000.0,"Whitehouse Apartments, 9 Belvedere Road, London, SE1",SE1,0.0
+926,600000.0,"Buckleigh Road, Streatham, SW16",SW16,3.0
+927,450000.0,"Thurlow Park Road, Dulwich, London, SE21",SE21,2.0
+928,1295000.0,"Stockwell Park Road, London, SW9",SW9,4.0
+929,600000.0,"Millbrook Road, London, SW9",SW9,2.0
+930,800000.0,"Hamilton House, St George Wharf, Vauxhall, SW8",SW8,2.0
+931,330000.0,"20 Drewstead Road, Streatham hill / Streatham, SW16",SW16,1.0
+932,800000.0,"Sudbourne Road, London, SW2",SW2,2.0
+933,350000.0," 34 Riggindale Road,  London, SW16",SW16,1.0
+934,645000.0,"Cambray Road, London, London, SW12",SW12,2.0
+936,375000.0,"Streatham Common South, London, SW16",SW16,1.0
+937,625000.0,"Elm Park, SW2",SW2,2.0
+939,360000.0,Lingham Road SW9,SW9,2.0
+940,485000.0,"Sulina Road, SW2",SW2,2.0
+943,330000.0,"Drewstead Road, Streatham, SW16",SW16,1.0
+945,385000.0,"Jeffreys Walk, Stockwell SW4",SW4,2.0
+953,775000.0,"North Block, 1C Belvedere Road, London, SE1",SE1,1.0
+954,435000.0,"Valley Road, London, London, SW16",SW16,2.0
+955,1250000.0,"The Academy, 20 Lawn Lane, Vauxhall SW8",SW8,3.0
+956,529950.0,"Chestnut Close, London, SW16",SW16,2.0
+957,559950.0,"Lewin Road, London, SW16",SW16,2.0
+958,435000.0,"Saxby Road, Brixton, SW2",SW2,3.0
+959,330000.0,"Raebarn Court, Gracefield Gardens, London, SW16",SW16,1.0
+960,750000.0,"Hayter Road, Brixton, London, SW2",SW2,4.0
+961,325000.0,"Herne Hill Road, Herne Hill, London, SE24",SE24,1.0
+963,340000.0,"Loughborough Estate, London SW9",SW9,2.0
+964,795000.0,"Englewood Road, London, SW12",SW12,2.0
+970,620000.0,"Whitehouse Apartments, 9 Belvedere Road, South Bank, London SE1",SE1,1.0
+973,475000.0,"Frazier Street, London, SE1",SE1,2.0
+974,485000.0,"Chaucer Road, SE24",SE24,1.0
+975,525000.0,"Gibson Road, Kennington, London, SE11",SE11,3.0
+982,425000.0,"Hopton House, 243A Streatham High Road, London, SW16",SW16,2.0
+989,310000.0,"Poynders Gardens, Clapham, London, SW4",SW4,1.0
+993,800000.0,"Emmanuel Road, Balham, London, SW12",SW12,3.0
+994,550000.0,"Tritton Road, London, SE21",SE21,3.0
+995,475000.0,"Bedford Road, London, SW4",SW4,1.0
+996,700000.0,"Priory Grove School, 10 Priory Grove, London, SW8",SW8,2.0
+997,385000.0,"Stockwell Gardens Estate, London SW9",SW9,2.0
+998,400000.0,"Kennington Oval, London SE11",SE11,2.0
+999,330000.0,"Gipsy Road, Gipsy Hill, SE27",SE27,2.0
+1000,1650000.0,"Cautley Avenue, SW4",SW4,5.0
+1001,599950.0,"Santley Street, SW4",SW4,2.0
+1003,375000.0,"Electric Avenue, London, SW9",SW9,1.0
+1004,445000.0,"Oval Quarter, Oval SW9",SW9,1.0
+1006,925000.0,"Blenheim Gardens, SW2",SW2,4.0
+1007,375000.0,"Clapham Road, Clapham North, SW9",SW9,1.0
+1010,450000.0,"Avenue Park Road, West Norwood, SE27",SE27,3.0
+1012,575000.0,"Polworth Road, LONDON, SW16",SW16,2.0
+1013,335000.0,"Acre Lane, Clapham North, SW2",SW2,1.0
+1014,799950.0,"Clapham Road, Clapham, SW9",SW9,3.0
+1019,895000.0,"Lilac Place, SE11",SE11,3.0
+1023,2000000.0,"Kirkstall Road, London, SW2",SW2,5.0
+1024,299950.0,"Streatham High Road, London, SW16",SW16,1.0
+1025,625000.0,"Trinity Rise, Tulse Hill, London, SW2",SW2,2.0
+1026,400000.0,"Tulse Hill, Brixton, London SW2 2ET",SW2,3.0
+1031,465000.0,"Queenstown Road, Battersea, London, SW8",SW8,1.0
+1032,685000.0,"Sandmere Road, Clapham, SW4",SW4,3.0
+1034,525000.0,Christchurch Road London SW2,SW2,3.0
+1036,400000.0,Kennington Oval Kennington SE11,SE11,2.0
+1044,1100000.0,"Wolfington Road, West Norwood, London, SE27",SE27,4.0
+1045,585000.0,"Tankerville Road, London, SW16",SW16,2.0
+1046,575000.0,"Endsleigh Mansions, Leigham Avenue, London, SW16",SW16,2.0

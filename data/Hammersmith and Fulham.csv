@@ -1,0 +1,758 @@
+,price,address,postcode,number_bedrooms
+0,1100000.0,"Musard Road, London, W6",W6,3.0
+3,1300000.0,"Fulham Road, Fulham, London, SW6",SW6,4.0
+4,250000.0,"Digby Mansions, Hammersmith Bridge Road, London, W6",W6,0.0
+7,435000.0,"Elgin Avenue, Shepherd's Bush, London, W12 9NW",W12,2.0
+8,500000.0,"Sinclair Gardens, London, W14",W14,1.0
+9,670000.0,"Girdlers Road, Brook Green, London, W14",W14,2.0
+10,750000.0,"Stephendale Road, Fulham, London, SW6 ",SW6,2.0
+12,535000.0,"Fulham Road, Fulham, London, SW6 ",SW6,1.0
+14,1600000.0,"Millers Court, Chiswick, W4",W4,5.0
+15,625000.0,"Delaford Street, SW6",SW6,2.0
+16,425000.0,"Brompton Park Crescent, London, SW6",SW6,0.0
+17,1000000.0,"Crabtree Lane, Bishops Park, London, SW6",SW6,3.0
+19,750000.0,"Stephendale Road, Fulham, SW6",SW6,2.0
+20,675000.0,"Parkview Court, London, SW6",SW6,2.0
+21,650000.0,"Comeragh Road, Barons Court, London, W14",W14,2.0
+22,2250000.0,"Wardo Avenue, Munster Village, London, SW6",SW6,5.0
+25,1550000.0,"Sinclair Road, 
+London,
+W14 0LF",W14,2.0
+27,510000.0,"Barons Court Road, London, W14",W14,1.0
+28,650000.0,"Doulton House, Chelsea Creek, London, SW6",SW6,1.0
+29,250000.0,"Burghley Tower, Trinity Way, Acton, W3",W3,2.0
+30,1000000.0,"213 Townmead Road, London, SW6",SW6,2.0
+31,450000.0,"Wheatsheaf Lane, Fulham, London, SW6",SW6,1.0
+32,2000000.0,"Tournay Road, London, SW6",SW6,5.0
+33,900000.0,"Addison Gardens, London, W14",W14,2.0
+34,380000.0,"Abbey Court, Emlyn Gardens, London, W12",W12,1.0
+35,575000.0,"Rainville Road, London, W6",W6,2.0
+37,975000.0,"Burlington Road, Parsons Green, Fulham, London, SW6",SW6,2.0
+39,575000.0,"Askew Road, Wendell Park, London, W12",W12,3.0
+42,395000.0,"Askew Road, Askew Village W12 ",W12,1.0
+43,1000000.0,"Tunis Road, London, W12",W12,4.0
+45,400000.0,"Sinclair Road, London, W14",W14,1.0
+46,1200000.0,"Chesson Road, London, W14",W14,4.0
+47,475000.0,"Barons Court Road, London, W14",W14,1.0
+49,575000.0,"Heckfield House, Heckfield Place, Fulham, SW6",SW6,1.0
+51,675000.0,"Ongar Road, Fulham, SW6",SW6,2.0
+52,815000.0,"Bishops Road, Fulham, London, SW6",SW6,3.0
+53,700000.0,"The Old Fire Station, 244 Shepherds Bush Road, Hammersmith, London, W6",W6,2.0
+55,950000.0,"Fulham Broadway, London, SW6",SW6,2.0
+56,875000.0,"Octavia House, 213 Townmead Road, London, SW6",SW6,2.0
+58,700000.0,"Star Road, Barons Court, London, W14",W14,2.0
+61,750000.0,"Anselm Road, London, SW6",SW6,3.0
+62,975000.0,"Abdale Road, Shepherd's Bush W12",W12,2.0
+63,695000.0,Blythe Road London W14,W14,1.0
+64,1425000.0,"Atalanta Street, Fulham, SW6",SW6,4.0
+65,825000.0,"Fitzgeorge Avenue, London, W14",W14,2.0
+66,525000.0,"The Grampians, Shepherds Bush Road, London, W6",W6,2.0
+68,599950.0,"Barton Court, Barons Court Road, London, W14",W14,2.0
+69,900000.0,"Addison Gardens, Brook Green, London, UK, W14",W14,2.0
+70,750000.0,"Belvedere Row, White City Living, London, W12",W12,1.0
+71,550000.0,"Wandon Road, Fulham Broadway, London, SW6",SW6,2.0
+72,1500000.0,"Askew Road, Chiswick, London, W12",W12,3.0
+73,1600000.0,"Riverwalk Apartments, 5 Central Avenue, London, SW6",SW6,2.0
+75,1380000.0,"Stephendale Road, Fulham, London, SW6 ",SW6,3.0
+76,525000.0,"Mellitus Street, East Acton, W12",W12,2.0
+77,1450000.0,"Rivermead Court, Ranelagh Gardens, London, SW6",SW6,3.0
+78,900000.0,"Thornfield Road, London, W12",W12,3.0
+79,425000.0,"Greyhound Road, Barons Court, London, W6",W6,1.0
+80,1125000.0,"The Helios, The Television Centre, 101 Wood Lane, W12",W12,2.0
+81,1300000.0,"Greswell Street, London, SW6",SW6,3.0
+83,450000.0,"Dawes Road, Fulham Broadway, London, SW6",SW6,1.0
+85,675000.0,"Askew Mansions, London, W12",W12,3.0
+90,625000.0,"Woodstock Grove, London, W12",W12,2.0
+91,350000.0,"14 Plough Close, Kensal Rise, NW10",NW10,1.0
+94,800000.0,"Gwendwr Road, West Kensington, W14",W14,3.0
+95,850000.0,"Old Oak Road, Acton, London, W3",W3,5.0
+96,650000.0,"Ingrebourne Apartments, 5 Central Avenue, London, SW6",SW6,1.0
+97,1125000.0,"Sailmakers Court, Fulham, London, SW6 ",SW6,2.0
+98,695000.0,"Hartismere Road, Fulham Broadway, London, SW6",SW6,2.0
+99,900000.0,"New Kings Road, Fulham, London, SW6",SW6,2.0
+100,1382000.0,"Glenthorne Road,
+London,
+W6 0BT",W6,3.0
+101,685000.0,"Rosebury Road, Fulham, London, SW6 ",SW6,3.0
+102,475000.0,"Octavia House, 213 Townmead Road, London, SW6",SW6,0.0
+105,1350000.0,"Ravensbourne Apartments, 5 Central Avenue, London, SW6",SW6,3.0
+106,1350000.0,"5 Central Avenue, Fulham Riverside, London, SW6",SW6,3.0
+107,600000.0,"Addison Gardens, London, W14",W14,1.0
+108,499950.0,"Parkville Road, Fulham, London, SW6 ",SW6,1.0
+109,680000.0,"Fulham Road, SW6",SW6,2.0
+111,1150000.0,"Wellesley Mansions, Edith Villas, London, W14",W14,3.0
+112,250000.0,"Chelsea Harbour, Chelsea SW10",SW10,2.0
+114,525000.0,"Fielding Road, W14",W14,1.0
+115,675000.0,Cobbold Road W12,W12,2.0
+117,1950000.0,"Walham Grove, Fulham, SW6",SW6,3.0
+119,325000.0,"Sullivan Court, Fulham, London, SW6",SW6,1.0
+120,1495000.0,"Sterne Street, W12",W12,4.0
+121,630000.0,"Uxbridge Road, Shepherd's Bush, London, W12 9DH",W12,2.0
+125,2400000.0,"Compton House, Waterfront Drive, London, SW10",SW10,3.0
+126,525000.0,"New Kings Road, Fulham, London, SW6",SW6,0.0
+128,750000.0,"Crowther Close, London, SW6",SW6,2.0
+132,585000.0,"Perham Road, London, W14",W14,2.0
+134,750000.0,"Fairfax House, Fulham Reach , Hammersmith , W6",W6,1.0
+135,1095000.0,"Everington Street, London, W6",W6,3.0
+136,750000.0,"Wandsworth Bridge Road, Fulham, London, SW6 ",SW6,2.0
+137,875000.0,"Old Oak Road, London, W3",W3,3.0
+138,850000.0,"White City Close, W12",W12,5.0
+139,600000.0,"Ibberton House, Russell Road, London, W14",W14,1.0
+140,750000.0,"Broughton Road, London, SW6",SW6,2.0
+141,1545000.0,"Wood Crescent, London, W12",W12,2.0
+143,695000.0,"Kensington West, Blythe Road, London, W14",W14,1.0
+144,600000.0,"Bishops Road, Fulham, SW6",SW6,2.0
+145,2175000.0,"Bute Gardens, London, W6",W6,4.0
+147,475000.0,"Lakeside Road, Brook Green, London W14",W14,2.0
+148,525000.0,"Tadmor Street, Shepherds Bush, London, W12",W12,1.0
+149,875000.0,"Wendell Mews, London, W12",W12,3.0
+150,2850000.0,"New Kings Road, Parsons Green, London, SW6",SW6,5.0
+152,3250000.0,"Chelsea Crescent, Chelsea Harbour, London, SW10",SW10,3.0
+153,550000.0,"Iffley Road, Brackenbury Village W6",W6,1.0
+155,375000.0,"67 Masbro Road, West Kensington, W14",W14,1.0
+156,475000.0,"Queens Wharf, Hammersmith Riverside, London, W6",W6,1.0
+157,1300000.0,"Rivermead Court, Ranelagh Gardens, Hurlingham, Fulham, SW6",SW6,3.0
+158,1700000.0,Elsham Road Holland Park W14,W14,3.0
+159,875000.0,"Galloway Road, London, W12",W12,4.0
+163,450000.0,"Spackman House, Fulham, London, SW6 ",SW6,1.0
+164,550000.0,"Queens Wharf, Hammersmith, London, W6",W6,0.0
+166,2250000.0,"Inglethorpe Street, Fulham, London, SW6 ",SW6,5.0
+168,485000.0,"Bolingbroke Road, London W14",W14,1.0
+169,560000.0,"Oxford House, 70-72 Hammersmith Bridge Road, Hammersmith, London, W6",W6,1.0
+170,2850000.0,"Coniger Road, London, SW6",SW6,5.0
+171,590000.0,"Crookham Road, Parsons Green, SW6",SW6,2.0
+172,350000.0,"Lugard House, Bloemfontein Road, London, W12",W12,1.0
+173,675000.0,"Winslow Road, Riverside, London, W6",W6,2.0
+174,750000.0,Valetta Road W3,W3,3.0
+175,7500000.0,"Maxwell Road, London, SW6",SW6,6.0
+176,450000.0,"Cromwell Grove, Hammersmith, London, W6",W6,1.0
+180,325000.0,"Holley Road, Acton, London, W3",W3,1.0
+181,1300000.0,"Westbourne Apartments, 5 Central Avenue, London, SW6",SW6,2.0
+182,2000000.0,"Devonport Road, Shepherds Bush, London W12",W12,4.0
+183,760000.0,"Church View, North End Road, London, SW6",SW6,2.0
+184,3975000.0,"Blythe Road, Brook Green W14",W14,5.0
+187,875000.0,"Wendell Mews, Wendell Park, London, W12",W12,3.0
+189,460000.0,"Cathnor Road, Shepherd's Bush W12",W12,1.0
+190,500000.0,"Vereker Road, London, W14",W14,2.0
+192,1350000.0,"Anselm Road, West Brompton, London, SW6",SW6,4.0
+199,900000.0,"Shorrolds Road, Fulham, London, SW6",SW6,3.0
+200,1690000.0,"Waterford Road, Moore Park Estate, Fulham, London, SW6",SW6,3.0
+202,1500000.0,"Sedgeford Road, Shepherd's Bush, W12",W12,5.0
+205,1100000.0,"Carlyle Court, London, SW10",SW10,2.0
+207,550000.0,"Chesilton Road, Fulham, London, SW6",SW6,1.0
+209,675000.0,"Hammersmith Grove, London, W6",W6,2.0
+211,850000.0,"St Dunstans Road, Barons Court, London, W6",W6,2.0
+213,775000.0,"Oakbury Road, Fulham, London, SW6 ",SW6,2.0
+215,650000.0,"King Street, Ravenscourt Park, London, W6",W6,2.0
+219,565000.0,"Westville Road, Shepherd's Bush, London, W12 9PS",W12,2.0
+220,1050000.0,"Delorme Street, London, W6",W6,4.0
+221,1575000.0,"Gilstead Road, Fulham, London, SW6 ",SW6,4.0
+222,550000.0,"Fulham Road, London, SW6",SW6,1.0
+223,595000.0,"Fulham High Street, Fulham, London, SW6",SW6,1.0
+225,1114950.0,"Glenthorne Road,
+London,
+W6 0BT",W6,3.0
+227,565000.0,"Stevenage Road, Fulham, London, SW6 ",SW6,2.0
+230,699950.0,"Armadale Road, London, SW6",SW6,2.0
+231,1380000.0,"Hemlock Road, Shepherds Bush, W12",W12,6.0
+234,800000.0,"Nevern Square, London, SW5",SW5,2.0
+235,1500000.0,"Querrin Street, Fulham, London, SW6 ",SW6,4.0
+236,2500000.0,"Holmead Road, Moore Park Estate, London, SW6",SW6,5.0
+242,1695000.0,"Chelsea Crescent, Chelsea Harbour, London, SW10",SW10,2.0
+244,449500.0,"Stephendale Road, Fulham, London, SW6 ",SW6,1.0
+245,1850000.0,"Settrington Road, Fuham, London, SW6 ",SW6,4.0
+246,2200000.0,"Bolingbroke Road, Brook Green, London, UK, W14",W14,5.0
+250,2285000.0,"Ashchurch Grove, London W12",W12,4.0
+255,1200000.0,"Hugon Road, Parsons Green, Fulham, London, SW6",SW6,4.0
+256,675000.0,"Ongar Road, West Brompton, Fulham, London, SW6",SW6,2.0
+257,475000.0,"Wendell Road, Shepherd's Bush W12",W12,1.0
+258,679950.0,"Lochaline Street, London, W6",W6,2.0
+259,1750000.0,"Disbrowe Road, London, W6",W6,4.0
+260,1375000.0,"Glenroy Street, London, W12",W12,5.0
+261,2395000.0,"Cromwell Grove, London, W6",W6,5.0
+262,875000.0,"Milson Road, London, W14",W14,3.0
+264,875000.0,"Milson Road, London, W14",W14,3.0
+265,2350000.0,"Coniger Road, Fulham, SW6",SW6,4.0
+267,950000.0,"Bovingdon Road, London, SW6",SW6,3.0
+268,1775000.0,"Netherwood Road, Brook Green, London, W14",W14,4.0
+269,550000.0,"West Kensington, Barons Court, London, W14",W14,1.0
+270,950000.0,"Townmead Road, Imperial Wharf, London, SW6",SW6,2.0
+271,548500.0,"Ashchurch Park Villas, London, W12",W12,2.0
+272,1475000.0,"Cardross Street, Brackenbury Village, London, W6",W6,4.0
+275,1775000.0,"Netherwood Road, Brook Green, London, W14",W14,4.0
+278,630000.0,"Top Floor, Elsham Road, London, W14",W14,2.0
+279,1099995.0,"Breer Street, SW6",SW6,4.0
+280,1095000.0,"Niton Street, London, SW6",SW6,3.0
+283,950000.0,"Octavia House, Imperial Wharf, Fulham, London, SW6",SW6,2.0
+284,1450000.0,"Lakeside Road, London, W14",W14,4.0
+285,600000.0,"Brook Green, Brook Green, London, W14",W14,2.0
+288,395000.0,"New Kings Road, Parsons Green, Fulham, London, SW6",SW6,1.0
+289,599950.0,"New Kings Road, Parsons Green, Fulham, London, SW6",SW6,2.0
+290,2750000.0,"Barclay Road, Fulham Broadway, London, SW6",SW6,4.0
+291,365000.0,"Seymour Mansions, Boscombe Road, Shepherds Bush, W12",W12,1.0
+292,850000.0,"Emlyn Road, London, W12",W12,3.0
+294,2995000.0,"Waterford Road, Fulham, SW6",SW6,5.0
+297,850000.0,"Wardo Avenue, Fulham, London, SW6",SW6,2.0
+298,450000.0,"Bassein Park Road, London, W12",W12,2.0
+301,450000.0,"Uxbridge Road, London, W12",W12,2.0
+304,675000.0,"Langford Road, Fulham, London, SW6 ",SW6,2.0
+305,495000.0,"New Kings Road, London, SW6",SW6,1.0
+306,650000.0,"Ongar Road, London, SW6",SW6,2.0
+307,650000.0,"Rosaline Road, Fulham, SW6",SW6,2.0
+310,550000.0,"Ongar Road, West Brompton, London, SW6",SW6,2.0
+311,850000.0,"Wandsworth Bridge Road, South Park, London, SW6",SW6,3.0
+312,1382000.0,"Glenthorne Road,
+London,
+W6 0BT",W6,3.0
+314,599950.0,"Kilkie Street, Sands End, Fulham, London, SW6",SW6,2.0
+315,500000.0,"Delorme Street, London, W6",W6,2.0
+316,380000.0,"Buer Road, London, SW6",SW6,0.0
+317,1000000.0,"Brewster Gardens, London, W10",W10,3.0
+318,1300000.0,"Wyfold Road, Fulham, London, SW6",SW6,3.0
+319,735000.0,"Chesson Road, London, W14",W14,3.0
+321,300000.0,"Askew Road, London, W12",W12,1.0
+323,1000000.0,"Brewster Gardens, North Kensington, London, W10",W10,3.0
+324,420000.0,"Sinclair Gardens, Brook Green, London, W14",W14,1.0
+325,2400000.0,"Compton House, Waterfront Drive, London, SW10",SW10,3.0
+326,2100000.0,"Dalling Road, Brackenbury Village, London, W6",W6,5.0
+327,335000.0,"Caxton Road, Shepherd's Bush, London, W12 8AL",W12,1.0
+329,700000.0,"Cathnor Road, Shepherd's Bush, London, W12",W12,2.0
+330,335000.0,"White City Estate, London, W12",W12,2.0
+332,600000.0,"Gwendwr Road, West Kensington, London, W14",W14,1.0
+333,350000.0,"Emlyn Gardens, Wendell Park, London, W12",W12,1.0
+334,400000.0,Starfield Road W12,W12,1.0
+336,499950.0,"Parkville Road, London, SW6",SW6,1.0
+337,1695000.0,"Chelsea Creek, London, SW6",SW6,2.0
+338,875000.0,"Brewster Gardens, North Kensington, London, W10",W10,3.0
+339,650000.0,"St Olafs Road, London, SW6",SW6,2.0
+340,1650000.0,"Brookville Road, London, SW6",SW6,5.0
+342,530000.0,"Fulham Park Gardens, SW6",SW6,1.0
+343,400000.0,"Normand Lodge, Barons Court, London, W14",W14,1.0
+344,925000.0,"Pottery Mews, Parsons Green, London, SW6",SW6,2.0
+345,2300000.0,"Addison Gardens, London, W14",W14,5.0
+347,1850000.0,"Rainsborough Square, Fulham, SW6",SW6,3.0
+348,450000.0,"Greyhound Road, London, W6",W6,2.0
+350,950000.0,"Townmead Road, Imperial Wharf, London, SW6",SW6,2.0
+351,775000.0,"Oakbury Road, SW6",SW6,3.0
+353,1200000.0,"Rainville Road, London, W6",W6,2.0
+354,375000.0,"Yeldham House, Yeldham Road, London, W6",W6,1.0
+355,500000.0,"Pennard Road, Shepherd's Bush, W12",W12,1.0
+356,750000.0,"Stephendale Road, Parsons Green, Fulham, London, SW6",SW6,3.0
+357,1395000.0,"Cromwell Grove, London, W6",W6,4.0
+358,1100000.0,"Chelsea Harbour, Chelsea Harbour, London, SW10",SW10,2.0
+359,1350000.0,"Argyll Mansions, Bishops King Road, London, W14",W14,3.0
+360,550000.0,"Fulham Road, SW6",SW6,1.0
+361,450000.0,"Fulham Road, Fulham Broadway, London, SW6",SW6,1.0
+362,1450000.0,"Glenrosa Street, London, SW6",SW6,4.0
+363,460000.0,"More Close, London, W14",W14,1.0
+364,595000.0,"Fulham Road, London, SW6",SW6,2.0
+365,825000.0,"Latymer Court, Hammersmith Road, London, W6",W6,4.0
+366,5950000.0,"Kenmont Gardens, London, NW10",NW10,4.0
+367,5950000.0,"Kenmont Gardens, London NW10",NW10,4.0
+368,725000.0,"Sinclair Road, London, W14",W14,2.0
+370,750000.0,"Television Centre, 101 Wood Lane, London, W12",W12,1.0
+375,1000000.0,"Averill Street, London, W6",W6,3.0
+378,445000.0,"Hetley Road, Shepherd's Bush, W12",W12,1.0
+382,500000.0,"Fulham Palace Road, London, SW6",SW6,2.0
+383,785000.0,"Wandsworth Bridge Road, Fulham, London, SW6 ",SW6,3.0
+384,1725000.0,"Kenyon Street, Fulham, SW6",SW6,4.0
+385,2150000.0,"Ormiston Grove, London, W12",W12,5.0
+387,875000.0,"Brewster Gardens, North Kensington, London, W10",W10,3.0
+388,850000.0,"Reporton Road, Fulham, London, SW6",SW6,2.0
+389,1750000.0,"Delvino Road, Fulham, London, SW6 ",SW6,4.0
+391,650000.0,"Wandsworth Bridge Road, Fulham, London, SW6 ",SW6,2.0
+392,895000.0,"Inglethorpe Street, Bishops Park, London, SW6",SW6,2.0
+394,800000.0,"Fulham Road, Fulham, SW6",SW6,2.0
+396,590000.0,"Whittingstall Road, SW6",SW6,2.0
+397,1200000.0,"Thames Reach, 80 Rainville Road, Fulham, London, W6",W6,2.0
+398,700000.0,"Belvedere Row, White City Living , White City, London, W12",W12,1.0
+399,3000000.0,"Rockley Road, London, W14",W14,5.0
+400,675000.0,Cobbold Road W12,W12,2.0
+401,3000000.0,"Rockley Road, London, W14",W14,5.0
+403,850000.0,"Harbord Street, London, SW6",SW6,3.0
+404,2495000.0,"Melrose Gardens, London, W6",W6,5.0
+405,875000.0,"Goldhawk Road, Shepherd Bush, UK, W12",W12,2.0
+406,750000.0,"Goldhawk Road, Shepherd Bush, UK, W12",W12,2.0
+407,899950.0,"Goldhawk Road, Shepherd Bush, UK, W12",W12,2.0
+408,899950.0,"Goldhawk Road, Shepherd Bush, UK, W12",W12,2.0
+409,799950.0,"Goldhawk Road, Shepherd Bush, UK, W12",W12,2.0
+410,899950.0,"Goldhawk Road, Shepherd Bush, UK, W12",W12,2.0
+411,1295000.0,"Letterstone Road, Fulham, UK, SW6",SW6,3.0
+413,1250000.0,"Rivermead Court, Ranelagh Gardens, London, SW6",SW6,3.0
+414,950000.0,"Fulham Park Gardens, London, SW6",SW6,2.0
+415,1950000.0,"Bolingbroke Road, London, W14",W14,5.0
+416,1450000.0,"Arminger Road, London, W12",W12,5.0
+422,640000.0,"Hemlock Rd, Shepherds Bush, W12 0QR",W12,3.0
+423,475000.0,"North End Road, West Kensington, London, W14",W14,1.0
+424,1150000.0,"The Boulevard, Imperial Wharf, London, SW6",SW6,3.0
+425,1150000.0,"Harwood Terrace, London, SW6",SW6,2.0
+426,850000.0,Cobbold Road W12,W12,2.0
+427,1550000.0,"Bolingbroke Road, London, W14",W14,4.0
+428,2550000.0,"Westcroft Square, Stamford Brook, London W6",W6,5.0
+429,725000.0,"Elsham Road, London, W14",W14,2.0
+433,485000.0,"Sterndale Road, Brook Green, London, W14",W14,1.0
+434,700000.0,"Blythe Road, London, W14",W14,3.0
+435,1575000.0,"Eyot Gardens, Hammersmith, W6",W6,4.0
+436,800000.0,"Harwood Road,, Fulham, London, SW6",SW6,2.0
+437,1250000.0,"Carlyle Court, Chelsea Harbour, London, SW10",SW10,2.0
+439,2950000.0,"Bowerdean Street, Fulham, London, SW6",SW6,5.0
+440,820000.0,"Lincoln Apartment, White City Living, White City, London, W12",W12,1.0
+441,510000.0,"Barons Court Road, West Kensington, London, W14",W14,1.0
+442,1090000.0,"Belvedere Row, White City Living, White City, London W12",W12,2.0
+444,995000.0,"Laurence Mews, Shepherd's Bush, W12",W12,2.0
+445,500000.0,"Stamford Court, Stamford Brook, Hammersmith, London, W6",W6,2.0
+446,1350000.0,"Thornfield Road, Shepherd's Bush, London, W12",W12,4.0
+447,550000.0,"Townmead Road, SW6",SW6,1.0
+449,575000.0,"Munster Road, London, London, SW6 6DA",SW6,3.0
+450,1075000.0,"Turneville Road, West Kensington, Hammersmith, London, W14",W14,3.0
+451,685000.0,"Argyll Mansions, Hammersmith Road, London, W14",W14,2.0
+453,1200000.0,"Comeragh Road, W14",W14,3.0
+454,2195000.0,"Sunlight Mews, London, SW6",SW6,4.0
+456,720000.0,"Willow Vale, Shepherd's Bush W12",W12,2.0
+457,475000.0,"Rowallan Road, Fulham, London, SW6",SW6,1.0
+458,650000.0,"Uxbridge Road, London, W12",W12,2.0
+460,815000.0,"Johnson Mansions, Queens Club Gardens, Barons Court, London, W14",W14,3.0
+461,535000.0,"North End Crescent, London, W14",W14,2.0
+462,749950.0,"Dawes Road, Fulham, London, SW6",SW6,2.0
+463,3250000.0,"Chelsea Crescent, Chelsea Harbour, London, SW10",SW10,3.0
+464,550000.0,"Fulham Road, Parsons Green, London, SW6",SW6,1.0
+471,1250000.0,"Bute Gardens, Brook Green, London, W6",W6,3.0
+472,799950.0,Jeddo Road W12,W12,4.0
+473,825000.0,"Lakeside Road, London, W14",W14,3.0
+474,3000000.0,"Chelsea Island, 1 Harbour Avenue, London, SW10",SW10,3.0
+475,675000.0,"Winslow Road, Riverside, London, W6",W6,2.0
+476,525000.0,"Barons Court Road, London, W14",W14,1.0
+478,699950.0,"Reporton Road, Munster Village, Fulham, London, SW6",SW6,2.0
+480,135000.0,"Chelsea Harbour, Imperial Wharf SW10",SW10,2.0
+484,520000.0,"Vereker Road, London, W14",W14,1.0
+486,875000.0,"Thames Quay, Chelsea Harbour, Chelsea, London, SW10",SW10,1.0
+487,1700000.0,"Hadyn Park Road, Shepherd's Bush, London, W12",W12,6.0
+488,800000.0,"Fulham Park Gardens, Parsons Green, London, SW6",SW6,1.0
+489,1850000.0,"Cristowe Road, Fulham, London, SW6",SW6,4.0
+490,650000.0,"Chesilton Road, Fulham, London, SW6",SW6,1.0
+491,435000.0,"Ellerslie Road, London, W12",W12,1.0
+492,1900000.0,"Linver Road, Parsons Green, London, SW6",SW6,4.0
+493,725000.0,"Wandsworth Bridge Road, Fulham, London, SW6 ",SW6,2.0
+495,550000.0,"Pellant Road, Fulham, London, SW6",SW6,2.0
+496,1150000.0,"Faulkner House, Fulham Reach, London, W6",W6,2.0
+497,615000.0,Starfield Road W12,W12,2.0
+499,400000.0,"Ellerslie Road, Shepherds Bush, W12",W12,1.0
+500,390000.0,"Coningham Road, Shepherd's Bush, W12",W12,1.0
+502,385000.0,"Coningham Road, Shepherds Bush, London, W12 8BP",W12,1.0
+503,750000.0,"Ongar Road, London, SW6",SW6,2.0
+504,1100000.0,"Orbain Road, London, SW6",SW6,3.0
+506,2300000.0,"Heathcote Gate, Fulham, SW6",SW6,4.0
+516,650000.0,"Jersey Court, Dairy Close, London, SW6",SW6,2.0
+518,950000.0,"Ravenscourt Gardens, Stamford Brook, London, W6",W6,3.0
+519,1450000.0,"Allestree Road, Fulham, London, SW6 ",SW6,4.0
+520,2695000.0,"Irene Road, Fulham, SW6",SW6,5.0
+521,1600000.0,"Ingersoll Road, London, W12",W12,5.0
+524,460000.0,"Peterborough Road, Fulham, SW6",SW6,2.0
+525,1450000.0,"Hannell Road, London, SW6",SW6,4.0
+526,1400000.0,"32 Horder Road, London, SW6",SW6,4.0
+528,849000.0,"Hofland Road, Kensington Olympia, W14",W14,3.0
+530,1875000.0,"Oxberry Avenue, SW6",SW6,5.0
+531,9800000.0,"Chelsea Creek Tower, 12 Park Street, London, SW6",SW6,5.0
+532,450000.0,"Octavia House, 213 Townmead Road, Imperial Wharf, London, SW6",SW6,1.0
+534,599950.0,PRICE REDUCTION !  TWO BED MAISONETTE BY RIVER IN SW6! ,SW6,2.0
+535,1795000.0,"Findon Road, London, W12",W12,4.0
+536,475000.0,"Homestead Road, Fulham, London, SW6",SW6,1.0
+541,335000.0,"Uxbridge Road, London, W12",W12,1.0
+542,565000.0,"Palliser Road, London, W14",W14,2.0
+545,825000.0,"Blythe Road, Brook Green, London, W14",W14,3.0
+546,1350000.0,"Columbia Gardens, London, SW6",SW6,3.0
+547,450000.0,"Dawes Road, Fulham, SW6",SW6,1.0
+548,900000.0,"Haarlem Road, London, W14",W14,2.0
+550,2400000.0,"Compton House, Waterfront Drive, London, SW10",SW10,3.0
+551,695000.0,"Lillie Road, Fulham, London, SW6",SW6,2.0
+552,56000.0,"Chelsea Harbour, Imperial Wharf SW10",SW10,2.0
+553,950000.0,"Varna Road, London, SW6",SW6,3.0
+555,1040000.0,"Tunis Road, Shepherds Bush, London, W12 7EZ",W12,3.0
+556,1750000.0,"Davisville Road, London, W12",W12,5.0
+557,150000.0,"Chelsea Harbour, Chelsea, SW3",SW3,2.0
+558,1050000.0,"Kensington Hall Gardens, West Kensington, Hammersmith, London, W14",W14,3.0
+559,1100000.0,"Harbour Reach, Imperial Wharf, London, SW6",SW6,2.0
+560,950000.0,"Glenrosa Street, Fulham, London, SW6 ",SW6,2.0
+566,800000.0,"Kilkie Street, Fulham, London, SW6 ",SW6,2.0
+567,1550000.0,"Bronsart Road, London, SW6",SW6,4.0
+568,835000.0,"Wandsworth Bridge Road, London, SW6",SW6,3.0
+569,645000.0,"New Kings Road, London, SW6",SW6,1.0
+570,925000.0,"Elsham Road, London, W14",W14,2.0
+571,625000.0,"Fulham Road, SW6",SW6,2.0
+572,525000.0,"Fulham Road, Fulham, SW6",SW6,2.0
+573,800000.0,"Wardo Avenue, Munster Village, Fulham, London, SW6",SW6,2.0
+575,1650000.0,"Crabtree Lane, London, SW6",SW6,4.0
+576,850000.0,"Jaeger House, Fulham, London, SW6",SW6,1.0
+577,2275000.0,"Bolander Grove, Lillie Square, London, SW6",SW6,3.0
+578,700000.0,"Batoum Gardens, London, W6",W6,2.0
+579,450000.0,"Brackenbury Road, Hammersmith, W6",W6,1.0
+580,2250000.0,"Harbour Avenue,
+London,
+SW10",SW10,3.0
+581,1495000.0,"Harbour Avenue,
+London,
+SW10",SW10,2.0
+586,550000.0,"St Dunstans Road, Barons Court, Hammersmith, London, W6",W6,2.0
+588,495000.0,"Aynhoe Road, Brook Green, W14",W14,1.0
+589,1600000.0,"Coleridge Gardens, 552 Kings Road, Kings Chelsea, London, SW10",SW10,2.0
+595,800000.0,"Munster Road, Fulham, SW6",SW6,3.0
+596,725000.0,"Munster Road, Fulham, SW6",SW6,2.0
+597,475000.0,"Munster Road, Fulham, SW6",SW6,1.0
+598,500000.0,"Munster Road, Fulham, SW6",SW6,1.0
+599,600000.0,"Ibberton House, Kensington, London, W14",W14,1.0
+600,750000.0,"Anselm Road, London, SW6",SW6,3.0
+601,625000.0,"Munster Road, Fulham, London, SW6",SW6,2.0
+602,699995.0,"Regency House, The Boulevard, Imperial Wharf, London, SW6",SW6,2.0
+603,1135000.0,"Belvedere Building, White City Living, London, W12",W12,2.0
+604,900000.0,"Munster Road, Munster Village, London, SW6",SW6,3.0
+605,685000.0,"Elbe Street, Fulham, London, SW6 ",SW6,2.0
+607,845000.0,Aylmer Road W12,W12,3.0
+608,1700000.0,"Caithness Road, London, W14",W14,3.0
+609,1100000.0,"Kinnoul Road, London, W6",W6,3.0
+610,900000.0,"Crowther Close, London, SW6",SW6,2.0
+611,1370000.0,"Cambridge Grove, Hammersmith, London, W6",W6,4.0
+612,3400000.0,"Television Centre, 101 Wood Lane, London, W12",W12,3.0
+615,2600000.0,"Britannia Road, London, SW6",SW6,5.0
+616,1450000.0,"Palace Mansions, Earsby Street, W14",W14,4.0
+617,625000.0,"Coningham Road, Shepherds Bush, London, W12 8BU",W12,2.0
+618,550000.0,"Doulton House, Parsons Green, Fulham, London, SW6",SW6,1.0
+619,500000.0,"Gledstanes Road, London, W14",W14,2.0
+620,535000.0,"Glazbury Road, London, W14",W14,1.0
+621,535000.0,"Glazbury Road, West Kensington, London, W14",W14,1.0
+623,1775000.0,"Netherwood Road, Brook Green, London, UK, W14",W14,4.0
+624,530000.0,"3 Waldemar Avenue, SW6",SW6,1.0
+625,1650000.0,"Brookville Road, London, SW6",SW6,5.0
+626,1560000.0,"Cassini Tower, White City Living, London, W12",W12,2.0
+627,1440000.0,"Cassini Tower, White City Living, London, W12",W12,2.0
+628,1395000.0,"Cassini Tower, White City Living, London, W12",W12,2.0
+629,904000.0,"Cassini Tower, White City Living, London, W12",W12,1.0
+630,808000.0,"Cassini Tower, White City Living, London, W12",W12,1.0
+631,1257000.0,"The Water Gardens, White City Living, London, W12",W12,2.0
+632,1685000.0,"Cassini Tower, White City Living, London, W12",W12,2.0
+633,2750000.0,"Cassini Tower, White City Living, London, W12",W12,3.0
+634,2680000.0,"Cassini Tower, White City Living, London, W12",W12,3.0
+638,800000.0,"Elsham Road, London, W14",W14,1.0
+639,840000.0,"Hartismere Road, Fulham, London, SW6",SW6,3.0
+640,1950000.0,"Russell Gardens Mews, Holland Park, London, W14",W14,3.0
+641,1150000.0,"The Printworks, New Kings Road, Fulham, SW6",SW6,2.0
+642,700000.0,"St Peters Terrace, Fulham, London, SW6",SW6,3.0
+643,625000.0,"Chesilton Road, SW6",SW6,2.0
+644,1775000.0,"Netherwood Road, Brook Green, London W14",W14,4.0
+646,650000.0,"Grove Mansions, 236 Hammersmith Grove, Brackenbury Village, London, W6",W6,2.0
+647,1200000.0,"Bute Gardens, Brook Green, London, W6",W6,2.0
+648,750000.0,"Elbe Street, London, SW6",SW6,3.0
+649,2500000.0,"MacFarlane Road, Shepherd's Bush, London, W12",W12,5.0
+650,1124950.0,"Glenthorne Road,
+London,
+W6 0BT",W6,3.0
+651,415000.0,"Heathstan Road, East Acton, London, W12",W12,1.0
+653,600000.0,"Ibberton House, 70 Russell Road, London, W14",W14,1.0
+654,860000.0,"Hammersmith Road, London, W6",W6,3.0
+655,950000.0,"Radipole Road, London, SW6",SW6,3.0
+656,399950.0,"Goodwin Road, Shepherd's Bush W12",W12,1.0
+658,1500000.0,"Fitzjames Avenue, London, W14",W14,4.0
+660,3350000.0,"Favart Road, London, SW6",SW6,5.0
+661,440000.0,"Blythe Road, London, W14",W14,1.0
+663,625000.0,"Romney Court, Shepherds Bush Green, Shepherds Bush, London, W12 8PY",W12,2.0
+664,1550000.0,"Bronsart Road,, Munster Village, London, SW6",SW6,4.0
+665,715000.0,"Parfrey Street, London, W6",W6,2.0
+666,1800000.0,"Ravenscourt Road, Ravenscourt Park, London, W6",W6,4.0
+667,700000.0,"Tynemouth Street, Fulham, London, SW6 ",SW6,2.0
+673,1100000.0,"Central Avenue, London, SW6",SW6,2.0
+674,1225000.0,"Ellaline Road, London, W6",W6,4.0
+675,1350000.0,"Sinclair Road, 
+London,
+W14 0LF",W14,2.0
+676,475000.0,"Apex Court, 1 Woodger Road, London, W12",W12,1.0
+677,2795000.0,"Phillip's Mews, Fulham, London, SW6 ",SW6,4.0
+679,450000.0,"Sinclair Road, London, UK, W14",W14,1.0
+680,775000.0,"Archel Road, West Kensington, London, W14",W14,3.0
+681,750000.0,"Sinclair Road, London, W14",W14,2.0
+682,600000.0,"Ibberton House, 70 Russell Road, London, W14",W14,1.0
+683,539000.0,"Richford Street, Brackenbury Village, London, W6",W6,2.0
+685,600000.0,"Russell Road, London, W14",W14,1.0
+686,825000.0,"Latymer Court, Hammersmith Road, Hammersmith, London, W6",W6,3.0
+687,1250000.0,"Reporton Road, Fulham, London, SW6",SW6,4.0
+688,545000.0,"Edith Road, West Kensington, London, W14",W14,1.0
+689,1695000.0,"Elsham Road, Holland Park, London, W14",W14,3.0
+691,750000.0,"Shorrolds Road, Fulham, London, SW6",SW6,2.0
+692,750000.0,"Oxberry Avenue, Parsons Green, London, SW6",SW6,2.0
+693,860000.0,"Bishops Mansions, Bishops Park Road, London, SW6",SW6,2.0
+694,700000.0,"Whittingstall Road, Fulham, London, SW6",SW6,1.0
+695,550000.0,"Woodmans Mews, London, W12",W12,3.0
+696,800000.0,"Edgarley Terrace, London, SW6",SW6,2.0
+697,1650000.0,"Marquis House, 45 Beadon Road, W6",W6,3.0
+698,750000.0,"Sinclair Road, London, W14",W14,2.0
+699,700000.0,"Willow Mews, London W12",W12,2.0
+700,1750000.0,"Ongar Road, London, SW6",SW6,4.0
+701,1470000.0,"Sherbrooke Road, Fulham, London, SW6",SW6,5.0
+702,700000.0,"Willow Vale, London, W12",W12,2.0
+703,675000.0,"Kensington West, Blythe Road, London, W14",W14,1.0
+705,415000.0,"St Stephens Avenue, Shepherd's Bush W12",W12,1.0
+706,895000.0,"Harbord Street, London, SW6",SW6,3.0
+708,385000.0,"Muscal House, Field Road, London, W6",W6,1.0
+709,1250000.0,"Meadows House, 6 Park Street, London, SW6",SW6,2.0
+711,675000.0,"Holland Road, London, W14",W14,2.0
+712,695000.0,"Crabtree Lane, Fulham, SW6",SW6,2.0
+714,1335000.0,"Stronsa Road, London, W12",W12,4.0
+715,565000.0,"Tynemouth Street, Fulham, London, SW6 ",SW6,2.0
+718,499950.0,"King Henrys Reach, Manbre Road, London, W6",W6,1.0
+719,2300000.0,"Ravenscourt Square, London, W6",W6,5.0
+720,330000.0,"Uxbridge Road, Shepherd's Bush, London, W12 0LD",W12,1.0
+721,3300000.0,"Chesilton Road, London, SW6",SW6,7.0
+725,600000.0,"Ibberton House, Russell Road, London, W14",W14,1.0
+726,395000.0,"New Kings Road, London, SW6",SW6,1.0
+729,2000000.0,"Tasso Road, Barons Court, London, W6",W6,4.0
+730,900000.0,"Latimer Road, London, W10",W10,2.0
+732,600000.0,"Humbolt Road, London, W6",W6,2.0
+733,800000.0,"Wandsworth Bridge Road, South Park, Fulham, London, SW6",SW6,3.0
+734,425000.0,"Rockley Court, Rockley Road, London, W14",W14,1.0
+735,725000.0,"Lillie Road, London, SW6",SW6,2.0
+736,1613750.0,"Lillie Road, Seven Lillie Square, Earl's Court, London, SW6",SW6,2.0
+739,800000.0,"Wandsworth Bridge Road, Fulham, London, SW6 ",SW6,3.0
+740,795000.0,"Wandsworth Bridge Road, Fulham, London, SW6 ",SW6,3.0
+741,725000.0,"Weltje Road, London, W6",W6,2.0
+747,555000.0,"St Maur Road, Parsons Green, London, SW6",SW6,1.0
+748,600000.0,"Russell Road, Holland Park, London, W14",W14,1.0
+749,775000.0,"Sinclair Road, London, W14",W14,2.0
+750,800000.0,"Lillie Square, Earls Court, London, SW6",SW6,1.0
+751,600000.0,"Rowallan Road, Munster Village, London, SW6",SW6,2.0
+753,2150000.0,"Tournay Road, Fulham, London, SW6",SW6,5.0
+754,2074950.0,"Glenthorne Road,
+London,
+W6 0BT",W6,3.0
+755,1124950.0,"Glenthorne Road,
+London,
+W6 0BT",W6,3.0
+756,1150000.0,"Gwendwr Road, West Kensington, London, W14",W14,3.0
+757,500000.0,"Russell Road, Kensington, London, W14",W14,2.0
+758,950000.0,"Orbain Road, Munster Village, London, SW6",SW6,2.0
+759,1650000.0,"Fitzjames Avenue, London, W14",W14,3.0
+760,750000.0,"Playfair Mansions, Queen's Club Gardens, West Kensington, W14",W14,2.0
+761,2500000.0,"Ponsard Road, Kensal Rise, London, UK, NW10",NW10,6.0
+764,850000.0,"King Street, Ravenscourt Park, London, W6",W6,3.0
+765,575000.0,"Parsons Green Lane, London, SW6",SW6,1.0
+767,500000.0,"Russell Road, London, W14",W14,2.0
+768,585000.0,"Foskett Road, London, SW6",SW6,2.0
+769,2095000.0,"Chelsea Creek, London, SW6",SW6,2.0
+770,570000.0,"Tynemouth Street, Fulham, SW6",SW6,2.0
+771,475000.0,"Oaklands Grove, Shepherd's Bush W12",W12,2.0
+772,650000.0,"Waldo Road, NW10",NW10,3.0
+773,600000.0,"The Drive Mansions, Fulham Road, London, SW6",SW6,2.0
+775,2550000.0,"Westcroft Square, Stamford Brook, London W6",W6,5.0
+776,950000.0,"Lancaster House, Soverigen Court, Hammersmith , London , W6",W6,2.0
+778,525000.0,"Perham Road, Barons Court, London, W14",W14,2.0
+779,135000.0,"Chelsea Harbour, Chelsea, SW10",SW10,2.0
+780,335000.0,"Milson Road, London, W14",W14,0.0
+781,700000.0,"Fulham Park Gardens, London, SW6",SW6,2.0
+782,825000.0,"Stephendale Road, Sands End, London, SW6",SW6,2.0
+783,825000.0,"St. Albans Terrace, London, W6",W6,3.0
+784,500000.0,"Frithville Gardens, Shepherd's Bush, London, W12 7JN",W12,2.0
+785,725000.0,"Larden Hall, Essex Park Mews, W3",W3,3.0
+786,1200000.0,"Delorme Street, London, W6",W6,5.0
+787,700000.0,"Broughton Road, London, SW6",SW6,2.0
+789,1100000.0,"Sinclair Road, London, W14",W14,2.0
+790,775000.0,"Elsham Road, London, W14",W14,2.0
+791,999990.0,"Inglethorpe Street, SW6",SW6,3.0
+792,425000.0,"Sinclair Road, London, W14",W14,1.0
+793,850000.0,"Micklethwaite Road, London, SW6",SW6,2.0
+794,865000.0,"Glenrosa Street, Fulham, London, SW6 ",SW6,3.0
+795,995000.0,"Becklow Road, Wendell Park, London W12",W12,3.0
+796,950000.0,Dalling Road W6,W6,2.0
+797,1600000.0,"Central Avenue, Fulham, SW6",SW6,2.0
+801,549950.0,"Larden Road, London, W3",W3,2.0
+802,525000.0,"Gunterstone Road, London, W14",W14,1.0
+803,650000.0,"Maclise Road, London, W14",W14,1.0
+804,6500000.0,"Harbour Avenue,
+London,
+SW10",SW10,3.0
+805,735000.0,"Sinclair Road, Brook Green, London, W14",W14,2.0
+806,1150000.0,"Vespan Road, London, W12",W12,4.0
+807,700000.0,"Fulham Road, Fulham Broadway, London, SW6",SW6,2.0
+808,425000.0,"Munster Road, London, SW6",SW6,1.0
+809,585000.0,"Sundew Avenue, London, W12",W12,2.0
+810,850000.0,"Stephendale Road, Fulham, London, SW6 ",SW6,3.0
+811,1450000.0,"Hannell Road, London, SW6",SW6,4.0
+813,1900000.0,"Bonney Terrace, Ravenscourt Park, London, W6",W6,4.0
+814,550000.0,"King Street, Hammersmith, London, W6",W6,1.0
+815,1150000.0,"Addison Park Mansions, Richmond Way, London, W14",W14,3.0
+817,2800000.0,"Clancarty Road, Fulham, London, SW6",SW6,5.0
+818,1300000.0,"New Kings Road, London, SW6",SW6,5.0
+821,799000.0,"Landor Walk, London, W12",W12,3.0
+822,580000.0,"Uxbridge Road, Shepherd's Bush, London, W12",W12,2.0
+824,1250000.0,"Crowther Close, London, SW6",SW6,4.0
+825,1114950.0,"Glenthorne Road,
+London,
+W6 0BT",W6,3.0
+826,2995000.0,"Rostrevor Road, Parsons Green, SW6",SW6,5.0
+828,650000.0,"Lanark Mansions, Pennard Road, Shepherd's Bush W12",W12,3.0
+829,550000.0,"Pennard Road, Shepherd's Bush, London, W12 8DS",W12,2.0
+831,1575000.0,"Stephendale Road, Fulham, London, SW6 ",SW6,5.0
+834,650000.0,"Waldo Road, Kensal Green, London, NW10",NW10,3.0
+835,375000.0,"Kings Court, Hamlet Gardens, London, W6",W6,1.0
+836,800000.0,"Orbain Road, Fulham, London, SW6 ",SW6,2.0
+837,800000.0,"Halford Road, Fulham Broadway, London, SW6",SW6,2.0
+838,650000.0,"Edgarley Terrace, Fulham, SW6",SW6,2.0
+840,1150000.0,"William Morris Way, London, SW6",SW6,2.0
+841,395000.0,"Philpot Square, London, SW6",SW6,1.0
+842,700000.0,"Churchfield Mansions, Cristowe Road, London, SW6",SW6,2.0
+843,700000.0,"Wandsworth Bridge Road, Fulham, London, SW6 ",SW6,2.0
+844,935000.0,"The Piper Building The Piper Building, Peterborough Road, Fulham, SW6",SW6,1.0
+845,1650000.0,"Fitzjames Avenue, London, W14",W14,3.0
+846,600000.0,"Percy Road, London, W12",W12,2.0
+847,540000.0,"Bishops Road, SW6",SW6,1.0
+850,1850000.0,"Settrington Road, Fuham, London, SW6 ",SW6,4.0
+851,999950.0,"Queensmill Road, SW6",SW6,3.0
+852,425000.0,"Octavia House, 213 Townmead Road, London, SW6",SW6,1.0
+853,735000.0,"Fulham Palace Road, London, SW6",SW6,2.0
+854,995000.0,"Queens Wharf, Hammersmith W6",W6,2.0
+855,575000.0,"Aynhoe Road, Brook Green, London, UK, W14",W14,2.0
+856,1150000.0,"Harwood Terrace, London, SW6",SW6,2.0
+857,1550000.0,"Southerton Road, London W6",W6,4.0
+858,2850000.0,"Studdridge Street, Peterborough Estate, London, SW6",SW6,5.0
+859,2750000.0,"Stokenchurch Street, Fulham, London, SW6",SW6,6.0
+860,750000.0,"Tynemouth Street, SW6",SW6,2.0
+861,1195000.0,"Fulham Road, London, SW6",SW6,3.0
+862,795000.0,"Ashlar Court, 21 Ravenscourt Gardens, London, W6",W6,2.0
+863,575000.0,"Fulham Palace Road, Fulham, London, SW6 ",SW6,2.0
+865,1750000.0,"Columbia Gardens, London, SW6",SW6,3.0
+866,949950.0,"Southcombe Street, London, W14",W14,3.0
+867,2550000.0,"Coniger Road, Parsons Green, Fulham, London, SW6",SW6,5.0
+868,460000.0,"Mirabel Road, Fulham, London, SW6",SW6,1.0
+870,1690000.0,"Waterford Road, Moore Park Estate, Fulham, London, SW6",SW6,3.0
+871,375000.0,"Acfold Road, Fulham, London, SW6",SW6,0.0
+872,1175000.0,"Television Centre, 3 Wood Crescent, London, W12",W12,2.0
+874,1950000.0,"Russell Gardens Mews, Holland Park, London, W14",W14,3.0
+875,750000.0,Valetta Road W3,W3,3.0
+876,480000.0,"Dawes Road, Fulham, London, SW6 ",SW6,1.0
+877,950000.0,"Southcombe Street, Barons Court, London, W14",W14,3.0
+878,775000.0,"Melina Road, London, W12",W12,3.0
+879,795000.0,"Ingersoll Road, London, W12",W12,2.0
+880,450000.0,"Westcroft Square, Ravenscourt Park, London, W6",W6,1.0
+881,489999.0,"Musard Road, W6",W6,1.0
+882,700000.0,"Hansard Mews, London, W14",W14,2.0
+883,700000.0,"Harwood Road, Fulham Broadway, London, SW6",SW6,1.0
+884,950000.0,"Castletown Road, Barons Court, London, W14",W14,3.0
+885,1950000.0,"Stephendale Road, Fulham, London, SW6",SW6,4.0
+888,525000.0,"Park Street, Chelsea Creek, London, SW6",SW6,1.0
+889,900000.0,"Rostrevor Road, Parsons Green, London, SW6",SW6,2.0
+890,1490000.0,"Faulkner House, London, W6",W6,2.0
+891,799950.0,"Chelsea Creek Tower, 12 Park Street, London, SW6",SW6,1.0
+892,2050000.0,"Harbour Avenue,
+London,
+SW10",SW10,2.0
+893,6650000.0,"Harbour Avenue,
+London,
+SW10",SW10,4.0
+894,585000.0,"Hamlet Gardens, Ravenscourt Park, London, W6",W6,2.0
+895,1450000.0,"Biscay Road, London, W6",W6,4.0
+897,500000.0,"Stonor Road, West Kensington, London, W14",W14,1.0
+899,1350000.0,"Ongar Road, West Brompton, London, SW6",SW6,4.0
+900,1650000.0,"Crabtree Lane, London, SW6",SW6,4.0
+901,750000.0,"Burlington Road, London, SW6",SW6,2.0
+902,850000.0,"Lysia Street, Bishop's Park, Fulham, SW6",SW6,3.0
+903,875000.0,"Atalanta Street, Munster Village, London, SW6",SW6,2.0
+904,850000.0,"Sulgrave Road, London W6",W6,2.0
+906,1750000.0,"Ongar Road, London, SW6",SW6,4.0
+908,350000.0,"Sinclair Road, London, W14",W14,0.0
+909,1250000.0,"Harbour Avenue,
+London,
+SW10",SW10,1.0
+910,950000.0,"Shepherds Bush Place, London, W12",W12,2.0
+911,820000.0,"Doulton House, Chelsea Creek , 11 Park Street, London , SW6",SW6,2.0
+912,725000.0,"Marryat Square, Munster Village, London, SW6",SW6,2.0
+913,475000.0,"Wyfold Road, Fulham, London, SW6",SW6,1.0
+915,600000.0,"Challoner Street, London, W14",W14,2.0
+916,1200000.0,"Normand Gardens, London, W14",W14,4.0
+917,1899500.0,"Tasso Road, Fulham, London, W6 ",W6,5.0
+919,1190000.0,"Television Centre, 101 Wood Lane, W12",W12,2.0
+922,1600000.0,"Admiral Court, Admiral Square, Chelsea Harbour, London, SW10",SW10,2.0
+923,1350000.0,"Ongar Road, London, SW6",SW6,4.0
+924,735000.0,"Fulham Road, London, SW6",SW6,2.0
+925,625000.0,"Findon Road, Shepherd's Bush W12",W12,2.0
+926,425000.0,"Octavia House - 213 Townmead Road, Fulham, SW6",SW6,1.0
+927,500000.0,"St Marys Court, W6",W6,2.0
+928,475000.0,"Charleville Road, West Kensington, London, W14",W14,1.0
+931,1150000.0,"Chelsea Studios, 414-416 Fulham Road, London, SW6",SW6,2.0
+932,330000.0,"Greyhound Road, London, W6",W6,0.0
+933,700000.0,"Overstone Road, Brackenbury Village, London, W6",W6,2.0
+934,895000.0,"Ashcombe Street, Fulham, London, SW6",SW6,2.0
+935,1100000.0,"Musard Road, London, W6",W6,3.0
+936,849950.0,"Elsham Road, Holland Park, W14",W14,2.0
+937,485000.0,Albion Place London W6,W6,1.0
+939,499950.0,"Cox House, Field Road, London, W6",W6,2.0
+940,575000.0,"Bolingbroke Road, West Kensington, London, W14",W14,2.0
+941,475000.0,"Goldhawk Road, Stamford Brook, London, W6",W6,1.0
+942,1300000.0,"Bloom Park Road, Fulham, London, SW6",SW6,3.0
+950,2850000.0,"New Kings Road, Parsons Green, London, SW6",SW6,5.0
+951,2500000.0,"Macfarlane Road, Shepherds Bush, London W12",W12,5.0
+952,2500000.0,"Macfarlane Road, London, W12",W12,5.0
+955,1825000.0,"Fitzjames Avenue, London, W14",W14,4.0
+956,1600000.0,"Fitzjames Avenue, W14",W14,3.0
+957,550000.0,"Barons Court Road,, Barons Court, London, W14",W14,1.0
+958,595000.0,"Addison Gardens, London, W14",W14,1.0
+959,399999.0,"Bronsart Road, Fulham, London, SW6 ",SW6,1.0
+960,1100000.0,St Elmo Road W12,W12,4.0
+961,975000.0,"Bolingbroke Road, London, W14",W14,2.0
+962,450000.0,"Exhibition Close, Shepherd's Bush, W12",W12,1.0
+963,1114950.0,"Glenthorne Road,
+London,
+W6 0BT",W6,3.0
+965,1525000.0,"Sedgeford Road, London, W12",W12,4.0
+966,899999.0,"Fabian Road, Fulham, London, SW6",SW6,3.0
+967,800000.0,"Sinclair Road, Brook Green, London, UK, W14",W14,2.0
+968,850000.0,"Hammersmith Road, London, W6",W6,3.0
+969,450000.0,"Scotts Road, Shepherd's Bush W12",W12,2.0
+970,799000.0,"Napier Court, Ranelagh Gardens, London, SW6",SW6,2.0
+971,1100000.0,"Fulham Road, Parsons Green, London, SW6",SW6,3.0
+973,525000.0,"Starfield Road, W12",W12,2.0
+975,750000.0,Valetta Road W3,W3,3.0
+976,289950.0,"Hammersmith Road, London, W6",W6,0.0
+977,4300000.0,"Parr's Way, London, W6",W6,4.0
+978,735000.0,"Lily Close, St Pauls Court, W14",W14,2.0
+981,1600000.0,"Fitzjames Avenue, West Kensington, W14",W14,3.0
+982,475000.0,"Melrose House, Melrose Gardens, London, W6",W6,1.0
+983,725000.0,"Alder Lodge, 73 Stevenage Road, Bishops Park, SW6",SW6,2.0
+985,400000.0,"Edith Road, Barons Court, Hammersmith, London, W14",W14,2.0
+987,1450000.0,"Letterstone Road, London, SW6",SW6,4.0
+988,750000.0,"College Court, Queen Caroline Street, London, W6",W6,4.0
+990,585000.0,"Percy Road, London, W12",W12,2.0
+993,1250000.0,"Sundew Avenue, Shepherd's Bush, London, W12",W12,5.0
+994,600000.0,"Lillie Road, West Brompton, London, SW6",SW6,1.0
+995,650000.0,"New Kings Road, Fulham, London, SW6 ",SW6,2.0
+996,1300000.0,"Palace Mews, London, SW6",SW6,2.0
+998,900000.0,"Ashlar Court, Ravenscourt Gardens, London, W6",W6,2.0
+999,1200000.0,"Mablethorpe Road, Munster Village, London, SW6",SW6,3.0
+1000,600000.0,"Ibberton House, Russell Road, London, W14",W14,1.0
+1001,2300000.0,"Sulivan Road, South Park, London, SW6",SW6,3.0
+1003,4300000.0,"Goldhurst House, London, W6",W6,3.0
+1006,575000.0,"Octavia House, 213 Townmead Road, London, SW6",SW6,0.0
+1007,485000.0,"Barclay Close, Cassidy Road, Fulham, SW6",SW6,2.0
+1009,825000.0,"Fountain House, Imperial Wharf, London, SW6",SW6,2.0
+1010,435000.0,"Oaklands Grove, Shepherds Bush, London, W12",W12,1.0
+1012,1599950.0,"Querrin Street, Sands End, Fulham, London, SW6",SW6,4.0
+1013,899950.0,"Micklethwaite Road, London, SW6",SW6,3.0
+1014,475000.0,"Boscombe Road, Shepherd's Bush, W12",W12,1.0
+1015,880000.0,"White City Living, White City, W12",W12,1.0
+1016,900000.0,"Ashlar Court, Ravenscourt Park, Hammersmith, W6",W6,2.0
+1017,685000.0,"Snowbury Road, Fulham, London, SW6 ",SW6,2.0
+1022,1175000.0,"Flat 6 The Atelier, Sinclair Road,, West Kensington, W14",W14,1.0
+1025,675000.0,Cobbold Road W12,W12,2.0
+1026,325000.0,"Broomhouse Lane, Fulham, SW6",SW6,0.0
+1027,3800000.0,"Girdlers Road, Brook Green W14",W14,5.0
+1028,769000.0,"Stephendale Road, London, SW6",SW6,2.0
+1029,575000.0,"Adelaide Grove, London, W12",W12,2.0
+1030,500000.0,"Digby Mansions, Hammersmith, London, W6",W6,1.0
+1032,575000.0,"Gratton Road, London, W14",W14,2.0
+1033,425000.0,"Greyhound Road, London, W6",W6,1.0
+1034,945000.0,"Bishops Mansions, Bishops Park Road, London, SW6",SW6,3.0
+1035,900000.0,"Augustine Road, Brook Green, London, UK, W14",W14,2.0
+1036,650000.0,"Alder Lodge, Stevenage Road, Fulham, London, SW6",SW6,1.0
+1037,1375000.0,"Rivermead Court, Ranelagh Gardens, London, SW6",SW6,3.0
+1038,950000.0,"Bishops Road, Fulham, London, SW6 ",SW6,4.0
+1039,2550000.0,"Filmer Road, Fulham, London, SW6",SW6,5.0
+1042,850000.0,"Montpelier House,  Glenthorne Road, London, W6",W6,2.0
+1043,600000.0,"Fulham Palace Road, Hammersmith, London, W6",W6,2.0
+1045,475000.0,"Queens Caroline Street, W6, Hammersmith, London, W6",W6,2.0
+1046,825000.0,"Rigault Road, Fulham, SW6",SW6,2.0
+1047,1235000.0,"Television Centre, 4 Wood Crescent, London, W12",W12,2.0

@@ -1,0 +1,588 @@
+,price,address,postcode,number_bedrooms
+2,564950,"Royston Close, Hounslow, TW5",TW5,4.0
+5,425000,"Hayling Avenue, Feltham, TW13",TW13,3.0
+8,285000,"Islay Gardens, Hounslow, TW4",TW4,2.0
+9,450000,"Watchfield Court, London, W4",W4,1.0
+10,390000,"Myrtle Road, Hounslow, TW3",TW3,3.0
+11,1600000,"Millers Court, Chiswick, W4",W4,5.0
+13,875000,"Ennismore Avenue, Chiswick, London, W4",W4,2.0
+14,225000,"Berberis House, Highfield Road, Feltham, Middlesex, TW13",TW13,1.0
+15,1250000,"Chiswick Staithe, Hartington Road, London, W4",W4,4.0
+16,795000,"Prebend Gardens, London, W6",W6,3.0
+17,1695000,"Quayside House, 8 Kew Bridge Road, Brentford, Middlesex, TW8",TW8,3.0
+19,370000,"Twickenham Road, Isleworth, TW7",TW7,2.0
+20,125000,"Ferry Quays, Brentford, TW8",TW8,2.0
+21,259000,"Redford Close, Feltham, TW13",TW13,2.0
+22,620000,"Syon Lane, Isleworth, Middlesex, TW7 5NQ",TW7,3.0
+23,400000,"Edensor Gardens, London, W4",W4,2.0
+24,1600000,"Eastbourne Road, Grove Park, Chiswick, London, W4",W4,4.0
+25,835000,"Kew Bridge Road, Kew Bridge, Brentford, TW8",TW8,2.0
+26,300000,"Harlington Road West, Feltham, TW14",TW14,3.0
+27,975000,"Chiswick High Road, London, W4",W4,2.0
+29,650000,"Concord Court, Palladian Gardens, London, W4",W4,1.0
+30,475000,"Hounslow,Middlesex,TW4",TW4,3.0
+32,599950,"Grove Park Gardens, London, W4",W4,2.0
+34,315000,"Feltham,Middlesex,TW13",TW13,2.0
+36,435000,"Shaftesbury Avenue, Feltham, Middlesex, TW14",TW14,3.0
+37,359950,"Langtry Court, Lanadron Close, Isleworth, TW7",TW7,2.0
+39,419950,"Lansbury Avenue, Feltham, Middlesex, TW14",TW14,3.0
+40,865000,"Boston Vale, Hanwell, W7",W7,3.0
+41,349950,"New Road, Hanworth, TW13",TW13,2.0
+42,399950,"Norman Avenue, Hanworth, Middlesex, TW13",TW13,3.0
+47,460000,"Eastbourne Road, Feltham, TW13",TW13,3.0
+48,679000,"Inwood Avenue, Hounslow, TW3",TW3,5.0
+51,459950,"Martindale Road, Hounslow, TW4 ",TW4,3.0
+52,835000,"Kew Bridge Road, Kew Bridge, Brentford, TW8",TW8,2.0
+53,2000000,"Oxford Road North, Chiswick, London, W4",W4,4.0
+55,775000,"Martindale Road, Hounslow, TW4",TW4,5.0
+60,235000,"Lanigan Drive, Hounslow, TW3",TW3,1.0
+61,335000,"Pears Road, 
+Hounslow, London,
+TW3",TW3,1.0
+65,3500000,"Lamb Brewery Studios, Chiswick, W4",W4,5.0
+69,500000,"Sloane Court, 28 The Grove, Isleworth, TW7",TW7,2.0
+70,600000,"Huntingdon Gardens, Grove Park, Chiswick, W4",W4,2.0
+72,485000,"Queens Road, Feltham, Middlesex, TW13",TW13,3.0
+73,240000,"Burket Close, Southall, UB2",UB2,1.0
+75,450000,"Woodfield Road, Hounslow, TW4",TW4,3.0
+78,725000,"Broad Walk, Heston, TW5 9AA",TW5,6.0
+79,409950,"Church Road, Feltham, Surrey, TW13",TW13,3.0
+80,250000,"Bracken End, Isleworth, Middlesex, TW7",TW7,1.0
+81,415000,"Staveley Gardens, Grove Park, London, W4",W4,2.0
+83,2650000,"Dukes Avenue, Chiswick, London, W4",W4,5.0
+85,435000,"Regatta Point, 38 Kew Bridge Road, Brentford, Middlesex, TW8",TW8,1.0
+88,2000000,"Pleydell Avenue, London, W6",W6,5.0
+91,425000,"Ellesmere Road, London, W4",W4,3.0
+94,2300000,"Airedale Avenue, Chiswick, London, W4",W4,5.0
+95,535000,"Connaught Avenue, Hounslow, TW4",TW4,3.0
+100,950000,"Ernest Gardens, London, W4",W4,3.0
+101,374950,"Frampton Road, Hounslow, TW4",TW4,2.0
+102,375000,"Saxon Avenue, Feltham, TW13",TW13,2.0
+103,279950,"15 Page Road, Feltham, TW14",TW14,2.0
+104,2250000,"Alwyn Avenue, Central Chiswick, Chiswick, London, W4",W4,5.0
+105,1000000,"Cornwall Grove, Central Chiswick, Chiswick, London, W4",W4,4.0
+107,289950,"Canalside Gardens, Southall, UB2",UB2,2.0
+109,325000,"Homecross House, Chiswick, W4",W4,1.0
+111,319950,"Swan Road, Hanworth, TW13",TW13,2.0
+116,625000,"Osprey House, Lower Square, Old Isleworth, TW7",TW7,2.0
+118,175000,"Ham Wharf, Brentford, TW8",TW8,2.0
+120,230000,"Green Dragon Lane , Green Dragon Lane , TW8 ",TW8,1.0
+121,1250000,"Compton Crescent, London, W4",W4,4.0
+122,270000,"Rothwell House, Biscoe Close, Heston, TW5",TW5,2.0
+123,825000,"Clifden Road, Brentford TW8",TW8,4.0
+125,835000,"Kew Bridge Road, Kew Bridge, Brentford, TW8",TW8,2.0
+126,495000,"The Drive, Feltham, TW14",TW14,3.0
+127,290000,"Chamberlain Walk, Feltham, TW13",TW13,2.0
+128,650000,"Linkfield Road, Isleworth, Middx, TW7",TW7,3.0
+129,400000,"Buttermere Close, Feltham, TW14",TW14,3.0
+132,500000,"Vale Court, Ealing Road, TW8",TW8,2.0
+133,500000,"Inwood Road, Hounslow, TW3",TW3,4.0
+134,1650000,"Burnaby Gardens,  W4 3DP",W4,4.0
+137,295000,"Tryon Apartments, Balfour Road, Hounslow, TW3",TW3,1.0
+138,470000,"Rose Court, Baltic Avenue, Brentford, TW8",TW8,2.0
+139,325000,"Hepple Close, Isleworth, TW7",TW7,3.0
+141,325000,"Gumley Gardens, Isleworth, TW7",TW7,1.0
+144,625000,"Verdo Kew Bridge Sales & Marketing Suite,
+Lionel Road South, 
+London,
+TW8 0JA",TW8,2.0
+145,600000,"Verdo Kew Bridge Sales & Marketing Suite,
+Lionel Road South, 
+London,
+TW8 0JA",TW8,2.0
+146,450000,"Verdo Kew Bridge Sales & Marketing Suite,
+Lionel Road South, 
+London,
+TW8 0JA",TW8,1.0
+147,1300000,"Tallow Road, Brentford, TW8",TW8,4.0
+148,450000,"Warfield Road, Feltham, TW14",TW14,2.0
+150,2600000,"Strand On The Green, Chiswick W4",W4,4.0
+151,1550000,"Chesterfield Road, Grove Park, Chiswick, London, W4",W4,5.0
+153,365000,"Hounslow Road, Hanworth, Feltham, TW13",TW13,2.0
+155,375000,"Chiswick Village, Gunnersbury, Chiswick, London, W4",W4,1.0
+156,695000,"Clayponds Avenue, Brentford, TW8",TW8,3.0
+158,375000,"Johnbusch House , 277 London Road , TW7 ",TW7,1.0
+160,372000,"Alexandra Road,
+Hounslow,
+TW3 1LX",TW3,1.0
+162,385000,"The Ham, Brentford , London , TW8",TW8,2.0
+164,1095000,"Lochaline Street, London, W6",W6,3.0
+165,285000,"The Greenway, Hounslow, TW4",TW4,2.0
+166,300000,"Cranston Close, Hounslow, TW3",TW3,2.0
+167,450000,"Hounslow Road, Feltham, Middlesex, TW14",TW14,3.0
+168,1650000,"Burnaby Gardens, Chiswick, W4",W4,4.0
+169,280000,"Camellia House, Tilley Road, Feltham, TW13",TW13,2.0
+170,300000,"Redford Close,Feltham,TW13",TW13,2.0
+177,375000,"Perran Walk,  Brentford, TW8",TW8,2.0
+178,225000,"Berberis House, Highfield Road, Feltham, Middlesex, TW13",TW13,1.0
+180,575000,"British Grove, Chiswick, London, W4",W4,2.0
+184,285000,"The Greenway, Hounslow, TW4",TW4,2.0
+185,1850000,"Wedgwood Villas, Horticultural Place, London, W4",W4,4.0
+186,499995,"Main Street, Hanworth, Middlesex, TW13",TW13,3.0
+187,451000,"Alexandra Road,
+Hounslow,
+TW3 1LX",TW3,2.0
+188,1100000,"Glebe Street, Chiswick, London, W4",W4,3.0
+189,540000,"Arnold Crescent, Isleworth, TW7",TW7,3.0
+192,255000,"97a Winchester Road, Feltham, TW13 5PD",TW13,2.0
+193,260000,"Brabazon Road, Heston, TW5",TW5,2.0
+194,380000,"Barrowgate Road, Chiswick, W4 ",W4,1.0
+196,355000,"Halton Court, Cranford Lane, Heston, TW5",TW5,2.0
+200,370000,"Wotton House, 71, St Johns Road, London, TW7",TW7,1.0
+205,450000,"Kew Bridge Road, Brentford, Middlesex, TW8",TW8,1.0
+208,490000,"Burnham Gardens , Cranford , TW4 ",TW4,3.0
+209,500000,"Inwood Road, Hounslow, TW3",TW3,4.0
+210,240000,"Azure Place, Holly Road, Hounslow, TW3",TW3,2.0
+213,700000,"Great South West Road, Hounslow, TW4",TW4,5.0
+216,375000,"Field Lane, Brentford, TW8",TW8,2.0
+217,375000,"Wotton House, 71, St Johns Road, London, TW7",TW7,1.0
+218,375000,"Wotton House, 71, St Johns Road, London, TW7",TW7,1.0
+219,370000,"Wotton House, 71, St Johns Road, London, TW7",TW7,1.0
+220,370000,"Wotton House, 71, St Johns Road, London, TW7",TW7,1.0
+221,220000,"Sandringham Gardens, Hounslow, TW5",TW5,2.0
+225,825000,"Clifden Road, Brentford TW8",TW8,4.0
+226,710000,"Clunbury Avenue, Norwood Green, UB2",UB2,4.0
+228,360000,"Edensor Gardens, Chiswick W4 ",W4,1.0
+229,205000,"Sheridan Court, Vickers Way, Hounslow, TW4",TW4,1.0
+233,1850000,"Linden Gardens, London, W4",W4,3.0
+234,280000,"Wooldridge Close, Bedfont Lakes TW14 8BF",TW14,2.0
+236,410000,"James Street, Hounslow, TW3",TW3,2.0
+237,250000,"Fraser House , Green Dragon Lane, Brentford, Middlesex, TW8 0DQ",TW8,2.0
+239,299950,"Highfield Road, Feltham, Middlesex, TW13",TW13,2.0
+242,299950,"Vineyard Road, Feltham, Middlesex, TW13",TW13,2.0
+243,345000,"Isleworth,London,TW7",TW7,3.0
+244,3500000,"Priory Avenue, Chiswick, London, W4",W4,6.0
+247,264000,"Redford Close, Feltham, TW13",TW13,2.0
+248,395000,"Isleworth,London,TW7",TW7,3.0
+250,599950,"Grove Park Gardens, London, W4",W4,2.0
+254,175000,"Green Dragon Lane, Brentford, Brentford, TW8 0DW",TW8,1.0
+256,500000,"Annandale Road, London, W4",W4,1.0
+257,300000,"Goat Wharf, Brentford, TW8",TW8,1.0
+262,857500,"Paxton Road, Chiswick, London, W4",W4,2.0
+263,250000,"Fraser House, Green Dragon Lane, Brentford, TW8",TW8,2.0
+267,1095000,"Glebe Street, London, W4",W4,2.0
+268,375000,"Whitton Road, Whitton, TW3",TW3,2.0
+271,335000,"Devonshire Road, Hanworth, Middlesex, TW13",TW13,3.0
+272,799950,"Reynard Way, Brentford, Ealing , TW8",TW8,3.0
+273,399000,"Wallis House, Great West Quarter, Brentford, Middlesex, TW8",TW8,2.0
+275,750000,"Chiswick High Road, Gunnersbury, Chiswick, London, W4",W4,2.0
+277,385000,"Elmwood Avenue, Feltham, Middlesex, TW13",TW13,2.0
+280,625000,"Spencer Road, Chiswick , London, W4",W4,1.0
+283,440000,"Wesley Avenue, Hounslow, TW3",TW3,3.0
+285,215000,"Redford Close, Feltham, TW13",TW13,1.0
+286,315000,"Hounslow,Richmond Upon Thames,TW3",TW3,2.0
+287,2350000,"Park Road, Grove Park, London, W4",W4,4.0
+290,451000,"Alexandra Road,
+Hounslow,
+TW3 1LX",TW3,2.0
+291,461000,"Alexandra Road,
+Hounslow,
+TW3 1LX",TW3,2.0
+293,425000,"Harvesters Close, Isleworth, TW7",TW7,2.0
+294,1450000,"Wilmington Avenue, London, W4",W4,3.0
+295,300000,"Staines Road, Hounslow, TW3",TW3,1.0
+296,325000,"Sutton Hall Road, Heston, Hounslow, TW5",TW5,2.0
+297,375000,"Hanover Avenue, Feltham, TW13",TW13,2.0
+298,375000,"Perran Walk, Brentford, TW8",TW8,2.0
+299,725000,"Wellesley Road, Gunnersbury, London, W4",W4,3.0
+300,375000,"Wotton House, 71, St Johns Road, London, TW7",TW7,1.0
+301,385000,"Grove Park Gardens, London, W4",W4,1.0
+305,99950,"Bath Road, Hounslow, TW3",TW3,1.0
+306,255000,"Winchester Road, Feltham, Middlesex, TW13",TW13,2.0
+316,1500000,"Grosvenor Road, Chiswick W4",W4,4.0
+325,835000,"Kew Bridge Road, Kew Bridge, Brentford, TW8",TW8,2.0
+329,375000,"John busch House , Isleworth , TW7 ",TW7,1.0
+331,265000,"Lewin Terrace, Bedfont, TW14",TW14,2.0
+333,420000,"Ellesmere Road, Chiswick, London, W4",W4,1.0
+334,695000,"Sutton Court Road, Grove Park, London, W4",W4,2.0
+335,1595000,"Elliott Road, London, W4",W4,4.0
+338,390000,"Denison Road, Feltham, TW13",TW13,3.0
+340,525000,"Kings Road, Feltham, TW13",TW13,3.0
+341,1350000,"Chiswick Staithe, Hartington Road, London, W4",W4,5.0
+342,184500,"Concord Court, Chiswick, London, W4",W4,1.0
+344,330000,"Holland Gardens, Brentford, TW8",TW8,1.0
+349,330000,"Swan Road, Hanworth, TW13",TW13,3.0
+350,635000,"Shakespeare Way, Hanworth Park, Hanworth, TW13",TW13,3.0
+351,200000,"Blenheim Place, Steve Biko Way, Hounslow, TW3",TW3,1.0
+353,595000,"The Grange, Grange Road, Chiswick, London, W4",W4,2.0
+354,775000,"Cromwell Road, Hounslow, TW3",TW3,5.0
+359,425000,"Osborne Road, Hounslow, TW3",TW3,2.0
+362,224950,"Midsummer Avenue, Hounslow, TW4 5AY",TW4,1.0
+363,335000,"Pears Road, 
+Hounslow, London,
+TW3",TW3,1.0
+364,220000,"High Street,  Hounslow, TW3",TW3,1.0
+365,220000,"High Street,  Hounslow, TW3",TW3,1.0
+373,260000,"High Street,  Hounslow, TW3",TW3,2.0
+374,220000,"17-27 High Street,  Hounslow, TW3",TW3,1.0
+375,575000,"British Grove, Chiswick, London, W4",W4,2.0
+378,875000,"Harvard Road, Isleworth, TW7",TW7,4.0
+381,280000,"Jasmine Court, Main Street, Hanworth, TW13",TW13,2.0
+386,699950,"Pyrene House, Clayponds Lane, Brentford, TW8",TW8,3.0
+388,1000000,"Waldeck Road, Chiswick, W4",W4,4.0
+390,710000,"Manor Gardens, London, W3",W3,3.0
+391,360000,"Holland Gardens, Brentford, Middlesex, TW8",TW8,1.0
+392,400000,"Heritage Place, Brentford, Middlesex, TW8",TW8,1.0
+393,710000,"Manor Gardens, Acton, London, ,, W3 8JU",W3,3.0
+395,350000,"Ferry Lane, Brentford, TW8",TW8,1.0
+397,220000,"Feltham,Middlesex,TW13",TW13,1.0
+400,461000,"Twickenham Road,
+Isleworth,
+TW7",TW7,1.0
+401,187500,"Concord Court, Chiswick, London, W4",W4,1.0
+405,295000,"Comet House, New Road, Harlington, UB3 5BZ",UB3,2.0
+407,245000,"Lampton Road, Hounslow, TW3",TW3,0.0
+408,375000,"Steve Biko Way, Hounslow, TW3",TW3,2.0
+409,375000,"Bell Road, Hounslow, TW3",TW3,2.0
+414,615000,"Boulogne House, Frazer Nash Close, Isleworth, TW7",TW7,3.0
+415,425000,"Town Meadow, Brentford, TW8 ",TW8,2.0
+419,850000,"Hauteville Court Gardens, Stamford Brook, Chiswick, W6",W6,3.0
+420,285000,"Marchside Close, Heston, TW5",TW5,2.0
+421,250000,"Nuffield Court, Old Park Mews, Heston, TW5",TW5,1.0
+422,499950,"Heath Road, Hounslow, TW3",TW3,3.0
+424,315000,"Fernside Avenue, Feltham, TW13",TW13,2.0
+425,400000,"Buttermere Close, Feltham, TW14",TW14,3.0
+426,375000,"Dickenson Road, Feltham, TW13",TW13,3.0
+427,499950,"Lion Wharf, TW7",TW7,1.0
+428,1050000,"Chiswick Square, London, W4",W4,3.0
+430,455000,"Cranford Lane, Heston, TW5",TW5,3.0
+432,125000,"Chiswick Quay Marina, Chiswick W4",W4,1.0
+435,450000,"Great West Quarter, Brentford, TW8",TW8,1.0
+436,117500,"Candle Court, Heath Road , TW3 ",TW3,1.0
+437,160000,"Wooldridge Close, Feltham, TW14",TW14,0.0
+438,2500000,"Palladian Gardens, London, W4",W4,5.0
+441,465000,"Southville Road, Bedfont, Middlesex, TW14",TW14,4.0
+442,168000,"High Street, Brentford, TW8 ",TW8,2.0
+443,420000,"Lighterage Court High Street, Brentford, TW8 ",TW8,2.0
+447,180000,"Douglas Road, Hounslow, TW3",TW3,0.0
+449,500000,"Ravensmede Way, Chiswick, London, W4",W4,2.0
+451,180000,"Flat 30, Craneshaw House, 8 Douglas Road, Middlesex, TW3 1DA",TW3,0.0
+454,375000,"Fairlands Court, Hunting Place, Heston, TW5",TW5,2.0
+456,380000,"Bedfont Lane, Feltham, TW14",TW14,2.0
+457,2100000,"Prebend Gardens, Chiswick, London, W4",W4,5.0
+459,415000,"Knevett Terrace, Hounslow, TW3",TW3,2.0
+461,365000,"Myrtle Court, Baltic Avenue, TW8 ",TW8,1.0
+463,375000,"Lower Square, Isleworth, TW7",TW7,1.0
+464,325000,"Justin Close, Brentford, TW8",TW8,1.0
+465,275000,"Pine Tree Close, Cranford, Hounslow, TW5",TW5,2.0
+466,900000,"Myrtle Court, Baltic Avenue, Brentford, TW8",TW8,4.0
+467,499950,"Vale Court, Baltic Avenue,  Brentford, TW8",TW8,2.0
+468,1395000,"Huntingdon Gardens, London, W4",W4,4.0
+470,425000,"Feltham,Middlesex,TW14",TW14,2.0
+473,1195000,"Grove Park Gardens, London, W4",W4,3.0
+475,315000,"Feltham,Middlesex,TW13",TW13,2.0
+477,1200000,"Oxford Road South, Chiswick, London, W4",W4,3.0
+478,325000,"Channel Close, Heston, Hounslow, TW5",TW5,2.0
+479,340000,"Swan Road, Hanworth, TW13",TW13,3.0
+480,1400000,"Grove Park Terrace, Chiswick, W4",W4,3.0
+481,2600000,"Thames Crescent, Chiswick, London, W4",W4,6.0
+483,2000000,"Abinger Road, London, W4",W4,5.0
+485,475000,"Justin Close, Brentford, TW8",TW8,2.0
+489,1365000,"Hazledene Road, London, W4",W4,4.0
+490,585000,"Hogarth Gardens, Heston, TW5",TW5,4.0
+493,275000,"Bensington Court, New Road, Bedfont, TW14",TW14,2.0
+494,300000,"Elizabeth Gardens, Isleworth, TW7",TW7,1.0
+495,625000,"Chiswick High Road, London, W4",W4,2.0
+496,1775000,"Sutton Court Road, Chiswick, London, W4",W4,6.0
+500,224950,"Midsummer Avenue, Hounslow, TW4 5AY",TW4,1.0
+501,1365000,"Hazledene Road, London, W4",W4,4.0
+507,399950,"Sandy Drive, Hounslow, Feltham, TW14",TW14,3.0
+514,189950,"Burket Close,  Norwood Green, UB2",UB2,0.0
+515,250000,"Sandown Close, Hounslow, TW5",TW5,2.0
+516,500000,"Clifton Road, Isleworth, TW7",TW7,3.0
+518,410000,"Church Road, TW7 ",TW7,3.0
+520,215000,"Azalea House, Bedfont Lane, Feltham, Middlesex, TW13",TW13,1.0
+522,560000,"Point Wharf Lane, Brentford, TW8 ",TW8,2.0
+523,1395000,"Heathfield Gardens, London, W4",W4,4.0
+524,450000,"Woodfield Road, Hounslow, TW4",TW4,3.0
+525,2000000,"Abinger Road, London, W4",W4,5.0
+529,280000,"Jasmine Court, 76 Main Street, Feltham, Surrey, TW13",TW13,2.0
+533,265000,"Wooldridge Close, Feltham, TW14",TW14,2.0
+535,450000,"Brookside Close, Feltham, Middlesex, TW13",TW13,4.0
+536,650000,"Isleworth,London,TW7",TW7,6.0
+538,850000,"Boston Manor Road, Brentford, TW8",TW8,3.0
+539,275000,"Lestor Court,Isleworth,TW7",TW7,1.0
+540,600000,"John Busch House, Isleworth, TW7 ",TW7,2.0
+543,450000,"Chester Road, Hounslow, TW4",TW4,3.0
+544,220000,"Tanglewood Way, Lower Feltham, TW13",TW13,1.0
+545,525000,"Oxford Gardens, Chiswick, London, W4",W4,2.0
+546,2195000,"Palladian Gardens, London, W4",W4,4.0
+547,950000,"Riverside Mill House, Church Street, Old Isleworth, TW7",TW7,3.0
+550,2250000,"Alwyn Avenue, Central Chiswick, Chiswick, London, W4",W4,5.0
+553,280000,"Hamlyn House, High Street, Feltham, Middlesex, TW13",TW13,2.0
+554,280000,"High Street, Feltham, Middlesex, TW13",TW13,2.0
+556,255000,"Ashford Road, Feltham, Middlesex, TW13",TW13,2.0
+559,279000,"Memorial Close, Heston, TW5",TW5,2.0
+561,550000,"Devonshire Road, London, W4",W4,1.0
+562,1775000,"Sutton Court Road, Chiswick W4",W4,6.0
+565,750000,"Windmill Road, Ealing, W5",W5,4.0
+566,500000,"Cardington Square, Hounslow, TW4",TW4,3.0
+567,700000,"Chiswick High Road, Chiswick, London, W4",W4,2.0
+568,500000,"Heston Avenue, Heston, TW5",TW5,3.0
+569,279000,"Harlington Road West, Feltham, TW14",TW14,2.0
+570,1000000,"Waldeck Road, London W4",W4,3.0
+571,950000,"Paxton Road, Chiswick, London, W4",W4,3.0
+575,400000,"Buttermere Close, Feltham, TW14",TW14,3.0
+576,695000,"Chiswick High Road, Chiswick, London, W4",W4,2.0
+578,365000,"Sutton Court Road, London, W4",W4,1.0
+580,730000,"Chiswick High Road, Chiswick, London, W4",W4,3.0
+581,675000,"Grove Park Road, Chiswick, London, W4",W4,2.0
+582,950000,"Concord Court, Palladian Gardens, London, W4",W4,3.0
+584,650000,"Swan Street,
+Old Isleworth,
+TW7 6XW",TW7,2.0
+585,650000,"Swan Street,
+Old Isleworth,
+TW7 6XW",TW7,2.0
+586,640000,"Swan Street,
+Old Isleworth,
+TW7 6XW",TW7,2.0
+587,420000,"The Ham, Brentford, TW8 ",TW8,2.0
+588,1300000,"Chiswick Gate Sales and Marketing Suite,
+Burlington Lane,
+London,
+W4",W4,3.0
+589,730000,"Chiswick High Road, London, W4",W4,3.0
+590,250000,"Bell Road, Hounslow, TW3",TW3,1.0
+591,590000,"76 Sidmouth Avenue, Isleworth, TW7",TW7,3.0
+594,448000,"Alexandra Road,
+Hounslow,
+TW3 1LX",TW3,2.0
+596,950000,"Ernest Gardens, London, W4",W4,3.0
+598,395000,"Chailey Close, Hounslow, TW5",TW5,2.0
+599,675000,"Regatta Point, 38 Kew Bridge Road, London, TW8",TW8,2.0
+600,450000,"Verdo Kew Bridge Sales & Marketing Suite,
+Lionel Road South, 
+London,
+TW8 0JA",TW8,1.0
+602,280000,"Redford Close, Feltham TW13 4TE",TW13,2.0
+603,400000,"Elvedon Road, Feltham, TW13",TW13,3.0
+605,335000,"Wotton House, 71, St Johns Road, London, TW7",TW7,1.0
+607,349950,"Westminster Close, Feltham, Middlesex, TW14",TW14,2.0
+608,475000,"Kew Eye Apartments, Ealing Road, Brentford, TW8",TW8,1.0
+609,389950,"Pope Close, Feltham, Middlesex, TW14",TW14,3.0
+611,530000,"Beresford Gardens, Hounslow, TW4",TW4,3.0
+613,500000,"Pump House Crescent, Brentford, TW8",TW8,2.0
+614,1000000,"Avenue Road, Isleworth, TW7",TW7,4.0
+616,1595000,"Chiswick Wharf, Chiswick W4",W4,5.0
+620,375000,"Montague Road, Hounslow, TW3",TW3,2.0
+625,500000,"Inwood Road, Hounslow, TW3",TW3,4.0
+627,270000,"Redford Close, Feltham, Middlesex, TW13",TW13,2.0
+628,650000,"Hogarth Gardens, Hounslow, TW5",TW5,4.0
+629,635000,"Shakespeare Way, Hanworth Park, Hanworth, TW13",TW13,3.0
+630,450000,"Wheatlands, TW5",TW5,3.0
+632,350000,"Cavendish House, Cavendish Road , London, W4",W4,1.0
+634,399950,"Brook Road South, Brentford, TW8",TW8,1.0
+636,749950,"Grosvenor Road, London, W4",W4,2.0
+639,230000,"Feltham,Middlesex,TW13",TW13,2.0
+640,220000,"Staines Road, Hounslow, London, TW3 3GF",TW3,1.0
+644,440000,"Pevensey Close, Osterley, TW7",TW7,2.0
+645,500000,"Regatta Point, 38 Kew Bridge Road, Brentford, TW8",TW8,1.0
+647,750000,"Chiswick High Road, Gunnersbury, Chiswick, London, W4",W4,2.0
+648,650000,"Albany Court, Chiswick, W4",W4,2.0
+651,400000,"Redford Close, Feltham, TW13",TW13,3.0
+653,435000,"Temeraire Place, Green Dragon Lane, Brentford, Middlesex, TW8",TW8,2.0
+654,675000,"Pownall Road, Hounslow, TW3",TW3,4.0
+655,499995,"565 London Road, Isleworth, TW7",TW7,2.0
+656,235000,"Berberis House, Highfield Road, Feltham, TW13",TW13,1.0
+658,270000,"Feltham,Middlesex,TW13",TW13,2.0
+659,600000,"Ellerdine Road, Hounslow, TW3",TW3,4.0
+660,625000,"Orchard Avenue, Feltham, TW14",TW14,4.0
+661,375000,"Aitons West, Kew Bridge West, Brentford TW8",TW8,1.0
+662,1495000,"The Butts, Brentford, Middlesex, TW8",TW8,4.0
+663,475000,"Beaconsfield Close, London, W4",W4,2.0
+664,370000,"Rose Court, Baltic Avenue, Brentford, TW8",TW8,1.0
+665,675000,"Pownall Road, Hounslow, TW3",TW3,4.0
+666,1495000,"Cornwall Grove, Chiswick, London, W4",W4,4.0
+668,280000,"Hamlyn House, High street, Feltham, Middlesex, TW13",TW13,2.0
+669,2600000,"Strand On The Green, Chiswick W4",W4,4.0
+672,2250000,"Park Road, Grove Park, Chiswick, London, W4",W4,5.0
+674,179950,"Felbridge Court, High Street, Feltham, TW13",TW13,2.0
+678,450000,"Bleriot Road, Hounslow, TW5",TW5,4.0
+679,235000,"Lanigan Drive, Hounslow, TW3",TW3,1.0
+680,2000000,"Fairfax Road, London, W4",W4,5.0
+684,1195000,"Devonshire Road, London, W4",W4,3.0
+685,250000,"Central House, 3 Lampton Road, Hounslow, TW3",TW3,0.0
+686,385000,"Langtry Court, Lanadron Close, Isleworth, Middlesex, TW7",TW7,2.0
+687,650000,"Albany Court, Spring Grove, London, W4",W4,2.0
+689,650000,"Albany Court, Chiswick, W4",W4,2.0
+691,550000,"Nicholes Road, Hounslow, TW3",TW3,4.0
+694,215000,"John Barter House, Church Close, Hounslow, TW3",TW3,1.0
+695,525000,"Meadowbank Gardens, Cranford, TW5",TW5,3.0
+696,699000,"Wellesley Road, Chiswick, W4",W4,3.0
+702,625000,"Brooks Road, Chiswick, London, W4",W4,2.0
+703,240000,"Balfour Road, Hounslow, TW3",TW3,0.0
+704,515000,"Boundaries Road, Feltham, TW13",TW13,3.0
+706,775000,"Algar Road, Isleworth, Middlesex, TW7",TW7,3.0
+707,342000,"Fernside Avenue, Hanworth Park, Middlesex, TW13",TW13,3.0
+708,1600000,"Millers Court, Chiswick, W4",W4,4.0
+715,1500000,"Elmwood Road, Grove Park, Chiswick, W4",W4,5.0
+716,340000,"Perran Walk, brentford, TW8 ",TW8,2.0
+717,550000,"12 Chiswick High Road, London, W4",W4,2.0
+718,425000,"Dorey House, Brentford, TW8",TW8,2.0
+719,800000,"Lampton Park Road, Hounslow, Hounslow, TW3",TW3,4.0
+720,800000,"Lampton Park Road, Hounslow, TW3",TW3,6.0
+726,235000,"Rose Gardens, Feltham, Surrey, TW13",TW13,2.0
+727,499950,"Sutton Lane North, London  W4",W4,2.0
+728,1300000,"Cornwall Grove, London, W4",W4,4.0
+729,1595000,"Ranelagh Gardens, London, W4",W4,5.0
+731,275000,"St Johns Road, Isleworth, TW7",TW7,0.0
+734,1675000,"Reckitt Road, London, W4",W4,4.0
+740,550000,"Ash Grove, Hounslow, TW5",TW5,3.0
+744,1675000,"Reckitt Road, Chiswick W4 ",W4,4.0
+745,550000,"Feltham,Hounslow,TW13",TW13,3.0
+746,625000,"Malthouse Court, High Street, Brentford, Middlesex, TW8",TW8,3.0
+749,280000,"Edith Court, New Road, Bedfont, TW14",TW14,2.0
+750,375000,"Whitton Road, Whitton, TW3",TW3,2.0
+753,205000,"Bellamy House, Biscoe Close, Heston, TW5",TW5,2.0
+754,399950,"Turnham Green Terrace, London, W4",W4,1.0
+755,889950,"Boston Manor Road, Brentford, TW8",TW8,4.0
+756,425000,"565 London Road, Isleworth, TW7",TW7,2.0
+759,325000,"Frazer Nash Close, Isleworth, TW7",TW7,1.0
+762,246000,"Huntsmans Close, Feltham, Middlesex, TW13",TW13,1.0
+763,234950,"Berberis House, Feltham, TW13",TW13,1.0
+771,1395000,"Heathfield Gardens, London, w4",w4,4.0
+773,3200000,"Alwyn Avenue, London, W4",W4,5.0
+774,515000,"Jasmine House, Verdo, TW8",TW8,1.0
+775,395000,"Ellington Road, Feltham, TW13",TW13,3.0
+776,655000,"Ivy House, Verdo, TW8",TW8,2.0
+777,600000,"Ivy House, Verdo, TW8",TW8,2.0
+778,750000,"Swan Street,
+Old Isleworth,
+TW7 6XW",TW7,3.0
+779,375000,"Spencer Road, Chiswick, London, W4",W4,1.0
+786,450000,"Tallow Road, Brentford, TW8",TW8,2.0
+787,450000,"Alexandra Gardens, London, W4",W4,3.0
+788,400000,"Manor Court, Manor Gardens, London, W3",W3,2.0
+789,280000,"Redford Close, Feltham, Surrey, TW13",TW13,2.0
+792,525000,"Wellesley Road, London, W4",W4,1.0
+798,645000,"Greencroft Road, Heston, TW5",TW5,3.0
+800,240000,"Azure Place, Holly Road, Hounslow, TW3",TW3,2.0
+803,2000000,"Kew Bridge Road, Brentford, Middlesex, TW8",TW8,3.0
+809,639950,"Prince of Wales Terrace, Chiswick, London, W4",W4,2.0
+811,639950,"Powell Place, Prince of Wales Terrace, London, W4",W4,2.0
+812,206500,"Gateway Court, Convent Way, Southall, UB2",UB2,2.0
+816,700000,"Harvard Road, London, W4",W4,3.0
+817,500000,"Deans Close, London, W4",W4,2.0
+820,399950,"Primrose Place, Isleworth, TW7",TW7,2.0
+828,935000,"Lulworth Ave, Osterley, TW5 ",TW5,4.0
+831,450000,"Boston Manor Road, Brentford, TW8",TW8,1.0
+832,1450000,"Chiswick Quay, Chiswick, London, W4",W4,4.0
+834,375000,"Feltham,Middlesex,TW14",TW14,2.0
+836,629950,"Monet House, Pumping Station Road, London, W4",W4,2.0
+837,375000,"Apt Living, Great West Road, TW8",TW8,1.0
+838,385000,"Apt Living, Great West Road, TW8",TW8,1.0
+839,395000,"Apt Living, Great West Road, TW8",TW8,1.0
+840,405000,"Apt Living, Great West Road, TW8",TW8,1.0
+841,405000,"Apt Living, Great West Road, TW8",TW8,1.0
+842,550000,"Apt Living, Great West Road, TW8",TW8,2.0
+843,540000,"Apt Living, Great West Road, TW8",TW8,2.0
+844,540000,"Apt Living, Great West Road, TW8",TW8,2.0
+845,650000,"Worton Road, Isleworth, TW7",TW7,3.0
+847,2100000,"Bridge Street, Chiswick, London, W4",W4,5.0
+850,260000,"Brabazon Road, Heston, TW5",TW5,2.0
+856,899950,"Ernest Gardens, London W4",W4,3.0
+857,1950000,"Cleveland Avenue, London, W4",W4,5.0
+859,2000000,"Bolton Road, Chiswick, London, W4",W4,6.0
+862,630000,"Abinger Gardens, Isleworth, Middlesex, TW7",TW7,3.0
+863,300000,"Whitton Road, Hounslow, TW3",TW3,1.0
+864,550000,"Hounslow,West London,TW3",TW3,3.0
+866,6500000,"Chiswick Mall, Chiswick, W4",W4,7.0
+868,2300000,"Woodstock Road, London, W4",W4,5.0
+869,230000,"Trinity Square, 23-59 Staines Road, Hounslow, TW3",TW3,1.0
+870,270000,"Cherry Blossom Court, Chiswick, London, W4",W4,1.0
+871,950000,"Swan Street,
+Old Isleworth,
+TW7 6XW",TW7,4.0
+878,425000,"Target Close,Feltham,TW14",TW14,3.0
+879,350000,"Isleworth,Richmond,TW7",TW7,1.0
+883,350000,"Hounslow,London,TW5",TW5,3.0
+888,635000,"Sutton Court Road, London, W4",W4,2.0
+890,425000,"Ellesmere Road, London, W4",W4,2.0
+891,725000,"Surrey Crescent, Chiswick W4",W4,2.0
+892,145000,"Felbridge Court, High Street, Feltham, TW13",TW13,1.0
+893,2100000,"Bridge Street, Chiswick, London, W4",W4,5.0
+894,280000,"Feltham,Middlesex,TW13",TW13,2.0
+895,425000,"Heathfield Court, W4",W4,1.0
+896,1650000,"St Marys Grove, London, W4",W4,5.0
+897,1650000,"St Marys Grove, London, W4",W4,5.0
+898,1795000,"Kew Bridge Road, Brentford, TW8",TW8,3.0
+899,1895000,"Market Place, The Butts, Brentford, TW8",TW8,5.0
+901,1895000,"Market Place, The Butts, Brentford, TW8",TW8,5.0
+906,360000,"New Road, 
+Feltham, 
+Hounslow, 
+Greater London, 
+TW14 9BT",TW14,2.0
+907,394000,"New Road, 
+Feltham, 
+Hounslow, 
+Greater London, 
+TW14 9BT",TW14,3.0
+909,157500,"Dene Court, Feltham, Hounslow, TW13",TW13,1.0
+911,525000,"Marlborough Road, Chiswick, W4",W4,1.0
+912,750000,"Kew Bridge Road, Brentford, Middlesex, TW8",TW8,2.0
+914,210000,"Central House, Lampton Road, Hounslow, TW3",TW3,0.0
+915,2000000,"Gunnersbury Mews, London, W4",W4,5.0
+918,325000,"Perkin Close, Hounslow, TW3",TW3,2.0
+920,800000,"Pulteney Close, Isleworth, TW7",TW7,3.0
+921,1065000,"Kew Bridge Road, Brentford, Middlesex, TW8",TW8,3.0
+923,450000,"Heathfield Terrace, London, W4",W4,1.0
+925,315000,"Feltham,Middlesex,TW13",TW13,2.0
+927,450000,"Arlington Park Mansions, Sutton Lane North, London, W4",W4,1.0
+928,2250000,"Chiswick Quay, London, W4",W4,4.0
+929,2500000,"Palladian Gardens, Chiswick, London, W4",W4,5.0
+933,325000,"Isleworth,Richmond-Upon-Thames,TW7",TW7,2.0
+934,1895000,"Bath Road, London, W4",W4,4.0
+940,525000,"Argyle Avenue, Hounslow, TW3",TW3,3.0
+944,535000,"Central Avenue, Hounslow, TW3",TW3,3.0
+945,500000,"Chiswick High Road, Chiswick, London, W4",W4,2.0
+948,250000,"Spring Road, Feltham, TW13",TW13,2.0
+952,425000,"Guildford Avenue, Feltham, TW13",TW13,3.0
+953,280000,"Amesbury Road, Feltham, TW13",TW13,2.0
+954,595000,"Sutton Lane North, London, W4",W4,2.0
+955,500000,"Thorney Hedge Road, London, W4",W4,1.0
+958,425000,"Heathfield Terrace, Chiswick , London , W4",W4,1.0
+959,600000,"Pump House Crescent, Brentford, Middlesex, TW8",TW8,2.0
+961,1175000,"Corney Reach Way, Chiswick, London, W4",W4,3.0
+962,650000,"Syon Court, London Road, TW8",TW8,3.0
+963,500000,"Town Meadow, Brentford, TW8 ",TW8,2.0
+965,650000,"Herons Place, Isleworth, TW7",TW7,2.0
+966,460000,"The Crossways, Heston, TW5",TW5,3.0
+969,249950,"Biscoe Close, Hounslow, TW5",TW5,2.0
+970,295000,"The Gables, Heston Road, Heston, TW5",TW5,2.0
+971,600000,"Kew Bridge Road, Brentford, TW8 ",TW8,2.0
+975,369500,"The Brentford Project, 
+Catherine Wheel Road,
+London, 
+TW8 8BD
+",TW8,0.0
+976,475000,"The Market Building, 6 The Market Place, Brentford, TW8",TW8,1.0
+977,550000,"Whitehall Gardens, London, W4",W4,1.0
+978,399950,"18 The Grove, Isleworth, TW7",TW7,2.0
+979,319950,"Wilkinson House, Draymans Way, Isleworth, Middlesex, TW7",TW7,2.0
+980,450000,"Myrtle Court, Baltic Avenue, Brentford, TW8",TW8,2.0
+983,290000,"Berberis House, Highfield Road, Feltham, TW13",TW13,2.0
+988,550000,"Whitehall Gardens, London, W4",W4,1.0
+989,595000,"Browning Way, Heston, TW5",TW5,4.0
+990,425000,"Chiswick High Road,, Chiswick, London, W4",W4,0.0
+992,575000,"Ash Grove, Hounslow, TW5",TW5,3.0
+993,395000,"Talbot Road, Twickenahm, Middlesex TW7",TW7,1.0
+994,599950,"Heathfield Court, London, W4",W4,2.0
+995,950000,"Queens Gardens, Hounslow, Middlesex, TW5",TW5,10.0
+996,950000,"Lion Wharf, Isleworth, TW7",TW7,4.0
+997,850000,"Kew Bridge Road, Brentford, Middlesex, TW8",TW8,2.0
+998,475000,"Edensor Gardens, Chiswick , London, W4",W4,3.0
+1000,2000000,"Oxford Road North, Chiswick, London, W4",W4,4.0
+1002,1450000,"Chiswick Quay, Chiswick W4",W4,4.0
+1004,795000,"Lanigan Drive, Hounslow, TW3",TW3,4.0
+1005,525000,"Chertsey Road, Feltham, Middlesex, TW13",TW13,3.0
+1006,489950,"Brabazon Road, Hounslow, TW5",TW5,3.0
+1010,850000,"Grantham Road, London, W4",W4,2.0
+1012,495000,"Hartington Court, Chiswick, W4",W4,1.0
+1025,2600000,"Strand On The Green, Chiswick W4",W4,4.0
+1029,600000,"Oast Lodge, Corney Reach Way, London, W4",W4,2.0
+1042,265000,"Layton Road, Hounslow, TW3",TW3,2.0
+1044,230000,"643-651 Staines Road, Feltham, TW14",TW14,1.0
+1046,375000,"Samuelson Place, Isleworth, TW7",TW7,1.0
+1048,250000,"Concord Court, Chiswick, London, W4",W4,1.0

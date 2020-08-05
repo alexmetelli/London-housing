@@ -1,0 +1,624 @@
+,price,address,postcode,number_bedrooms
+0,290000.0,"St James Apartments, Pretoria Avenue, Walthamstow, London, E17",E17,1.0
+1,650000.0,"Falmer Road, Walthamstow, London, E17",E17,3.0
+2,875000.0,"Hillside Gardens, London, E17",E17,5.0
+3,600000.0,"Burwell Road, Leyton, London, E10",E10,5.0
+4,875000.0,"Castleton Road, Walthamstow, London, E17",E17,4.0
+6,375000.0,"Leyton Green Road, Leyton, E10",E10,2.0
+7,625000.0,"Abbotts Crescent, Highams Park, E4",E4,4.0
+8,850000.0,"Forest Glade, Highams Park, London. E4 9RJ",E4,4.0
+9,725000.0,"Frith Road, Leyton, E11",E11,3.0
+11,435000.0,"Naseberry Court, Larkshall Road,
+Highams Park, 
+London, 
+E4 9JQ",E4,2.0
+13,290000.0,"St James Apartments, Pretoria Avenue, Walthamstow, London, E17",E17,1.0
+14,577500.0,"Boundary Road, Walthamstow, London, E17",E17,3.0
+15,500000.0,"Temple Close, Wadley Road, Leytonstone, E11",E11,2.0
+17,595000.0,"Forest View Road, London, E17",E17,4.0
+18,440000.0,"Withy Mead, Chingford, E4",E4,3.0
+22,350000.0,"Mersey Road, Walthamstow, London, E17",E17,1.0
+23,575000.0,"Gateway Apartments, Station Approach, Hoe Street, Walthamstow, London, E17",E17,2.0
+24,850000.0,"Livingstone Road, Walthamstow, London, E17",E17,4.0
+25,450000.0,"Hainault Road, Leyton, London, E11",E11,2.0
+31,750000.0,"Tower Hamlets Road, Walthamstow, London, E17",E17,3.0
+35,375000.0,"Shingly Place, Chingford, E4",E4,2.0
+38,375000.0,"Fairlop Road, Leytonstone, E11",E11,2.0
+39,475000.0,"Odessa Road, London, E7",E7,2.0
+41,170000.0,"Kingswood Court, Chingford, E4 8LL",E4,1.0
+42,470000.0,"Waltham Way, London, E4",E4,3.0
+44,350000.0,"Stocksfield Road, London, E17",E17,3.0
+48,330000.0,"Ringwood House, Ringwood Road, Walthamstow, E17",E17,2.0
+49,575000.0,"Lancaster Road, Leytonstone, E11",E11,3.0
+50,675000.0,"Downsfield Road, Walthamstow, London, E17",E17,3.0
+51,300000.0,"Forest Drive West, Leytonstone, London, E11",E11,1.0
+55,625000.0,"Chingford Road, Walthamstow, E17",E17,5.0
+57,500000.0,"Selby Road,, London, E11",E11,3.0
+58,270000.0,"26 Forest Road, Walthamstow, E17",E17,1.0
+61,450000.0,"Scotts Road, Leyton, London, E10",E10,2.0
+66,495000.0,"Carr Road, London, E17",E17,2.0
+67,230000.0,"Beaufort Close, Chingford, E4",E4,1.0
+68,800000.0,"Grantock Road, Walthamstow, E17",E17,5.0
+69,515000.0,"Seymour Road, North Chingford E4",E4,3.0
+70,575000.0,"Wolsey Avenue, Walthamstow, London, E17",E17,3.0
+72,850000.0,"Grove Road, Walthamstow, London, E17",E17,4.0
+74,375000.0,"Chingford Road, London, E17",E17,2.0
+76,515000.0,"Springfield Road, North Chingford E4",E4,3.0
+77,689995.0,"Thornbury Way, Walthamstow, E17",E17,4.0
+83,610000.0,"Ranelagh Road, London, E11",E11,3.0
+84,570000.0,"New Road, Chingford, E4",E4,4.0
+85,405000.0,"Barclay Road, Bushwood Area, E11",E11,2.0
+94,400000.0,"Albert Road, Leyton, E10",E10,2.0
+95,475000.0,"Ruckholt Road, Leyton, E10",E10,2.0
+96,325000.0,"Capworth Street, Leyton, E10",E10,2.0
+100,800000.0,"Gascoigne Gardens, London, IG8",IG8,5.0
+101,325000.0,"Barclay Road, Waltham Forest, London, E11",E11,1.0
+102,750000.0,"Oak Hill Gardens, London, IG8",IG8,4.0
+104,285000.0,"Chingford Avenue, Chingford E4",E4,2.0
+105,550000.0,"Selby Road, Leytonstone, London, E11",E11,2.0
+106,720000.0,"Chingford, E4",E4,4.0
+107,350000.0,"Stocksfield Road, London, E17",E17,2.0
+108,625000.0,"Cranbourne Road, Leyton E15",E15,5.0
+109,425000.0,"Woodlands Road, Walthamstow, London, E17",E17,3.0
+111,800000.0,"Hazelwood Road, Walthamstow, London, E17",E17,3.0
+113,475000.0,"Fillebrook Road, Leytonstone, E11",E11,3.0
+114,390000.0,"Grove Green Road, Leytonstone, E11",E11,1.0
+116,535000.0,"Kings Head Hill, North Chingford, E4",E4,3.0
+118,525000.0,"Hatherley Road, Walthamstow, London, E17",E17,3.0
+119,565000.0,"Balliol Avenue, Highams Park, London. E4 6LX",E4,3.0
+121,450000.0,"Brookscroft Road, London, E17",E17,2.0
+123,465000.0,"Ruckhold Road, Leyton, E10",E10,2.0
+125,625000.0,"Chingford Road, Walthamstow, E17",E17,5.0
+126,570000.0,"Browning Road,, Bushwood, London, E11",E11,2.0
+127,1000000.0,"Sheredan Road, London, E4",E4,4.0
+132,350000.0,"Brighton Avenue, Walthamstow, E17",E17,2.0
+133,625000.0,"Garner Road, London, E17",E17,5.0
+134,665000.0,"Shingly Place, London, E4",E4,4.0
+135,575000.0,"Kings Road, London, E4",E4,3.0
+136,450000.0,"Fleeming Road, Walthamstow, London, E17",E17,2.0
+138,450000.0,"Selby Road, Leytonstone, E11",E11,2.0
+140,400000.0,"Hillyfield, London, E17",E17,2.0
+142,425000.0,"Brettenham Road, Walthamstow, London, E17",E17,2.0
+143,700000.0,"Newport Road, E10",E10,4.0
+144,350000.0,"Endlebury Road, Chingford, E4",E4,2.0
+145,699995.0,"Hawkwood Crescent, Chingford, E4",E4,5.0
+146,200000.0,"Markhouse Road, Walthamstow, London, E17",E17,0.0
+147,350000.0,"West Avenue Road, Walthamstow, London, E17",E17,1.0
+148,425000.0,"Eldon Road, Walthamstow, London, E17",E17,2.0
+149,530000.0,"Heathcote Grove, Chingford, London. E4 6SF",E4,3.0
+151,800000.0,"Gascoigne Gardens, London, IG8",IG8,5.0
+155,575000.0,"Forest Road, Walthamstow, London, E17",E17,4.0
+158,350000.0,"Chamberlain Place, London, E17",E17,2.0
+160,685000.0,"Eatington Road, London, E10",E10,4.0
+162,420000.0,"Forest Court, Wanstead, E11",E11,2.0
+163,339995.0,"80 Beresford Road, Chingford, E4",E4,2.0
+166,425000.0,"Capworth Street, Leyton, London, E10",E10,2.0
+167,780000.0,"Greenleaf Road, Walthamstow, E17",E17,4.0
+168,300000.0,"Clifford Road, Walthamstow, E17",E17,1.0
+172,675000.0,"Downsfield Road, Walthamstow, London, E17",E17,3.0
+173,400000.0,"St. Johns Road, Walthamstow, London, E17",E17,2.0
+174,700000.0,"Ruby Road, Walthamstow, London, E17",E17,3.0
+175,465000.0,"Ruckhold Road, Leyton, E10",E10,2.0
+176,550000.0,"Milton Road, Walthamstow, London, E17",E17,2.0
+177,525000.0,"Queen Elizabeth Road, Walthamstow, London, E17",E17,2.0
+178,675000.0,"Peterborough Road, London, E10",E10,3.0
+182,800000.0,"Amberley Road, Leyton, E10",E10,5.0
+186,335000.0,"Top House Rise, North Chingford E4",E4,2.0
+187,350000.0,"James Lane, London, E10",E10,2.0
+188,425000.0,"Sybourn Street, London, E17",E17,2.0
+189,825000.0,"Harrington Road, Leytonstone, London, E11",E11,4.0
+191,415000.0,"Claude Road, Leyton, London, E10",E10,2.0
+194,425000.0,"55 Mornington road, London, E11",E11,2.0
+195,600000.0,"Windsor Road, Leyton London E10 5LR Three Bedroom Victorian House ",E10,3.0
+196,400000.0,"Chingford Road, London, E17",E17,2.0
+198,300000.0,"Beaufort Close, Chingford, E4",E4,2.0
+199,400000.0,"Hainault Court, Forest Rise, Walthamstow, London, E17",E17,2.0
+200,750000.0,"Wellington Road, Walthamstow, E17",E17,5.0
+201,365000.0,"Cavendish Drive, Leytonstone, E11",E11,1.0
+203,475000.0,"Southwell Grove Road, London, E11",E11,2.0
+207,470000.0,"Waltham Way, Chingford, E4",E4,3.0
+208,599950.0,"Larkshall Road, Highams Park, London, E4",E4,3.0
+209,650000.0,"Church Road, Leyton, E10",E10,4.0
+211,900000.0,"Hollywood Way, Woodford Green, Essex. IG8 9LQ",IG8,4.0
+212,360000.0,"West End Avenue, Leyton, London, E10",E10,2.0
+216,350000.0,"Bank Court, Shernhall Street, Walthamstow, London, E17",E17,1.0
+217,695000.0,"Lynton Road, Highams Park, E4",E4,4.0
+218,385000.0,"Lea Bridge Road, London E10",E10,2.0
+220,550000.0,"Montague Road, Leytonstone, E11",E11,2.0
+221,275000.0,"Prospect Hill, Walthamstow, Waltham Forest, London, E17",E17,1.0
+222,350000.0,"Hungerdown, Chingford, Essex, Waltham Forest, E4",E4,2.0
+225,535000.0,"Harold Road, London, E4",E4,3.0
+228,600000.0,"Manning Road, Walthamstow, London, E17",E17,3.0
+231,600000.0,"Cheneys Road, London, E11",E11,3.0
+232,525000.0,"Evelyn Road, Walthamstow, London, E17",E17,3.0
+234,415000.0,"Theydon Street, Walthamstow, London, E17",E17,2.0
+235,600000.0,"Wickham Road, Highams Park, E4",E4,4.0
+238,575000.0,"St Marys Road, Leyton, London, E10",E10,3.0
+239,180000.0,"Bridge Court, Lea Bridge Road, London, E10",E10,2.0
+244,475000.0,"Church Path, Walthamstow Village, E17",E17,1.0
+246,485000.0,"Cary Road, Leytonstone, E11",E11,2.0
+247,325000.0,"Grange Park Road, Leyton, E10",E10,1.0
+251,640000.0,"Penrhyn Grove, Walthamstow, London, E17",E17,4.0
+252,400000.0,"Kettlebaston Road, Leyton, London, E10",E10,2.0
+253,350000.0,"Lilac Close, Chingford, E4",E4,2.0
+255,475000.0,"Thornbury Way, London, E17",E17,3.0
+256,330000.0,"Stanley Road, North Chingford E4",E4,2.0
+258,435000.0,"Carr Road, London, E17",E17,2.0
+262,270000.0,"Mandeville Court, South Chingford, E4",E4,2.0
+263,400000.0,"Seymour Road, Leyton, London, E10",E10,2.0
+264,310000.0,"Fulbourne Road, Walthamstow, Waltham Forest, London, E17",E17,2.0
+267,475000.0,"Grosvenor Road, London, E10",E10,2.0
+273,475000.0,"Pevensey Road, London E7 0AR",E7,2.0
+275,600000.0,"Cheneys Road, London, E11",E11,3.0
+276,575000.0,"Hall Lane, London, E4",E4,4.0
+277,275000.0,"1 Teresa Mews, London, E17",E17,1.0
+278,395000.0,"High Road Leytonstone, E11",E11,2.0
+279,375000.0,"Cleveland Park Crescent, Walthamstow, London, E17",E17,1.0
+281,495000.0,"Salisbury Hall Gardens, London, E4",E4,3.0
+283,460000.0,"Winns Terrace, Walthamstow, London, E17",E17,2.0
+284,425000.0,"Lavender Close, Chingford, E4",E4,2.0
+285,750000.0,"Gosport Road, Walthamstow, London, E17",E17,4.0
+286,695000.0,"Higham Station Avenue, Chingford, London. E4 9AZ",E4,5.0
+289,650000.0,"Morley Road, Leyton, E10",E10,3.0
+299,635000.0,"Eden Road, Walthamstow, London, E17",E17,2.0
+301,500000.0,"Old Town Hall, 16 The Ridgeway, London, E4",E4,1.0
+302,450000.0,"Hainault Road, Leytonstone, E11",E11,2.0
+306,350000.0,"Leonard House, Lambkins Mews, Walthamstow, London, E17",E17,2.0
+307,975000.0,"Merton Road, Walthamstow, London, E17",E17,4.0
+309,450000.0,"Billet Road, Walthamstow, E17",E17,3.0
+310,775000.0,"Wallwood Road, Leytonstone, London E11",E11,5.0
+313,450000.0,"Hainault Road, Leyton, London, E11",E11,2.0
+314,825000.0,"St. Georges Road, Leyton, London, E10",E10,3.0
+315,535000.0,"Harold Road, London, E4",E4,3.0
+316,325000.0,"Fortius House, Capworth Street, Leyton, London, E10",E10,1.0
+317,599995.0,"Whitehall Gardens, Chingford, E4",E4,4.0
+319,375000.0,"Chingford Lane, Woodford Green, IG8",IG8,2.0
+321,325000.0,"Azalea Court, Bridle Path, London, IG8",IG8,2.0
+322,585000.0,"Kitchener Road, Walthamstow, London, E17",E17,5.0
+325,625000.0,"Chingford Road, Walthamstow, E17",E17,5.0
+327,975000.0,"The Ridgeway, London, E4",E4,6.0
+329,315000.0,"Dyson Road, Leytonstone, E11",E11,2.0
+333,325000.0,"Hoe Street, London, E17",E17,1.0
+334,825000.0,"St. Georges Road, London, E10",E10,3.0
+335,350000.0,"Bisterne Avenue, London, E17 3QT",E17,3.0
+338,450000.0,"Bishops Close, London, E17",E17,2.0
+339,420000.0,"Castleton Road, Walthamstow, E17",E17,2.0
+340,240000.0,"High Road Leytonstone, London, E11",E11,2.0
+341,470000.0,"Harrington Road, Leytonstone, E11",E11,2.0
+344,350000.0,"Whittle Close, Walthamstow, London, E17",E17,2.0
+346,379995.0,"Wilton Place, Highams Park , London. E4 9GG",E4,2.0
+348,575000.0,"Ringwood Road, Walthamstow, London, E17",E17,2.0
+349,650000.0,"Heathcote Grove, North Chingford, E4",E4,4.0
+353,450000.0,"Broomfield, Walthamstow, E17",E17,4.0
+355,225000.0,"Kingswood Court, Chingford, E4 8LL",E4,2.0
+358,425000.0,"2 Thornbury Way, Walthamstow, E17",E17,2.0
+360,550000.0,"Queen Elizabeth Road, Walthamstow, London E17 6ES",E17,2.0
+361,240000.0,"North Birkbeck Road, London, E11 4JF",E11,1.0
+362,600000.0,"College Gardens, Chingford, E4",E4,4.0
+363,375000.0,"Connington Crescent, Chingford E4",E4,2.0
+365,500000.0,"Lennox Road, London, E17",E17,3.0
+366,800000.0,"Falmer Road, Walthamstow, London, E17",E17,4.0
+369,680000.0,"Oliver Road, Walthamstow, London, E17",E17,3.0
+370,650000.0,"Leyspring Road, Bushwood Area, E11",E11,4.0
+372,270000.0,"Mandeville Court, London, E4",E4,2.0
+376,260000.0,"Brunel Road, Walthamstow, London, E17",E17,1.0
+377,550000.0,"Whitney Road, Leyton, London, E10",E10,2.0
+378,400000.0,"High Road Leytonstone, Leytonstone, London, E11",E11,2.0
+381,249995.0,"Stapleford Close, London, E4",E4,1.0
+383,510000.0,"Brook Crescent, Chingford, E4",E4,3.0
+384,695000.0,"Bosgrove, London, E4",E4,3.0
+386,525000.0,"Grove Green Road, Leyton, E11",E11,2.0
+388,525000.0,"Granville Road, Walthamstow, London, E17",E17,2.0
+389,350000.0,"Chingford Road, Walthamstow, London, E17",E17,1.0
+390,389995.0,"Mount Avenue, London, E4",E4,3.0
+391,275000.0,"Ruckholt Road, Leyton, London, E10",E10,1.0
+392,450000.0,"Forest Court, London, E11",E11,2.0
+393,475000.0,"High Road Leyton, Leyton, London, E10",E10,2.0
+395,425000.0,"Brennan House, High Road Leyton, London, E10",E10,2.0
+396,465000.0,"Hall Lane, E4",E4,3.0
+398,475000.0,"Huxley Road, Leyton, London, E10",E10,3.0
+399,400000.0,"Barclay Road, London, E11",E11,2.0
+401,750000.0,"Wellington Road, Walthamstow, E17",E17,5.0
+402,530000.0,"Albert Avenue, Chingford, E4",E4,4.0
+403,275000.0,"Chelmsford Road, Leytonstone, E11",E11,1.0
+405,475000.0,"Macdonald Road, Walthamstow, E17",E17,3.0
+406,475000.0,"York Road, Chingford, E4",E4,3.0
+407,450000.0,"Albert Avenue, Chingford, E4",E4,3.0
+408,379950.0,"21 Church Avenue, Highams Park, London. E4 9QY",E4,2.0
+409,525000.0,"Forest View Road, Walthamstow, London, E17",E17,3.0
+410,725000.0,"Maynard Road, Walthamstow, London, E17",E17,3.0
+411,275000.0,"Hatch Lane, Chingford E4",E4,1.0
+412,385000.0,"High Road Leyton, Leyton, London, E10",E10,1.0
+413,599995.0,"Fraser Road, Walthamstow, London, E17",E17,2.0
+415,400000.0,"Butterfields, Walthamstow, London, E17",E17,2.0
+416,275000.0,"East Point, Church Road, Leyton, London, E10",E10,1.0
+417,250000.0,"Lawrence Avenue, Walthamstow, Waltham Forest, London, E17",E17,1.0
+418,300000.0,"Repton House, Jacks Farm Way, E4, Highams Park, London, E4",E4,1.0
+419,250000.0,"Quant Building, Church Hill, Walthamstow, London, E17",E17,1.0
+420,495000.0,"Endlebury Road, London, E4",E4,3.0
+427,470000.0,"Skeltons Lane, Leyton, London, E10",E10,3.0
+432,325000.0,"80 Ruckholt Road, London, E10",E10,1.0
+433,280000.0,"Drapers Road, London, E15",E15,1.0
+434,465000.0,"Coningsby Gardens, Chingford, E4",E4,2.0
+435,310000.0,"Connaught Avenue, London, E4",E4,1.0
+437,1000000.0,"The Ridgeway, Chingford, London, E4",E4,5.0
+438,535000.0,"Garfield Road, North Chingford E4",E4,3.0
+440,220000.0,"Mandeville Court, Chingford, E4",E4,1.0
+442,650000.0,"Capworth Street, Leyton, London, E10",E10,5.0
+443,500000.0,"Burnside Avenue, Chingford, London, E4",E4,4.0
+444,350000.0,"Furrow House, Hickman Avenue, Chingford, London, E4",E4,1.0
+447,435000.0,"Buxton Road, North Chingford E4",E4,3.0
+449,485000.0,"Carr Road, London, E17",E17,3.0
+451,350000.0,"Thomas Lodge, West Avenue, Walthamstow, London, E17",E17,1.0
+458,600000.0,"Colville Road, Leyton, E11",E11,3.0
+460,615000.0,"Lawrence Hill, Chingford, E4",E4,5.0
+462,650000.0,"Palmerston Road, Walthamstow, E17",E17,3.0
+464,435000.0,"Beulah Road, Walthamstow, London, E17",E17,2.0
+465,675000.0,"St. Georges Road, Leyton, London, E10",E10,3.0
+469,325000.0,"Riverhead Close, London, E17",E17,2.0
+470,360000.0,"Woodland Road, London, E4",E4,2.0
+471,300000.0,"Belgrave Road, Walthamstow, London, E17",E17,1.0
+474,600000.0,"Lambourne Gardens, Chingford, Essex, London, E4",E4,3.0
+477,570000.0,"Cheneys Road, Leytonstone, E11",E11,3.0
+482,375000.0,"Essex Road, London, E10",E10,1.0
+483,410000.0,"Garamond House, Grove Road, Walthamstow, London, E17",E17,2.0
+484,187500.0,"Thornbury Way, Walthamstow, London, E17",E17,1.0
+487,375000.0,"Whitney Road, London, E10",E10,2.0
+488,420000.0,"Forest Glade, Highams Park, London. E4 9RJ",E4,3.0
+489,700000.0,"Oliver Road, Walthamstow, Waltham Forest, London, E17",E17,3.0
+490,499950.0,"Forest View, London, E4",E4,3.0
+491,235000.0,"Seymour Road, Leyton, E10",E10,1.0
+492,365000.0,"Springfield Road, Walthamstow, London, E17",E17,1.0
+493,525000.0,"High Road Leyton, Leyton, London, E10",E10,3.0
+495,375000.0,"Park Court, Grosvenor Park Road, London, E17",E17,3.0
+496,650000.0,"Church Path, Walthamstow, London, E17",E17,2.0
+497,575000.0,"Oakdale Road, Leyton, Waltham Forest, London, E11",E11,3.0
+512,500000.0,"Beech Hall Crescent, Chingford, E4",E4,3.0
+513,525000.0,"Church Road, Leytonstone, London, E10",E10,4.0
+516,530000.0,"Belmont Park Road, Leyton, London, E10",E10,3.0
+517,155000.0,"14 The Ridgeway, Chingford, E4",E4,1.0
+519,850000.0,"Kings Road, Leytonstone, London, E11",E11,6.0
+520,375000.0,"Bunyan Road, Walthamstow London - E17 6EY Two Bedroom Conversion Flat ",E17,2.0
+521,325000.0,"Louisa Oakes Close, Chingford,E4",E4,2.0
+522,235000.0,"Burnham Road, Chingford, London, E4",E4,1.0
+525,325000.0,"Riverhead Close, London, E17",E17,2.0
+529,360000.0,"Oatland Rise, London, E17",E17,1.0
+530,650000.0,"Ramsay Road, London, E7 ",E7,4.0
+532,550000.0,"Sedgwick Road, Leyton, London, E10",E10,3.0
+534,300000.0,"Newbury Road, Highams Park, E4",E4,1.0
+535,325000.0,"178 Blackhorse Lane, Walthamstow, E17",E17,2.0
+536,295000.0,"Paxton House, 401 Larkshall Road, London, E4",E4,1.0
+538,900000.0,"Clarendon Road, Walthamstow, E17",E17,5.0
+541,375000.0,"Papermill Place, Walthamstow, E17",E17,2.0
+542,400000.0,"Leyton Green Road, Leyton Green Road, Leyton, London, E10",E10,2.0
+543,350000.0,"High Road Leytonstone, London, E11",E11,1.0
+544,435000.0,"Acorn Close, Chingford, E4",E4,3.0
+545,450000.0,"Cairo Road, Walthamstow, London, E17",E17,2.0
+547,350000.0,"Shingly Place, London, E4",E4,2.0
+548,544995.0,"Hurst Avenue, london, E4",E4,3.0
+549,400000.0,"Bulwer Road, Leytonstone, London, E11",E11,1.0
+550,689995.0,"Thornbury Way, Walthamstow, E17",E17,4.0
+551,450000.0,"Cheltenham Road, Leyton, London, E10",E10,2.0
+553,350000.0,"Yarmouth Crescent, Tottenham Hale, Haringey, London, N17",N17,1.0
+554,620000.0,"Beech Tree Glade, Chingford, E4",E4,3.0
+555,280000.0,"Dunedin Road, London E10",E10,2.0
+556,585000.0,"Liberty Court, High Road Leyton, Leyton, London, E10",E10,3.0
+557,385000.0,"Liberty Court, High Road Leyton, Leyton, London, E10",E10,1.0
+559,340000.0,"Crownfield Road, London, E15",E15,2.0
+560,395000.0,"Maud Road, Leyton, E10",E10,2.0
+561,625000.0,"Hainault Road, Leytonstone, London, E11",E11,3.0
+562,795000.0,"Scarborough Road, Leytonstone, E11",E11,4.0
+563,480000.0,"Staffa Road, Leyton, London, E10",E10,2.0
+564,325000.0,Leytonstone E11,E11,2.0
+565,550000.0,"Copper Works Apartments, 57 Blackhorse Road, London, E17",E17,3.0
+567,330000.0,"Ashton Court, Chingford, E4",E4,2.0
+569,280000.0,"Dunedin Road, London, ,, E10 5NJ",E10,2.0
+570,1450000.0,"Forest View, London, E4",E4,3.0
+572,949950.0,"Oakhurst Gardens, E4",E4,3.0
+573,650000.0,"Kingsdown Road, Leytonstone, E11",E11,4.0
+575,350000.0,"Devonshire Road, Walthamstow, E17",E17,2.0
+576,699950.0,"Kingsmead Cottage, Forest Side, Chingford, E4",E4,3.0
+577,675000.0,"Mulberry Close, North Chingford E4",E4,4.0
+579,140000.0,"Marnie Court, 675 High Road, Leytonstone, London, E11 4RB",E11,2.0
+583,325000.0,"Bushwood, London, E11",E11,1.0
+590,525000.0,"Leadale Avenue, London, E4",E4,3.0
+592,475000.0,"Murchison Road, Leyton, London, E10",E10,3.0
+593,475000.0,"Waltham Way, Chingford, E4",E4,3.0
+594,433000.0,"Naseberry Court, Larkshall Road,
+Highams Park, 
+London, 
+E4 9JQ",E4,2.0
+595,354000.0,"Naseberry Court, Larkshall Road,
+Highams Park, 
+London, 
+E4 9JQ",E4,1.0
+596,353000.0,"Naseberry Court, Larkshall Road,
+Highams Park, 
+London, 
+E4 9JQ",E4,1.0
+597,225000.0,"Viking Place, Leyton, London, E10",E10,1.0
+602,614995.0,"Higham Station Avenue, Chingford, London. E4 9AY",E4,4.0
+603,275000.0,"Thornhill Road, Leyton E10",E10,1.0
+604,270000.0,"Mandeville Court, Chingford E4",E4,2.0
+606,365000.0,"Forest Avenue, Chingford, E4",E4,2.0
+609,325000.0,"West Avenue, London, E17",E17,1.0
+611,375000.0,"Blackhorse Road, Walthamstow, Waltham Forest, E17",E17,3.0
+613,425000.0,"Stow Crescent, Walthamstow, London, E17",E17,4.0
+614,350000.0,"Capworth Street, Leyton, London, E10",E10,2.0
+621,375000.0,"St. Stephens Close, Walthamstow, London, E17",E17,2.0
+624,550000.0,"Thorpe Crescent, London, E17",E17,3.0
+625,525000.0,"Leadale Avenue, London, E4",E4,3.0
+626,325000.0,"Churchill Terrace, Chingford, E4",E4,3.0
+629,400000.0,"St. Stephens Close, Walthamstow, London, E17",E17,2.0
+630,300000.0,"Wallwood Road, Nicholas Court, London, E11",E11,1.0
+632,450000.0,"Lea Bridge Road, Leyton, London, E10",E10,4.0
+633,470000.0,"256 Church Road,
+Leyton,
+London,
+E10 7JG",E10,2.0
+634,535000.0,"256 Church Road,
+Leyton,
+London,
+E10 7JG",E10,3.0
+635,450000.0,"256 Church Road,
+Leyton,
+London,
+E10 7JG",E10,2.0
+636,470000.0,"256 Church Road,
+Leyton,
+London,
+E10 7JG",E10,2.0
+637,499995.0,"256 Church Road,
+Leyton,
+London,
+E10 7JG",E10,3.0
+638,900000.0,"West Avenue, Walthamstow, London, E17",E17,5.0
+639,380000.0,"Moreno House, Marlowe Road, Walthamstow, London, E17",E17,1.0
+641,240000.0,"Wood Street, London, E17",E17,2.0
+642,750000.0,"Salcombe Road, Walthamstow, London, E17",E17,5.0
+644,270000.0,"Millfield Avenue, London, E17",E17,1.0
+645,350000.0,"Shingly Place, London, E4",E4,2.0
+646,250000.0,"Millfield Avenue, Walthamstow, E17",E17,1.0
+649,525000.0,"Church Road, London, E10",E10,4.0
+650,575000.0,"Wolsey Avenue, Walthamstow, London, E17",E17,3.0
+652,325000.0,"Serbin Close, Leyton, E10",E10,2.0
+653,275000.0,"Shingly Place, Chingford E4",E4,1.0
+655,247500.0,"Chamberlain Place, Walthamstow, London, E17",E17,1.0
+656,410000.0,"Forest Glade, Highams Park, London. E4 9RJ",E4,2.0
+657,350000.0,"Wetherden Street, Walthamstow, Waltham Forest, London, E17",E17,2.0
+658,800000.0,"Bosgrove, Chingford, E4",E4,4.0
+660,465000.0,"Paxton House, Larkshall Road, Highams Park, London. E4 9EF",E4,2.0
+661,325000.0,"Serbin Close, Leyton, Waltham Forest, London, E10",E10,2.0
+666,599000.0,"Farmer Road, Leyton, E10",E10,5.0
+667,725000.0,"The Avenue, Highams Park E4",E4,4.0
+669,900000.0,"Nevin Drive, North Chingford E4",E4,5.0
+671,19000.0,"Garage adjacent to 38 Lawrence Avenue, Walthamstow, London, E17",E17,1.0
+677,475000.0,"Parkstone Road, Walthamstow, E17",E17,3.0
+680,615000.0,"Kingsdown Road, Leytonstone, E11",E11,3.0
+681,499950.0,"Merryhill Close, London, E4",E4,3.0
+683,550000.0," Primrose Road, Leyton, E10",E10,2.0
+684,370000.0,"Draymans Court, Chingford, London, E4",E4,2.0
+685,587000.0,"Matlock Road, Leyton E10",E10,4.0
+686,350000.0,"Cannock Court, Hawker Place, Walthamstow, London, E17 4GE",E17,2.0
+687,735000.0,"Byron Road, Walthamstow, London, E17",E17,2.0
+688,490000.0,"Capworth Street, London, Greater London, E10 7AJ",E10,7.0
+689,650000.0,"Upper Walthamstow Road, London, E17",E17,5.0
+692,325000.0,"Louisa Oakes Close, London, E4",E4,2.0
+693,395000.0,"Blyth Road, Walthamstow, London, E17",E17,2.0
+694,635000.0,"Stewart Road, Leyton, E15",E15,3.0
+695,490000.0,"Picture House, Wood Street, Walthamstow, E17",E17,2.0
+696,560000.0,"Picture House, Wood Street, Walthamstow, E17",E17,3.0
+698,184000.0,"Kingswood Court, Chingford, E4 8LL",E4,1.0
+699,760000.0,"St. Mary Road, Walthamstow, E17",E17,4.0
+701,650000.0,"St. Mary Road, London, E17",E17,2.0
+703,395000.0,"Wickham Road, Highams Park, London. E4 9JR",E4,2.0
+704,550000.0,"Harrow Road, Leytonstone, E11",E11,2.0
+705,650000.0,"Matcham Road, Leytonstone, E11",E11,4.0
+706,275000.0,"Boundary Road, Walthamstow, London, E17",E17,2.0
+707,435000.0,"De Vere Court, 91 Hoe Street, London, E17",E17,2.0
+708,695000.0,"Halford Road, Leyton, London, E10",E10,3.0
+710,435000.0,"Melford Road, Leytonstone, E11",E11,2.0
+712,625000.0,"Mark Avenue, London, E4",E4,4.0
+713,475000.0,"Byron Road, Leyton, E10",E10,2.0
+714,550000.0,"Goldsmith Road, Walthamstow London #E17 #Two Bedroom House #Walthamstow ",E17,2.0
+715,590000.0,"Wittenham Way, London, E4",E4,3.0
+716,345000.0,"Kingsley Road, Walthamstow, London, E17",E17,1.0
+717,350000.0,"Heathcote Grove, Chingford E4",E4,2.0
+718,525000.0,"Church Road, Leyton E10",E10,4.0
+721,435000.0,"Locke House, High Road Leyton, Leyton, London, E10",E10,2.0
+722,800000.0,Chingford E4,E4,6.0
+723,489950.0,"Forest Road, Walthamstow London E17 - 3 Beddroom Terraced House ",E17,3.0
+726,630000.0,"Ranelagh Road, Leytonstone, E11",E11,4.0
+727,394950.0,"Castle Avenue, London, E4",E4,2.0
+729,320000.0,"Ashton Court, Connington Crescent, Chingford, E4",E4,2.0
+730,250000.0,"Briscoe Close Acacia Road, Leytonstone, London, E11",E11,1.0
+731,550000.0,"Whitney Road, London, E10",E10,2.0
+732,250000.0,"Hainault Road, Leytonstone, London, E11",E11,1.0
+739,475000.0,"3 Thornbury Way, London, E17",E17,2.0
+744,900000.0,"Salisbury Road, Walthamstow, London, E17",E17,3.0
+745,530000.0,"Elm Grove, Woodford Green, IG8",IG8,2.0
+746,635000.0,"Capworth Street, Leyton, London, E10",E10,4.0
+750,325000.0,Leytonstone E11,E11,2.0
+751,659995.0,"Queens Grove Road, London, E4",E4,5.0
+752,464995.0,"Windsor Road, Chingford, E4",E4,3.0
+757,625000.0,"Sewardstone Road, London, Essex, E4",E4,3.0
+761,350000.0,"De Vere Court, 91 Hoe Street, London, E17",E17,1.0
+763,650000.0,"Shortlands Road, London, E10",E10,3.0
+764,375000.0,"Picture House, Wood Street, Walthamstow, E17",E17,1.0
+765,485000.0,"Drysdale Avenue, London, E4",E4,2.0
+766,397500.0,"Parade Gardens, London, E4",E4,2.0
+767,550000.0,"Spencer Road, Walthamstow, E17",E17,3.0
+768,685000.0,"Manor Road, Leyton, E10",E10,5.0
+770,710000.0,"Chesterfield Road, Leyton, E10",E10,3.0
+771,425000.0,"Parkstone Road, Walthamstow, London, E17",E17,3.0
+773,295000.0,"Brewster Road, Leyton, E10",E10,2.0
+774,350000.0,"De Vere Court, 91 Hoe Street, London, E17",E17,1.0
+776,450000.0,"Coppermill Lane, Walthamstow, London, E17",E17,2.0
+777,450000.0,"Heathcote grove, London, E4",E4,3.0
+778,680000.0,"Rosslyn Avenue, London, E4",E4,4.0
+779,450000.0,"Bluehouse Road, London, E4",E4,3.0
+780,519000.0,"Normanton Park, London, E4",E4,4.0
+781,385000.0,"Pearcroft Road, Leyton, E11",E11,2.0
+782,575000.0,"Russell Road, Chingford E4",E4,4.0
+784,395000.0,"Markhouse Road, Walthamstow, London, E17",E17,2.0
+785,280000.0,"Hopkins Road, Leyton, London, E10",E10,1.0
+786,475000.0,"Bulwer Road, Upper Leytonstone, London, E11",E11,2.0
+787,350000.0,"Boundary Road, Walthamstow, London, E17",E17,2.0
+788,425000.0,"Whipps Cross Road, London, E11",E11,2.0
+794,500000.0,"Farnes Court, Drayton Road, Leytonstone, E11",E11,3.0
+796,345000.0,"High Road Leytonstone, Leytonstone, London, E11",E11,1.0
+797,345000.0,"High Road Leytonstone, Leytonstone, London, E11",E11,1.0
+798,300000.0,"High Road -, Leytonstone, London, E11",E11,1.0
+799,469000.0,"High Road -, Leytonstone, London, E11",E11,2.0
+800,325000.0,Leytonstone E11,E11,2.0
+801,425000.0,"High Road Leytonstone, Leytonstone, London, E11",E11,2.0
+802,420000.0,"High Road -, Leytonstone, London, E11",E11,2.0
+803,360000.0,"High Road Leytonstone, Leytonstone, London, E11",E11,1.0
+804,499000.0,"High Road Leytonstone, Leytonstone, London, E11",E11,2.0
+805,475000.0,"High Road -, Leytonstone, London, E11",E11,2.0
+807,600000.0,"Manby Walk, Walthamstow, London, E17",E17,2.0
+811,575000.0,"Kings Road, Chingford, London. E4 7HP",E4,4.0
+812,675000.0,"Westdown Road, Leyton, London, E15",E15,5.0
+814,575000.0,"Broxbourne Road, London, E7 ",E7,3.0
+815,620000.0,"Colworth Road, Leytonstone, London, E11",E11,4.0
+816,675000.0,"Church Avenue, Highams Park, E4",E4,3.0
+817,360000.0,"Grant House, Cleveland Park Avenue, London, E17",E17,1.0
+822,400000.0,"107 Albert Road, London, E10",E10,2.0
+825,570000.0,"Browning Road,, Bushwood, London, E11",E11,2.0
+828,550000.0,"Farmer Road, Leyton,E10",E10,2.0
+829,685000.0,"256 Church Road,
+Leyton,
+London,
+E10 7JG",E10,3.0
+833,375000.0,"Borwick Avenue, Walthamstow, E17",E17,2.0
+834,925000.0,"Hempstead Road, Walthamstow, London, E17",E17,4.0
+835,575000.0,"Spencer Road, Walthamstow, London, E17",E17,4.0
+836,775000.0,"Frith Road, London, E11",E11,7.0
+840,250000.0,"239b Shernhall Street, Walthamstow, E17",E17,2.0
+842,425000.0,"Edward Road, Walthamstow, London, E17",E17,2.0
+843,450000.0,"Bateman Road, Chingford E4",E4,3.0
+844,625000.0,"Penrhyn Grove, Walthamstow, London, E17",E17,3.0
+848,265000.0,"Montalt House, Woodford Green, Essex, IG8 ",IG8,1.0
+852,475000.0,"Sturge Avenue, Walthamstow, London, E17",E17,3.0
+853,370000.0,"Church Road, Leyton, E10",E10,2.0
+854,695000.0,"Beulah Road, Walthamstow, London, E17",E17,2.0
+855,1400000.0,"Spicer Hall, Buxton Road, London, E4",E4,2.0
+856,1400000.0,"Buxton Road, North Chingford, E4",E4,2.0
+859,500000.0,"Park Road, Leyton, London, E10",E10,3.0
+861,375000.0,"The Arts Apartments, 436-440 Forest Road, Walthamstow, London, E17",E17,1.0
+862,375000.0,"Falmouth Way, London, Walthamstow, E17",E17,2.0
+863,365000.0,"54 Parade Gardens, Chingford, E4",E4,2.0
+864,475000.0,"Forest Road, Walthamstow London E17 4BP - Three Bedroom House ",E17,3.0
+866,415000.0,"Cannock Court, Walthamstow, London, E17",E17,2.0
+875,525000.0,"Forest View Road, Walthamstow, London, E17",E17,3.0
+880,425000.0,"High Road Leyton, London, E15",E15,2.0
+881,250000.0,"Chamberlain Place, LONDON, E17 6AY",E17,1.0
+883,400000.0,"127c Grange Park Road, Leyton, London, E10 5ET",E10,2.0
+884,435000.0,"Buxton Road, Walthamstow, London, E17",E17,2.0
+886,375000.0,"Kings Road, Upper Leytonstone, E11",E11,2.0
+887,650000.0,"Stewart Road, London, E15",E15,3.0
+890,115500.0,"Homebush House, Chingford, E4 7PW",E4,1.0
+896,300000.0,"Allen Court, Yunus Khan Close, London, E17",E17,1.0
+897,275000.0,"Stapleford Close, Chingford, London, E4",E4,1.0
+898,185000.0,"Kingswood Court, Chingford, E4 8LL",E4,1.0
+901,540000.0,"Winchester Road Highams Park, London, E4",E4,3.0
+902,275000.0,"St. Andrew's Road, Walthamstow E17",E17,1.0
+903,450000.0,"The Hale, Highams Park, London. E4 9NS",E4,3.0
+904,309995.0,"Repton House, 2 Jacks Farm Way, Highams Park, London. E4 9AE",E4,1.0
+905,157500.0,"Cann Hall Road, Leytonstone, London, England, E11",E11,1.0
+907,499995.0,"Normanshire Drive, London, E4",E4,3.0
+908,475000.0,"Chadwick Road, London, E11",E11,2.0
+910,710000.0,"Leasowes Road, Leyton, Waltham Forest, London, E10",E10,5.0
+912,310000.0,"Fulbourne Road, Walthamstow, London, E17",E17,2.0
+915,175000.0,"Cherrydown Avenue, Chingford , London, Greater London, E4 8DP",E4,0.0
+917,445000.0,"76-80 South Grove,
+London,
+E17",E17,1.0
+918,700000.0,"The Risings, London, E17",E17,3.0
+919,585000.0,"Drysdale Avenue, London, E4",E4,3.0
+921,400000.0,"Grange Park Road, London, E10",E10,2.0
+922,625000.0,"Markhouse Road, Walthamstow, London, E17",E17,5.0
+924,300000.0,"Montague Road, London, E11",E11,1.0
+925,525000.0,"Leadale Avenue, London, E4",E4,3.0
+926,585000.0,"Parade Gardens, Chingford, E4",E4,4.0
+927,415000.0,"Acacia Road, Leytonstone, London, E11",E11,3.0
+928,735000.0,"Forest Rise, Walthamstow, London, E17",E17,3.0
+933,375000.0,"High Street, London, E17",E17,1.0
+934,595000.0,"Cazenove Road, Walthamstow, London. E17 4NP",E17,3.0
+935,1100000.0,"West Avenue Road, Walthamstow, London, E17",E17,5.0
+936,450000.0,"8 Thornbury Way, Waltamstow, E17",E17,2.0
+938,325000.0,"Knotts Green Road, London, E10",E10,2.0
+942,675000.0,"Glen Mews, Walthamstow, London, E17",E17,4.0
+943,350000.0,"Salcombe Road, Walthamstow, E17",E17,2.0
+946,450000.0,"Ruckholt Road, Leyton, E10",E10,2.0
+948,349995.0,"Michael Road, London, E11",E11,2.0
+949,300000.0,Chingford E4,E4,2.0
+950,470000.0,"Skeltons Lane, Leyton, London, E10",E10,3.0
+951,775000.0,"Colchester Road, Leyton, London, E10",E10,4.0
+952,825000.0,"Higham Station Avenue, Highams Park, London, E4",E4,3.0
+954,575000.0,"Kings Road, Chingford, E4",E4,4.0
+955,535000.0,"Larkshall Crescent, Chingford, London. E4 6NS",E4,3.0
+956,300000.0,"Greenleaf Road, London, E17",E17,1.0
+959,185000.0,"Kingswood Court, Chingford, E4 8LL",E4,1.0
+960,289995.0,"Seymour Court, Whitehall Road, North Chingford, London. E4 6DZ",E4,1.0
+962,365000.0,"Newport Road, Leyton, London, E10",E10,2.0
+965,350000.0,"Devonshire Road, Walthamstow, E17",E17,2.0
+966,415000.0,"Sewardstone Gardens, Chingford, E4",E4,3.0
+967,900000.0,"Colworth Road, London, E11",E11,5.0
+968,650000.0,"Bedford Road, Walthamstow, London, E17",E17,4.0
+969,675000.0,"Dunedin Road, E10, Leyton, London, E10",E10,4.0
+971,375000.0,"Plot 1, 1 Joseph Ray Road, 647-661 High Road Leyt, Leytonstone, E11",E11,1.0
+972,375000.0,"Plot 7, 647-661 High Road Leytonstone, Leytonstone, London, E11",E11,1.0
+973,499000.0,"Plot 2, Joseph Ray Road, 647-661 High Road Leyt, Leytonstone, E11",E11,2.0
+974,575000.0,"Westdown Road, London, E15",E15,3.0
+978,480000.0,"Starley Rise, Motion, E10",E10,2.0
+981,800000.0,"Fairlop Road, Leytonstone, London, E11",E11,4.0
+982,700000.0,"Roland Road, Walthamstow, London, E17",E17,3.0
+983,275000.0,"Manor Road, Leyton, E10",E10,1.0
+984,535000.0,"High Street, London, E17",E17,2.0
+985,310000.0,"Topaz Court, Leytonstone, London, E11 3GA",E11,1.0
+988,550000.0,"Belton Road, Leytonstone, London, E11",E11,3.0
+989,499000.0,"High Road Leytonstone, London, E11",E11,2.0
+990,489000.0,"Plot 5, 647-661 High Road Leytonstone, Leytonstone, London, E11",E11,2.0
+991,399000.0,"Plot 12, 647-661 High Road Leytonstone, Leytonstone, London, E11",E11,2.0
+992,340000.0,"Panther House, Leytonstone, London, E11",E11,1.0
+993,350000.0,"Plot 10, 647-661 High Road Leytonstone, Leytonstone, London, E11",E11,1.0
+995,375000.0,"Markhouse Road, London, E17 ",E17,2.0
+996,498000.0,"High Road Leytonstone, London, E11",E11,2.0
+997,389000.0,"High Road Leytonstone, London, E11",E11,2.0
+998,775000.0,"Beech Hall Road, Highams Park, E4",E4,3.0
+999,700000.0,"Coopers Lane, London, E10",E10,4.0
+1001,650000.0,"Beresford Road, Chingford, E4",E4,3.0
+1002,125000.0,"Lea Bridge Road, Leyton, E10",E10,0.0
+1003,515000.0,"Thorpe Road, Forest Gate, London, E7",E7,2.0
+1004,400000.0,"North Birkbeck Road, Leytonstone, London, E11",E11,2.0
+1006,800000.0,"Westdown Road, Leyton, London, E15",E15,5.0
+1007,299995.0,"Vicarage Road, Leyton, London, E10 5EA",E10,1.0
+1008,625000.0,"Springfield Road, Walthamstow, London, E17",E17,4.0
+1009,515000.0,"KINGSDOWN ROAD, LEYTONSTONE, E11 3LP",E11,3.0
+1011,110000.0,"Hedgerow Court, East Ham, E6 2RL",E6,1.0
+1012,650000.0,"Granvile Road, Walthamstow, London, E17",E17,2.0
+1013,220000.0,"Liden Close, Walthamstow, London E17",E17,1.0
+1014,700000.0,"Hale End Road, WOODFORD GREEN, IG8 9LL",IG8,4.0
+1016,180000.0,"Chingford Lane, Woodford Green, Essex, IG8",IG8,1.0
+1018,325000.0,"Serbin Close, London, E10",E10,2.0
+1020,400000.0,"Warner Flat - Clementina Road, Leyton London E10 - Two Bedroom Warner Flat",E10,2.0
+1022,575000.0,"Arundel Close, Forest Gate, London, E15",E15,4.0
+1023,340000.0,"High Road Leytonstone, London, E11",E11,1.0
+1024,365000.0,"High Road Leytonstone, London, E11",E11,1.0
+1026,330000.0,"High Road Leytonstone, London, E11",E11,1.0
+1027,479000.0,"High Road Leytonstone, London, E11",E11,2.0
+1028,280000.0,"High Road Leytonstone, London, E11",E11,1.0
+1029,330000.0,"High Road Leytonstone, London, E11",E11,1.0
+1030,455000.0,"High Road Leytonstone, London, E11",E11,2.0
+1031,178000.0,"Kingswood Court, Chingford, E4 8LL",E4,1.0
+1032,325000.0,"Prospect Hill, London, E17",E17,2.0
+1034,325000.0,"Buckland Road, Leyton, E10",E10,2.0
+1036,179500.0,"Kingswood Court, Chingford, E4 8LL",E4,1.0
+1037,525000.0,"Goldsmith Road, London, E17 ",E17,3.0
+1040,350000.0,"Titley Close, Chingford, London, E4",E4,3.0
+1041,750000.0,"Dunedin Road, London, E10",E10,4.0
+1044,475000.0,"Plot 3, 1 Joseph Ray Road, 647-661 High Road Leyt, Leytonstone, E11",E11,2.0
+1046,183000.0,"Kingswood Court, Chingford, E4 8LL",E4,1.0
+1047,375000.0,"Brookscroft Road, London, E17",E17,2.0
+1048,334500.0,"Plot 8, 647-661 High Road Leytonstone, Leytonstone, London, E11",E11,1.0

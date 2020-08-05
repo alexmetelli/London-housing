@@ -1,0 +1,709 @@
+,price,address,postcode,number_bedrooms
+0,980000.0,"Athol Close, Pinner, HA5",HA5,6.0
+1,970000.0,"St. Michaels Crescent, Pinner, HA5",HA5,5.0
+2,375000.0,"Vaughan Road, West Harrow, Harrow, HA1",HA1,2.0
+4,475000.0,"Somervell Road, Harrow, HA2 8TY ",HA2,3.0
+5,650000.0,"Manor Way, Harrow, HA2",HA2,3.0
+7,344000.0,"Honeypot Lane,
+London,
+NW9",NW9,1.0
+8,335000.0,"Honeypot Lane,
+London,
+NW9",NW9,1.0
+9,347000.0,"Honeypot Lane,
+London,
+NW9",NW9,1.0
+10,419000.0,"Honeypot Lane,
+London,
+NW9",NW9,2.0
+11,349000.0,"Honeypot Lane,
+London,
+NW9",NW9,1.0
+12,2500000.0,"Common Road, Stanmore, HA7",HA7,6.0
+14,425000.0,"West End Avenue, Pinner, Middlesex HA5",HA5,2.0
+16,285000.0,"Dorchester Avenue, West Harrow, HA2",HA2,1.0
+18,430000.0,"Camden Row, Cuckoo Hill, Pinner, Middlesex, HA5",HA5,2.0
+19,450000.0,"Moorhouse Road, Harrow, HA3",HA3,3.0
+20,700000.0,"Kenton Road, Greater London, HA3",HA3,5.0
+23,650000.0,"Nelson Road, Harrow HA1",HA1,3.0
+24,360000.0,"Coral Court, Serenity Close, Harrow, HA2 0FW ",HA2,2.0
+25,132000.0,"Honeypot Lane,
+London,
+NW9",NW9,1.0
+29,175000.0,"Sherwood Road, South Harrow, Harrow, HA2",HA2,1.0
+30,800000.0,"Harrow Fields Gardens, Harrow on the Hill, Harrow, HA1",HA1,4.0
+31,650000.0,"Cotman Gardens, Edgware, HA8",HA8,5.0
+32,1300000.0,"Soane Square, Stanmore, HA7",HA7,3.0
+36,335000.0,"Cunningham Park, Harrow, Middlesex, HA1",HA1,1.0
+40,425000.0,"Greenway, Pinner, HA5",HA5,3.0
+42,650000.0,"Worple Way, Harrow, Middlesex, HA2",HA2,3.0
+44,285000.0,"Clewer Crescent, Harrow, HA3",HA3,2.0
+47,475000.0,"Leamington Crescent, Harrow, Middlesex, HA2",HA2,4.0
+48,550000.0,"Daventer Drive, Stanmore, Middlesex, HA7",HA7,3.0
+49,475000.0,"Park Mead,Harrow,HA2",HA2,3.0
+51,825000.0,"Headstone Lane, Harrow, Middlesex, HA2",HA2,3.0
+52,875000.0,"Abbey Close, Pinner, Middlesex HA5",HA5,4.0
+53,400000.0,"Elm Park Road, Pinner, Middlesex HA5",HA5,2.0
+54,300000.0,"Beechcroft Avenue, Harrow, Middlesex, HA2",HA2,2.0
+55,400000.0,"Belmont Road, Harrow, Middlesex, HA3",HA3,2.0
+56,525000.0,"Headstone Drive, Harrow, Middlesex, HA1",HA1,3.0
+57,595000.0,"Harrow View,
+North Harrow,
+Harrow,
+HA2",HA2,3.0
+58,645000.0,"Harrow View,
+North Harrow,
+Harrow,
+HA2",HA2,5.0
+59,312500.0,"Ivy Close, Harrow, Middlesex, HA2",HA2,2.0
+60,700000.0,"Parkfield Crescent, Harrow, HA2",HA2,4.0
+61,600000.0,"Richmond Gardens,Harrow,HA3",HA3,4.0
+63,875000.0,"Clamp Hill, Stanmore, Middlesex, HA7",HA7,4.0
+64,685000.0,"Wemborough Road, Stanmore, Middlesex, HA7",HA7,4.0
+65,475000.0,"Wigton Gardens, Stanmore, Middlesex, HA7",HA7,3.0
+66,300000.0,"Alexandra Avenue, Harrow, Middlesex, HA2",HA2,2.0
+68,375000.0,"Roe Lane, London, NW9",NW9,2.0
+69,750000.0,"The Chase, Stanmore, HA7",HA7,3.0
+70,649950.0,"Northumberland Road, North Harrow, Middlesex HA2 7RB",HA2,3.0
+72,800000.0,"Colburn Avenue, Pinner, Middlesex, HA5",HA5,3.0
+73,875000.0,"Clamp Hill, Stanmore, HA7",HA7,4.0
+74,365000.0,"Bolton Road, Harrow, Middlesex, HA1",HA1,1.0
+75,475000.0,"Northolt Road, South Harrow, Harrow, HA2",HA2,2.0
+77,700000.0,"The Ridgeway, North Harrow, Harrow, Middlesex, HA2",HA2,3.0
+82,130000.0,"Jem Paterson Court, Harrow, HA1",HA1,1.0
+83,175000.0,"Sherwood Road, Harrow, Middlesex, HA2",HA2,1.0
+86,550000.0,"Pinner Hill Road, Pinner, Middlesex HA5",HA5,2.0
+89,365000.0,"Belmont Road, Harrow, HA3",HA3,2.0
+93,679950.0,"Cheyneys Avenue,Canons park,HA8",HA8,3.0
+94,325000.0,"Northolt Road, Harrow, Middlesex, HA2",HA2,1.0
+95,590000.0,"Lower Road, Harrow, ,, HA2 0DA",HA2,3.0
+96,299950.0,"Taona House, 39-45 Merrion Avenue, Stanmore, Middlesex, HA7",HA7,0.0
+97,600000.0,"Taona House, 39-45 Merrion Avenue, Stanmore, Middlesex, HA7",HA7,2.0
+98,385000.0,"Taona House, 39-45 Merrion Avenue, Stanmore, Middlesex, HA7",HA7,1.0
+99,565000.0,"Taona House, 39-45 Merrion Avenue, Stanmore, Middlesex, HA7",HA7,2.0
+100,1000000.0,"Elmwood Avenue, Harrow, Middlesex, HA3",HA3,6.0
+101,315000.0,"Taona House, 39-45 Merrion Avenue, Stanmore, Middlesex, HA7",HA7,0.0
+102,355000.0,"Taona House, 39-45 Merrion Avenue, Stanmore, Middlesex, HA7",HA7,1.0
+103,600000.0,"Taona House, 39-45 Merrion Avenue, Stanmore, Middlesex, HA7",HA7,2.0
+104,825000.0,"Malpas Drive, Pinner, Middlesex, HA5",HA5,4.0
+105,295000.0,"Imperial Drive, Harrow, HA2",HA2,1.0
+106,135000.0,"Sherwood Road, South Harrow, Harrow, HA2",HA2,1.0
+107,475000.0,"Northolt Road, South Harrow, Harrow, HA2",HA2,2.0
+108,270000.0,"Roxborough Heights, Headstone Road, Harrow, London, HA1 1GP",HA1,1.0
+109,750000.0,"Kynance Gardens, Stanmore, HA7",HA7,4.0
+110,325000.0,"Kent House, Stratton Close, Edgware, HA8",HA8,2.0
+112,1400000.0,"Uxbridge Road,Harrow,HA3",HA3,7.0
+113,649000.0,"Marsh Lane, Stanmore, HA7",HA7,3.0
+114,300000.0,"Imperial Close, Harrow, HA2",HA2,1.0
+115,590000.0,"Lower Road, Harrow, HA2 0DA",HA2,3.0
+117,450000.0,"Carmelite Road, Harrow, Middlesex, HA3",HA3,3.0
+118,800000.0,"Roxborough Road, Harrow, Middlesex, HA1",HA1,4.0
+120,325000.0,"Hollydale Close, Northolt, UB5",UB5,2.0
+121,410000.0,"  PARCEVEL SQUARE, COLLEGE ROAD , HARROW, HARROW, HA1",HA1,1.0
+124,250000.0,"Queens House, Kymberley Road, Harrow, HA1",HA1,0.0
+126,325000.0,"Bovis House, South Harrow, Harrow, HA2",HA2,1.0
+127,485000.0,"Bovis House, South Harrow, Harrow, HA2",HA2,2.0
+128,495000.0,"Bovis House, South Harrow, Harrow, HA2",HA2,2.0
+129,505000.0,"Bovis House, South Harrow, Harrow, HA2",HA2,2.0
+130,550000.0,"Bovis House, South Harrow, Harrow, HA2",HA2,2.0
+131,550000.0,"Bovis House, South Harrow, Harrow, HA2",HA2,2.0
+132,565000.0,"Bovis House, South Harrow, Harrow, HA2",HA2,2.0
+133,1200000.0,"Cedar Drive, Pinner, HA5",HA5,4.0
+136,340000.0,"Audley Court, Pinner, Middlesex, HA5",HA5,2.0
+139,320000.0,"Stratton Close, Edgware, HA8",HA8,1.0
+140,350000.0,"Roxborough Road, Harrow, Middlesex, HA1",HA1,2.0
+142,289950.0,"Burnt Oak, Edgware, HA8",HA8,1.0
+146,475000.0,"Headstone Lane, Harrow, Middlesex, HA3",HA3,3.0
+147,210000.0,"Marsh Road, Pinner, Middlesex, HA5",HA5,1.0
+148,237500.0,"Imperial Drive, Harrow, HA2",HA2,0.0
+150,325000.0,"314 Station Road, Harrow, HA1",HA1,1.0
+152,237000.0,"Kenton Park Road, Harrow, Middlesex, HA3",HA3,1.0
+157,267500.0,"Queens House, Kymberley Road, Harrow, Middlesex, HA1",HA1,1.0
+158,750000.0,"Rodney Close, Pinner, Middlesex, HA5",HA5,3.0
+159,267500.0,"Queens House, Kymberley Road, Harrow, HA1",HA1,1.0
+160,450000.0,"Stanmore,Middlesex,HA7",HA7,2.0
+161,750000.0,"Jersey Avenue, Stanmore, Middlesex, HA7",HA7,5.0
+162,699950.0,"Kingshill Drive, Harrow, HA3",HA3,5.0
+164,290000.0,"Cowen Avenue, Harrow, HA2 0LU",HA2,2.0
+165,420000.0,"Pinner Court, Pinner, Middlesex HA5",HA5,2.0
+166,475000.0,"Drake Road, Harrow, Middlesex, HA2",HA2,3.0
+167,650000.0,"Kenton Lane, Harrow, Middlesex, HA3",HA3,4.0
+168,450000.0,"Manor Road, Harrow, Middlesex, HA1",HA1,3.0
+169,585000.0,"Warren Fields, Valencia Road, Stanmore, Middlesex, HA7",HA7,2.0
+170,675000.0,"Jersey Avenue, Stanmore, HA7",HA7,3.0
+174,1395000.0,"Potter Street Hill, Pinner Hill, Pinner, Middlesex HA5",HA5,4.0
+176,625000.0,"Nelson Road,Stanmore,HA7",HA7,3.0
+180,559950.0,"Artisan Place, Harrow Weald, HA3 5DS",HA3,3.0
+185,450000.0,"Blenheim Road, West Harrow, Harrow, HA2",HA2,2.0
+186,535000.0,"Barchester Road, Harrow, HA3",HA3,3.0
+187,475000.0,"Cecil Park, Pinner, HA5",HA5,2.0
+188,1250000.0,"Briants Close, Pinner, HA5",HA5,6.0
+191,450000.0," Crown Street,  Harrow on the Hill, HA2",HA2,1.0
+192,780000.0,"Gordon Avenue, Stanmore, Greater London, HA7",HA7,4.0
+193,475000.0,"Thomson Road, Harrow, Greater London, HA3, UK",HA3,3.0
+194,715000.0,"Stanmore, Middlesex, HA7",HA7,3.0
+197,580000.0,"Rayners Lane, Harrow, HA2",HA2,4.0
+198,599950.0,"Oak Lodge Close, Stanmore, Middlesex, HA7",HA7,2.0
+199,550000.0,"Mountbel Road,Stanmore,HA7",HA7,4.0
+201,425000.0,"Overbrook Walk, Edgware, HA8",HA8,3.0
+203,400000.0,"Skillen Lodge, Pinner, HA5",HA5,2.0
+204,549000.0,"Ferring Close, South Harrow, HA2",HA2,3.0
+205,400000.0,"Coniston Court, Stonegrove, Edgware, HA8",HA8,2.0
+208,500000.0,"Hutton Lane, Harrow Weald, Harrow, HA3",HA3,3.0
+210,550000.0,"Carmelite Road, Harrow, Middlesex, HA3",HA3,3.0
+217,286000.0,"Alexandra Avenue, Harrow, HA2",HA2,2.0
+219,550000.0,"Ferring Close, Harrow, HA2",HA2,3.0
+220,550000.0,"Porlock Avenue, Harrow, HA2",HA2,3.0
+221,550000.0,"Wykeham Road, Harrow, Middlesex, HA3",HA3,3.0
+222,375000.0,"40 Greenhill Road, Harrow, HA1",HA1,2.0
+223,450000.0,"Phoenix House, 68 Greenhill Way, Harrow, Greater London, HA1",HA1,2.0
+224,950000.0,"Whitchurch Gardens, Edgware, HA8",HA8,5.0
+226,550000.0,"Ferring Close, Harrow, HA2",HA2,3.0
+229,565000.0,"Woodlands Drive, Stanmore, Middlesex, HA7",HA7,4.0
+231,500000.0,"Constable Gardens, Edgware, HA8",HA8,3.0
+232,800000.0,"College Road, Harrow Weald, Harrow, HA3",HA3,5.0
+233,330000.0,"James Bedford Close, Pinner, Middlesex, HA5",HA5,3.0
+234,1000000.0,"Eastcote Road, Pinner, Middlesex HA5",HA5,4.0
+236,1250000.0,"Brookshill, Harrow, Middlesex, HA3",HA3,5.0
+237,780000.0,"Village Way, Pinner, Middlesex HA5",HA5,4.0
+239,350000.0,"Edgware,Middlesex,HA8",HA8,2.0
+240,639950.0,"Uppingham Avenue, Stanmore, Middlesex, HA7",HA7,3.0
+241,525000.0,"Merlins Avenue, Harrow, Middlesex, HA2",HA2,4.0
+243,325000.0,"205 Headstone Drive, Harrow, HA1",HA1,2.0
+244,550000.0,"Pinner Road, Pinner, HA5",HA5,2.0
+245,375000.0,"552 Uxbridge Road, Pinner, HA5",HA5,2.0
+246,299000.0,"Kenton Lane, Harrow HA3",HA3,2.0
+247,950000.0,"Clamp Hill, Stanmore, Middlesex, HA7",HA7,4.0
+249,449950.0," Roxeth Hill,  Harrow on the Hill, HA2",HA2,2.0
+250,775000.0,"Grasmere Gardens, Harrow, Middlesex, HA3, UK",HA3,5.0
+251,325000.0,"314 Station Road, Harrow, HA1",HA1,1.0
+252,280000.0,"Jupiter House, 14 Apple Grove, Harrow, Middlesex, HA2",HA2,1.0
+253,825000.0,"Westbury Lodge Close, Pinner, Middlesex HA5",HA5,3.0
+255,365000.0,"Redwood House, 29 Peterborough Road, Harrow, HA1",HA1,2.0
+256,245000.0,"Peterborough Road, Harrow on the Hill, Harrow, HA1",HA1,0.0
+257,775000.0,"Bromefield, Stanmore, Middlesex, HA7",HA7,3.0
+258,350000.0,"Sudbury Hill, Harrow on the Hill, Harrow, HA1",HA1,2.0
+259,565000.0,"Kingshill Drive, HA3",HA3,3.0
+260,360000.0,"Rushout Avenue, Harrow, Middlesex, HA3 0AH",HA3,1.0
+261,475000.0,"Caulfield Gardens, Pinner, Middlesex, HA5",HA5,2.0
+262,430000.0,"Bletchley Court, Hitchin Lane, Stanmore, Middlesex, HA7",HA7,2.0
+263,1350000.0,"Dalkeith Grove, Stanmore, HA7",HA7,5.0
+266,415000.0,"West End Lane, Pinner, Middlesex HA5",HA5,2.0
+267,769000.0,"Elms Road, Harrow HA3",HA3,5.0
+268,425000.0,"Rose Court, Nursery Road, Pinner, Middlesex, HA5",HA5,3.0
+269,625000.0,"Shaftesbury Avenue, South Harrow, Harrow, Middlesex, HA2",HA2,4.0
+270,300000.0,"Platinum House, Harrow, Middlesex, HA1 2EX",HA1,2.0
+271,575000.0," The Mount House,  Harrow on the Hill, HA1",HA1,3.0
+275,365000.0,"Bolton Road, Harrow, Middlesex, HA1",HA1,1.0
+276,365000.0,"Redwood House, 29 Peterborough Road, Harrow, HA1",HA1,2.0
+277,475000.0,"Spinnells Road, Harrow, Middlesex, HA2",HA2,3.0
+278,600000.0,"Torbay Road, Harrow, Middlesex, HA2",HA2,4.0
+279,430000.0,"Stanmore,Middlesex,HA7",HA7,2.0
+282,600000.0,"Elmfield Close, Harrow on the Hill, Harrow, HA1",HA1,3.0
+283,450000.0,"High Road, Harrow, Middlesex, HA3",HA3,3.0
+284,895000.0,"Fairview Way, Edgware, HA8",HA8,4.0
+285,375000.0,"Sudbury Hill, Harrow on the Hill, Harrow, HA1",HA1,2.0
+286,650000.0,"Greenford Road, Harrow HA1",HA1,6.0
+288,300000.0,"Drury Road, Harrow, HA1",HA1,1.0
+290,475000.0,"Fitzgerald House, Elmgrove Road, Harrow, HA1 2QH",HA1,2.0
+293,300000.0,"Platinum House , Harrow , Middlesex , HA1 2EX",HA1,2.0
+294,555000.0,"Greenhill Way, Harrow, Greater London, HA1",HA1,3.0
+295,450000.0,"Greenhill Way, Harrow, Greater London, HA1",HA1,2.0
+296,395000.0,"Greenhill Way, Harrow, Greater London, HA1",HA1,1.0
+301,499950.0,"Northolt Road, Harrow, Middlesex, HA2",HA2,2.0
+303,349950.0,"Everton Drive, Stanmore, Greater London, HA7",HA7,2.0
+307,575000.0,"Kingshill Drive, Harrow, HA3",HA3,3.0
+308,1395000.0,"Lake View, Edgware, HA8",HA8,6.0
+311,340000.0,"Stratton Close,Edgware,HA8",HA8,2.0
+312,280000.0,"Alexandra Avenue, Harrow, HA2 8PX ",HA2,1.0
+315,550000.0,"Broadcroft Avenue, Stanmore, HA7",HA7,3.0
+316,500000.0,"Church Road,Stanmore,HA7",HA7,2.0
+318,425000.0,"Whitchurch Lane, Edgware, HA8",HA8,2.0
+319,350000.0,"East Croft House, 86 Northolt Road, Harrow, Middlesex, HA2",HA2,2.0
+320,550000.0,"Daventer Drive, Stanmore, Middlesex, HA7",HA7,3.0
+321,1000000.0,"Elmwood Avenue, Harrow, Middlesex, HA3",HA3,6.0
+323,549950.0,"Buckingham House East, Buckingham Parade, The Broadway, Stanmore, HA7",HA7,2.0
+324,550000.0,"Risingholme Road, Harrow Weald, Harrow, HA3",HA3,3.0
+325,175000.0,"The Greenwoods, 19 Sherwood Road, HARROW, HA2",HA2,1.0
+327,500000.0,"Fountain House, Church Road, Stanmore, HA7",HA7,2.0
+330,375000.0,"Trinity Court, 221 Marsh Road, Pinner, Middlesex, HA5",HA5,1.0
+333,419950.0,"Copley Road, Stanmore, Middlesex, HA7",HA7,2.0
+334,350000.0,"Pinner Road, Pinner, HA5",HA5,1.0
+336,350000.0,"Lyon Road, Harrow, HA1",HA1,2.0
+338,410000.0,"Wellington Road, Hatch End, Middlesex HA5",HA5,2.0
+339,465000.0,"Hillside Crescent, HARROW, HA2",HA2,3.0
+340,235000.0,"Northolt Road, South Harrow, Harrow, HA2",HA2,0.0
+342,230000.0,"Sherwood Road, Middlesex, Harrow, London, HA2 8AR",HA2,1.0
+344,400000.0,"Cunard Court, Brightwen Grove, Stanmore, HA7",HA7,2.0
+345,350000.0,"Ashdowne Lodge, 158-160 High Street, Wealdstone, Harrow, HA3",HA3,2.0
+346,230000.0,"Sherwood Road, Harrow, HA2 8AR ",HA2,1.0
+348,550000.0,"Sandown Court, 24 Marsh Lane, Stanmore, HA7",HA7,2.0
+351,599950.0,"Spencer Road, Harrow, HA3",HA3,5.0
+352,950000.0,"Pangbourne Drive, Stanmore, Middlesex, HA7",HA7,3.0
+353,389950.0,"Meridian Court, Harrow, HA3",HA3,2.0
+354,625000.0,"Chasewood Park, HA1",HA1,2.0
+356,625000.0,"Burlington Park House, Dennis Lane, Stanmore, Middlesex, HA7",HA7,2.0
+358,575000.0,"Wood End Avenue, Harrow, Middlesex, HA2",HA2,5.0
+360,280000.0,"Hitherwell Drive, Harrow, Middlesex, HA3",HA3,1.0
+361,350000.0,"Capel Crescent,Stanmore,HA7",HA7,2.0
+363,400000.0,"Station Road, Harrow, HA1",HA1,2.0
+364,275000.0,"Pinner Road, Harrow, Middlesex, HA1",HA1,2.0
+369,715000.0,"Eastcote Lane, Harrow, HA2",HA2,4.0
+370,799950.0,"College Road, Harrow Weald, HA3",HA3,5.0
+371,385000.0,"Radnor Avenue, Harrow, Middlesex, HA1",HA1,2.0
+375,800000.0,"Harrow Fields Gardens, Harrow on the Hill, Harrow, HA1",HA1,4.0
+377,325000.0,"Whittington Way, Pinner, Middlesex, HA5",HA5,2.0
+378,474950.0,"Grove Court, Lyon Square, Harrow, HA1",HA1,2.0
+379,600000.0,"Durley Avenue, Pinner, Middlesex, HA5",HA5,4.0
+380,575000.0,"Westbere Drive, Stanmore, HA7",HA7,3.0
+381,400000.0,"Saturn House, 12-14 Station Road, Harrow, Middlesex, HA1",HA1,2.0
+382,380000.0,"Bourne Park, 151 Rayners Lane, Harrow, Middlesex, HA2",HA2,2.0
+383,650000.0," Coniston Court, 96 High Street, Harrow on the Hill, HA1",HA1,2.0
+387,675000.0,"Long Elmes, Harrow, Middlesex, HA3",HA3,6.0
+389,440000.0,"Ferring Close, HA2 0AR",HA2,2.0
+391,615000.0,"Kenmore Avenue, Kenton, Harrow, HA3",HA3,3.0
+392,250000.0,"Taunton Way, HA7",HA7,1.0
+393,425000.0,"Elm Park Road, Pinner, HA5",HA5,2.0
+394,275000.0,"Queens House, Kymberley Road, Harrow, Middlesex, HA1",HA1,1.0
+395,265000.0,"Queens House, Kymberley Road, Harrow, Middlesex, HA1",HA1,1.0
+397,275000.0,"Masons Avenue, Harrow, HA3",HA3,1.0
+398,750000.0,"Cheyneys Avenue, Edgware, HA8",HA8,3.0
+399,620000.0,"Harrow View,
+North Harrow,
+Harrow,
+HA2",HA2,4.0
+400,365000.0,"Bolton Road, Harrow, Middlesex, HA1",HA1,1.0
+401,375000.0,"Burhill Grove, Pinner, HA5",HA5,2.0
+403,485000.0,"Randon Close, Harrow, Middlesex, HA2",HA2,2.0
+404,385000.0,"Letchford Terrace, Headstone Lane, Harrow, Middlesex, HA3",HA3,2.0
+405,320000.0,"Kenton Lane, Harrow, Greater London, HA3, UK",HA3,2.0
+407,425000.0," Kenton Avenue,  Harrow on the Hill, HA1",HA1,2.0
+409,575000.0," Palmerston Court, Elmfield Close, Harrow on the Hill, HA1",HA1,3.0
+410,277500.0,"Queens House, Kymberley Road, Harrow, Middlesex, HA1",HA1,1.0
+411,285000.0,"Queens House, Kymberley Road, Harrow, Middlesex, HA1",HA1,1.0
+412,287500.0,"Queens House, Kymberley Road, Harrow, Middlesex, HA1",HA1,1.0
+413,400000.0,"Windermere Hall, Stonegrove, HA8",HA8,2.0
+417,375000.0,"Burhill Grove, Pinner, Middlesex, HA5",HA5,2.0
+418,210000.0,"Platinum House, Harrow, Middlesex, HA1 2EX",HA1,1.0
+419,460000.0,"Warneford Road, Kenton, Harrow, HA3",HA3,3.0
+421,600000.0,"Beechwood Avenue, Harrow, HA2",HA2,3.0
+422,650000.0,"Durley Avenue, Pinner, HA5",HA5,3.0
+424,355000.0,"Trinity Court, 221 Marsh Road, Pinner, Middlesex, HA5",HA5,1.0
+426,450000.0,"Trinity Court, 221 Marsh Road, Pinner, Middlesex, HA5",HA5,2.0
+427,365000.0,"Trinity Court, 221 Marsh Road, Pinner, Middlesex, HA5",HA5,1.0
+429,250000.0,"St. Pauls Avenue, HARROW, Middlesex, HA3",HA3,1.0
+430,380000.0,"Bourne Park, 151 Rayners Lane, Harrow, Middlesex, HA2",HA2,2.0
+431,419000.0,"Queensbury Square, Honeypot Lane, NW9",NW9,2.0
+434,685000.0,"Sherborne Gardens, Queensbury, NW9",NW9,5.0
+435,565000.0,"Northolt Road, Harrow, Middlesex, HA2",HA2,2.0
+436,625000.0,"Northolt Road, Harrow, Middlesex, HA2",HA2,3.0
+437,465000.0,"Laburnum Court, Stanmore, Middlesex, HA7",HA7,2.0
+438,525000.0,"Northolt Road, South Harrow, Harrow, HA2",HA2,3.0
+445,550000.0,"Stanley Road, Harrow, HA2",HA2,3.0
+446,585000.0,"Marsh Road, Pinner, Middlesex HA5",HA5,2.0
+447,680000.0,"Crowshott Avenue, Stanmore, Middlesex, HA7",HA7,3.0
+448,375000.0,"Chiswick Court, Moss Lane, Pinner, Middlesex, HA5",HA5,2.0
+453,850000.0,"Kings Way, Harrow, HA1",HA1,5.0
+454,350000.0,"Northolt Road, South Harrow, Harrow, HA2",HA2,1.0
+455,475000.0,"College Road, Harrow, HA1",HA1,2.0
+456,239950.0,"Aldridge Avenue, Stanmore, Middlesex, HA7",HA7,1.0
+460,625000.0,"Northolt Road, Harrow, Middlesex, HA2",HA2,3.0
+461,850000.0," Crown Street,  Harrow on the Hill, HA2",HA2,4.0
+462,325000.0,"Dove Park, Pinner, Middlesex, HA5",HA5,1.0
+463,579950.0,"Bacon Lane Edgware, HA8 5AP",HA8,3.0
+467,350000.0,"Nugents Court, St. Thomas Drive, Pinner, Middlesex, HA5",HA5,2.0
+468,325000.0,"Northolt Road, Harrow, Middlesex, HA2",HA2,1.0
+469,930000.0,"East Towers, Pinner, Middlesex, HA5",HA5,5.0
+472,1220000.0,"Dovercourt Gardens,Stanmore,HA7",HA7,4.0
+474,700000.0,"West End Lane, Pinner, HA5",HA5,3.0
+475,365000.0,"Bolton Road, Harrow, Middlesex, HA1",HA1,1.0
+476,175000.0,"The Greenwoods, 19 Sherwood Road, HARROW, HA2",HA2,1.0
+477,347000.0,"Queensbury Square, Honeypot Lane, NW9",NW9,1.0
+478,285000.0,"Queensbury Square, Honeypot Lane, London, NW9",NW9,1.0
+479,470000.0,"Queensbury Square, Honeypot Lane, London, NW9",NW9,2.0
+480,335000.0,"Queensbury Square, Honeypot Lane, NW9",NW9,1.0
+481,344000.0,"Queensbury Sqaure, Honeypot Lane, London, NW9",NW9,1.0
+482,349000.0,"Queensbury Square, Honeypot Lane, NW9",NW9,1.0
+483,240000.0,"Om House, College Road, Harrow, HA1",HA1,1.0
+484,325000.0,"Devonshire Road, Pinner, Middlesex HA5",HA5,1.0
+486,379950.0,"College Road, Harrow, HA1",HA1,1.0
+487,625000.0,"Mepham Gardens, Harrow, HA3",HA3,4.0
+493,500000.0,"Hitherwell Drive, Harrow, Middlesex, HA3",HA3,3.0
+494,550000.0,"Dudley Gardens, Harrow, HA2",HA2,3.0
+495,575000.0,"Lyon Road, Harrow, HA1",HA1,3.0
+497,725000.0,"Athol Close, Pinner, Middlesex, HA5",HA5,4.0
+498,355000.0,"Winston Court, Harrow, HA3",HA3,2.0
+499,700000.0,"Chambers Walk, Stanmore, Middlesex, HA7",HA7,4.0
+501,424000.0,"12 Matrix Court, Eastcote Lane, Harrow, Middlesex, HA2",HA2,2.0
+502,1200000.0,"Snaresbrook Drive, Stanmore, HA7",HA7,4.0
+503,315000.0,"Charlwood Close, Harrow, HA3",HA3,2.0
+507,400000.0," Chestnut Court, Roxborough Avenue, Harrow on the Hill, HA1",HA1,2.0
+508,269000.0,"Herga Road, Harrow, Middlesex, HA3, UK",HA3,2.0
+510,835000.0,"Wemborough Road, Stanmore, Middlesex, HA7",HA7,3.0
+512,625000.0,"Mead Close, Harrow, HA3",HA3,4.0
+513,500000.0,"Howard Road, Stanmore, HA7",HA7,2.0
+514,340000.0,"Headstone Drive,
+Harrow,
+HA1 4TY",HA1,1.0
+515,795000.0,"Lady Aylesford Avenue, Stanmore, HA7",HA7,5.0
+516,365000.0," STANMORE HILL, STANMORE, HA7",HA7,2.0
+517,800000.0,"Old Church Lane, Stanmore, HA7",HA7,4.0
+518,1000000.0,"Holmdene Avenue, Harrow, Middlesex, HA2",HA2,4.0
+519,749950.0,"Headstone Lane, North Harrow, Middlesex HA2",HA2,3.0
+521,370000.0,"Rushout Avenue, Harrow, Middlesex, HA3 0AH",HA3,1.0
+523,345000.0," RAINSFORD CLOSE, STANMORE , HA7",HA7,2.0
+524,2850000.0,"Clamp Hill, Stanmore, HA7",HA7,7.0
+526,575000.0,"Belsize Road, Harrow Weald, Harrow, HA3",HA3,3.0
+527,775000.0,"Wellington House, Aylmer Drive, Stanmore, HA7",HA7,2.0
+528,325000.0,"2 Caulfield Gardens, Pinner, HA5",HA5,1.0
+529,550000.0,"Copperfield Way, Pinner, Middlesex, HA5",HA5,3.0
+530,499950.0,"Northolt Road, Harrow, Middlesex, HA2",HA2,2.0
+531,505000.0,"Northolt Road, Harrow, Middlesex, HA2",HA2,2.0
+532,485000.0,"Northolt Road, Harrow, Middlesex, HA2",HA2,2.0
+534,480000.0,"West Street, Harrow, Middlesex, HA1",HA1,3.0
+535,410000.0,"Spectrum, 
+Harrow,
+HA2",HA2,2.0
+536,625000.0,"Mepham Gardens, Harrow , Middlesex, HA3 6QS",HA3,4.0
+540,425000.0,"Durham House, Stratton Close, Edgware, HA8",HA8,2.0
+541,329950.0,"East Croft House, 86 Northolt Road, Harrow, HA2",HA2,2.0
+542,625000.0,"Mepham Gardens,Harrow,HA3",HA3,3.0
+543,450000.0,"Moorhouse Road,Harrow,HA3",HA3,3.0
+544,575000.0,"Wychwood Close, Edgware, HA8",HA8,3.0
+545,675000.0,"Derwent Avenue, Pinner, Middlesex, HA5",HA5,4.0
+546,1495000.0,"Templars Drive, Harrow, HA3",HA3,4.0
+548,400000.0,"Hatch End, Hatch End, Pinner, HA5",HA5,2.0
+549,735000.0," Merton Road,  Harrow, HA2",HA2,5.0
+550,1250000.0,"Briants Close, Pinner, HA5",HA5,6.0
+551,930000.0,"Pinner Hill Road, Pinner, HA5",HA5,5.0
+552,930000.0,"Pinner Hill Road, Pinner, Middlesex, HA5",HA5,5.0
+556,285000.0,"The Seasons, September Way, Stanmore, HA7",HA7,1.0
+557,280000.0,"Ruskin Gardens, Harrow, Middx, HA3",HA3,3.0
+558,1625000.0,"Georgian Close, Stanmore, HA7",HA7,5.0
+559,465000.0,"Laburnum Court, Stanmore, Middlesex, HA7",HA7,2.0
+560,375000.0,"Culverlands Close, Stanmore, HA7",HA7,2.0
+561,595000.0,"Wynchgate, Harrow Weald, HA3",HA3,4.0
+564,285000.0,"Platinum House, HA1 2EX",HA1,2.0
+567,699950.0,"Lyncroft Avenue, Pinner, Middlesex AH5",AH5,3.0
+568,480000.0,"Harrow One, St Johns Road, HA1",HA1,2.0
+569,325000.0,"29 Peterborough Road, Harrow, HA1",HA1,2.0
+571,599950.0,"Vancouver Road, Edgware, HA8",HA8,3.0
+572,470000.0,"Derby House, Chesswood Way, Pinner, Middlesex, HA5",HA5,2.0
+573,795000.0,"Hawlands Drive, Pinner, Middlesex, HA5",HA5,5.0
+574,525000.0,"The Heights, Northolt, ub5 4bt",ub5,5.0
+576,825000.0,"Uxbridge Road, Pinner, Middlesex, HA5",HA5,5.0
+577,475000.0,"Gayton Road, Harrow, HA1",HA1,2.0
+578,850000.0,"Radnor Road, Harrow, HA1",HA1,6.0
+579,799995.0,"College Road, Harrow Weald, Harrow, HA3",HA3,4.0
+580,649950.0,"Bolton Road, HA1",HA1,4.0
+582,475000.0,"Gayton Road, Harrow, HA1",HA1,2.0
+588,249950.0,"Pegasus Court (Harrow), Harrow, HA3 0XT",HA3,1.0
+591,350000.0,"Lowry Court, Artisan Place, Harrow, Middlesex, HA3",HA3,2.0
+593,399950.0,"Mentana Court, Leeway Close, Hatch End, Pinner, HA5",HA5,2.0
+595,474995.0,"Chesterton House, Gayton Road, HA1",HA1,2.0
+596,599999.0,"Elmore Drive, Harrow, Middlesex, HA3",HA3,3.0
+598,360000.0,"Springfield road, Harrow, HA1",HA1,2.0
+599,695000.0," Roxborough Park,  Harrow on the Hill, HA1",HA1,3.0
+601,675000.0,"Welbeck Road, Harrow, HA2",HA2,5.0
+603,84000.0,"Goodstone Court, 205 Headstone Drive, Harrow, HA1",HA1,1.0
+605,5000000.0,"Common Road, Stanmore, Middlesex, HA7",HA7,6.0
+606,850000.0,"Stanmore,Middlesex,HA7",HA7,3.0
+607,285000.0,"Lyon Road, Harrow, HA1",HA1,2.0
+608,200000.0,"Croxden Close, Edgware, HA8",HA8,0.0
+612,795000.0,"Cannonbury Avenue, Pinner, Middlesex HA5",HA5,5.0
+618,300000.0,"Westwood Avenue, South Harrow, HA2 8NS",HA2,2.0
+620,725000.0,"Harrow View, Harrow, HA1",HA1,3.0
+621,739950.0,"St. Andrews Drive, Stanmore, HA7",HA7,4.0
+624,599950.0,"St. Edmunds Drive, Stanmore, Middlesex, HA7",HA7,3.0
+626,549950.0,"Fisher Road, Harrow, Greater London, HA3, UK",HA3,3.0
+628,1050000.0,"Rayners Lane, Pinner, Middlesex HA5",HA5,5.0
+630,425000.0,"Churchill Court, Nugents Park, Pinner, HA5",HA5,2.0
+631,290000.0,"Bridge Court, Stanley Road, HA2 8FF",HA2,2.0
+632,900000.0,"Dalkeith Grove, Stanmore, Middlesex, HA7",HA7,5.0
+633,649950.0,"Stanmore, Middlesex, HA7",HA7,5.0
+634,800000.0,"Hazeldene Drive, Pinner, Middlesex HA5",HA5,3.0
+635,699995.0,"Uxbridge Road, Harrow Weald, HA3",HA3,4.0
+636,2400000.0,"Fallowfield, Stanmore, HA7",HA7,5.0
+637,132000.0,"Honeypot Lane,
+London,
+NW9",NW9,1.0
+638,169000.0,"Honeypot Lane,
+London,
+NW9",NW9,2.0
+639,210000.0,"Honeypot Lane,
+London,
+NW9",NW9,3.0
+640,330000.0,"Honeypot Lane,
+London,
+NW9",NW9,1.0
+641,422500.0,"Honeypot Lane,
+London,
+NW9",NW9,2.0
+642,525000.0,"Honeypot Lane,
+London,
+NW9",NW9,3.0
+644,365000.0,"Langworthy, Royston Grove, Pinner, HA5",HA5,2.0
+645,529995.0,"Waverley Road, HARROW, HA2",HA2,3.0
+648,825000.0,"Braeside, Hatch End Middlesex HA5",HA5,4.0
+651,250000.0,"Kenton Park Road, Kenton, HA3",HA3,1.0
+653,675000.0,"Stanmore Hill, Stanmore, Middlesex, HA7",HA7,2.0
+655,595000.0,"Cambridge Road, Harrow, Middlesex, HA2",HA2,3.0
+656,315000.0,"Bacon Lane, Edgware, HA8",HA8,2.0
+657,300000.0,"Stanmore,Middlesex,HA7",HA7,2.0
+660,550000.0,"Ruskin Gardens, Kenton, Harrow, HA3",HA3,3.0
+664,400000.0,"Harrow Square, HA1",HA1,1.0
+671,299950.0," Herga Court,  Harrow on the Hill, HA1",HA1,1.0
+672,485000.0,"Stuart Avenue, Harrow, HA2",HA2,3.0
+673,525000.0," The Garlands,  Harrow on the Hill, HA1",HA1,2.0
+677,600000.0,"Richmond Gardens, Harrow, Middlesex, HA3",HA3,4.0
+678,400000.0,"Vaughan Road, Harrow, HA1",HA1,2.0
+679,295000.0,"Burnell House,Stanmore,HA7",HA7,1.0
+680,1500000.0,"Old Redding, HA3",HA3,3.0
+681,1250000.0,"Uxbridge Road, Harrow, Middlesex, HA3",HA3,4.0
+683,480000.0,"Lyon Square, Lyon Road, Harrow, Middlesex, HA1",HA1,2.0
+687,949950.0,"Mowbray Road, Edgware, HA8",HA8,4.0
+690,675000.0,"Oak Lodge Close, Stanmore, Middlesex, HA7",HA7,2.0
+691,620000.0,"Harrow View West, Harrow View, Harrow, Middlesex, HA2",HA2,4.0
+692,620000.0,"Harrow View West, Harrow View, Harrow, Middlesex, HA2",HA2,3.0
+693,595000.0,"Harrow View West, Harrow View, Harrow, Middlesex, HA2",HA2,3.0
+694,595000.0,"Harrow View West, Harrow View, Harrow, Middlesex, HA2",HA2,3.0
+695,625000.0,"Harrow View West, Harrow View, Harrow, Middlesex, HA2",HA2,4.0
+696,250000.0,"Queens House, Kymberley Road, Harrow, Middlesex, HA1",HA1,0.0
+699,400000.0,"La Reve, 19 High Street, Wealdstone, Harrow, HA3",HA3,2.0
+700,435000.0,"Northolt Road,
+Harrow,
+London,
+HA2",HA2,2.0
+704,599950.0,"Daventer Drive, Stanmore, HA7",HA7,3.0
+705,325000.0,"Antoneys Close, Pinner, Middx, HA5",HA5,2.0
+706,375000.0,"Carnarvon Court, Howard Road, Stanmore, Middlesex, HA7",HA7,1.0
+707,595000.0,"Warren Fields, Valencia Road, Stanmore, Middlesex, HA7",HA7,2.0
+710,195000.0,"Hanbury Court, Harrow, HA1 2LR",HA1,1.0
+711,1500000.0,"Old Redding, Harrow HA3",HA3,3.0
+712,825000.0,"Chandos Court, Stanmore, HA7",HA7,4.0
+714,600000.0,"Whitegate Gardens, Harrow Weald, HA3",HA3,3.0
+715,315000.0,"Byron Road, Harrow, HA3",HA3,2.0
+716,539950.0," Nelson Road,  Harrow on the Hill, HA1",HA1,2.0
+717,250000.0,"Lutyens Lodge, Hatch End, HA5",HA5,1.0
+718,925000.0,"Fallowfield, Stanmore, Middlesex, HA7",HA7,2.0
+719,475000.0,"Royal Court, Howard Road, Stanmore, HA7",HA7,2.0
+720,450000.0,"Corbins Lane, South Harrow, HA2 8EN",HA2,2.0
+722,310000.0,"Taona House, 39-45 Merrion Avenue, Stanmore, Middlesex, HA7",HA7,0.0
+723,180000.0,"Capel Crecent, Stanmore, London, HA7",HA7,2.0
+725,421000.0,"Hindes Road,
+Harrow,
+HA1",HA1,1.0
+726,300000.0,"Stanmore,London,HA7",HA7,1.0
+728,980000.0,"Athol Close, Pinner, HA5",HA5,6.0
+729,350000.0,"Taona House, 39-45 Merrion Avenue, Stanmore, Middlesex, HA7",HA7,1.0
+730,685000.0,"Taona House, 39-45 Merrion Avenue, Stanmore, Middlesex, HA7",HA7,3.0
+731,395000.0,"Taona House, 39-45 Merrion Avenue, Stanmore, Middlesex, HA7",HA7,1.0
+732,625000.0,"Harrow View,
+North Harrow,
+Harrow,
+HA2",HA2,4.0
+733,425000.0,"London Road, Stanmore, HA7",HA7,2.0
+734,400000.0,"Caulfield Gardens, Pinner, Middlesex, HA5",HA5,2.0
+736,800000.0,"Chandos Court, Stanmore, Middx, HA7",HA7,4.0
+738,425000.0,"Belmont Lodge, London Road, Stanmore, HA7",HA7,2.0
+741,275000.0,"Meadow Gate, 19 Corbins Lane, Hayes, HA2",HA2,1.0
+742,365000.0,"Harrow One, St Johns Road, HA1",HA1,1.0
+743,295000.0,"Harrow One, St Johns Road, HA1",HA1,0.0
+744,1250000.0,"Waterside Mansions, 14/16 Gordon Avenue, Stanmore, HA7",HA7,5.0
+745,1595000.0,"Royston Park Road, Hatch End, Middlesex HA5",HA5,5.0
+746,230000.0,"Milman Close, Pinner, HA5",HA5,1.0
+747,415000.0,"Woodlands, Harrow, Middlesex, HA2",HA2,3.0
+748,389950.0,"Salisbury Road, Harrow, HA1",HA1,2.0
+749,550000.0,"Lancaster House, Park Lane, Stanmore, HA7",HA7,2.0
+750,700000.0,"Parkfield Crescent, Harrow, HA2",HA2,4.0
+751,550000.0,"Stanmore,Middlesex,HA7",HA7,2.0
+752,1595000.0,"Royston Park Road, Pinner, HA5",HA5,5.0
+753,435000.0,"Northolt Road,
+Harrow,
+London,
+HA2",HA2,2.0
+754,550000.0,"Gordon Avenue, Stanmore, HA7",HA7,2.0
+755,302500.0,"Queens House, Kymberley Road, Harrow, HA1",HA1,1.0
+756,450000.0,"Garden Court, Stanmore, HA7",HA7,2.0
+757,375000.0,"Imperial Court, Imperial Drive, HARROW, HA2",HA2,2.0
+758,200000.0,"Chichester Court, Edgware HA8",HA8,1.0
+764,375000.0,"Royston Grove, Hatch End, Pinner, HA5",HA5,2.0
+765,400000.0,"Elm Park Road, Pinner, HA5",HA5,2.0
+767,85000.0,"Capel Crescent, Stanmore, HA7",HA7,2.0
+768,340000.0,"Capel Crescent, Stanmore, HA7",HA7,2.0
+769,650000.0,"Kenmore Avenue, Harrow, HA3",HA3,4.0
+770,299950.0,"Compass House, Pynnacles Close, Stanmore, HA7",HA7,1.0
+771,340000.0,"Compass House, Pynnacles Close, Stanmore, HA7",HA7,1.0
+772,600000.0,"South Hill Avenue, Harrow, HA2 0NQ",HA2,3.0
+773,403000.0,"10 Matrix Court, Eastcote Lane, Harrow, Middlesex, HA2",HA2,2.0
+774,305000.0,"Rayners Lane, Harrow, Ha2 0UB",Ha2,2.0
+776,900000.0,"Dalkeith Grove, Stanmore, HA7",HA7,5.0
+778,429000.0,"Watkin Road, Wembley, Middlesex, HA9",HA9,1.0
+779,525000.0,"Colman Court, Rosedale Close, Stanmore, Middlesex, HA7",HA7,3.0
+780,275000.0,"Rose Bates Drive, Kingsbury, NW9",NW9,2.0
+781,335000.0,"Stanley Road, South Harrow, Harrow, HA2",HA2,2.0
+782,335000.0,"Churchill Place, Harrow, HA1",HA1,2.0
+783,140000.0,"Barnetts Court, Corbins Lane, Harrow HA2 8EU",HA2,2.0
+784,650000.0,"Chartridge Court, 4 Marsh Lane, Stanmore, HA7",HA7,2.0
+785,700000.0,"College Hill Road, Harrow, Middlesex, HA3",HA3,3.0
+786,739950.0,"St. Andrews Drive, Stanmore, HA7",HA7,4.0
+787,275000.0,"Rose Bates Drive, KINGSBURY, NW9",NW9,2.0
+789,495000.0,"Kings Road, Rayners Lane, Middlesex, HA2 9LE",HA2,3.0
+792,355000.0,"Masons Avenue, Harrow, Middlesex HA3, UK",HA3,3.0
+793,550000.0,"Butler Road, Harrow, Middlesex, HA1",HA1,3.0
+795,325000.0,"Harrow View, Harrow, Middlesex, HA1",HA1,1.0
+796,800000.0,"Cannonbury Avenue, Pinner, HA5",HA5,4.0
+799,325000.0,"Greenford Road, Harrow, Middlesex, HA1",HA1,2.0
+800,237500.0,"Imperial Drive, Harrow, HA2",HA2,0.0
+803,1210000.0,"Landsby, Merrion Avenue, Stanmore, HA7",HA7,2.0
+804,1285000.0,"Landsby, Merrion Avenue, Stanmore, HA7",HA7,2.0
+805,930000.0,"Landsby, Merrion Avenue, Stanmore, HA7",HA7,2.0
+806,695000.0,"Landsby, Merrion Avenue, Stanmore, HA7",HA7,2.0
+807,835000.0,"Landsby, Merrion Avenue, Stanmore, HA7",HA7,2.0
+808,515000.0,"Landsby, Merrion Avenue, Stanmore, HA7",HA7,1.0
+809,650000.0,"Howberry Road, Edgware, Middlesex, HA8",HA8,3.0
+810,565000.0,"Gyles Park, Stanmore, Middlesex, HA7 1AN",HA7,3.0
+811,350000.0,"Whitchurch Lane, Edgware, HA8",HA8,2.0
+813,695000.0,"Greenford Road, Harrow, HA1",HA1,5.0
+814,700000.0,"Weston Drive, Stanmore, London, HA7",HA7,4.0
+815,615000.0,"Harrow View West, Harrow View, Harrow, Middlesex, HA2",HA2,4.0
+817,775000.0,"Grasmere Gardens, Harrow, Middlesex, HA3, UK",HA3,5.0
+818,335000.0,"Hill House, Cavendish Avenue, Harrow, HA1",HA1,2.0
+819,330000.0,"Keats House, Harrow On The Hill, HA2 0HA",HA2,1.0
+822,500000.0,"Lancaster House, Park Lane, Stanmore, Middlesex, HA7",HA7,2.0
+824,650000.0,"DENNIS LANE , STANMORE, HA7",HA7,2.0
+825,425000.0,"Greenway, Pinner, HA5",HA5,3.0
+827,825000.0,"Sweetmans Avenue, Pinner, HA5",HA5,2.0
+831,825000.0,"Sweetmans Avenue, Pinner, Middlesex, HA5",HA5,2.0
+832,419950.0,"Cottage Close, Harrow, Middlesex, HA2",HA2,2.0
+833,800000.0,"Potter Street, Pinner, Middlesex HA5",HA5,4.0
+834,675000.0,"Stewart House, Church Road, Stanmore, HA7",HA7,2.0
+836,230000.0,"Hindes Road, Harrow on the Hill, Harrow, HA1",HA1,1.0
+837,425000.0,"Hyacinth Court, Nursery Road, Pinner, Middlesex HA5",HA5,3.0
+842,365000.0,"Hindes Road, Harrow, Middlesex, HA1",HA1,3.0
+845,400000.0,"Hive Road, Bushey Heath, Bushey, Hertfordshire, WD23 1SN",WD23,4.0
+849,799995.0,"Warburton Close, Harrow, HA3",HA3,4.0
+851,600000.0,"Rickmansworth Road, Pinner, Middlesex, HA5",HA5,3.0
+857,375000.0,"Pinner Road, Harrow, HA1 4HZ",HA1,2.0
+858,4950000.0,"The Common, Stanmore, HA7",HA7,6.0
+862,380000.0,"Bourne Park, 151 Rayners Lane, Harrow, Middlesex, HA2",HA2,2.0
+863,525000.0,"Wolseley Road, Harrow, HA3",HA3,2.0
+864,500000.0,"Kenton Road, Harrow, HA3",HA3,4.0
+865,500000.0,"Winston Close, Harrow Weald, HA3",HA3,2.0
+866,1450000.0,"Barrow Point Lane, Pinner Village, Middlesex HA5",HA5,5.0
+868,450000.0,"Halsbury Court, Halsbury Close, Stanmore, Middlesex, HA7",HA7,2.0
+870,290000.0,"Bridge Court, Stanley Road, Harrow, HA2 8FF ",HA2,2.0
+871,550000.0,"Marsh Lane, Stanmore, Middlesex, HA7",HA7,2.0
+873,345000.0,"Rainsford Close, Stanmore, HA7",HA7,2.0
+874,750000.0,"Lindsay Drive, Kenton, Harrow, HA3",HA3,5.0
+878,300000.0,"East Croft House, 86 Northolt Road, Harrow, Middlesex, HA2",HA2,2.0
+880,375000.0,"Sherbourne Place, The Chase, Stanmore, HA7",HA7,2.0
+881,600000.0,"Artisan Place, Harrow Weald, Harrow, HA3",HA3,3.0
+882,550000.0,"Canterton, Royston Grove, Pinner, HA5",HA5,3.0
+883,725000.0,"Stanmore,Middlesex,HA7",HA7,4.0
+884,122500.0,"Charter Court, Pinner, London, HA5",HA5,2.0
+885,280000.0,"Peterborough Road, Harrow, HA1",HA1,1.0
+886,295000.0,"Stanmore Hill, Stanmore, Middlesex, HA7",HA7,1.0
+887,615000.0,"Bolton Road, Harrow, HA1",HA1,3.0
+889,850000.0,"High Road, Harrow Weald, Harrow, HA3",HA3,4.0
+891,250000.0,"Queens House, Kymberley Road, Harrow, HA1",HA1,0.0
+892,475000.0,"Cecil Park, Pinner, HA5",HA5,2.0
+893,315000.0,"Zodiac Close, Edgware, HA8 5FF",HA8,1.0
+894,285000.0,"Farmstead Road, Harrow Weald, Harrow, HA3",HA3,1.0
+895,175000.0,"19 Sherwood Road, Harrow, HA2",HA2,1.0
+896,650000.0,"Lulworth Drive, Pinner, HA5",HA5,3.0
+897,345000.0,"Honeypot Lane, Stanmore, Middlesex, HA7",HA7,3.0
+898,490000.0,"Landsby, Merrion Avenue, Stanmore, HA7",HA7,1.0
+900,250000.0,"Taunton Way, HA7",HA7,1.0
+902,425000.0,"Bourne Park, 151 Rayners Lane, Harrow, Middlesex, HA2",HA2,2.0
+903,365000.0," Roxborough Heights, College Road, Harrow, HA1",HA1,2.0
+905,725000.0,"Portland Crescent, Stanmore, Middlesex, HA7",HA7,4.0
+906,695000.0,"Greenford Road, Harrow, Middlesex, HA1",HA1,5.0
+909,413000.0,"6 Matrix Court, Eastcote Lane, Harrow, Middlesex, HA2",HA2,2.0
+910,430000.0,"21 Emporium Court, Alexandra Avenue, Harrow, Middlesex, HA2",HA2,2.0
+911,424000.0,"28 Emporium Court, Alexandra Avenue, Harrow, Middlesex, HA2",HA2,2.0
+912,408000.0,"14 Matrix Court, Eastcote Lane, Harrow, Middlesex, HA2",HA2,2.0
+913,403000.0,"22 Emporium Court, Alexandra Avenue, Harrow, Middlesex, HA2",HA2,2.0
+914,340500.0,"13 Matrix Court, Eastcote Lane, Harrow, Middlesex, HA2",HA2,1.0
+915,340500.0,"25 Emporium Court, Alexandra Avenue, Harrow, Middlesex, HA2",HA2,1.0
+916,340000.0,"18 Emporium Court, Alexandra Avenue, Harrow, Middlesex, HA2",HA2,1.0
+917,335000.0,"9 Matrix Court, Eastcote Lane, Harrow, Middlesex, HA2",HA2,1.0
+918,335000.0,"17 Emporium Court, Alexandra Avenue, Harrow, Middlesex, HA2",HA2,1.0
+919,330000.0,"5 Matrix Court, Eastcote Lane, Harrow, Middlesex, HA2",HA2,1.0
+920,330000.0,"13 Emporium Court , Alexandra Avenue, Harrow, Middlesex, HA2",HA2,1.0
+921,324750.0,"1 Matrix Court, Eastcote Lane, Harrow, Middlesex, HA2",HA2,0.0
+922,320000.0,"26 Emporium Court Alexandra Avenue, Harrow, Middlesex, HA2",HA2,1.0
+924,325000.0,"Selwyn Court, Edgware, HA8",HA8,2.0
+926,325000.0,"Fentiman Way, South Harrow, Harrow, HA2",HA2,2.0
+927,650000.0,"The Highway, Stanmore, Middlesex, HA7",HA7,4.0
+928,245000.0," Sherwood Road, South Harrow HA2 8AW",HA2,1.0
+931,1100000.0,"Park Crescent, Harrow, HA3",HA3,5.0
+933,350000.0,"Kensington Heights, Harrow, HA1",HA1,2.0
+935,1250000.0,"Glenthorpe Gardens, Stanmore, Middlesex, HA7",HA7,3.0
+936,625000.0,"Wakehams Hill, Pinner, Middlesex HA5",HA5,3.0
+937,575000.0,"Brook Drive, Harrow, HA1",HA1,4.0
+938,1300000.0,"Heritage View, Harrow, HA1",HA1,4.0
+939,275000.0,"Harrow,Middlesex,HA1",HA1,2.0
+940,350000.0,"Queens House, Kymberley Road, Harrow, Middlesex, HA1",HA1,2.0
+942,375000.0,"Merlins Court, Alexandra Avenue, Harrow, Middlesex, HA2",HA2,3.0
+943,360000.0,"Cornwall Road , Hatch End, Middlesex HA5",HA5,2.0
+947,430000.0,"Curtis Court, Lyon Road , HA1 2EW",HA1,1.0
+948,429950.0," Langton House, Cottage Close, Harrow on the Hill, HA2",HA2,2.0
+949,1295000.0,"Dalkeith Grove, Stanmore, HA7",HA7,6.0
+950,260000.0,"Albany Court, Kenton Road, HA3",HA3,1.0
+952,304950.0,"The Broadway, Stanmore, Middlesex, HA7",HA7,3.0
+953,1900000.0,"Green Lane, Stanmore, HA7",HA7,5.0
+956,615000.0,"Harrow View West, Harrow View, Harrow, Middlesex, HA2",HA2,4.0
+958,1475000.0," Georgian Way,  Harrow on the Hill, HA1",HA1,5.0
+960,470000.0,"Brightwen Grove, Stanmore HA7",HA7,2.0
+962,925000.0,"Ash Close, Stanmore, Middlesex, HA7",HA7,4.0
+968,430000.0,"Northolt Road, Harrow, Middlesex, HA2",HA2,2.0
+969,420000.0,"Northolt Road, Harrow, Middlesex, HA2",HA2,2.0
+970,410000.0,"Northolt Road, Harrow, Middlesex, HA2",HA2,2.0
+971,799950.0,"Stanmore Hill, Stanmore, HA7",HA7,3.0
+972,550000.0,"Claremont Road, Harrow, HA3",HA3,3.0
+973,240000.0,"Peterborough Road, Harrow, Middlesex, HA1",HA1,0.0
+974,375000.0,"Woodriding Close, Hatch End, Middlesex HA5",HA5,2.0
+975,175000.0,"The Greenwoods, 19 Sherwood Road, HARROW, HA2",HA2,1.0
+978,450000.0,"Little Orchard Close, Pinner, Middlesex HA5",HA5,2.0
+980,325000.0,"70 Marlborough Hill, Harrow HA1 1TY",HA1,2.0
+981,355000.0,"Beech Tree Close, Stanmore, HA7",HA7,3.0
+984,769950.0,"Elm Grove, Harrow Garden Village, Middlesex HA5",HA5,4.0
+985,725000.0,"Chestnut Drive, Pinner, Middlesex HA5",HA5,3.0
+986,450000.0,"Little Orchard Close, Pinner, Middlesex, HA5",HA5,2.0
+987,450000.0,"Little Orchard Close, Pinner, HA5",HA5,2.0
+989,194950.0,"Brandreth Court, Sheepcote Road, Harrow, HA1",HA1,1.0
+990,425000.0,"Nibthwaite Road, Harrow, Middlesex, HA1",HA1,3.0
+991,925000.0,"Wakehams Hill, Pinner, Middlesex, HA5",HA5,5.0
+992,325000.0,"Windsor Crescent, Harrow, HA2",HA2,2.0
+995,480000.0,"Cottage Close, Harrow on the Hill, Harrow, HA2",HA2,2.0
+996,950000.0,"Bentley Priory, Mansion House Drive, Stanmore, Middlesex, HA7",HA7,2.0
+997,345000.0,"Leeway Close, Hatch End, Middlesex HA5",HA5,1.0
+998,400000.0,"Woodcroft, London Road, Stanmore, HA7",HA7,2.0
+1003,395000.0," Chestnut Court, Roxborough Avenue, Harrow on the Hill, HA1",HA1,2.0
+1004,199999.0,"Harrow, HA1",HA1,0.0
+1005,490000.0," Chiltern House, High Street, Harrow on the Hill, HA1",HA1,3.0
+1006,270000.0,"Farmstead Road, Harrow, HA3",HA3,1.0
+1007,320000.0,"Spire House, 1 Peterborough Road, Harrow, HA1",HA1,2.0
+1008,550000.0,"Holme Way, Stanmore, HA7",HA7,2.0
+1013,450000.0,"Compass House, Pynnacles Close, Stanmore, HA7",HA7,2.0
+1018,540000.0,"Grange Avenue, Stanmore, HA7",HA7,3.0
+1020,650000.0,"Portland Crescent, Stanmore, HA7",HA7,4.0
+1022,270000.0,"Queens House, Kymberley Road, Harrow, Middlesex, HA1",HA1,1.0
+1023,969950.0,"Padelford Lane, Stanmore, HA7",HA7,4.0
+1024,279999.0,"40 Pinner Hill Road, HA5",HA5,1.0
+1029,330000.0,"Headstone Drive,
+Harrow,
+HA1 4TY",HA1,1.0
+1030,285000.0,"Queens House, Kymberley Road, Harrow, HA1",HA1,1.0
+1031,350000.0,"Queens House, Kymberley Road, Harrow, HA1",HA1,2.0
+1032,290000.0,"Queens House, Kymberley Road, Harrow, HA1",HA1,1.0
+1033,310000.0,"Queens House, Kymberley Road, Harrow, HA1",HA1,1.0
+1034,560000.0,"Woodlands Road, Harrow, HA1 2RS",HA1,4.0
+1035,315000.0,"No 8 Stanmore Hill,Stanmore,HA7",HA7,1.0
+1036,450000.0,"Pinner Road, Harrow, HA1",HA1,2.0
+1039,1375000.0," Waldron Road,  Harrow on the Hill, HA1",HA1,5.0
+1042,375000.0,"Tudor Gardens, Harrow Weald, Harrow, HA3",HA3,2.0
+1044,495000.0,"Orchard Grove, HARROW, Middlesex, HA3",HA3,3.0
+1047,500000.0,"Stanmore Place,Stanmore,HA7",HA7,2.0
+1049,525000.0,"St. Pauls Avenue, Harrow, HA3",HA3,3.0

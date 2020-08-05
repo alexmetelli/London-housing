@@ -1,0 +1,899 @@
+,price,address,postcode,number_bedrooms
+0,400000,"Romford Road, Stratford, London, E15",E15,2.0
+1,300000,"Candlelight Court, 124 Romford Road, London, England, E15",E15,2.0
+2,385000,"Tweedmouth Road, London, E13",E13,2.0
+3,475000,"Azure Building, Stratford, London, E15",E15,1.0
+4,900000,"Defoe House, London City Island, E14",E14,3.0
+5,400000,"Varley Road, Canning Town E16",E16,3.0
+6,290000,"Rowan Court, High Street, Plaistow, London E13",E13,2.0
+9,415000,"4 Woolwich Manor Way, London, E16",E16,2.0
+10,170000,"Wellington Road, Forest Gate, E7",E7,1.0
+11,450000,"Macaulay Road, East Ham, London, E6",E6,3.0
+12,375000,"Thorpe Road, East Ham, London, E6",E6,3.0
+13,500000,"Sky View Tower, 12 High Street, Stratford, London, E15",E15,2.0
+14,220000,"Charlemont Road, East Ham, E6",E6,1.0
+16,475000,"Clifton Road, London, E7",E7,3.0
+17,700000,"Royal Victoria Dock, Rayleigh Road, West Silvertown, E16",E16,4.0
+18,300000,"North Street, Plaistow , London, E13",E13,2.0
+19,425000,"Latimer Avenue, E6 2LQ",E6,3.0
+21,420000,"Pandora Court, Docklands, London, E16",E16,2.0
+22,380000,"Lowestoft Mews, Galleons Lock, E16",E16,2.0
+23,369995,"Sheerness Mews, Galleons Lock, E16",E16,2.0
+24,280000,"Maud Road, London, E13",E13,2.0
+25,750000,"Warehouse K, E16",E16,3.0
+26,389995,"Boston Road,  East Ham, E6",E6,3.0
+29,550000,"Braemar Road, Plaistow, London, UK, E13",E13,3.0
+30,450000,"Boxley Street, Canning Town E16",E16,2.0
+32,390000,"Barking Road, East Ham, London, E6",E6,3.0
+33,375000,"119 The Grove, London, E15",E15,2.0
+35,475000,"Odessa Road, London, E7",E7,2.0
+37,525000,"Kildare Road, Canning Town, London, E16",E16,4.0
+38,600000,"Lovage Approach, London, E6",E6,4.0
+39,999000,"1 Hyett Terrace,
+Honour Lea Avenue,
+Stratford,
+London,
+E20 1HH",E20,5.0
+40,250000,"Romford Road, Forest Gate, London, E7",E7,1.0
+41,275000,"Angelica Drive, Beckton, London, E6",E6,2.0
+42,400000,"Jutland Road, Plaistow, London, England, E13",E13,2.0
+43,550000,"Meath Road, Stratford , London, E15",E15,5.0
+44,400000,"Pelly Road, London, E13",E13,3.0
+45,250000,"Wards Wharf Approach, Royal Docks, E16",E16,0.0
+46,540000,"Park View House, Royal Wharf, E16",E16,2.0
+47,300000,"Romford Road, Forest Gate E7",E7,2.0
+48,490000,"West Road, London, E15",E15,3.0
+51,525000,"Barrier Point Road, London, E16",E16,2.0
+53,400000,"High Street, Stratford, London, E15",E15,2.0
+54,305000,"Barking Road, Plaistow, E13",E13,2.0
+56,310000,"High Street, Plaistow, London, E13 0AD",E13,2.0
+58,580000,"Edge Apartments, 1 Lett Road, Stratford, London, E15",E15,3.0
+60,725000,"Atlantic Building, 144 Leyton Road, London, E15",E15,3.0
+61,390000,"Shaftesbury Road, London, E7",E7,2.0
+64,180000,"315 Barking Road, Plaistow, London , Greater London, E13 8EE",E13,2.0
+65,800000,"Trinity Tower, Canary Wharf, London, E14",E14,2.0
+66,455000,"Aldworth Road, Stratford E15",E15,2.0
+67,550000,"Chaucer Road, London, E7",E7,3.0
+70,450000,"Neatscourt Road, London, E6",E6,3.0
+71,250000,"Gadwall Close, London, E16",E16,1.0
+73,319995,"Garvary Road, Custom House, E16",E16,2.0
+74,400000,"Macaulay Road, London, E6",E6,2.0
+76,350000,"Joseph House, 110-112 Grange Road, London E13 0EP",E13,2.0
+78,300000,"Eastbourne Road, London, E6",E6,3.0
+80,350000,"Paul Street, Stratford, London, England, E15",E15,3.0
+81,325000,"Romford Road, London, E7",E7,2.0
+82,625000,"Ronald Avenue, West Ham E15",E15,4.0
+85,325000,"Henniker Point, Maryland, London, E15",E15,3.0
+86,425000,"High Street, Stratford, London, E15",E15,2.0
+88,525000,"Dundee Road, London E13",E13,4.0
+89,350000,"Albert Road, Silvertown, London, E16",E16,2.0
+90,180000,"315 Barking Road, London, E13",E13,2.0
+91,250000,"Eastbourne Road, London, E15",E15,1.0
+92,329995,"The Sphere, 1 Hallsville Road, London, E16",E16,1.0
+93,650000,"Albany Road, London, E12",E12,5.0
+94,475000,"Wolseley Road, London, E7",E7,3.0
+96,600000,"Geere Road, London, E15",E15,4.0
+97,600000,"St. Georges Road, London, E7",E7,5.0
+98,500000,"Ranelagh Road, East Ham, London, E6",E6,3.0
+99,650000,"Maryland Street, Maryland, London, E15",E15,3.0
+100,625000,"Wise Road, Stratford, E15",E15,3.0
+101,850000,"Stopford Road, Upton Park, London, E13",E13,6.0
+102,325000,"6 Woolwich Manor Way, London, E16",E16,2.0
+103,750000,"Capel Road, London, E12",E12,3.0
+105,475000,"Defoe House, London City Island, London, E14",E14,1.0
+106,600000,"Kingfisher Heights, 2 Bramwell Way, London, E16 ",E16,3.0
+107,400000,"Boundary Road, London, E13",E13,2.0
+108,500000,"Wanlip Road, London, E13",E13,4.0
+109,380000,"Blenheim Road, East Ham, London, E6 3EG",E6,2.0
+110,240000,"Morgan Street, London, E16",E16,1.0
+112,350000,"Rathbone Market, Canning Town E16",E16,1.0
+113,265000,"101-103 Barking Road, London, E16",E16,1.0
+114,760000,"Marco Polo Building, Royal Wharf, E16",E16,2.0
+115,420000,"Fairwater House, 1 Bonnet Street, London, E16",E16,1.0
+116,325000,"Boxley Street, London, England, United Kingdom, E16",E16,2.0
+117,550000,"Upton Park Road, London, E7",E7,4.0
+118,365000,"Gerry Raffles Square, London, E15",E15,2.0
+120,690000,"Claremont Road, London, E7",E7,3.0
+121,400000,"Romford Road, Stratford, London, E15",E15,2.0
+122,500000,"Creighton Avenue, East Ham, London, E6",E6,3.0
+123,525000,"Chadwin Road, E13, Plaistow, London, E13",E13,3.0
+124,450000,"Wellington Road, Forest Gate, London E7 9BT",E7,2.0
+125,250000,"Romford Road, Forest Gate, London, E7",E7,1.0
+127,300000,"Channelsea Road, Stratford, London, England, E15",E15,2.0
+129,315000,"Flat 81, Bawley Court, 1 Magellan Boulevard, London, E16 2FU",E16,1.0
+130,450000,"Discovery Tower, E16",E16,1.0
+131,425000,"Rick Roberts Way, London, E15",E15,2.0
+132,500000,"The Oxygen Apartments, Royal Victoria Dock, E16",E16,2.0
+135,450000,"Pollard Close, Canning Town, London, England, E16",E16,3.0
+137,325000,"Macgregor Road, Canning Town, London, E16",E16,2.0
+139,875000,"TwelveTrees Park Sales &
+Marketing Suite , Manor Road ,
+London, E15 3FQ",E15,3.0
+140,340000,"Pulleyns Avenue, East Ham, E6",E6,2.0
+141,632500,"TwelveTrees Park Sales &
+Marketing Suite , Manor Road ,
+London, E15 3FQ",E15,2.0
+142,535000,"TwelveTrees Park Sales &
+Marketing Suite , Manor Road ,
+London, E15 3FQ",E15,1.0
+143,625000,"Wise Road, Stratford, E15",E15,3.0
+144,465000,"TwelveTrees Park Sales &
+Marketing Suite , Manor Road ,
+London, E15 3FQ",E15,1.0
+145,570000,"Ismailia Road, London, E7 9PH",E7,4.0
+146,475000,"Wolseley Road, London, E7",E7,3.0
+149,240000,"Barking Road, Plaistow, London, E13 8EE",E13,2.0
+150,716500,"Chobham Farm, 
+Penny Brookes Street, London,
+E15",E15,3.0
+151,750000,"Romford Road, London, E15",E15,4.0
+155,350000,"Kingsland Road, London, E13",E13,2.0
+156,350000,"Umbriel Place, Plaistow, London, E13",E13,2.0
+157,475000,"Kingfisher Street, London, E6",E6,4.0
+158,400000,"Watson Avenue, London, E6",E6,3.0
+159,250000,"Hyle House, 119 Walton Road, Manor Park, London, E12",E12,1.0
+160,400000,"Bolton Road, London, E15",E15,2.0
+161,450000,"Pioneer Court, London, E16",E16,2.0
+164,365000,"Kerrison Road, London, E15",E15,2.0
+165,500000,"Seagull Lane, London, E16",E16,2.0
+169,400000,"Robertson Road, London E16",E16,2.0
+170,325000,"Queensberry Place, Manor Park, London, E12",E12,2.0
+171,425000,"Pond Road,London,E15 3BE",E15,2.0
+172,425000,"Pioneer Court, 50 Hammersley Road, London, E16",E16,2.0
+173,300000,"St Albans Avenue, East Ham, London, E6",E6,2.0
+174,597750,"Royal Wharf, London E16 ",E16,2.0
+175,105625,"Leyton Road,
+London,
+E15 1DH",E15,1.0
+176,860000,"Starboard Way, Royal Wharf, London, E16",E16,3.0
+181,525000,"Velocity Building, Ward Road, London E15",E15,3.0
+184,325000,"Whitear Walk, London, E15",E15,3.0
+185,875000,"Eddington Court, Hallsville Quarter, Canning Town E16",E16,3.0
+187,600000,"Sentinel Building, 49 Liberty Bridge Road, London, E15",E15,3.0
+188,360000,"Sark Walk, Custom House, London, E16 3PS",E16,3.0
+190,85000,"Emily Duncan Place, London, E7",E7,2.0
+192,240000,"Viscount Drive, East Ham, London, E6",E6,1.0
+193,630000,"Dames Road, London, E7",E7,3.0
+196,375000,"Field Road, Forest Gate, London, E7",E7,2.0
+198,450000,"New City Road, London, E13",E13,3.0
+199,675000,"James Cook, Royal Wharf, London, E16",E16,2.0
+201,469500,"Marco Polo, Royal Wharf, London, E16",E16,1.0
+202,575000,"Maud Street, London, E16",E16,2.0
+203,560000,"Shelley Avenue, Manor Park, London, E12",E12,3.0
+204,325000,"Burges Road, East Ham, London, E6",E6,2.0
+205,600000,"Whyteville Road, London, E7",E7,5.0
+206,525000,"Jade Close, Beckton, London, E16",E16,4.0
+207,525000,"Clements Road, East Ham, E6",E6,3.0
+209,315000,"Bawley Court, Gallions Reach, London, E16",E16,1.0
+210,275000,"Disraeli Road, Forest Gate, E7",E7,1.0
+212,600000,"Hartland Road, London E15",E15,3.0
+213,375000,"Pretoria Road, Canning Town , London, E16",E16,3.0
+214,290000,"Shakespeare Crescent, Manor Park, London, E12 6LN",E12,2.0
+216,345000,"Kingfisher Heights, 2 Bramwell Way, London, E16 2GR",E16,1.0
+217,425000,"Pendant Court, Royal Wharf, Royal Victoria Docks, E16",E16,1.0
+218,575000,"Faringford Road, London, E15",E15,3.0
+219,335000,"Folkestone Road, East Ham, London, E6",E6,3.0
+220,400000,"Oxford Road, Stratford, London, E15",E15,3.0
+221,575000,"Kings Road, Upton Park, London, E6",E6,4.0
+222,280000,"Waldair Court, E16 2NW",E16,1.0
+223,475000,"Pevensey Road, London E7 0AR",E7,2.0
+224,370000,"154 Leyton Road, London, E15",E15,1.0
+225,300000,"Romford Road, Forest Gate E7",E7,2.0
+226,392000,"Oceanis Apartments, Royal Victoria Dock, E16",E16,2.0
+227,490000,"Oceanis Apartments, Royal Victoria Dock, E16",E16,2.0
+229,500000,"Kitchener Road, London, E7",E7,4.0
+230,255000,"Romford Road, London, E7",E7,1.0
+233,270000,"Macgregor Road, Beckton E16",E16,1.0
+235,365000,"Amelia House, London City Island, E14",E14,0.0
+236,250000,"Foxcombe Close, London, E6",E6,1.0
+237,375000,"Capital East Apartments, 21 Western Gateway, Newham, London, E16",E16,1.0
+238,450000,"Warehouse W, 3 Western Gateway, London, E16",E16,1.0
+239,899995,"Adriatic Apartments, 20 Western Gateway, London, E16",E16,2.0
+240,330000,"Ralph Jackson House, 331 Romford Road, London, E7",E7,2.0
+242,475000,"Sorrel Gardens, London, E6",E6,4.0
+244,354000,"Myrtle Road,
+London,
+E6 1HY",E6,1.0
+245,357000,"Myrtle Road,
+London,
+E6 1HY",E6,1.0
+246,354000,"Myrtle Road,
+London,
+E6 1HY",E6,1.0
+247,488000,"1 Academy House, Thunderer Street,
+Upton Park,
+London,
+E13 9AX",E13,2.0
+249,375000,"Stonechat Square, London, E6",E6,2.0
+250,800000,"Trinity Tower, Canary Wharf, London, E14",E14,2.0
+251,350000,"Manor Road, London, E15 3AW",E15,3.0
+252,500000,"Upper Road, London, E13",E13,5.0
+253,500000,"Heigham Road, East Ham, London, E6",E6,3.0
+254,700000,"1 Hyett Terrace,
+Honour Lea Avenue,
+Stratford,
+London,
+E20 1HH",E20,3.0
+255,869000,"1 Hyett Terrace,
+Honour Lea Avenue,
+Stratford,
+London,
+E20 1HH",E20,4.0
+256,715000,"1 Hyett Terrace,
+Honour Lea Avenue,
+Stratford,
+London,
+E20 1HH",E20,3.0
+257,399999,"Newham Way, Canning Town, London, E16",E16,2.0
+258,335000,"Park View Place, Royal Wharf, E16",E16,0.0
+259,650000,"Ash Road, Stratford, London, E15",E15,3.0
+260,300000,"95 William Morley Close, London, E6 1QZ",E6,3.0
+261,265000,"Strode Road, Forest Gate, E7",E7,1.0
+262,290000,"Maryland Street, E15",E15,1.0
+263,250000,"Falmouth Street, E15",E15,1.0
+265,400000,"Barrier Point, Barrier Point Road, Silvertown, London, E16",E16,1.0
+266,500000,"Corson House, London City Island, E14",E14,1.0
+267,430000,"Palmer Road, Plaistow, London, E13 8NU",E13,3.0
+268,404000,"Echo House, London City Island, E14",E14,0.0
+269,320000,"Plaistow Road, Stratford, London, E15 3EU",E15,2.0
+270,150000,"Burford Wharf Apartments, 3 Cam Road, London, E15",E15,0.0
+271,325000,"Ling Road, London, E16",E16,3.0
+272,485000,"Glasgow Road, Plaistow, E13",E13,3.0
+273,600000,"Hartland Road, London, E15",E15,3.0
+277,315000,"Felixstowe Court, Galleons Lock, E16",E16,2.0
+278,160000,"Dersingham Avenue, London, E12 6JX",E12,2.0
+279,375000,"Windsor Hall, Wesley Avenue, LONDON, E16",E16,2.0
+280,380000,"Wolseley Road, Forest Gate, London, England, E7",E7,2.0
+281,340000,"Spectacle Works, 1A Jedburgh Road, London, E13",E13,1.0
+283,475000,"Forest Lane, London, E7",E7,2.0
+284,400000,"Trevelyan Road, London, E15",E15,2.0
+285,475000,"Holness Road, Stratford, London E15 4EN",E15,2.0
+286,460000,"Hammersley Road, London, E16",E16,2.0
+287,395000,"90 High Street, E15",E15,1.0
+288,275000,"60 Warbler House, Plaistow E13",E13,1.0
+290,480000,"Forest Side, London, E7",E7,2.0
+291,550000,"Park View Place, Royal Wharf, Royal Dock, London, E16",E16,2.0
+292,393995,"Newham Way, 
+Beckton, 
+London
+E6 5YR",E6,2.0
+294,275000,"Redclyffe Road, East Ham, London, E6",E6,2.0
+295,515000,"Sheringham Avenue, Manor Park, London, E12",E12,3.0
+296,575000,"Edith Road, East Ham, London, E6",E6,4.0
+297,400000,"4 Shipwright Street, London, E16",E16,1.0
+298,650000,"Chaucer Road, Forest Gate E7",E7,6.0
+299,350000,"230D Grange Road, West Ham, E13",E13,1.0
+302,410000,"Boundary Road, London, E13",E13,2.0
+303,550000,"Eastern Quay Apartments, Royal Victoria Dock, London, E16",E16,2.0
+306,450000,Barking Road London E16,E16,2.0
+307,100625,"Banyan Court,
+Regalia Close,
+London
+E16 2TW",E16,1.0
+308,122500,"Banyan Court,
+Regalia Close,
+London
+E16 2TW",E16,2.0
+309,132500,"Banyan Court,
+Regalia Close,
+London
+E16 2TW",E16,2.0
+310,132500,"Banyan Court,
+Regalia Close,
+London
+E16 2TW",E16,2.0
+311,158125,"Banyan Court,
+Regalia Close,
+London
+E16 2TW",E16,3.0
+312,632500,"Banyan Court,
+Regalia Close,
+London
+E16 2TW",E16,3.0
+313,370000,High Street London E15,E15,2.0
+314,530000,"Banyan Court,
+Regalia Close,
+London
+E16 2TW",E16,2.0
+315,402500,"Banyan Court,
+Regalia Close,
+London
+E16 2TW",E16,1.0
+316,475000,"Meade House, London City Island, E14",E14,1.0
+317,500000,"Sky View Tower, Stratford E15",E15,3.0
+319,245000,"Woodgrange Road, London, E7",E7,1.0
+320,445000,"Discovery Tower 1 Terry Spinks Place, London, E16",E16,1.0
+322,290000,"Lucas Avenue, Lucas Avenue, Lucas Avenue, E13",E13,1.0
+323,300000,"Sebert Road, Forest Gate, E7",E7,2.0
+324,747500,"12.01.09 Park View Place, Royal Wharf, London, E16",E16,3.0
+326,400000,"Gerry Raffles Square, Stratford, London, E15",E15,2.0
+327,240000,"Stafford Morris House, Church Street, London, E15",E15,2.0
+328,785000,"17.02.04 James Cook Building, Royal Wharf, London, E16",E16,3.0
+329,895000,"17.12.04, Royal Wharf, London, E16",E16,3.0
+330,593250,"13B.05.04, Royal Wharf, London, E16",E16,2.0
+331,650000,"Stratosphere Tower, 55 Great Eastern Road, Stratford, E15",E15,2.0
+332,515000,"Neville Road, London, E7",E7,2.0
+333,300000,"Bridgepoint Lofts, 6 Shaftesbury Road, London, E7",E7,1.0
+334,588000,"13B.01.08, Royal Wharf, London, E16",E16,2.0
+336,687750,"13B.03.07John Cabot House, Royal Wharf, London, E16",E16,3.0
+338,465000,"Burford Wharf Apartments, 3 Cam Road, London E15 2SL",E15,2.0
+339,499995,"Concorde Drive, Beckton, E6",E6,4.0
+340,305000,"Caraway Close, Plaistow, London, E13",E13,2.0
+341,550000,"Crofton Road, Plaistow, London, E13",E13,3.0
+342,575000,"The Oxygen Apartments, Royal Victoria Dock, E16",E16,2.0
+344,800000,"Hampton Road, London, E7",E7,4.0
+345,800000,"Kelson House, Royal Wharf, Royal Docks, E16",E16,3.0
+346,400000,"John Cabot House, Royal Wharf, Royal Docks, E16",E16,1.0
+349,650000,"Constable Avenue, London, E16",E16,3.0
+350,800000,"Trinity Tower, Canary Wharf, London, E14",E14,2.0
+351,175000,"Wolffe Gardens, London, E15 ",E15,1.0
+352,397000,"Oratory Apartments, Canning Town, London, E16",E16,1.0
+353,350000,"Queen Mary House, LONDON, E16",E16,2.0
+358,775000,"Lorne Road, Forest Gate, London, E7",E7,4.0
+359,285000,"Moxon Close, London, E13",E13,3.0
+360,725000,"Unex Tower, Stratford, London E15",E15,3.0
+361,370000,"Queens Road West, Plaistow, London, E13 0PE",E13,2.0
+362,175000,"New Barn Street, Plaistow, London, Greater London, E13 8JL",E13,1.0
+363,450000,High Street Stratford E15,E15,2.0
+365,365000,"Thanet Tower, 6 Caxton Street North, London, E16",E16,1.0
+367,500000,"Sky View Tower, Capital Towers, 12 High Street, Stratford, London, E15",E15,2.0
+368,400000,"Hatherley Gardens, London, E6",E6,3.0
+369,410000,"14 Western Gateway, E16 1BJ",E16,2.0
+370,315000,"Rectory Road, Manor Park, E12",E12,3.0
+371,865000,"Marco Polo House, Royal Wharf, E16",E16,3.0
+372,375000,"7 Wesley Avenue, London, E16",E16,2.0
+374,375000,"Vicarage Lane, London, E15",E15,2.0
+375,595000,"Grantham House, 46 Botanic Square, E14",E14,2.0
+376,600000,"James Cook, Royal Wharf, Royal Docks, E16",E16,2.0
+378,350000,"Clements Road, London, E6",E6,2.0
+379,220000,"Kelland Road, London, E13",E13,1.0
+380,650000,"Ash Road, London, E15",E15,3.0
+381,240000,"Felixstowe Court, North Woolwich, E16",E16,1.0
+382,485000,"Marco Polo, Royal Wharf, London, E16",E16,1.0
+383,280000,"Fothergill Close, Plaistow, London, E13",E13,1.0
+384,600000,"Gateway Tower, Royal Victoria, E16",E16,2.0
+385,375000,"Amelia House, London City Island, E14",E14,0.0
+386,525000,"Atlantic Building, 144 Leyton Road, London, E15",E15,2.0
+387,400000,"Denbigh Road, East Ham, London, E6 3LD",E6,3.0
+388,315000,"Hockley Avenue, East Ham, London, E6",E6,2.0
+389,300000,"St Georges Avenue, Forest Gate, London, E7",E7,1.0
+391,460000,"Evergreen Point, TwelveTrees Park, West Ham, E16",E16,1.0
+392,320000,"Edwin Street, London, E16",E16,1.0
+393,350000,"Margery Park Road, Stratford, London, E7",E7,2.0
+395,290000,"Carson Road, London, E16",E16,2.0
+396,280000,"Green Street, Plaistow, London, E13",E13,1.0
+397,400000,"Flanders Road, East Ham, London, E6",E6,3.0
+398,375000,"Mitcham Road, East Ham , London, E6",E6,2.0
+399,335000,"Gazelle House, 8 Manbey Park Road, London, E15",E15,1.0
+400,180000,"315 Barking Road, London, E13",E13,2.0
+403,425000,"Pioneer Court, Royal Docks E16",E16,2.0
+404,290000,"King Street, Plaistow, London, E13 8DB",E13,2.0
+405,675000,Glasshouse Gardens London E20,E20,2.0
+406,120000,"St Andrews Road, Plaistow, E13",E13,0.0
+407,625000,"Tippler Walk, London E15 1GD",E15,2.0
+408,300000,"Sutton Road, London, E13",E13,3.0
+409,425000,"50 Hammersley Road, London, E16",E16,2.0
+410,270000,"Burgess Road, East Ham, E6",E6,2.0
+411,499995,"Boleyn Road, London, E7",E7,3.0
+415,425000,"Wigston Road, London, E13",E13,3.0
+416,390000,"Otter Close, London, E15",E15,2.0
+417,550000,"Fairland Road, Stratford, London, E15 4AF",E15,3.0
+418,325000,"21 Edwin Street, London, E16",E16,1.0
+419,650000,"Evergreen Point, TwelveTrees Park, West Ham, E16",E16,2.0
+420,425000,"Colston Road, London, E7",E7,2.0
+421,368000,Hope Street London City Island E14,E14,0.0
+422,685000,"55 Peloton Avenue, London, E20",E20,3.0
+424,300000,"New Barn Street, London, E13",E13,2.0
+426,310000,"Concorde Drive, London, E6",E6,2.0
+427,370000,"Blaney Crescent, London, E6",E6,3.0
+428,375000,"Hermit Road, Canning Town, London, E16",E16,1.0
+429,425000,"Brock Road, London, E13",E13,3.0
+431,460000,"Landseer Avenue, London, E12",E12,4.0
+432,350000,"1 Crediton Road, London, E16",E16,2.0
+433,450000,"Wards Wharf Approach, London, E16",E16,2.0
+434,475000,"Kingfisher Heights, Canning Town E16",E16,2.0
+435,450000,"Bramwell Way, London, E16",E16,2.0
+436,260000,"Mitcham Road, East Ham , London, E6",E6,1.0
+437,500000,"City West Tower, Capital Towers, 6 High Street, London, E15",E15,3.0
+438,325000,"Park View Place, Royal Wharf, London, E16",E16,0.0
+439,400000,"Aurelia, 12 Rathbone Market, Barking Road, London, E16",E16,2.0
+440,415000,"James Cook, Royal Wharf, London, E16",E16,1.0
+441,385000,"Liddon Road, London, E13",E13,2.0
+443,250000,"Burford Wharf Apartments, 3 Cam Road, London, E15",E15,1.0
+444,430000,"Ford Street, Canning Town, London, E16 1HZ",E16,3.0
+445,625000,"Park View Place, Royal Wharf, London, E16 ",E16,2.0
+446,560000,"Spencer Road, London, E6",E6,5.0
+447,495000,"Pendant Court, Royal Wharf, London, E16",E16,1.0
+448,500000,"City West Tower, Stratford, London, E15",E15,3.0
+450,300000,"Romford Road, Forest Gate E7",E7,2.0
+452,310000,"87 Holland Road, London, E6 2EP",E6,3.0
+453,375000,"Rick Roberts Way, Stratford, London, E15",E15,1.0
+454,120000,"St Andrews Road, Plaistow, London, E13",E13,0.0
+456,465000,"Carrick House, Royal Wharf, London, E16",E16,1.0
+457,295000,"39 Windmill Lane, Stratford, E15",E15,1.0
+458,249999,"Fishguard Way, Galleons Lock, E16",E16,1.0
+460,955000,"Marco Polo, Royal Wharf, London,  E16 ",E16,3.0
+462,120000,"Studio 3, 16C St Andrews Road, London, E13 8QD",E13,0.0
+463,380000,"Amelia House, London City Island, E14",E14,0.0
+465,475000,"58 Warton Road, London, E15",E15,2.0
+467,569000,"Upton Gardens, Green Street, Upton Park, London, E13",E13,4.0
+468,476000,"Upton Gardens, Green Street, Upton Park, London, E13",E13,2.0
+469,300000,"Holland Road, West Ham, London, E15 3BP",E15,2.0
+470,525000,"Field Road, London, E7",E7,3.0
+473,400000,"Whales Yard, E15",E15,2.0
+479,340000,"Neville Road, Forest Gate, E7",E7,3.0
+480,500000,"Throckmorton Road, Canning Town E16",E16,3.0
+481,375000,"Stopford Road, Upton Park, London, E13",E13,2.0
+482,585000,"Warton Road, Stratford, London, E15",E15,4.0
+483,350000,"Parkside Court, Silvertown E16",E16,1.0
+484,1450000,"Wards Wharf Approach, E16 2EQ",E16,3.0
+486,300000,"Garvary Road, London, E16",E16,2.0
+487,350000,"Kingsland Road, Plaistow, E13",E13,2.0
+488,400000,"4 Prospect Row, London, E15",E15,1.0
+489,400000,"Hollybush Street, Plaistow, London, E13 9EB",E13,3.0
+490,310000,High Street Stratford E15,E15,1.0
+491,300000,High Street Stratford E15,E15,1.0
+492,650000,"Great Eastern Road, London, E15",E15,2.0
+493,350000,High Street Stratford E15,E15,2.0
+496,295000,"Selsdon Road, Upton Park, E13",E13,2.0
+497,375000,"John Cabot House, Clipper Street, London, E16",E16,1.0
+499,265000,"Dames Road, London, E7",E7,1.0
+500,360000,"Central House, 32-66 High Street, London, E15",E15,2.0
+503,475000,Station Street London E15,E15,1.0
+504,550000,"Western Gateway, London, E16",E16,2.0
+505,425000,"The Sphere, 1 Hallsville Road, London, E16",E16,2.0
+506,439950,"Flotilla House, Cable Street, Royal Wharf, E16",E16,1.0
+507,305000,"Myrtle Road,
+London,
+E6 1HY",E6,0.0
+513,300000,"Elm Road, Forest Gate, London, England, E7",E7,2.0
+514,295950,"CENTRAL HOUSE, 32-66 High Street, Stratford, London, E15",E15,1.0
+515,295950,"CENTRAL HOUSE, 32-66 High Street, Stratford, London, E15",E15,1.0
+516,550000,"38 Mirabelle Gardens, London, E20",E20,2.0
+517,320000,"Jack Clow Road, London, E15",E15,1.0
+518,550000,"River Heights, 90 High Street, London, E15",E15,2.0
+519,825000,"Chestnut Avenue, London, E7",E7,5.0
+522,475000,"Vernon Road, London, E15",E15,2.0
+523,375000,"1 Silvertown Square, London, E16",E16,1.0
+524,475000,"Parkside Court, 15 Booth Road, London, E16 2FX",E16,2.0
+525,400000,"Romford Road, Stratford, London, E15",E15,2.0
+526,295950,"Central House, 32-66 High Street, London, E15",E15,1.0
+527,295950,"Central House, 32-66 High Street, London, E15",E15,1.0
+528,295950,"Central House, 32-66 High Street, London, E15",E15,1.0
+529,425000,"Wesley Avenue, London, E16",E16,2.0
+530,325000,"St James Road, Stratford, London E15 1RN",E15,2.0
+531,465000,"Liner House, Royal Wharf, London, E16",E16,1.0
+534,360000,"Astell House, London City Island, E14",E14,0.0
+536,425000,"Liddon Road, Plaistow, London, E13",E13,3.0
+537,420000,"Corson House, Poplar, London, E14",E14,0.0
+538,500000,"The Oxygen, 18 Western Gateway, London, E16",E16,2.0
+539,634500,"James Cook, Royal Wharf, London, E16",E16,2.0
+540,348750,"Atlantis Avenue,
+London,
+E16 2UB",E16,1.0
+541,295950,"Central House, 32-66 High Street, London, E15",E15,1.0
+542,295950,"Central House, 32-66 High Street, London, E15",E15,1.0
+543,299950,"Central House, 32-66 High Street, London, E15",E15,1.0
+544,295950,"Central House, 32-66 High Street, London, E15",E15,1.0
+545,600000,"Constable Avenue, London, E16",E16,3.0
+547,565000,"Buckingham Road, London, E15",E15,2.0
+548,470000,"Rutland Road, FOREST GATE, E7",E7,3.0
+549,503750,"Gallions Point, London, E16",E16,2.0
+550,400000,"Bolton Road, London, E15",E15,2.0
+551,501250,"Gallions Point, London, E16",E16,2.0
+552,375000,"4 Prospect Row, London, E15",E15,1.0
+553,358750,"Gallions Point, London, E16",E16,1.0
+554,500000,"Birchdale Road, London, E7",E7,3.0
+555,475000,"The Oxygen Apartments, Royal Victoria Dock, E16",E16,2.0
+556,353750,"Gallions Point, London, E16",E16,1.0
+557,348750,"Gallions Point, London, E16",E16,1.0
+558,650000,"Geere Road, Stratford, London, E15",E15,4.0
+559,475000,"Clarence Road, Manor Park, London, E12",E12,3.0
+565,550000,"4 Cunningham Avenue, London, E16",E16,2.0
+566,425000,"York House, Royal Britannia Village, E16",E16,2.0
+567,380000,"Chainmakers House, London, E14",E14,1.0
+568,799995,"Bridgewater House, London City Island, E14",E14,2.0
+569,350000,"Chatsworth Road, London, E15",E15,2.0
+570,500000,"Hyde Close, Plaistow, London, E13",E13,3.0
+571,575000,"Wellington Road, Forest Gate, London, E7",E7,3.0
+573,490000,"Westgate Apartments, 14 Western Gateway, Royal Victoria, London, E16",E16,3.0
+574,549950,"John Cabot, Royal Wharf, London, E16",E16,2.0
+577,490000,"Neville Road, London, E7",E7,2.0
+578,325000,"Fairbairn Hall, Plaistow, London, E13",E13,1.0
+579,375000,"Chatsworth Road, Maryland, London, E15",E15,2.0
+580,620000,"Swallow Street, Beckton, London, E6",E6,4.0
+581,575000,"Fulmer Road, Beckton, London, E16",E16,4.0
+582,85000,"Barking Road, London, E13",E13,0.0
+583,525000,"Boundary Road, London, E13",E13,4.0
+585,375000,"Eddington Court, Silvertown Square, London, E16 1GW",E16,1.0
+586,325000,Stratford | London E15,E15,1.0
+587,498400,"Marco Polo, Royal Wharf, E16",E16,1.0
+588,277500,"Newham Way, 
+Beckton, 
+London
+E6 5YR",E6,1.0
+590,650000,"Hoola East, 3 Tidal Basin Road, Royal Docks, London, E16",E16,2.0
+591,685000,"Eddington Court, London, E16",E16,3.0
+592,530000,"Wooder Gardens, London, E7",E7,4.0
+595,380000,"Western Gateway, Royal Docks, London E16",E16,1.0
+596,350000,High Street North London E6,E6,1.0
+597,450000,High Street North East Ham E6,E6,3.0
+598,400000,"Agate Close, London, E16",E16,3.0
+600,945000,"18.13.05 Marco Polo, Royal Wharf, E16",E16,3.0
+601,215000,"25 Viscount Drive, London, E6 5XQ",E6,2.0
+602,565000,"South Esk Road, London, E7",E7,3.0
+604,300000,"Ebb Court, 1 Albert Basin Way, London, E16",E16,2.0
+605,350000,"Grange Road, Plaistow, E13",E13,3.0
+606,325000,"Western Gateway, E16",E16,1.0
+607,755000,"Ashford Road, London, E6",E6,5.0
+609,500000,"Barrier Point Road, London, E16",E16,2.0
+610,550000,"Commodore House, Admiralty Avenue, London, E16",E16,2.0
+611,375000,"John Cabot House, Royal Wharf, London, E16",E16,1.0
+614,140000,"Charles Darwin House, 17 Minnie Baldock Street, London, E16 1YE",E16,3.0
+615,565000,"Cassia Point, Glasshouse Gardens, Stratford E20",E20,1.0
+616,650000,"Disraeli Road, London, E7",E7,4.0
+617,569000,"1 Academy House, Thunderer Street,
+Upton Park,
+London,
+E13 9AX",E13,4.0
+618,290000,High Street Stratford E15,E15,1.0
+619,350000,High Street Stratford E15,E15,2.0
+620,310000,High Street Stratford E15,E15,1.0
+621,310000,High Street Stratford E15,E15,1.0
+622,360000,32-66 High Street London E15,E15,2.0
+623,600000,"Worland Road, London, E15",E15,3.0
+625,350000,"Umbriel Place, Plaistow, London, E13",E13,2.0
+627,325000,"Idmiston Road, London, E15",E15,2.0
+628,470000,"High Street, Stratford, London, England, E15",E15,2.0
+629,300000,"Milton Avenue, East Ham , London, E6",E6,2.0
+630,365000,"Jedburgh Road, East Ham, E13",E13,2.0
+632,820000,"Laker House, Royal Wharf, London, E16",E16,3.0
+635,400000,"2 Basin Approach, London, E16",E16,2.0
+637,600000,"Chesterton Terrace, London, E13",E13,5.0
+638,350000,"Barking Road, London, E13",E13,2.0
+639,73750,"Emily Duncan Place, London, E7",E7,1.0
+640,530000,"Banyan Court,
+Regalia Close,
+London
+E16 2TW",E16,2.0
+641,215000,"Viscount Drive, E6, Beckton, London, E6",E6,2.0
+642,360000,"Kirkham Road, Beckton, London, E6",E6,2.0
+644,475000,"Viscount Drive, London, E6",E6,3.0
+645,580000,"3 Schooner Road, London, E16",E16,2.0
+648,355000,"Waterside Heights, Booth Road, Royal Docks, E16",E16,1.0
+649,335000,"Thomas Frye Court 30 High Street, London, E15",E15,1.0
+651,425000,"The Sphere, Hallsville Road, E16",E16,2.0
+652,475000,"Colman Road, London, E16",E16,4.0
+654,360000,"Mortimer Road, East Ham, E6",E6,2.0
+655,425000,"The Sphere, Hallsville Road, E16",E16,2.0
+656,375000,"Oregon Avenue, London, E12",E12,2.0
+657,318750,"Barking Road, Canning Town, London E16",E16,2.0
+658,729925,Forrester Way London E15,E15,3.0
+660,710525,Forrester Way London E15,E15,3.0
+662,600000,"Atlantis Avenue,
+London,
+E16 2UB",E16,3.0
+663,706250,"Atlantis Avenue,
+London,
+E16 2UB",E16,3.0
+664,531250,"Atlantis Avenue,
+London,
+E16 2UB",E16,2.0
+666,134000,"105 Wise Road, London, E15 2FN",E15,1.0
+667,530000,"Saxon Road, Lodnon E6",E6,3.0
+668,425000,"Whitfield Road, East Ham , London, E6",E6,3.0
+669,700000,"Ingestre Road, Forest Gate, London, E7",E7,3.0
+672,240000,"Church Road, Manor Park, E12",E12,1.0
+673,875000,"International Way, Stratford, London, E20",E20,2.0
+674,444000,"Myrtle Road,
+London,
+E6 1HY",E6,2.0
+675,525000,"Chadwin Road, E13, Plaistow, London, E13",E13,3.0
+677,460000,"Evergreen Point, TwelveTrees Park, West Ham, E16",E16,1.0
+678,415000,"Evergreen Point, TwelveTrees Park, West Ham, E16",E16,1.0
+679,240000,"Concorde Drive, Beckton, London, E6",E6,1.0
+680,435000,"Godbold Road, London, E15",E15,3.0
+681,450000,"Earlham Grove, London, E7",E7,2.0
+682,450000,"John Cabot House, Royal Wharf, E16",E16,1.0
+683,280000,"Pandora Court, 8 Robertson Road, London, E16",E16,1.0
+686,400000,"Winifred Street, Silvertown, E16",E16,3.0
+688,270000,"The Lock, Stratford, E15",E15,1.0
+689,475000,"Sandford Road, London, E6 ",E6,5.0
+690,525000,"Cutter House, Royal Wharf, 1 Admiralty Avenue, London, E16",E16,2.0
+691,300000,"Norwich Road, London, E7",E7,1.0
+692,295950,"CENTRAL HOUSE, 32-66 High Street, Stratford, London, E15",E15,1.0
+693,290000,"CENTRAL HOUSE, 32-66 High Street, Stratford, London, E15",E15,1.0
+694,295950,"CENTRAL HOUSE, 32-66 High Street, Stratford, London, E15",E15,1.0
+695,350000,"CENTRAL HOUSE, 32-66 High Street, Stratford, London, E15",E15,2.0
+696,370000,"CENTRAL HOUSE, 32-66 High Street, Stratford, London, E15",E15,2.0
+697,350000,"CENTRAL HOUSE, 32-66 High Street, Stratford, London, E15",E15,2.0
+698,550000,"The Grainstore, Royal Victoria Dock, E16",E16,2.0
+700,300000,"Romford Road, Forest Gate E7",E7,2.0
+701,425000,"Park Grove, London, E15",E15,3.0
+702,435000,"Corsair House, Royal Wharf, E16 ",E16,1.0
+705,295950,"Central House, 32-66 High Street, London, E15",E15,1.0
+706,360000,"Central House, 32-66 High Street, London, E15",E15,2.0
+707,299950,"Central House, 32-66 High Street, London, E15",E15,1.0
+708,360000,"Central House, 32-66 High Street, London, E15",E15,2.0
+709,350000,"Central House, 32-66 High Street, London, E15",E15,2.0
+710,360000,"Eastern Road, London, E13",E13,3.0
+711,575000,"Pendant Court, 36 Royal Crest Avenue, Newham, London, E16",E16,2.0
+712,415000,"3 Tidal Basin Road, London, E16",E16,1.0
+713,350000,"Central House, 32-66 High Street, London, E15",E15,2.0
+714,600000,"Gallions Point, London, E16",E16,3.0
+715,299950,"Central House, 32-66 High Street, London, E15",E15,1.0
+716,480000,"Lathom Road, East Ham, E6",E6,4.0
+717,345000,"Central House, 32-66 High Street, London, E15",E15,2.0
+718,299950,"Central House, 32-66 High Street, London, E15",E15,1.0
+722,265000,"Macaulay Road, East Ham, London, E6 3BL",E6,2.0
+724,347500,"Bowes Lyon Hall, 1 Wesley Avenue, London, E16",E16,2.0
+725,400000,"Bolton Road, London, E15",E15,2.0
+727,350000,"Memorial Avenue, London, E15",E15,3.0
+728,300000,"Station Road, London, E7",E7,1.0
+729,440000,"Churchill Road, Canning Town, London, E16 3DY",E16,3.0
+730,214500,"Northumberland Road, Beckton, London, E6",E6,1.0
+731,375000,"John Barnes Walk, London, E15",E15,3.0
+732,380000,"Dongola Road, London, E13",E13,3.0
+734,450000,"Richard House Drive, Beckton, London, E16 3RE",E16,3.0
+735,325000,"Star Lane, London, E16",E16,3.0
+737,795000,"Stratosphere Tower, 55 Great Eastern Road, London, E15",E15,2.0
+739,595000,"Balearic Apartments, 15 Western Gateway, LONDON, E16",E16,2.0
+741,300000,"New Barn Street, London, E13",E13,1.0
+742,510000,"Myrtle Road,
+London,
+E6 1HY",E6,3.0
+743,311000,"Myrtle Road,
+London,
+E6 1HY",E6,0.0
+745,525000,"Marlborough Road, London, E7",E7,3.0
+748,325000,"Queensberry Place, Manor Park, London, E12",E12,2.0
+749,400000,"Atlas Road, London, E13",E13,3.0
+750,710525,Forrester Way London E15,E15,3.0
+753,300000,"Churcher House, Jack Cornwell Street, E12",E12,2.0
+755,450000,"Glasshouse Gardens, London, E20",E20,1.0
+756,550000,"Coleridge Avenue, Manor Park , London, E12",E12,4.0
+757,690000,"Ridley Road, London, E7",E7,3.0
+758,240000,"Canning Road, Stratford, London, E15 3FA",E15,0.0
+761,550000,"Stafford Road, London, E7",E7,3.0
+762,575000,"The Grainstore, Royal Victoria Dock, E16",E16,2.0
+766,400000,"Mortlake Road, London, E16",E16,3.0
+767,450000,"36 Hanover Avenue, London, E16",E16,1.0
+768,375000,"Jedburgh Road, London, E13",E13,2.0
+769,539000,"Kempton Mews, E6",E6,3.0
+770,388750,"Rawsthorne Close, London, E16",E16,2.0
+771,500000,"Newham Way, East Ham , London, E6",E6,4.0
+772,755000,"Ashford Road, London, E6",E6,5.0
+774,474995,"Rosedale Road, London, E7",E7,3.0
+776,879000,"1 Hyett Terrace,
+Honour Lea Avenue,
+Stratford,
+London,
+E20 1HH",E20,4.0
+777,879000,"1 Hyett Terrace,
+Honour Lea Avenue,
+Stratford,
+London,
+E20 1HH",E20,4.0
+778,435000,"Kempton Mews, E6",E6,2.0
+779,350000,"Drake Hall, London, E16",E16,2.0
+780,395000,"Manbey Park Road, London, E15",E15,2.0
+781,485000,"Grantham House, London City Island, London, E14",E14,1.0
+782,440000,"Boyd Building, 10 Frobisher Yard, London, E16",E16,2.0
+785,799995,"Rabbits Road, London, E12",E12,6.0
+786,425000,"Westgate Apartments 14 Western Gateway, London, E16",E16,2.0
+787,215000,"Northhumberland Road, Beckton, LONDON, E6",E6,1.0
+788,595000,"Grantham House, 46 Botanic Square, E14",E14,2.0
+789,650000,"Compass House, N Woolwich Road, E16",E16,2.0
+790,350000,"Kempton Mews, E6",E6,1.0
+791,375000,"Park View Place, Royal Wharf, E16",E16,1.0
+792,425000,"Baritone Court, Stratford, London, E15",E15,2.0
+793,525000,"Barrier Point Road, E16, Royal Docks, London, E16",E16,2.0
+794,425000,"John Cabot House, Clipper Street, London, E16",E16,1.0
+795,900000,"Kelson House, 8 Schooner Road, London, E16",E16,4.0
+796,450000,"Edwin Street, London, E16",E16,2.0
+797,112500,"Edwin Street, London, E16",E16,2.0
+798,340000,"Isom Close, Plaistow, E13",E13,3.0
+800,650000,"Maryland Street, Maryland, London, E15",E15,3.0
+801,450000,"2 Jude Street, London, E16",E16,2.0
+802,542500,"Royal Albert Wharf Riverside, Docklands, London, E16",E16,2.0
+803,310000,"Sovereign Tower, 1 Emily Street, E16",E16,0.0
+804,658750,"Gallions Point, London, E16",E16,3.0
+805,385000,"Chatsworth Road, Stratford, London, E15",E15,2.0
+806,755000,"Ashford Road, East Ham, E6",E6,5.0
+807,325000,"Eastbourne Road, East Ham, E6",E6,2.0
+808,270000,"Albatross Close, London, E6",E6,2.0
+809,486250,"Gallions Point, London, E16",E16,2.0
+810,775000,"Godwin Road, London, E7",E7,4.0
+811,875000,"Osborne Road, London, E7",E7,4.0
+812,270000,"Saints Drive, London, E7",E7,2.0
+813,620000,"Holbrook Road, Stratford, London, E15",E15,5.0
+814,750000,"Kent Building, London City Island, London, E14",E14,3.0
+815,240000,"Barking Road, Plaistow, E13",E13,2.0
+816,444900,London E16,E16,1.0
+817,528000,City Island Way London E14,E14,1.0
+818,625000,"Wintergreen Close, Royal Docks, London, E6",E6,4.0
+819,380000,Royal Wharf London E16,E16,1.0
+820,470000,"Ladysmith Road, Canning Town, London, E16 4NR",E16,2.0
+821,450000,"Eustace Road, London, E6",E6,3.0
+822,485000,"Western Beach Apartments, LONDON, E16",E16,2.0
+823,490000,"Alnwick Road, Custom House. London, E16 3EY",E16,4.0
+824,275000,"Green Point Water Lane, London, E15",E15,2.0
+825,300000,"Romford Road, Forest Gate E7",E7,2.0
+826,950000,International Way Stratford E20,E20,2.0
+827,375000,"Gawsworth Close, Stratford, London, E15",E15,4.0
+828,650000,"Bawley Court 1 Magellan Boulevard, London, E16",E16,4.0
+829,700000,"Liner House, Royal Wharf, London, E16",E16,2.0
+830,825000,"Osborne Road, London, E7",E7,4.0
+833,260000,"Angelica Drive, Beckton, London, E6",E6,1.0
+836,450000,"Shipman Road, Custom House, E16",E16,3.0
+837,675000,"Windmill Lane, Stratford, London E15 1PG",E15,3.0
+838,300000,"Folkestone Road, East Ham, E6",E6,3.0
+839,268000,"Wellstead Road, East Ham, E6",E6,2.0
+840,260000,"Telham Road, East Ham, E6",E6,2.0
+841,375000,"Otter Close, London, E15",E15,2.0
+842,400000,"Whales Yard, London, E15",E15,2.0
+844,320000,"Kelland Road, Plaistow, London, E13 8DS",E13,3.0
+845,625000,"Liner House, Royal Wharf, E16",E16,3.0
+849,300000,"Redriffe Road, Plaistow, E13",E13,1.0
+850,290000,High Street Stratford E15,E15,1.0
+851,420000,"Dore Avenue, London, E12",E12,3.0
+853,289000," Granite Apartments, E15",E15,1.0
+854,725000,"Western Beach Apartments, 36 Hanover Avenue, London, E16",E16,2.0
+855,550000,"Sheringham Avenue, E12",E12,4.0
+856,475000,"Kingfisher Heights, Silvertown, E16",E16,2.0
+857,450000,"Chesterford Road, London, E12",E12,4.0
+859,420000,"York House, Royal Britannia Village, E16",E16,2.0
+860,580000,"Edge Apartments, Stratford, E15",E15,3.0
+861,569000,"Upton Gardens, London, E13",E13,4.0
+862,470000,"Park View Place, Royal Wharf, London, E16",E16,1.0
+863,365000,"Central House, 32-66 High Street, London, E15",E15,2.0
+866,875000,"Stratosphere, Stratford E15",E15,3.0
+867,239995,"Barking Road, London, E6",E6,1.0
+868,300000,"Whitwell Road, London, E13",E13,2.0
+870,314950,"The Quadrangle House, Romford Road, London, Greater London, E15",E15,1.0
+871,615000,"C.1402 Brunel Street Works, Canning Town, E16",E16,2.0
+872,640000,"C.1308 Brunel Street Works, Canning Town, E16",E16,2.0
+873,710000,"C.1501 Brunel Street Works, Canning Town, E16",E16,2.0
+874,345000,"Park View Place, Royal Wharf, E16",E16,0.0
+875,582750,"13B.03.04 John Cabot, Royal Wharf, E16",E16,2.0
+876,425000,"Park View Place, Royal Wharf, London, E16",E16,1.0
+877,375000,"Charlemont Road, London, E6",E6,3.0
+878,590000,"Maryland Street, London, E15",E15,3.0
+880,360000,"Biggerstaff Road, Stratford, London, E15",E15,1.0
+881,400000,"Lonsdale Avenue, London, E6",E6,3.0
+882,400000,"Sky View Tower, 12 High Street, Stratford, E15",E15,1.0
+883,450000,"Gerry Raffles Square, Stratford, London, E15",E15,2.0
+884,499995,"Keogh Road, Stratford, London, E15",E15,3.0
+887,745000,"C.1307 Brunel Street Works, Canning Town, E16",E16,3.0
+888,585000,"C.1304 Brunel Street Works, Canning Town, E16",E16,2.0
+889,720000,"C.0809 Brunel Street Works, Canning Town, E16",E16,3.0
+890,560000,"C.0904 Brunel Street Works, Canning Town, E16",E16,2.0
+891,630000,"C.0504 Brunel Street Works, Canning Town, E16",E16,3.0
+892,540000,"B.2103 Brunel Street Works, Canning Town, E16",E16,1.0
+893,820000,"B.1804 Brunel Street Works, Canning Town, E16",E16,3.0
+894,500000,"B.1706 Brunel Street Works, Canning Town, E16",E16,1.0
+895,632500,"B.1601 Brunel Street Works, Canning Town, E16",E16,2.0
+897,475000,"Neatscourt Road, Beckton, London, E6",E6,3.0
+898,335000,"Plaistow Road, London, E15",E15,2.0
+900,235000,"Grosvenor Road, Forest Gate, E7",E7,1.0
+902,425000,"Bridgepoint Lofts, Forest Gate, E7",E7,2.0
+903,535000,"Modena House, London City Island, E14",E14,1.0
+904,846000,"Modena House, London City Island, E14",E14,2.0
+905,1235000,"Modena House, London City Island, E14",E14,3.0
+906,475000,"Burges Road, London, E6",E6,4.0
+908,375000,"Credon Road, Upton Park, London, E13",E13,3.0
+909,105625,"Leyton Road,
+London,
+E15 1DH",E15,1.0
+910,449000,"Myrtle Road,
+London,
+E6 1HY",E6,2.0
+911,726500,"Chobham Farm, 
+Penny Brookes Street, London,
+E15",E15,3.0
+912,375000,"Grove Crescent Road, London, E15",E15,2.0
+913,280000,"Caraway Close, Plaistow, London, E13 8PN",E13,2.0
+915,789000,"Amelia House, London City Island, E14",E14,2.0
+916,835000,"Amelia House, London City Island, E14",E14,2.0
+917,775000,"Amelia House, London City Island, E14",E14,2.0
+918,830000,"Amelia House, London City Island, E14",E14,2.0
+919,900000,"Amelia House, London City Island, E14",E14,3.0
+920,845000,"Amelia House, London City Island, E14",E14,2.0
+921,825000,"Carrick House, Royal Wharf, London, E16",E16,3.0
+922,500000,"Rochester Avenue, London, E13",E13,3.0
+923,375000,"Lonsdale Avenue, East Ham , London, E6",E6,3.0
+926,295000,"Marni House, 145 Carlyle Road, London, E12",E12,1.0
+927,310000,"Dore Avenue, London, E12",E12,2.0
+928,1050000,"Amelia House, London City Island, E14",E14,3.0
+929,450000,"Streatfeild Avenue, London, E6",E6,3.0
+930,335000,"Abbey Lane, London, E15",E15,2.0
+932,280000,"Beatrice Close, London, E13",E13,2.0
+933,550000,"Selsdon Road, London, E13",E13,3.0
+934,230000,"121 Walton Road, Manor Park, London, E12",E12,1.0
+936,569000,"1 Academy House, Thunderer Street,
+Upton Park,
+London,
+E13 9AX",E13,4.0
+937,335000,"Abbey Lane, Stratford, London, E15",E15,2.0
+940,425000,"Howard Road, East Ham, E6",E6,3.0
+941,235000,"Grosvenor Road, Forest Gate, E7",E7,1.0
+942,565000,"Mercier Court, Royal Wharf, London, E16",E16,2.0
+944,490000,"Morley Road, London, E15",E15,3.0
+945,350000,"Memorial Avenue, London, E15",E15,3.0
+949,270000,"Rawsthorne Close, London, E16",E16,1.0
+950,535000,"Hoola, 3 Tidal Basin Road, Royal Docks, London, E16",E16,2.0
+951,475000,"Ladysmith Avenue, London, E6",E6,3.0
+953,100000,"Pioneer Court, E16, Canning Town, London, E16",E16,2.0
+954,650000,"Hickman Close, Beckton, London, E16",E16,5.0
+955,335000,"Queensberry Place, London, E12",E12,2.0
+957,375000,"Fleetwood Court, Evelyn Denington Road, Beckton, London, E6",E6,3.0
+958,500000,"Geere Road, London, E15",E15,3.0
+959,415000,"John Cabot, Royal Wharf, London, E16",E16,1.0
+960,315000,"Hasler Court, Carlyle Road, Manor Park, E12",E12,3.0
+962,440000,"Nine Acres Close, Manor Park, E12",E12,3.0
+963,700000,"Little Ilford Lane, London, E12",E12,5.0
+964,424995,"Saxon Road, London, E6",E6,3.0
+965,295000,"Granite Apartments, Windmill Lane, Stratford, E15",E15,1.0
+966,335000,"Stuart House, Beaulieu Avenue, LONDON, E16",E16,2.0
+968,375000,"8 Robertson Road, London, E16",E16,2.0
+969,395000,"John Cabot House, Royal Wharf, E16",E16,0.0
+970,550000,"Amelia House, London City Island, E14",E14,1.0
+971,395000,"Astell House, London City Island, E14",E14,0.0
+972,425000,"Astell House, London City Island, E14",E14,0.0
+974,275000,"Magpie Close, London, E7",E7,1.0
+976,300000,"Browning Road, London, E12",E12,3.0
+977,280000,"Oberon Court, London, E6",E6,1.0
+979,425000,"Canning Town, Canning Town, London, E16",E16,3.0
+981,225000,"Walton Road, Manor Park, London, E12 5BF",E12,1.0
+982,270000,"Rawsthorne Close, London, E16",E16,1.0
+986,450000,"Eighth Avenue, London, E12",E12,3.0
+989,500000,"Sheringham Avenue, London, E12",E12,3.0
+990,390000,"Chesterton Terrace, Plaistow, London, E13 0BZ",E13,2.0
+992,470000,"Sprowston Mews, London E7",E7,3.0
+993,750000,"Parkside Court, Booth Road, London, E16",E16,3.0
+994,500000,"Baltic Apartments, Canning Town E16",E16,2.0
+995,465000,"Marco Polo, Royal Wharf, London, E16",E16,1.0
+997,499950,"Glasshouse Gardens, London, E20",E20,0.0
+998,166000,"Charles Darwin House, Minnie Baldock Street, London E16 1YE",E16,1.0
+999,430000,"High Street South, London, E6",E6,4.0
+1000,375000,"CENTRAL HOUSE, 32-66 High Street, Stratford, London, E15",E15,2.0
+1001,350000,"George Peabody Street, London E13 9DE",E13,2.0
+1002,275000,"Earlham Grove, London, E7",E7,1.0
+1003,780000,Glasshouse Gardens London E20,E20,2.0
+1004,549995,"Mathews Park Avenue, Stratford E15",E15,3.0
+1005,410000,"Hatherley Gardens, East Ham, London, E6",E6,3.0
+1007,379000,"Capital East, London, E16",E16,1.0
+1009,375000,"Park View Place, Royal Wharf, London, E16",E16,1.0
+1010,460000,"Hammersley Road, London, E16 1UF",E16,2.0
+1011,455000,"Napier Road, East Ham, London, E6",E6,3.0
+1012,470000,"South Esk Road, Forest Gate, E7",E7,3.0
+1014,593250,"13B.05.04, John Cabot House, Royal Wharf, E16",E16,2.0
+1015,260000,"Fleetwood Court, London, E6",E6,1.0
+1016,280000,"Beatrice Close, London, E13",E13,2.0
+1018,395000,"Minnie Baldock Street, London E16",E16,1.0
+1019,158000,"17 Minnie Baldock Street, London E16",E16,1.0
+1020,645000,"Victoria Avenue, East Ham, E6",E6,5.0
+1021,280000,"Elmhurst Road, London, E7",E7,1.0
+1022,355000,"The Sphere, 1 Hallsville Road, London, E16",E16,1.0
+1024,430000,"Cheshunt Road, Forest Gate, London, E7 8JD",E7,4.0
+1026,325000,"Beaconsfield Road, London, E16 4HT",E16,2.0
+1027,520000,London E16,E16,1.0
+1028,350000,"8 Exeter Road, London, E16",E16,2.0
+1029,575000,"Tidal Basin Road, London, E16",E16,2.0
+1031,280000,"3 Wattsdown Close, London, E13",E13,1.0
+1032,320000,London E16,E16,2.0
+1034,315000,"Connaught Heights E16, London",E16,1.0
+1035,315000,"Royal Wharf, Park View Place, London, E16",E16,0.0
+1036,415000,"John Cabot House, Royal Wharf, London, E16 ",E16,1.0
+1037,600000,"Argo, Goodluck Hope, London, E14",E14,1.0
+1038,350000,"CENTRAL HOUSE, 32-66 High Street, Stratford, London, E15",E15,1.0
+1039,375000,"Bray Drive, London, E16",E16,2.0
+1040,310000,"Romford Road, Forest Gate, E7",E7,2.0
+1041,190000,"Stubbs Point, New Barn Street, Plaistow, E13",E13,1.0
+1042,675000,"Coral Apartments, Royal Victria Dock, E16",E16,2.0
+1043,375000,"CENTRAL HOUSE, 32-66 High Street, Stratford, London, E15",E15,2.0
+1044,325000,"CENTRAL HOUSE, 32-66 High Street, Stratford, London, E15",E15,1.0
+1046,265000,"Leytonstone Road, Stratford, E15",E15,1.0
+1047,680000,"The Grainstore, Royal Victoria Dock, E16",E16,2.0
+1048,699000,"Grantham House, London City Island, London, E14",E14,2.0
+1049,485000,"3 Tidal Basin Road, Royal Docks, London, E16",E16,1.0

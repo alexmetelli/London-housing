@@ -1,0 +1,723 @@
+,price,address,postcode,number_bedrooms
+0,369950.0,"Tramway Avenue, Edmonton, N9",N9,3.0
+5,199950.0,"Cornish Court, Bridlington Road, Edmonton, N9",N9,1.0
+7,599995.0,"Farndale Avenue, London N13",N13,4.0
+11,425000.0,"Alma Road, Enfield, EN3",EN3,3.0
+12,1000000.0,"Chase Road, Southgate, N14",N14,3.0
+14,750000.0,"York Road, London, N11",N11,3.0
+15,650000.0,"Connaught Gardens, Palmers Green, London, N13",N13,4.0
+16,325000.0,"Bedford Road, London, N9",N9,2.0
+17,310000.0,"John Gooch Drive, En2",En2,2.0
+26,1350000.0,"Amberley Road, Palmers Green, London, N13",N13,5.0
+35,220000.0,"49 Derby Road, Enfield, EN3",EN3,1.0
+37,635000.0,"Connaught Gardens, Palmers Green, N13",N13,3.0
+38,329950.0,"Cobham Close, Enfield, Middlesex, EN1",EN1,2.0
+39,450000.0,"Tottenhall Road, Palmers Green, London, N13",N13,2.0
+40,399995.0,"Tysoe Avenue, Enfield, EN3",EN3,3.0
+41,395000.0,"Chalkwell Park Avenue, London, EN1",EN1,2.0
+42,415000.0,"Chestnut Road, Enfield, EN3",EN3,3.0
+43,315000.0,"The Ridgeway, Enfield, Middlesex, EN2",EN2,1.0
+44,520000.0,"Southfield Road, Enfield, EN3",EN3,4.0
+49,495000.0,"First Avenue, London, EN1",EN1,3.0
+53,450000.0,"Manor Court, High Street, London, N14",N14,2.0
+62,375000.0,"Chase Side Crescent, Enfield EN2",EN2,2.0
+63,350000.0,"St. Marks Road, Enfield, EN1",EN1,3.0
+64,639950.0,"Clay Hill, Enfield, Middlesex, EN2",EN2,3.0
+75,409995.0,"Woolmer Road, Edmonton, N18",N18,3.0
+76,800000.0,"Enfield Road, Enfield, EN2",EN2,5.0
+79,435000.0,"Lascotts Road, London, N22",N22,2.0
+85,475000.0,"Roundhill Drive, Enfield EN2",EN2,3.0
+88,695000.0,"Highfield Road, N21",N21,3.0
+89,1250000.0,"South Lodge Drive, Oakwood N14",N14,4.0
+90,715000.0,"Lavender Hill, Enfield, Middlesex, EN2",EN2,3.0
+91,399995.0,"Bury Street West, London, N9",N9,2.0
+92,415000.0,"Clive Road, Enfield, EN1",EN1,3.0
+98,385000.0,"Monmouth road, N9",N9,2.0
+101,575000.0,"Park Nook Gardens, Enfield, EN2",EN2,2.0
+102,260000.0,"Cobham Close, Enfield, EN1",EN1,1.0
+103,625000.0,"Willow Road, Enfield, EN1",EN1,4.0
+104,570000.0,"Ash Grove, Enfield, EN1",EN1,2.0
+107,325000.0,"Eaton Park Road, Palmers Green, London, N13",N13,1.0
+108,540000.0,"Oakwood, Lindal Crescent EN2",EN2,3.0
+109,429995.0,"Turkey Street, EN3",EN3,3.0
+110,580000.0,"Bagshot Road, Enfield, EN1",EN1,4.0
+111,350000.0,"Sheldon Road, London, N18",N18,2.0
+112,650000.0,"The Firs, Clay Hill, Enfield Chase, EN2 - Seldom Available Listed Grand Two Bedroom Apartment with Land",EN2,2.0
+113,535000.0,"Ulleswater Road, London, N14",N14,2.0
+114,299995.0,"Field House, Sebastopol Road, Edmonton, N9",N9,3.0
+115,450000.0,"Park Lane, London, N9",N9,3.0
+117,650000.0,"Church Street, London, N9",N9,4.0
+118,750000.0,"Hoppers Road, London, N21",N21,4.0
+119,775000.0,"Queen Elizabeths Drive, London, N14",N14,3.0
+120,250000.0,"Gladbeck Way, Enfield, Middlesex, EN2",EN2,1.0
+121,690000.0,"Connaught Gardens, Palmers Green, N13 - Renovated and Extended to a high Specification",N13,4.0
+124,565000.0,"Blueberry Court, 37 Bycullah Road, Enfield, Middlesex, EN2",EN2,2.0
+125,675000.0,"Wellington Road, Bush Hill Park, Enfield, EN1",EN1,3.0
+127,409995.0,"Woolmer Road, Edmonton, N18",N18,3.0
+128,364995.0,"Hook Gate, EN1",EN1,3.0
+130,335000.0,"Halstead Road, Enfield, Middlesex, EN1",EN1,1.0
+135,310000.0,"Eaton Road, Enfield, EN1",EN1,2.0
+136,700000.0,"Russell Road, Enfield, EN1",EN1,4.0
+137,550000.0,"Chelmsford Road, N14",N14,2.0
+138,770000.0,"Lavender Hill, 
+Enfield, 
+London
+EN2",EN2,4.0
+139,660000.0,"Lavender Hill, 
+Enfield, 
+London
+EN2",EN2,4.0
+140,755000.0,"Lavender Hill, 
+Enfield, 
+London
+EN2",EN2,4.0
+141,735000.0,"Lavender Hill, 
+Enfield, 
+London
+EN2",EN2,4.0
+142,735000.0,"Lavender Hill, 
+Enfield, 
+London
+EN2",EN2,4.0
+143,660000.0,"Lavender Hill, 
+Enfield, 
+London
+EN2",EN2,4.0
+144,375000.0,"Carnegie Close, Enfield, EN3",EN3,3.0
+145,385000.0,"High Road, New Southgate, London, N11",N11,3.0
+146,200000.0,"Chaffinch Close, London, N9",N9,1.0
+147,1100000.0,"Cotswold Way, Enfield, EN2 - Immaculate Five Double Bedroom Home - Rarely Available",EN2,5.0
+153,485000.0,"Ripley Road, Enfield, EN2",EN2,3.0
+157,660000.0,"Plot 19, The Penrith V2, Locksley Place, Chase Farm, Lavender Hill, Enfield, Greater London",V2,4.0
+162,335000.0,"Lousada Lodge, Avenue Road, Southgate, N14 4DL",N14,2.0
+166,700000.0,"Percy Road, London, N21",N21,4.0
+167,520000.0,"Churchbury Road, Enfield, EN1",EN1,4.0
+168,365000.0,"Jules Thorn Avenue, Enfield, Middlesex, EN1",EN1,2.0
+170,550000.0,"Firs Lane, London N13",N13,3.0
+171,349995.0,"Totteridge Road, EN3",EN3,2.0
+172,450000.0,"Grange Gardens, Southgate, N14",N14,3.0
+173,825000.0,"Queen Annes Place, London, EN1",EN1,3.0
+177,375000.0,"Chase Side, London, N14",N14,1.0
+178,425000.0,"Sheridan Lodge, Chase Side, Southgate, London, N14",N14,2.0
+180,369995.0,"Forest Road, Edmonton, N9",N9,3.0
+181,675000.0,"Wellington Road, Bush Hill Park, Enfield, EN1",EN1,3.0
+182,530000.0,"Carterhatch Lane, Enfield, EN1 - Extended Three Bedroom, Three Reception Family Home",EN1,3.0
+183,269995.0,"Elsinge Road, Enfield, EN1",EN1,2.0
+185,320000.0,"Park Road, Southgate, London, N14",N14,1.0
+187,550000.0,"Park Road, Enfield, EN3",EN3,4.0
+188,825000.0,"Hoodcote Gardens, London, N21",N21,3.0
+189,685000.0,"Linden Way, Southgate, N14",N14,3.0
+190,285000.0,"Culpepper Close, London, N18",N18,2.0
+191,385000.0,"Halifax Road, Enfield, EN2",EN2,1.0
+192,360000.0,"The Grangeway, N21",N21,2.0
+195,315000.0,"Cunard Crescent, London, N21",N21,1.0
+196,375000.0,"Tregenna Close, Chase Road, N14 4RD",N14,2.0
+197,225000.0,"Millstream Close, Palmers Green, London, N13",N13,1.0
+199,315000.0,"Glenville Avenue, Enfield, Middlesex, EN2",EN2,2.0
+201,375000.0,"Hyde Park Avenue, Winchmore Hill, N21 - Large Apartment with Stunning Views",N21,3.0
+202,575000.0,"Edenbridge Road, Enfield, EN1",EN1,3.0
+203,420000.0,"Woodgrange Gardens, Enfield, EN1",EN1,3.0
+204,750000.0,"York Road, London, N11",N11,3.0
+207,650000.0,"Upsdell Avenue, Palmers Green, N13",N13,3.0
+208,445000.0,Gladbeck Way  EN2,EN2,3.0
+209,795000.0,"Gloucester Gardens, Cockfosters, EN4",EN4,3.0
+210,250000.0,"Adrian Nicholas Court, Silver Street, Enfield EN1 3TD",EN1,1.0
+211,135000.0,"Holmleigh Court, Glyn Road, Enfield, England, EN3",EN3,1.0
+214,599995.0,"St. Joseph's Road, London, N9",N9,5.0
+216,450000.0,"Oaklands Avenue, Lower Edmonton, London, Oaklands Avenue, N9",N9,3.0
+218,204950.0,"Hickory Close, London, N9",N9,1.0
+220,290000.0,"Shapland Way, Palmers Green, London N13",N13,1.0
+221,359995.0,"Lawrence Road, Edmonton, N18",N18,2.0
+222,359995.0,"Gordon Road, Edmonton, N9",N9,2.0
+223,409995.0,"Doncaster Road, Edmonton, N9",N9,3.0
+224,475000.0,"Fox Lane, Palmers Green, N13",N13,2.0
+230,600000.0,"Worlds End Lane, Enfield, EN2",EN2,4.0
+233,850000.0,"Cecil Road, London, EN2",EN2,5.0
+238,499995.0,"Bromley road, London, N18",N18,3.0
+239,419995.0,"Great Cambridge Road, Enfield, EN1",EN1,3.0
+242,400000.0,"Morley Avenue, Edmonton, London, N18",N18,3.0
+243,400000.0,"Arnos Grove Court, Palmers Road, N11",N11,3.0
+244,499950.0,"Old Park Road, Western Enfield, EN2",EN2,2.0
+245,450000.0,"Sporton Court, 49 Drapers Road, Enfield, EN2",EN2,3.0
+248,595000.0,"Kings Avenue, N21",N21,2.0
+249,775000.0,"Henrietta Gardens, N21",N21,3.0
+251,440000.0,"Westmoor Gardens, EN3",EN3,3.0
+253,775000.0,"Compton Road, N21",N21,3.0
+254,725000.0,"Rowantree Road, London, N21",N21,4.0
+255,585000.0,"Firs Lane, Palmers Green, London, N13",N13,3.0
+256,425000.0,"Primrose Avenue, Enfield, EN2",EN2,2.0
+258,550000.0,"Wellington House, Wellington Road, Enfield, EN1",EN1,2.0
+259,585000.0,"Bury Street West, London, N9",N9,3.0
+260,635000.0,"Chase Green Avenue, Enfield, Middlesex, EN2",EN2,4.0
+262,700000.0,"Bury Street West, Edmonton, London, N9",N9,5.0
+264,359995.0,"Vernon Avenue, Enfield, EN3",EN3,2.0
+265,299995.0,"Sandhurst Road, Edmonton, N9",N9,2.0
+268,450000.0,"Hazeltree Lodge, 16-18 Hazelwood Lane, London, N13",N13,2.0
+269,375000.0,"Warwick Road, ENFIELD, Middlesex, EN3",EN3,3.0
+270,389995.0,"Chichester Road, London, N9",N9,3.0
+271,700000.0,"Queen Annes Grove, Enfield, EN1",EN1,3.0
+273,325000.0,"Denleigh Court, Chase Road, Southgate, N14",N14,2.0
+282,579995.0,"Ladbroke Road, London, EN1",EN1,4.0
+283,350000.0,"Betjeman Court, Cockfosters Road, EN4",EN4,2.0
+287,625000.0,"Kings Avenue, N21",N21,2.0
+291,750000.0,"Lonsdale Drive, Enfield, EN2",EN2,3.0
+293,400000.0,"Kimberley Road, London, N18",N18,3.0
+296,700000.0,"Evesham Road, Bounds Green, London, N11",N11,4.0
+297,350000.0,"The Approach, Enfield, EN1",EN1,3.0
+298,270000.0,"Firbank Close, EN2",EN2,1.0
+301,629950.0,"McAdam Drive, Enfield, Middlesex, EN2",EN2,3.0
+302,425000.0,"Canada Avenue, London, N18",N18,3.0
+303,595000.0,"Kings Avenue, N21",N21,2.0
+304,525000.0,"Caversham Avenue, London, N13",N13,3.0
+307,369950.0,"Tramway Avenue, Edmonton, N9",N9,3.0
+310,1000000.0,"Dorchester Avenue, London N13",N13,7.0
+312,365000.0,"Chester Road, London, N9",N9,2.0
+313,359995.0,"Mapleton Crescent, ENFIELD, Middlesex, EN3",EN3,2.0
+314,285000.0,"Orton Grove, Enfield, Greater London, EN1",EN1,2.0
+315,379995.0,"Chiswick Road, Edmonton, N9",N9,2.0
+316,450000.0,"Russell Road, Enfield, London, Uk, EN1",EN1,2.0
+317,700000.0,"Russell Road, Enfield, London, Uk, EN1",EN1,4.0
+318,625000.0,"Stanley Road, Bounds Green, London, N11",N11,3.0
+319,260000.0,"Hadrians Ride, ENFIELD, Greater London, EN1",EN1,1.0
+320,650000.0,"The Sunny Road, Enfield, EN3",EN3,6.0
+322,775000.0,"Lyndhurst Gardens, Enfield, EN1",EN1,4.0
+323,195000.0,"Watkin Mews, Enfield Island Village, Enfield, EN3 6LS",EN3,1.0
+327,890000.0,"Heddon Court Avenue, Cockfosters, EN4",EN4,3.0
+328,420000.0,"Lantern Court, 4A Winchmore Hill Road, Southgate, London, N14",N14,2.0
+332,399950.0,"St Joan's Road, Edmonton, N9",N9,3.0
+340,350000.0,"The Sunny Road, Enfield, EN3",EN3,2.0
+342,550000.0,"Millers Green Close, Enfield, Middlesex, EN2",EN2,3.0
+344,425000.0,"Cromie Close, Palmers Green, N13",N13,2.0
+346,255000.0,"Gareth Drive, London, N9",N9,1.0
+347,385000.0,"Leyburn Road, Upper Edmonton, N18",N18,2.0
+348,799500.0,"Chandos Avenue, Southgate, London, N14",N14,3.0
+349,615000.0,"Station Road,
+London,
+N11",N11,3.0
+351,625000.0,"Station Road,
+London,
+N11",N11,3.0
+352,370000.0,"Newsholme Drive, London, N21",N21,2.0
+353,290000.0,"Mintern Close, Palmers Green, N13",N13,1.0
+356,385000.0,"Spencer Avenue, London, N13",N13,2.0
+358,400000.0,"Cline Road, Bounds Green, N11",N11,2.0
+359,675000.0,"Firs Lane, Winchmore Hill, London N21 - Renovated Four Bedroom",N21,4.0
+360,650000.0,"Firs Lane, Winchmore Hill, London, N21 - Stunning New Build Semi Detached Home",N21,3.0
+364,249950.0,"Tennyson Close, Scotland Green Road, Enfield, EN3",EN3,2.0
+366,835000.0,"Chase Court Gardens, Enfield, Middlesex, EN2",EN2,4.0
+368,470000.0,"Wheatley Gardens, Lower Edmonton, London, Wheatley Gardens, N9",N9,3.0
+369,315000.0,"John Gooch Drive, Enfield, Middlesex, EN2",EN2,2.0
+372,265000.0,"Park House, Winchmore Hill Road, London, N21",N21,0.0
+373,500000.0,"Clive Road, Enfield, EN1",EN1,3.0
+374,415000.0,"Clive Road, Enfield, EN1",EN1,3.0
+376,415000.0,"Percival Road, Enfield, EN1",EN1,3.0
+383,1000000.0,"Park Drive, Winchmore Hill, N21 - Stunning Property with 310ft Garden and Bundles of potential",N21,3.0
+385,255000.0,"Charles Street, Enfield, EN1",EN1,1.0
+386,475000.0,"Davis House, 5 Huguenot Drive, London, N13",N13,2.0
+387,950000.0,"Woodberry Avenue, London, N21",N21,4.0
+388,475000.0,"Gloucester Road, Edmonton, N18",N18,3.0
+389,650000.0,"Broomfield Avenue, London, N13",N13,3.0
+390,900000.0,"Waterfall Road, London, N14",N14,4.0
+391,465000.0,"Selborne Road, London, N14",N14,3.0
+392,425000.0,"Aldridge Avenue, Enfield, Middlesex, EN3",EN3,3.0
+394,460000.0,"Canonbury Road, Enfield, EN1",EN1,3.0
+398,325000.0,"Glenville Avenue, Enfield, Middlesex, EN2",EN2,1.0
+400,350000.0,"Bethell Lodge, New Southgate, N11",N11,2.0
+408,385000.0,"Haslam Court, Waterfall Road, Friern Barnet, London, N11",N11,1.0
+411,900000.0,"Lodge Drive, Palmers Green, London, N13",N13,4.0
+414,399995.0,"Mandeville Road, EN3",EN3,3.0
+415,379995.0,"Boleyn Avenue, EN1",EN1,2.0
+416,5000000.0,"Beech Hill, Hadley Wood, London, EN4",EN4,6.0
+420,1350000.0,"Aldermans Hill, London, N13",N13,6.0
+421,300000.0,"Millicent Grove, Palmers Green, London, N13",N13,2.0
+422,425000.0,"Lyndhurst Road, London, N22",N22,3.0
+423,375000.0,"Park House, Winchmore Hill Road, London, N21",N21,2.0
+424,415000.0,"Florence Avenue, Enfield, EN2",EN2,2.0
+426,350000.0,"Kynaston Road, Enfield, Middlesex, EN2",EN2,2.0
+427,575000.0,"Tottenhall Road, Palmers Green, N13",N13,3.0
+428,900000.0,"Waterfall Road, London, N14",N14,4.0
+429,265000.0,"Ambient House, 82 Tysoe Avenue, ENFIELD, Middlesex, EN3",EN3,2.0
+430,325000.0,"St Geroges Road, Enfield, EN1",EN1,2.0
+432,320000.0,"Cline Road, London, N11 2NF",N11,1.0
+438,750000.0,"Lambs Walk, Enfield, EN2",EN2,5.0
+439,395000.0,"Palmerston Crescent, Palmers Green, London, N13",N13,2.0
+440,370000.0,"Pegasus Court (Winchmore Hill), Winchmore Hill, N21 2RW",N21,2.0
+441,525000.0,"Caversham Avenue, Palmers Green, London, N13",N13,3.0
+442,810000.0,"River View, Enfield, Middlesex, EN2",EN2,4.0
+443,1150000.0,"Shrubbery Gardens, N21",N21,5.0
+444,300000.0,"Gareth Drive, N9",N9,1.0
+445,625000.0,"Chimes Avenue, Palmers Green, N13",N13,3.0
+446,499995.0,"Lincoln Way, Enfield, EN1",EN1,4.0
+447,325000.0,"Pringle House, 18 Newsholme Drive, London, N21",N21,1.0
+448,415000.0,"Elmwood Avenue, London, N13",N13,2.0
+452,315000.0,"Royal Court, Queen Annes Gardens, Enfield, Middlesex, EN1",EN1,2.0
+453,225000.0,"Roman Way, ENFIELD, Middlesex, EN1",EN1,1.0
+454,384995.0,"Woodlands Road, N9 8RP, N9",N9,3.0
+456,675000.0,"Vicars Moor Lane, London, N21",N21,3.0
+458,350000.0,"Calder Close, ENFIELD, Greater London, EN1",EN1,2.0
+459,290000.0,"Maplin Close, London, N21",N21,3.0
+460,225000.0,"Maplin Close, London, N21",N21,1.0
+462,410000.0,"Berry Close, Winchmore Hill, N21",N21,2.0
+463,184950.0,"Cambridge Terrace, Bury Street West, Edmonton, N9",N9,0.0
+464,440000.0,"Holmwood Road, Enfield, Middlesex, EN3",EN3,4.0
+465,299995.0,"Latymer Road, Edmonton, N9",N9,2.0
+466,340000.0,"Flora House, 11 Cromie Close, London, N13",N13,1.0
+467,425000.0,"Chase Side Crescent, Enfield, EN2",EN2,2.0
+468,425000.0,"Chase Side, Enfield, EN2",EN2,2.0
+470,400000.0,"Buttery Mews, Southgate, London, ., N14",N14,2.0
+471,1200000.0,"Wynchgate, Winchmore Hill, N21",N21,4.0
+472,425000.0,"14 Elm Park Road, Winchmore Hill, London, N21",N21,2.0
+474,425000.0,"814 Green Lanes, London, N21",N21,2.0
+475,199950.0,"Cornish Court, Bridlington Road, Edmonton, N9",N9,1.0
+478,210000.0,"Durants Road, Enfield, Middlesex, EN3",EN3,1.0
+482,295000.0,"The Ride, Enfield, Middlesex, EN3",EN3,3.0
+484,375000.0,"Saffron Court, Cockfosters,Cockfosters,EN4",EN4,1.0
+485,409995.0,"Woolmer Road, London, N18",N18,3.0
+487,325000.0,"Osborne Road, Palmers Green N13",N13,1.0
+489,215000.0,"Hyde Court, Parkside, Waltham Cross, Hertfordshire, EN8",EN8,1.0
+490,375000.0,"Ridge Terrace, Green Lanes, London, N21",N21,2.0
+491,350000.0,"Devonshire Road, Palmers Green, London, N13",N13,1.0
+492,349950.0,"St Edmunds Road, Edmonton, N9",N9,2.0
+493,300000.0,"Bounces Road, Edmonton, N9",N9,3.0
+495,659995.0,"Borden Avenue, London, EN1",EN1,3.0
+496,425000.0,"Green Lanes, Palmers Green, N13 ",N13,2.0
+502,1750000.0,"Bourne Avenue, Southgate, N14",N14,4.0
+504,499000.0,"1 Fox Lane, London, N13",N13,2.0
+506,310000.0,"Gladbeck Way, Enfield, Middlesex, EN2",EN2,2.0
+507,300000.0,"Mayfield Crescent, Edmonton, N9",N9,3.0
+514,385000.0,"Hyde Park Avenue, N21",N21,3.0
+516,325000.0,"North Circular Road, Palmers Green, London, N13",N13,2.0
+517,825000.0,"Farmleigh, Southgate, N14",N14,4.0
+520,500000.0,"Woodberry Avenue, Winchmore Hill, N21",N21,3.0
+523,999950.0,"The Walled Mews, Avenue Road, Southgate, London, N14",N14,4.0
+524,605000.0,"Bournegate Court, Ebony Crescent, Cockfosters, EN4",EN4,3.0
+525,520000.0,"Churchbury Road, Enfield, EN1",EN1,4.0
+527,380000.0,"Croyland Road, Edmonton, N9",N9,3.0
+528,680000.0,"Ebony Crescent, Cockfosters, EN4",EN4,4.0
+531,379995.0,"Larmans Road, EN3",EN3,3.0
+533,419950.0,"Montagu Crescent, Edmonton, N18",N18,3.0
+534,760000.0,"Evesham Road, Bounds Green, London, N11",N11,4.0
+535,269995.0,"Grilse Close, LONDON, N9",N9,2.0
+539,250000.0,"Hansart Way, Enfield EN2 ",EN2,1.0
+541,475000.0,"Totteridge Road, Enfield, EN3",EN3,3.0
+546,400000.0,"Bole Court, 70 Cecil Road, EN2",EN2,2.0
+549,600000.0,"Cockfosters Road, Cockfosters, EN4",EN4,3.0
+550,775000.0,"Queen Elizabeths Drive, London, N14",N14,3.0
+552,675000.0,"Princes Avenue, London, N13",N13,4.0
+553,985000.0,"Knightwood Court,Barnet,EN4",EN4,2.0
+554,475000.0,"Foxmead Close, Enfield, EN2",EN2,2.0
+555,440000.0,"Cameron Drive, EN8",EN8,4.0
+556,140750.0,"Station Road,
+London,
+N11",N11,3.0
+557,575000.0,"Carisbrook Close, Enfield, Middlesex, EN1",EN1,4.0
+558,649000.0,"Lightcliffe Road, Palmers Green, London N13 5HD",N13,5.0
+560,113875.0,"Station Road,
+London,
+N11",N11,2.0
+561,85750.0,"Station Road,
+London,
+N11",N11,1.0
+565,220000.0,"Lancaster Road, Enfield, EN2",EN2,0.0
+568,499500.0,"Lavender Hill, Enfield, Middlesex, EN2",EN2,3.0
+569,250000.0,"Woodmere Court, 7 Avenue Road, Southgate, London, N14",N14,2.0
+571,585000.0,"Bury Street West, London, N9",N9,3.0
+575,620000.0,"Charter Way, London, N14",N14,4.0
+576,670000.0,"Compton Road, Winchmore Hill, N21",N21,3.0
+578,475000.0,"Wilde Place, Palmers Green, London, N13",N13,3.0
+586,475000.0,"Connaught Avenue, ENFIELD, Middlesex, EN1",EN1,3.0
+587,515000.0,"Whitmore Close, Friern Barnet, N11",N11,3.0
+591,475000.0,"St Johns Terrace, Enfield, Middlesex, EN2",EN2,2.0
+593,650000.0,"Borden Avenue, ENFIELD, Greater London, EN1",EN1,4.0
+594,500000.0,"Winchmore Hill,London N21,N21",N21,2.0
+595,1250000.0,"Knightwood Court,Barnet,EN4",EN4,2.0
+596,1250000.0,"Knightwood Court,Barnet,EN4",EN4,2.0
+597,425000.0,"Canonbury Road, Enfield, Middlesex, EN1",EN1,2.0
+599,750000.0,"Ridge Avenue, Winchmore Hill, N21 - Chain Free - Large and Extended Three Bedroom Semi Detached Home",N21,3.0
+600,550000.0,"Firs Lane, London N13",N13,3.0
+603,269995.0,"Melling Drive, ENFIELD, Greater London, EN1",EN1,2.0
+604,410000.0,"Sporton Court, 49 Drapers Road, Enfield, Middlesex, EN2",EN2,2.0
+605,650000.0,"Tenniswood Road, ENFIELD, Middlesex, EN1",EN1,4.0
+606,585000.0,"Edenbridge Road, Enfield, Middlesex, EN1",EN1,3.0
+607,349995.0,"Prowse Court, 74 Fore Street, LONDON, N18",N18,2.0
+608,245000.0,"Cornell Court, Enstone Road, Enfield, EN3",EN3,2.0
+611,600000.0,"Birkbeck Road, Enfield, EN2",EN2,4.0
+612,209995.0,"Harston Drive, ENFIELD, Middlesex, EN3",EN3,1.0
+614,184995.0,"Bradley Road, Enfield, London, Uk, EN3",EN3,1.0
+618,395000.0,"Haselbury Road, Edmonton, N18",N18,3.0
+619,430000.0,"Carlton Terrace, Great Cambridge Road, Edmonton, London, N18",N18,3.0
+621,370000.0,"Junction Road, London, N9",N9,3.0
+624,599950.0,"Walton Street, Enfield, Middlesex, EN2",EN2,4.0
+625,299995.0,"Latymer Road, Edmonton, N9",N9,2.0
+626,395000.0,"Albany Road, London N18 ",N18,3.0
+629,600000.0,"Cecil Avenue, Enfield EN1 ",EN1,6.0
+630,1250000.0,"Cockfosters Road, Hadley Wood, EN4",EN4,2.0
+632,740000.0,"Ollerton Road, London, N11",N11,4.0
+633,375000.0,"Lyndhurst Road, London, N22",N22,2.0
+638,400000.0,"Chase Side Cresent, John Keats Lodge, EN2",EN2,2.0
+639,380000.0,"Roundhedge Way, Enfield, EN2",EN2,2.0
+640,605000.0,"Cockfosters Herts, EN4,Cockfosters,EN4",EN4,3.0
+644,625000.0,"Crawford Gardens, Palmers Green, London, N13",N13,4.0
+645,650000.0,"Bycullah Avenue, Enfield, EN2",EN2,4.0
+647,400000.0,"Somerset Road, London, N18",N18,3.0
+651,895000.0,"Fountains Crescent, Southgate, London, N14",N14,4.0
+654,128000.0,"Willis Yard, 128 Chelmsford Road, Southgate, N14 4JL",N14,1.0
+655,629000.0,"Whittington Road, Bowes Park, N22",N22,3.0
+656,800000.0,"Crothall Close, London, N13",N13,4.0
+657,285000.0,"Cannon Hill, London, N14",N14,1.0
+664,299995.0,"Valley Fields Crescent, West Enfield, EN2",EN2,1.0
+669,495000.0,"Brodie Road, London, EN2",EN2,2.0
+671,325000.0,"Millicent Grove, Palmers Green, N13",N13,2.0
+673,399950.0,"St Edmunds Road, Edmonton, N9",N9,3.0
+674,267000.0,"Anemone Court Enstone Road,  Enfield, EN3",EN3,2.0
+676,370000.0,"Cuckoo Hall Lane, Edmonton, London, N9",N9,3.0
+678,439995.0,"Hazelwood Lane, Palmers Green, London N13",N13,2.0
+680,279995.0,"Sandhurst Road, LONDON, N9",N9,2.0
+681,750000.0,"York Road, Bounds Green, London, N11",N11,5.0
+682,724995.0,"Crescent Road, Enfield, EN2",EN2,3.0
+684,725000.0,"St Marks Road, EN1",EN1,4.0
+685,500000.0,"Mitchell Road, N13 6EE, London",N13,3.0
+687,299950.0,"Chaseville Parade, Chaseville Park Road, London, N21",N21,2.0
+688,349950.0,"Waverley Road, London, EN2",EN2,1.0
+691,222995.0,"Lewington Court, 591 Hertford Road, EN3",EN3,2.0
+694,625000.0,"Highfield Road, London, N21",N21,3.0
+696,460500.0,"Station Road,
+London,
+N11",N11,2.0
+697,607500.0,"Station Road,
+London,
+N11",N11,3.0
+698,607500.0,"Station Road,
+London,
+N11",N11,3.0
+699,592500.0,"Station Road,
+London,
+N11",N11,3.0
+700,409995.0,"Woolmer Road, Edmonton, N18",N18,3.0
+701,563000.0,"Station Road,
+London,
+N11",N11,3.0
+702,573000.0,"Station Road,
+London,
+N11",N11,3.0
+703,588000.0,"Station Road,
+London,
+N11",N11,2.0
+704,465500.0,"Station Road,
+London,
+N11",N11,2.0
+705,455500.0,"Station Road,
+London,
+N11",N11,2.0
+706,455500.0,"Station Road,
+London,
+N11",N11,2.0
+707,365000.0,"Station Road,
+London,
+N11",N11,1.0
+708,343000.0,"Station Road,
+London,
+N11",N11,1.0
+709,385000.0,"Station Road,
+London,
+N11",N11,1.0
+710,348000.0,"Station Road,
+London,
+N11",N11,1.0
+711,343000.0,"Station Road,
+London,
+N11",N11,1.0
+712,455625.0,"Station Road,
+London,
+N11",N11,3.0
+713,455625.0,"Station Road,
+London,
+N11",N11,3.0
+714,444375.0,"Station Road,
+London,
+N11",N11,3.0
+715,422250.0,"Station Road,
+London,
+N11",N11,3.0
+716,485000.0,"Stanley Road, Bounds Green N11",N11,2.0
+718,550000.0,"Hedge Hill, Enfield, EN2",EN2,5.0
+719,530000.0,"Lucerne Close, London, N13",N13,2.0
+720,385000.0,"Hazelwood Lane, Palmers Green, London, N13 - Characterful Ground Floor Maisonette with Large Garden",N13,1.0
+721,1100000.0,"Compton Road, London, N21",N21,5.0
+723,745000.0,"Pickard Close, Southgate, London, N14",N14,4.0
+724,820000.0,"Broomfield Avenue, London, N13",N13,4.0
+726,750000.0,"Morley Hill, Enfield, EN2",EN2,4.0
+732,300000.0,"Blackwell Close, Winchmore Hill, N21 - Ground Floor Apartment with Long Lease",N21,1.0
+734,108000.0,"Shelly Lodge, Enfield, London, EN2",EN2,1.0
+735,440000.0,"Winchmore Hill Road, London, N14",N14,2.0
+738,775000.0,"Manorway, Enfield, EN1",EN1,3.0
+739,230000.0,"Croyland Road, London, N9",N9,2.0
+744,375000.0,"Russell Road, London, N13",N13,2.0
+745,285000.0,"Chase Green Avenue, Enfield, Middlesex, EN2",EN2,1.0
+746,429750.0,"Station Road,
+London,
+N11",N11,3.0
+747,441000.0,"Station Road,
+London,
+N11",N11,2.0
+748,345500.0,"Station Road,
+London,
+N11",N11,2.0
+749,349125.0,"Station Road,
+London,
+N11",N11,2.0
+751,341625.0,"Station Road,
+London,
+N11",N11,2.0
+752,341625.0,"Station Road,
+London,
+N11",N11,2.0
+753,273250.0,"Station Road,
+London,
+N11",N11,1.0
+754,257250.0,"Station Road,
+London,
+N11",N11,1.0
+755,288750.0,"Station Road,
+London,
+N11",N11,1.0
+756,261000.0,"Station Road,
+London,
+N11",N11,1.0
+758,210000.0,"Parkside, Waltham Cross, EN8",EN8,1.0
+759,234995.0,"Hudson way, Enfield, N9",N9,2.0
+760,375000.0,"Cline Road, Bounds Green, London, N11",N11,2.0
+761,995000.0,"Waterfall Road,Southgate, London N14",N14,4.0
+762,350000.0,"Bennets Lodge, 1 Chase Court Gardens, Enfield, Middlesex, EN2",EN2,2.0
+764,375000.0,"Upper Park Road, Arnos Grove , London, N11",N11,2.0
+765,275250.0,"Station Road,
+London,
+N11",N11,1.0
+766,243000.0,"Station Road,
+London,
+N11",N11,3.0
+767,237000.0,"Station Road,
+London,
+N11",N11,3.0
+768,225200.0,"Station Road,
+London,
+N11",N11,3.0
+769,229200.0,"Station Road,
+London,
+N11",N11,3.0
+770,243000.0,"Station Road,
+London,
+N11",N11,3.0
+771,500000.0,"St. Marks Road, Enfield, EN1",EN1,3.0
+772,235500.0,"Station Road,
+London,
+N11",N11,2.0
+773,184200.0,"Station Road,
+London,
+N11",N11,2.0
+774,186200.0,"Station Road,
+London,
+N11",N11,2.0
+776,182000.0,"Station Road,
+London,
+N11",N11,2.0
+777,182000.0,"Station Road,
+London,
+N11",N11,2.0
+778,265000.0,"Hadrians Ride, Enfield, EN1",EN1,2.0
+779,146000.0,"Station Road,
+London,
+N11",N11,1.0
+780,137200.0,"Station Road,
+London,
+N11",N11,1.0
+781,154000.0,"Station Road,
+London,
+N11",N11,1.0
+782,139200.0,"Station Road,
+London,
+N11",N11,1.0
+783,434995.0,"Cunningham Avenue, EN3",EN3,3.0
+784,137200.0,"Station Road,
+London,
+N11",N11,1.0
+785,395000.0,"Blackwell Close, N21",N21,2.0
+786,445000.0,"Turkey Street, EN1",EN1,3.0
+788,480000.0,"Grove Gardens, Enfield, EN3",EN3,4.0
+789,340000.0,"Cromie Close, London, N13",N13,1.0
+790,300000.0,"Brettenham Road, Edmonton, London, Uk, N18",N18,2.0
+791,230000.0,"Fulton Court, 4 Harston Drive, ENFIELD, Greater London, EN3",EN3,1.0
+793,329950.0,"Parkside Court, 135 Palmerston Road, London, N22",N22,2.0
+796,550000.0,"Chase Side, Enfield, EN2",EN2,3.0
+797,280000.0,"Picketts Lock Lane, Edmonton, N9",N9,2.0
+800,907000.0,"Trent Park, Snakes Lane (off Bramley Road), 
+Enfield 
+EN4 0PS",EN4,3.0
+801,215000.0,"Milestone Close, London, N9",N9,1.0
+804,650000.0,"Burnham Close, Enfield, Middlesex, EN1",EN1,4.0
+806,825000.0,"Chase Side, Chase Side, Enfield, EN2",EN2,4.0
+807,600000.0,"Weardale Gardens, Enfield, EN2",EN2,4.0
+810,280000.0,"Priory Close, London, N14",N14,1.0
+813,425000.0,"Drake Street, Enfield, EN2",EN2,3.0
+814,399950.0,"Dimsdale Drive, Enfield, EN1",EN1,3.0
+815,295000.0,"Ingleborough, Cavell Drive, Enfield, Middlesex, EN2",EN2,2.0
+816,2500000.0,"Residential Development Site - Fox Lane, Palmers Green, London, N13",N13,19.0
+817,1025000.0,"Fox Lane, London, N13",N13,5.0
+818,225000.0,"Olivia Court, 225 Chase Side, Enfield, EN2",EN2,0.0
+819,425000.0,"Lyndhurst Road, Wood Green, N22",N22,2.0
+820,750000.0,"Walker Close, Arnos Grove, London, N11",N11,3.0
+821,345000.0,"Crothall Close, London, N13",N13,1.0
+824,299995.0,"Shepley Mews, ENFIELD, Greater London, EN3",EN3,1.0
+826,355000.0,"Roundhedge Way, Enfield, EN2",EN2,2.0
+827,375000.0,"Newsholme Drive, London, N21",N21,2.0
+828,345000.0,"Hoppers Road, London, N21",N21,1.0
+829,699500.0,"Chase Court Gardens, Enfield, Middlesex, EN2",EN2,3.0
+830,500000.0,"Highfield Road, N21",N21,3.0
+831,635000.0,"Athena Court, Chase Ridings, Enfield, London, EN2",EN2,2.0
+832,300000.0,"Flat 5, Cannon Hill, London, N14",N14,2.0
+834,550000.0,"Munster Gardens, Palmers Green, London N13",N13,3.0
+835,695000.0,"Highfield Villas, Highfield Road, London N21",N21,3.0
+837,220000.0,"1b The Generals Walk, Enfield, EN3",EN3,1.0
+839,435000.0,"Waverley Road,Enfield,EN2",EN2,3.0
+840,405000.0,"Winchester Road, Edmonton, N9",N9,3.0
+842,350000.0,"Bethell Lodge, New Southgate, N11",N11,2.0
+843,209995.0,"Acworth Close, Edmonton, N9",N9,1.0
+857,255000.0,"Ainsley Close, London, EN1",EN1,1.0
+859,489995.0,"Silver Street, Edmonton, N18",N18,3.0
+862,1195000.0,"Old Park Road, London, N13",N13,4.0
+865,489995.0,"Silver Street, London, N18",N18,3.0
+866,570000.0,"Moss Close, Edmonton, N9",N9,2.0
+867,275000.0,"Woodmere Court, 7 Avenue Road, London, N14",N14,2.0
+868,600000.0,"John Gooch Drive, Enfield, EN2",EN2,4.0
+869,274995.0,"Chase Green Avenue, EN2",EN2,1.0
+870,450000.0,"Devonshire road, Palmers Green, N13",N13,2.0
+872,185000.0,"Hispano Mews, Enfield, EN3",EN3,0.0
+873,490000.0,"Silver Street, London, N18",N18,3.0
+876,530000.0,"Caversham Avenue, Palmers Green, London, N13",N13,3.0
+878,620000.0,"Willow Road, ENFIELD, Greater London, EN1",EN1,4.0
+880,375000.0,"Blackwell Close, N21",N21,2.0
+881,375000.0,"Hoe Lane, Enfield, Middlesex, EN1",EN1,3.0
+882,425000.0,"Village Road, London, EN1",EN1,2.0
+886,960000.0,"Wellington Road, Enfield, EN1",EN1,3.0
+892,270000.0,"Culpepper Close, Edmonton, London, N18",N18,2.0
+894,530000.0,"Newsholme Drive, London, N21",N21,2.0
+895,364950.0,"Cornwallis Road, Edmonton, N9",N9,2.0
+896,300000.0,"Sidney Avenue, Palmers Green, N13",N13,1.0
+898,329995.0,"Myddelton Avenue, Enfield, EN1",EN1,2.0
+900,329950.0,"Cobham Close, Enfield, Middlesex, EN1",EN1,2.0
+906,560000.0,"The Fairway, Southgate, N14",N14,3.0
+907,700000.0,"Abbotshall Avenue, London, N14",N14,3.0
+908,385000.0,"William Covell Close, Enfield, EN2",EN2,2.0
+912,299950.0,"Merridene, Grange Park, London N21",N21,1.0
+913,550000.0,"Lucerne Close, Palmers Green, N13",N13,3.0
+914,325000.0,"Langhedge Lane, London, UK, N18 2TJ",N18,3.0
+915,700000.0,"Abbotshall Avenue, Southgate, N14",N14,3.0
+919,295000.0,"Cobham Close, Enfield, Middlesex, EN1",EN1,1.0
+921,900000.0,"Hadley Road, Enfield, London, EN2",EN2,6.0
+924,625000.0,"Gresham Close, Enfield, Greater London, EN2",EN2,5.0
+926,385000.0,"Maybury Close, EN1",EN1,3.0
+927,350000.0,"Woodland Road, New Southgate N11",N11,2.0
+928,200000.0,"Barrowfield Close, Lower Edmonton, London, N9",N9,1.0
+929,219950.0,"Adamsrill Close, Enfield, EN1",EN1,0.0
+933,365000.0,"Celandine Grove, Oakwood, London, N14",N14,2.0
+934,262500.0,"Gladbeck Way, Enfield, Middlesex, EN2",EN2,1.0
+935,5000000.0,"Beech Hill, Barnet, Hertfordshire, EN4",EN4,6.0
+936,595000.0,"Highfield Road, N21",N21,3.0
+938,650000.0,"Princes Avenue, Palmers Green, London, N13",N13,4.0
+939,379995.0,"Aylands Road, EN3",EN3,3.0
+940,1850000.0,"Cockfosters Road, Hadley Wood/Cockfosters, EN4",EN4,4.0
+941,315000.0,"Crofton Way, Enfield, EN2",EN2,2.0
+943,374950.0,"Lowden Road, Edmonton, N9",N9,3.0
+946,350000.0,"17 Newsholme Drive, Winchmore Hill, N21",N21,2.0
+948,285000.0,"Polston Mews, Enfield, EN3 - Two Bedroom Apartment with New Lease",EN3,2.0
+951,625000.0,"Dorchester Avenue, Palmers Green, London N13",N13,4.0
+953,235000.0,"Beaconsfield Road, Enfield, EN3",EN3,1.0
+954,1100000.0,"Bourne Avenue, London, N14",N14,3.0
+955,400000.0,"Green Road, London, N14",N14,2.0
+956,200000.0,"Larmans Road, ENFIELD, Greater London, EN3",EN3,1.0
+958,425000.0,"Drake Street, Enfield, Middlesex, EN2",EN2,3.0
+959,500000.0,"Evesham Road, London, N11",N11,3.0
+960,540000.0,"Eaton Park Road, London, N13",N13,3.0
+961,305000.0,"42 Bounces Road, Edmonton, London, N9",N9,3.0
+963,425000.0,"Maidstone Road, London, N11",N11,2.0
+964,5000000.0,"Beech Hill, Hadley Wood, EN4",EN4,6.0
+965,369995.0,"Hertford Road, Edmonton, London, N9",N9,3.0
+968,450000.0,"Rossington Close, Enfield, Greater London, EN1",EN1,3.0
+969,739950.0,"Oak Avenue, Enfield, EN2",EN2,4.0
+971,700000.0,"Aldermans Hill, London, N13",N13,3.0
+976,535000.0,"Lascotts Road, London, N22",N22,3.0
+977,165000.0,"Winchester Road, London, London, N9 9EY",N9,0.0
+978,465000.0,"Ashmead, Chase Road, Oakwood, N14",N14,2.0
+979,275000.0,"Milestone Close, Edmonton, N9",N9,2.0
+981,165000.0,"Winchester Road, Edmonton N9",N9,0.0
+983,350000.0,"Fothergill Drive, Winchmore Hill, London, N21",N21,2.0
+985,405000.0,"Leighton Road, London, EN1",EN1,3.0
+986,525000.0,"Glenville Avenue, Enfield, EN2",EN2,4.0
+987,540000.0,"Kitchener Mews, Chase Side, EN2",EN2,2.0
+989,387500.0,"New Avenue, 
+Enfield, 
+London, 
+N14 4DG",N14,1.0
+990,390000.0,"New Avenue, 
+Enfield, 
+London, 
+N14 4DG",N14,1.0
+991,485000.0,"New Avenue, 
+Enfield, 
+London, 
+N14 4DG",N14,2.0
+992,387500.0,"New Avenue, 
+Enfield, 
+London, 
+N14 4DG",N14,1.0
+993,480000.0,"New Avenue, 
+Enfield, 
+London, 
+N14 4DG",N14,2.0
+994,550000.0,"Whittington Road, London, N22",N22,2.0
+996,350000.0,"Palmerston Crescent, London N13",N13,1.0
+997,270000.0,"Grilse Close, Edmonton, N9",N9,2.0
+1001,580000.0,"Thornaby Gardens, Edmonton, N18",N18,5.0
+1002,580000.0,"Thornaby Gardens, London, N18",N18,5.0
+1005,550000.0,"Corrib Court, 49 Crothall Close, London, N13",N13,2.0
+1007,399995.0,"Chichester Road, London, N9",N9,3.0
+1008,500000.0,"Chichester Road, Lower Edmonton, London, Chichester Road Lower, N9",N9,4.0
+1009,799999.0,"8 The Ridgeway, Western Enfield, EN2",EN2,2.0
+1013,325000.0,"Green Lanes, Winchmore Hill, N13",N13,1.0
+1014,625000.0,"Chase Side, Southgate, London N14 ",N14,3.0
+1018,389950.0,"Avondale Road, Palmers Green, London, N13",N13,2.0
+1019,699950.0,"Ebony Crescent, Cockfosters, EN4",EN4,4.0
+1020,425000.0,"Ashridge Court, Reservoir Road, Oakwood, London, N14",N14,3.0
+1022,449950.0,"Northern Avenue, Edmonton, N9",N9,3.0
+1023,395000.0,"Hawthorne Road, Edmonton, London, N18",N18,3.0
+1024,459995.0,"King Edwards Road, Edmonton, N9",N9,3.0
+1027,609995.0,"Hillside Crescent, Enfield, EN2",EN2,3.0
+1028,1500000.0,"Fox Lane, London, N13",N13,3.0
+1031,335000.0,"Ponders End,
+Enfield,
+London,
+EN3 4QD",EN3,1.0
+1032,340000.0,"Ponders End,
+Enfield,
+London,
+EN3 4QD",EN3,1.0
+1033,675000.0,"Wellington Road, Enfield, EN1",EN1,3.0
+1035,350000.0,"Ponders End,
+Enfield,
+London,
+EN3 4QD",EN3,1.0
+1037,325000.0,"Parsonage Lane, Enfield, Middlesex, EN2",EN2,2.0
+1038,740000.0,"Livingstone Road, London, N13",N13,4.0
+1039,450000.0,"Maplin Close, N21",N21,3.0
+1042,650000.0,"Monastery Gardens, Enfield, Middlesex, EN2",EN2,4.0
+1043,350000.0,"Sydney Road, Enfield EN2",EN2,2.0
+1044,680000.0,"Ebony Crescent, Barnet, EN4",EN4,4.0
+1046,345000.0,"Station Road,
+London,
+N11",N11,1.0
+1048,600000.0,"Station Road,
+London,
+N11",N11,3.0
+1049,480000.0,"Station Road,
+London,
+N11",N11,2.0

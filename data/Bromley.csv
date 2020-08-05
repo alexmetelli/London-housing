@@ -1,0 +1,431 @@
+,price,address,postcode,number_bedrooms
+2,350000.0,"Boswell Close, Orpington, Kent, BR5",BR5,3.0
+5,390000.0,"Marlow Road, London, SE20 7UZ",SE20,3.0
+8,285000.0,"High Street, Orpington, BR6",BR6,1.0
+9,850000.0,"Upper Elmers End Road, Beckenham, BR3 ",BR3,3.0
+11,530000.0,"Beaconsfield Road, London, SE9",SE9,4.0
+19,300000.0,"5 Worcester Close , Anerley , London, SE20",SE20,1.0
+20,335000.0,"Oaklands, 15 The Avenue, Beckenham, BR3 ",BR3,2.0
+22,440000.0,"Station Approach, Orpington, BR6 0ST",BR6,3.0
+24,700000.0,"Heath Rise, Bromley, BR2",BR2,4.0
+26,185000.0,"Byron House, Porchester Mead, Beckenham, Kent, BR3",BR3,0.0
+28,375000.0,"William Booth Road, Anerley, SE20",SE20,3.0
+32,750000.0,"Cheyne Close, Bromley, BR2",BR2,4.0
+33,500000.0,"Aylesford Avenue, Beckenham, BR3",BR3,3.0
+34,300000.0,"Maple Road, Crystal Palace, London, SE20",SE20,2.0
+35,625000.0,"Crossways Road, Beckenham, BR3",BR3,3.0
+36,750000.0,"Ashfield Close, Beckenham, KENT, BR3",BR3,4.0
+37,375000.0,"Madeira Avenue, Shortlands, Bromley, BR1",BR1,2.0
+40,350000.0,"Cattistock Road, Mottingham, SE9",SE9,2.0
+44,425000.0,"Albemarle Road, Beckenham, BR3",BR3,2.0
+46,175000.0,"Keedonwood Road, Bromley, BR1",BR1,3.0
+49,299000.0,"Buttermere Road, Orpington, Kent, BR5",BR5,2.0
+51,425000.0,Clayhill Crescent London SE9,SE9,3.0
+56,395000.0,"Marlow Road, Anerley , London, SE20",SE20,2.0
+58,485000.0,"Eynsford Close, Petts Wood, BR5",BR5,2.0
+60,550000.0,"St. Johns Road, London, SE20",SE20,2.0
+63,699000.0,"Masefield View, Orpington, Kent, BR6 8PH",BR6,5.0
+65,1450000.0,"Chislehurst Road, Petts Wood, Orpington, BR5",BR5,5.0
+66,250000.0,Chinbrook Road Grove Park SE12,SE12,2.0
+67,350000.0,"Berwick House, Orpington, Kent, BR6",BR6,1.0
+68,350000.0,"Berwick House, Orpington, Kent, BR6",BR6,1.0
+70,400000.0,"Shirley Crescent, Beckenham, BR3",BR3,2.0
+75,425000.0,"Cowden Road, Orpington, BR6 0TP",BR6,3.0
+76,700000.0,"Crockenhill Road, Orpington, Kent, BR5 4ER",BR5,4.0
+80,610000.0,"The Glade, Bickley, Bromley, BR1",BR1,3.0
+81,232500.0,"William Petty Way, Orpington, BR5",BR5,2.0
+89,800000.0,"Priory Avenue, Petts Wood, Orpington, BR5",BR5,3.0
+90,1350000.0,"Vale Road, Bromley, BR1",BR1,5.0
+92,400000.0,"Highlands Road, Orpington, BR5",BR5,3.0
+93,360000.0,"Ryarsh Crescent, Orpington, BR6",BR6,2.0
+94,595000.0,"Seabrook Drive, West Wickham, BR4",BR4,4.0
+98,545000.0,Heathfield Road Keston BR2,BR2,3.0
+103,1350000.0,Vale Road Bromley BR1,BR1,5.0
+106,260000.0,"Eden Park Avenue, Beckenham, BR3",BR3,1.0
+112,500000.0,"Greenway, Chislehurst, BR7",BR7,3.0
+122,600000.0,"Lytchet Road, Bromley, BR1",BR1,4.0
+124,675000.0,"Anerley Park, Anerley SE20",SE20,4.0
+125,425000.0,"Cowden Road, Orpington, BR6 0TP",BR6,3.0
+130,390000.0,"Kedleston Drive, Poverest, Kent, BR5",BR5,3.0
+139,550000.0,"Norsted Lane, Pratts Bottom, Orpington, Kent, BR6 7PQ",BR6,3.0
+141,400000.0,"Helegan Close, Orpington, BR6",BR6,2.0
+142,320000.0,"Weston Grove, Bromley, BR1",BR1,3.0
+143,350000.0,"Blandford Road, Beckenham, Kent, ., BR3",BR3,2.0
+144,285000.0,"Beckenham Lane, Bromley, BR2",BR2,1.0
+146,340000.0,"Waratah Drive, Chislehurst, BR7 5FP",BR7,2.0
+148,525000.0,"Victor Road, Penge, London, SE20",SE20,2.0
+149,82500.0,"William Nash Court, Brantwood Way, Orpington, Kent, BR5",BR5,1.0
+150,750000.0,"Cheyne Close, Bromley, BR2",BR2,4.0
+153,420000.0,"Field Close, Bromley, BR1 2SF",BR1,3.0
+155,450000.0,"Court Road, Orpington, BR6",BR6,4.0
+157,385000.0,"Wendover Way, Orpington, BR6",BR6,3.0
+158,300000.0,"Ashleigh Court, 81 Lawrie Park Road, SE26",SE26,1.0
+161,280000.0,"Acer Road, Biggin Hill, Westerham, Kent, TN16",TN16,2.0
+166,399995.0,"Belvedere Road, London, SE19",SE19,1.0
+167,450000.0,"Anerley Road, Penge, SE20",SE20,3.0
+168,725000.0,"Homemead Road, Bromley, BR2",BR2,4.0
+170,485000.0,"Oregon Square, Orpington, BR6",BR6,2.0
+176,375000.0,"Sanderson Square, Bromley, BR1 2FT",BR1,2.0
+178,205000.0,"Highlands Road, Orpington, Kent, BR5 4JP",BR5,1.0
+179,400000.0,"2 Blackbrook Lane, Bromley, BR2",BR2,2.0
+182,550000.0,"Dorset Road, Beckenham, BR3",BR3,3.0
+183,360000.0,"Waratah Drive, Chislehurst, BR7 5FS",BR7,2.0
+184,700000.0,"Penhale Close, Orpington, BR6 9XS",BR6,4.0
+185,385000.0,"Goodmead Road, Orpington, Kent, BR6 0HX",BR6,2.0
+186,395000.0,"Ringshall Road, Orpington, BR5 2LX",BR5,3.0
+187,650000.0,"Ernest Grove, Beckenham, BR3",BR3,4.0
+193,375000.0,"Blandford Road, Beckenham, BR3",BR3,2.0
+194,849950.0,Sefton Close Petts Wood BR5,BR5,3.0
+195,425000.0,Hammelton Road Bromley BR1,BR1,2.0
+196,700000.0,"Mead Way, Bromley, BR2",BR2,4.0
+197,450000.0,"4 Border Crescent, London, SE26",SE26,2.0
+199,550000.0,Erickson Gardens Bromley BR2,BR2,4.0
+203,300000.0,"Haysleigh Gardens, London, SE20",SE20,2.0
+207,300000.0,"Glen Court, Grasmere Road, BR1 4BD",BR1,2.0
+208,325000.0,"Horley Road, London SE9",SE9,2.0
+209,540000.0,"Mackintosh Street, Bromley, BR2",BR2,3.0
+210,550000.0,"Wellsmoor Gardens, Bromley, BR1",BR1,3.0
+211,250000.0,"Hanson Close, Beckenham, BR3",BR3,1.0
+213,775000.0,"Scotsdale Close, Petts Wood, Orpington, BR5",BR5,4.0
+214,375000.0,"Cowden Road, Orpington, Kent, BR6",BR6,3.0
+218,770000.0,"Magdalen Grove, Orpington, BR6",BR6,4.0
+219,350000.0,"Cattistock Road, Mottingham, SE9 ",SE9,2.0
+223,475000.0,"Powster Road, Bromley, BR1",BR1,3.0
+224,625000.0,"Northfield Avenue, Orpington, Kent, BR5",BR5,5.0
+225,425000.0,"Ravensworth Road, London, SE9 ",SE9,2.0
+228,830000.0,Crest Road Bromley BR2,BR2,5.0
+231,265000.0,"Widmore Road, Bromley, Kent, BR1",BR1,1.0
+234,325000.0,"Gwydor Road, Beckenham, BR3",BR3,1.0
+235,335000.0,"Foxgrove Road, Beckenham, BR3",BR3,2.0
+239,325000.0,"Model Farm Close, London SE9",SE9,2.0
+242,450000.0,Devonshire Road London SE9,SE9,3.0
+245,750000.0,"Coopers Mews, Beckenham, BR3",BR3,3.0
+248,360000.0,"Wordsworth Road, Penge, London, SE20",SE20,1.0
+249,800000.0,"Wickham Road, Beckenham, BR3",BR3,4.0
+250,325000.0,"Wharton Road, Bromley, BR1",BR1,1.0
+258,1300000.0,"Park Farm Road, Bickley, Bromley, BR1 2PE",BR1,5.0
+260,425000.0,"Snowdown Close, London, SE20",SE20,2.0
+261,875000.0,"Woodland Way, West Wickham, BR4",BR4,4.0
+262,345000.0,"Coombe Court, 6 Hayne Road, Beckenham, BR3 ",BR3,2.0
+264,460000.0,"40 Albemarle Road, Beckenham, BR3",BR3,2.0
+265,325000.0,"3 Wells View Drive, Bromley, BR2",BR2,2.0
+266,700000.0,"Letchworth Close, Bromley, Kent, BR2",BR2,4.0
+267,114950.0,"Andreck Court, 2A Crescent Road, Beckenham, ., BR3",BR3,1.0
+268,350000.0,"1 Ravens Dene, Chislehurst, BR7",BR7,2.0
+274,475000.0,"Kynaston Road, Bromley, BR1",BR1,3.0
+275,375000.0,"Constable Mews, Bromley, BR1",BR1,2.0
+276,599995.0,"Avenue Road, Beckenham, BR3",BR3,3.0
+282,725000.0,"Southend Road, Beckenham, BR3",BR3,3.0
+284,200000.0,Blenheim Road London SE20,SE20,0.0
+285,325000.0,"Grosvenor Place, 8 Bromley Road, Beckenham, ., BR3",BR3,1.0
+286,315000.0,"Wakefield Court, 73 Lawrie Park Road, Sydenham, London, SE26",SE26,1.0
+287,570000.0,"The Ridings, Biggin Hill, Westerham, TN16",TN16,4.0
+289,495000.0,"South Drive, Orpington, BR6",BR6,3.0
+293,430000.0,"Chestnut Grove, Penge SE20",SE20,3.0
+296,300000.0,"Lullington Road, London, SE20",SE20,1.0
+297,650000.0,"Boleyn Gardens, West Wickham, BR4",BR4,3.0
+301,239950.0,"Taylor Close, Orpington, BR6",BR6,1.0
+302,340000.0,"Carfax House, 4 Worcester Close, London, SE20",SE20,1.0
+303,375000.0,"Constable Mews, Bromley, BR1",BR1,2.0
+305,320000.0,"Rushmore Hill, Orpington, BR6",BR6,2.0
+306,300000.0,Wellington Road Orpington BR5,BR5,2.0
+309,350000.0,Blanchard Close London SE9,SE9,3.0
+311,800000.0,"Wickham Road, Beckenham, BR3",BR3,4.0
+315,375000.0,"Beckenham Road, Beckenham, BR3",BR3,2.0
+318,375000.0,"Iconia House, 6 Homesdale Road, Bromley, BR2",BR2,2.0
+320,340000.0,"Augustine Road, St Pauls Cray, Kent, BR5",BR5,3.0
+326,310000.0,"High Street, Penge, London, SE20",SE20,2.0
+328,800000.0,Rosemere Place BR2,BR2,3.0
+329,300000.0,"Cygnet Close, St Pauls Cray, Kent, BR5",BR5,2.0
+331,440000.0,"Chelsfield Lane, Orpington, BR5 4HG",BR5,3.0
+332,295000.0,"Chislehurst Road, Orpington, Kent, BR6 0DF",BR6,3.0
+333,299999.0,"Main Road, St Pauls Cray, Orpington, Kent, BR5 3HN",BR5,2.0
+335,280000.0,"Ash Row, Bromley, BR2",BR2,2.0
+336,425000.0,"Brackley Road, Beckenham, BR3",BR3,2.0
+341,450000.0,"Glentrammon Road, Green Street Green, Orpington, Kent, BR6 6DG",BR6,3.0
+342,425000.0,"Ravensworth Road, London, SE9 ",SE9,2.0
+346,350000.0,Pleydell Avenue London SE19,SE19,1.0
+348,360000.0,"Worbeck Road, Anerley, London, SE20",SE20,3.0
+349,440000.0,"Glebe Way, West Wickham, BR4",BR4,2.0
+350,1100000.0,"Fairfield Road, Petts Wood, Orpington, BR5",BR5,5.0
+352,310000.0,"195 High Street, Anerley, SE20",SE20,2.0
+353,785000.0,Willoughby Lane Bromley BR1,BR1,2.0
+354,275000.0,Hope Close Grove Park SE12,SE12,2.0
+355,695000.0,"St Pauls Wood Hill, Orpington, BR5",BR5,4.0
+358,395000.0,"Keymer Close, Biggin Hill, TN16",TN16,4.0
+359,375000.0,"Zelah Road, Orpington, Kent, BR5",BR5,3.0
+366,237500.0,"Sunningvale Avenue, Biggin Hill, Westerham, TN16",TN16,2.0
+367,285000.0,"Albert Road, Mottingham, SE9",SE9,1.0
+369,650000.0,"Treewall Gardens, Bromley, BR1",BR1,4.0
+370,375000.0,"Marlow Road, London, Birkbeck, London, SE20",SE20,2.0
+373,325000.0,Homesdale Road Bromley BR2,BR2,2.0
+374,365000.0,"Worbeck Road, London, SE20",SE20,2.0
+378,450000.0,"Elmcroft Road, Orpington, Kent, BR6",BR6,3.0
+388,2000000.0,"Greys Park Close, Keston, Kent, BR2",BR2,5.0
+391,195000.0,"Chipperfield Road, Orpington, BR5 2QS",BR5,1.0
+392,600000.0,"Elm Grove, Orpington, Kent, BR6 0AA",BR6,3.0
+398,290000.0,"Marvels Lane, Grove Park, SE12",SE12,2.0
+399,500000.0,"Vicarage Drive, Beckenham, BR3",BR3,2.0
+401,595000.0,"Greenwood Close, Petts Wood, Kent, BR5",BR5,3.0
+402,1625000.0,Chislehurst Road Chislehurst BR7,BR7,5.0
+403,350000.0,"Amherst Close, Orpington, BR5",BR5,3.0
+404,425000.0,"Thicket Road, SE20",SE20,2.0
+407,375000.0,"Sellindge Close, Beckenham, BR3",BR3,3.0
+408,1895000.0,Grasmere Road Bromley BR1,BR1,7.0
+409,275000.0,"Cray View Close, Orpington, BR5",BR5,2.0
+410,800000.0,"Ravensbourne Avenue, Shortlands, Bromley, BR2",BR2,4.0
+412,600000.0,"Court Road, Orpington, Kent, BR6 0PY",BR6,5.0
+417,650000.0,"Addington Road, West Wickham, BR4",BR4,4.0
+420,375000.0,"Haydens Close, Orpington, BR5",BR5,2.0
+423,450000.0,"Wisley Road, Orpington BR5",BR5,5.0
+424,1400000.0,"Kevington Drive, Chislehurst, Kent, BR7",BR7,5.0
+426,475000.0,"Palace Road, Bromley, BR1",BR1,2.0
+433,425000.0,"Aylesbury Road, Bromley, BR2",BR2,3.0
+434,399950.0,"Abbey Park, Beckenham, BR3",BR3,2.0
+436,269995.0,"High Street, Beckenham, BR3",BR3,1.0
+437,325000.0,"Wharton Road, Bromley, BR1",BR1,1.0
+439,265000.0,"Weston Grove, Bromley, KENT, BR1",BR1,2.0
+441,525000.0,"Bromley Road, Beckenham, BR3",BR3,3.0
+446,450000.0,Palace Road London SE19,SE19,2.0
+450,600000.0,"Pickhurst Park, Bromley, BR2",BR2,3.0
+451,265000.0,"Geffery Court, Mottingham Road, London, SE9",SE9,0.0
+453,370000.0,"Leesons Hill, St Pauls Cray, Orpington, Kent, BR5",BR5,3.0
+459,315000.0,"Anerley Road , Anerley, SE20",SE20,2.0
+462,900000.0,"Rosemere Place, BR2 0AS",BR2,4.0
+463,365000.0,"Lunar Close, Biggin Hill, Westerham, TN16",TN16,3.0
+464,400000.0,"Kings Road, Biggin Hill, Westerham, Kent, TN16",TN16,3.0
+469,400000.0,Ashmere Avenue Beckenham BR3,BR3,2.0
+472,725000.0,Imperial Place Chislehurst BR7,BR7,3.0
+473,525000.0,"Cygnet Close, Orpington, BR5",BR5,4.0
+476,650000.0,"Coniston Road, Bromley, BR1",BR1,5.0
+478,465000.0,"Anerley Road, London, SE20",SE20,2.0
+479,280000.0,"Sandpiper Way, St Pauls Cray, Kent, BR5",BR5,2.0
+481,299000.0,"Sandpiper Way, Orpington, BR5",BR5,2.0
+487,400000.0,Riddons Road London SE12,SE12,3.0
+489,270000.0,"Market Meadow, Orpington, BR5",BR5,2.0
+495,375000.0,Canon Road Bromley BR1,BR1,2.0
+497,825000.0,"Lower Camden, Chislehurst, BR7",BR7,5.0
+499,235000.0,"Priory Close, Beckenham, BR3",BR3,1.0
+500,2000000.0,"Thicket Road, London, SE20",SE20,6.0
+501,440000.0,"Fairfield Road, Beckenham, BR3",BR3,2.0
+502,700000.0,"Kechill Gardens, Bromley, BR2",BR2,4.0
+504,800000.0,Langham Park Place Bromley BR2,BR2,4.0
+507,385000.0,"Shortlands Gardens, Shortlands, BR2",BR2,2.0
+509,400000.0,"Beech Road, Biggin Hill, Westerham, Kent, TN16",TN16,3.0
+517,350000.0,Calcott Walk London SE9,SE9,2.0
+519,375000.0,"Gardiner Close, St Pauls Cray, Kent, BR5",BR5,3.0
+520,450000.0,Tremaine Road London SE20,SE20,3.0
+521,360000.0,"Meadow Close, Chislehurst, BR7 6JB",BR7,2.0
+522,395000.0,"Mount Pleasant, Biggin Hill, Westerham, Kent, TN16",TN16,3.0
+523,325000.0,"Elmers End Road, Beckenham, ., BR3",BR3,2.0
+524,325000.0,Morgan Road Bromley BR1,BR1,2.0
+526,425000.0,"Perry Hall Road, Orpington, Kent, BR6",BR6,3.0
+530,650000.0,"High Beeches, Chelsfield, BR6",BR6,4.0
+532,300000.0,"New Road, Orpington, Kent, BR6",BR6,2.0
+533,425000.0,"The Knole, Mottingham, SE9",SE9,3.0
+534,340000.0,"Stonegate Close, Orpington, Kent, BR5",BR5,3.0
+542,780000.0,"Murray Avenue, Bromley, BR1",BR1,4.0
+545,800000.0,"Petts Wood Road, Petts Wood, Orpington, BR5",BR5,4.0
+546,375000.0,"Worlds End Lane, Orpington, BR6",BR6,2.0
+550,700000.0,"Worsley Grange, Kemnal Road, Chislehurst, BR7",BR7,2.0
+552,485000.0,"Thayers Farm Road, Beckenham, Kent, ., BR3",BR3,2.0
+553,350000.0,"Broom Avenue, Orpington, BR5",BR5,3.0
+554,375000.0,"Dairy Close, Bromley, BR1",BR1,2.0
+556,450000.0,"Villiers Road, Beckenham, BR3",BR3,2.0
+557,425000.0,"Flat 12, 51 The Avenue, Beckenham, BR3",BR3,2.0
+558,265000.0,"Anerley Road, Anerley, SE20",SE20,1.0
+562,725000.0,"Avondale Road, Bromley, BR1",BR1,3.0
+563,525000.0,"Ridgeway Drive, Bromley, BR1",BR1,3.0
+564,450000.0,"46 Royston Road, Penge, SE20",SE20,2.0
+565,375000.0,"Devonshire Road, Orpington, BR6",BR6,1.0
+569,300000.0,"Burnt Ash Lane, Bromley, Kent, BR1",BR1,2.0
+570,400000.0,"Henry Street, Bromley, BR1",BR1,2.0
+571,500000.0,"Turners Meadow Way, Beckenham, BR3",BR3,2.0
+574,675000.0,"Brackley Road, Beckenham, BR3",BR3,3.0
+576,799995.0,Willoughby Lane Bromley BR1,BR1,2.0
+577,600000.0,"Pickhurst Park, Bromley, BR2",BR2,3.0
+579,300000.0,"Blandford Road, Beckenham, BR3",BR3,1.0
+580,500000.0,"Venner Road, Sydenham, London, SE26",SE26,2.0
+585,550000.0,"The Avenue, Beckenham, BR3",BR3,3.0
+586,600000.0,"Clock House Road, Beckenham, BR3",BR3,3.0
+587,400000.0,"The Avenue, Beckenham, BR3",BR3,2.0
+589,270000.0,"27 Beckenham Grove, Bromley, BR2",BR2,1.0
+590,280000.0,"22 Langley Road, Beckenham, BR3",BR3,1.0
+600,1100000.0,"Fairfield Road, Petts Wood, Orpington, BR5",BR5,5.0
+602,295000.0,"Mackintosh Street, Bromley, BR2",BR2,1.0
+604,425000.0,"Hamlet Road, London, SE19",SE19,2.0
+607,240000.0,"Porchester Mead, Beckenham, BR3",BR3,1.0
+608,400000.0,"Glebe Way, West Wickham, BR4",BR4,2.0
+610,275000.0,"Fleet House, 18 Mackintosh Street, Bromley, BR2",BR2,1.0
+613,400000.0,"Worlds End Lane, Orpington, BR6",BR6,2.0
+614,350000.0,"49 Copers Cope Road, Beckenham, BR3",BR3,2.0
+622,195000.0,"Orchard Grove, Penge, London, SE20",SE20,0.0
+631,400000.0,"14 Shortlands Road, Bromley, BR2",BR2,2.0
+633,475000.0,"Magpie Hall Lane, Bromley, BR2",BR2,3.0
+637,425000.0,Blenheim Road London SE20,SE20,2.0
+638,325000.0,Blenheim Road London SE20,SE20,1.0
+641,495000.0,"Wellbrook Road, Orpington, BR6",BR6,3.0
+643,430000.0,"Renton Drive, Orpington, Kent, BR5",BR5,2.0
+644,375000.0,"Buckland Road, Orpington, BR6",BR6,3.0
+646,220000.0,"Rydens House, Mottingham SE9",SE9,1.0
+648,535000.0,"Churchfields Road, Beckenham, BR3",BR3,3.0
+651,385000.0,"Maberley Crescent, London, SE19",SE19,2.0
+652,300000.0,"4 Worcester Close, Anerley, SE20",SE20,1.0
+653,550000.0,"Chancery Lane, Beckenham, BR3",BR3,2.0
+655,380000.0,"Shortlands Grove, BROMLEY, BR2",BR2,2.0
+657,275000.0,"London Lane, Bromley, BR1",BR1,2.0
+658,320000.0,"Lydford House, 1 Ravens Dene, Chislehurst, Kent, BR7",BR7,2.0
+660,450000.0,"Normanhurst Road, St Pauls Cray, Kent, BR5",BR5,3.0
+661,900000.0,"Quernmore Close, Bromley, BR1",BR1,4.0
+662,500000.0,"Degema Road, Chislehurst, BR7",BR7,3.0
+664,450000.0,"Belvedere Road, Crystal Palace, London, SE19",SE19,2.0
+665,400000.0,"Selby Road, London, SE20",SE20,2.0
+670,299995.0,"Station Approach, Hayes, Bromley, BR2",BR2,2.0
+672,385000.0,"Samos Road, Anerley, London, SE20",SE20,2.0
+674,775000.0,"Madeira Avenue, Shortlands, Bromley, BR1",BR1,4.0
+677,300000.0,"Burnt Ash Lane, Bromley, BR1",BR1,2.0
+681,300000.0,Lullington Road London SE20,SE20,1.0
+687,575000.0,"Bourne Vale, Hayes , Bromley, BR2",BR2,3.0
+695,300000.0,"Chester Court, 8 Durham Road, Bromley, Kent, BR2",BR2,1.0
+703,425000.0,"Coniston Court, Springfield Road, Sydenham, London, SE26",SE26,2.0
+708,375000.0,"Tintagel Road, Orpington, Kent, BR5",BR5,3.0
+709,425000.0,"78 Crystal Palace Park Road, Sydenham, SE26",SE26,2.0
+716,250000.0,"Homesdale Road, Bromley, ., BR2",BR2,2.0
+722,745000.0,"Keston Gardens, Keston, Kent, BR2",BR2,4.0
+723,850000.0,Blakes Green West Wickham BR4,BR4,4.0
+729,280000.0,"2 Gladstone Road, Orpington, BR6",BR6,2.0
+730,1200000.0,Alexandra Road London SE26,SE26,6.0
+731,525000.0,"Eastern View, Biggin Hill, Westerham, Kent, TN16",TN16,4.0
+734,475000.0,"Blenheim Road, Bromley, BR1",BR1,2.0
+736,495000.0,"Perry Hall Road, Orpington, BR6 0HR",BR6,2.0
+739,230000.0,"Mountfield Way, Orpington, Kent, BR5",BR5,1.0
+741,780000.0,"Tower Road, Orpington, BR6",BR6,4.0
+748,500000.0,"Hillview Road, Chislehurst, BR7",BR7,2.0
+749,325000.0,"Swievelands Road, Biggin Hill, Westerham, TN16",TN16,4.0
+750,1100000.0,"Fairfield Road, Petts Wood, Orpington, BR5",BR5,5.0
+752,400000.0,"Beech Court, 46 Copers Cope Road, Beckenham, BR3",BR3,2.0
+756,1349995.0,"Spinney Oak, Bickley, Kent, BR1 2NS",BR1,5.0
+758,365000.0,Anerley Park London SE20,SE20,2.0
+761,465000.0,"Arundel Drive, Orpington, BR6",BR6,3.0
+763,1850000.0,Hazel Grove Orpington BR6,BR6,4.0
+771,290000.0,"69 Burnt Ash Lane, Bromley, BR1",BR1,2.0
+776,439995.0,"Hillcrest Road, Bromley, BR1",BR1,3.0
+777,600000.0,"Sutherland Avenue, Biggin Hill, Westerham, TN16",TN16,4.0
+779,300000.0,"Widecombe Road, London SE9",SE9,2.0
+780,260000.0," Roberts Court, Maple Road, Penge, SE20",SE20,2.0
+783,300000.0,"Shortlands Grove, Bromley, BR2",BR2,1.0
+786,975000.0,"Whitmore Road, Beckenham, ., BR3",BR3,5.0
+787,585000.0,"Hillcrest Road, Orpington, Kent, BR6",BR6,3.0
+788,570000.0,"Ravens Dene, Chislehurst, BR7",BR7,4.0
+791,475000.0,"Stirling Drive, Chelsfield, BR6",BR6,3.0
+792,375000.0,"Madison Gardens, Bromley, BR2",BR2,2.0
+793,425000.0,"Newbury Road, Bromley, BR2",BR2,2.0
+796,350000.0,"57-59 London Lane, Bromley, BR1",BR1,2.0
+797,315000.0,"Radcliffe House, 3 Worcester Close, London, SE20",SE20,1.0
+798,280000.0,"Mackintosh Street, Bromley, BR2",BR2,1.0
+799,525000.0,"Sandringham Road, Bromley, BR1",BR1,3.0
+801,395000.0,"Trentham Drive, Orpington, BR5",BR5,3.0
+803,600000.0,"Lusted Hall Lane, Tatsfield, Westerham, Surrey, TN16",TN16,4.0
+805,400000.0,"Bloomfield Road, Bromley, BR2",BR2,2.0
+806,485000.0,Ash Tree Way Croydon CR0,CR0,3.0
+808,300000.0,"1 Weighton Road, London, SE20",SE20,2.0
+809,625000.0,Croydon Road West Wickham BR4,BR4,3.0
+810,450000.0,"Dunkery Road, London, SE9",SE9,3.0
+811,550000.0,Birch Tree Avenue West Wickham BR4,BR4,3.0
+812,530000.0,"9 Crystal Palace Park Road, Sydenham, SE26",SE26,2.0
+814,260000.0,"Tylney Road, Bromley, BR1",BR1,2.0
+815,325000.0,"Boswell Close, Orpington, BR5",BR5,2.0
+816,430000.0,"Gillmans Road, Orpington, Kent, BR5",BR5,3.0
+821,380000.0,"Versailles Road, London, SE20",SE20,2.0
+824,135000.0,"Forest Close, Chislehurst, BR7 5QS",BR7,1.0
+828,345000.0,"Worcester Close, London, SE20",SE20,1.0
+829,529995.0," Highfield Avenue,  Orpington, BR6",BR6,3.0
+830,425000.0,"Cowden Road, Orpington, BR6 0TP",BR6,3.0
+835,350000.0,"Anerley Road, Anerley, London, SE20",SE20,3.0
+837,1100000.0,"Radleigh Place, Beckenham, BR3",BR3,4.0
+839,350000.0,"51-53 Anerley Road, Crystal Palace, SE19",SE19,1.0
+843,570000.0,"Magpie Hall Lane, Bromley, BR2",BR2,4.0
+846,425000.0,"Atkins Close, Leavesden, Westerham, Kent, TN16",TN16,3.0
+848,550000.0,"Kynaston Road, Bromley, KENT, BR1",BR1,4.0
+850,750000.0,"Cheyne Close, Bromley, BR2",BR2,4.0
+851,360000.0,"Mosslea Road, Penge, London, SE20",SE20,1.0
+854,525000.0,"Palace Road, Bromley, Kent, BR1",BR1,2.0
+855,385000.0,"1 Homefield Road, Bromley, BR1",BR1,2.0
+860,350000.0,"Samos Road, London, SE20",SE20,2.0
+861,325000.0,"69 Albemarle Road, Bromley, BR3",BR3,2.0
+862,950000.0,"Worsley Grange, Kemnal Road, Chislehurst, BR7 6NL",BR7,2.0
+863,425000.0,"Hearns Road, St Mary Cray, Orpington, Kent, BR5",BR5,4.0
+865,450000.0,"Beddington Road, Orpington, Kent, BR5 2TG",BR5,3.0
+870,225000.0,"Turpington Lane, Bromley, BR2",BR2,2.0
+872,350000.0,Ravenscroft Road Beckenham BR3,BR3,2.0
+873,415000.0,"Brunswick Square, Homefield Rise, Orpington, BR6",BR6,2.0
+877,465000.0,"Farnaby Road, Shortlands, BR2 ",BR2,3.0
+891,350000.0,"Brooklyn House, Anerley Road, Anerley, SE20",SE20,3.0
+894,600000.0,"Arrol Road, Beckenham, ., BR3",BR3,3.0
+895,1100000.0,"Chatsworth Close, West Wickham, BR4",BR4,5.0
+896,230000.0,"Beaconsfield Road, Mottingham, SE9",SE9,2.0
+897,310000.0,"New Church Court, Waldegrave Road, London, SE19",SE19,1.0
+898,130000.0,"Green Bank Lodge, Forest Close, Chislehurst, BR7 5QS",BR7,1.0
+900,425000.0,"Cowden Road, Orpington, BR6 0TP",BR6,3.0
+902,300000.0,"Birkbeck Road, Beckenham, BR3",BR3,2.0
+905,650000.0,Virginia Close Bromley BR2,BR2,4.0
+907,425000.0," Burnt Ash Lane,  Bromley, BR1",BR1,2.0
+909,440000.0,"Mays Hill Road, Bromley, BR2",BR2,2.0
+911,600000.0,"Arthur Road, Westerham, TN16",TN16,5.0
+912,725000.0,"Maple Road, Penge, London, ., SE20",SE20,3.0
+916,900000.0,"Addington Road, West Wickham, BR4",BR4,4.0
+917,365000.0,"Thicket Road, London, SE20",SE20,1.0
+919,400000.0,"Barnmead Road, Beckenham, BR3",BR3,2.0
+920,600000.0,"The Avenue, Beckenham, BR3",BR3,2.0
+925,1100000.0,"Blackbrook Lane, Bromley, BR1",BR1,5.0
+926,600000.0,"Southlands Grove, Bromley, BR1",BR1,4.0
+927,310000.0,"Waldegrave Road, London, SE19",SE19,1.0
+932,525000.0,"Beanshaw, Mottingham, SE9",SE9,4.0
+933,520000.0,"Tubbenden Lane, South Orpington, Kent, BR6",BR6,3.0
+938,350000.0,"Westgate Road, Beckenham, BR3",BR3,2.0
+939,525000.0,"Glentrammon Gardens, Green Street Green, Orpington, Kent, BR6 6JX",BR6,4.0
+940,635000.0,"King Henry Mews, Chelsfield, BR6",BR6,4.0
+946,475000.0,"White Horse Hill, Chislehurst, BR7",BR7,3.0
+947,2500000.0,"Malmains Way, Beckenham, Kent, BR3",BR3,8.0
+950,1450000.0,"Chislehurst Road, Petts Wood, Orpington, BR5",BR5,5.0
+951,267500.0,"Millennium Court, 88 Chinbrook Road, London, SE12",SE12,1.0
+952,240000.0,"Boyland Road, Bromley, BR1",BR1,1.0
+953,365000.0,"Beckenham Road, Beckenham, BR3",BR3,2.0
+954,325000.0,"Southend Road, Beckenham, BR3",BR3,1.0
+955,550000.0,"Kemerton Road, Beckenham, BR3",BR3,2.0
+964,345000.0,"Blandford Road, Beckenham, BR3",BR3,2.0
+965,500000.0,"Gumping Road, Orpington, BR5",BR5,3.0
+970,260000.0,"22-24 Ash Grove, Anerley, SE20",SE20,1.0
+971,290000.0,"2-8 Durham Avenue, Bromley, BR2",BR2,2.0
+973,650000.0,"Colesburg Road, Beckenham, BR3",BR3,4.0
+974,1500000.0,Piermont Place Bromley BR1,BR1,5.0
+976,240000.0,"Lambert Close, Biggin Hill, Westerham, TN16",TN16,2.0
+978,450000.0,"83 Park Road, Beckenham, BR3",BR3,2.0
+981,750000.0,"Ravensbourne Avenue, Shortlands, Bromley, BR2",BR2,3.0
+982,550000.0,"Tylney Road, Bromley, BR1",BR1,3.0
+984,400000.0,"79 Wiverton Road, London, SE26",SE26,1.0
+992,270000.0,"25 London Lane, Bromley, BR1",BR1,1.0
+994,350000.0,Field Close Bromley BR1,BR1,3.0
+1005,210000.0,"Maple Leaf Close, Westerham, TN16",TN16,1.0
+1006,585000.0,"Aylesford Avenue, Beckenham, BR3",BR3,4.0
+1009,300000.0,"Transmere Road, Orpington, BR5",BR5,2.0
+1011,400000.0,"Birkbeck Road, Beckenham, London, BR3",BR3,2.0
+1013,465000.0,"St Mark's Square, Bromley, BR2",BR2,2.0
+1014,400000.0,"Eden Road, Beckenham, BR3",BR3,2.0
+1015,315000.0,"Worcester Close, Anerley, London, SE20",SE20,1.0
+1019,775000.0,"Greenfield Drive, Bromley, BR1",BR1,4.0
+1020,350000.0,"1 Albemarle Road, BECKENHAM, BR3",BR3,2.0
+1023,425000.0,Clayhill Crescent SE9,SE9,3.0
+1026,875000.0,"Rosemere Place, BR2 0AS",BR2,4.0
+1027,299999.0,Widmore Road Bromley BR1,BR1,1.0
+1028,465000.0,"Flat 23, Dewey Court, Bromley, BR2",BR2,2.0
+1032,310000.0,"Beckenham, BR3",BR3,2.0
+1036,400000.0,"Wych Elm Lodge, Bromley, BR1",BR1,2.0
+1038,385000.0,Byron Close Wheathill Road SE20,SE20,2.0
+1039,395000.0,"Ringshall Road, Orpington, Orpington, BR5",BR5,3.0
+1040,499995.0,"Church Road, Shortlands, Bromley, BR2",BR2,2.0
+1041,500000.0,"Lorimer Row, Bromley, BR2",BR2,4.0
+1043,525000.0,Marian Gardens Bromley BR1,BR1,2.0
+1045,375000.0,"High Street, Green Street Green, Orpington, Kent, BR6 6BJ",BR6,3.0
+1046,450000.0,"Chestnut Grove, Penge SE20",SE20,3.0
+1048,250000.0,Croydon Road London SE20,SE20,1.0

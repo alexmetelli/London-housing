@@ -1,0 +1,440 @@
+,price,address,postcode,number_bedrooms
+5,400000.0,"Windmill Rise,, Kingston Hill, Kingston upon Thames, KT2",KT2,2.0
+6,915000.0,"Wittering Close, Kingston Upon Thames, KT2",KT2,4.0
+7,525000.0,"Cheltenham Close, New Malden , KT3 ",KT3,3.0
+8,425000.0,"Burton Road, Kingston Upon Thames, KT2",KT2,1.0
+12,199950.0,"Cox Lane, Chessington, Surrey, KT9",KT9,2.0
+13,1000000.0,"Ashdown Road,
+Kingston Upon Thames,
+KT1 2FQ",KT1,3.0
+17,760000.0,"Ashdown Road,
+Kingston Upon Thames,
+KT1 2FQ",KT1,2.0
+19,899950.0,"Elm Road, Kingston upon Thames KT2",KT2,3.0
+22,360000.0,"Millfield, Mill Place, Kingston upon Thames, Surrey, KT1",KT1,2.0
+23,650000.0,"Oakdene Drive, Surbiton, KT5",KT5,3.0
+24,350000.0,"Rushey Close, New Malden, KT3",KT3,2.0
+25,665000.0,"Highdown, Worcester Park, KT4",KT4,3.0
+26,375000.0,"Tolworth Road, Surbiton, KT6",KT6,2.0
+28,600000.0,"St. James Close, New Malden, KT3",KT3,3.0
+34,479950.0,"Crescent Road, Kingston upon Thames KT2",KT2,2.0
+35,650000.0,"Columbia Avenue, Worcester Park, Surrey, KT4",KT4,3.0
+38,409000.0,"Upper Brighton Road, Surbiton, KT6",KT6,1.0
+46,450000.0,"Gladstone Road, Surbiton, KT6",KT6,3.0
+48,630000.0,"Cross Road, Kingston upon Thames KT2",KT2,2.0
+59,200000.0,"162 Ewell Road, Surbiton, KT6",KT6,0.0
+64,390000.0,"Galsworthy Road, KT2",KT2,2.0
+65,375000.0,"Tudor Drive, Kingston Upon Thames, KT2",KT2,2.0
+67,300000.0,"Chiltern Drive, Berrylands, Surbiton, KT5",KT5,1.0
+73,429950.0,"Grange Road, Chessington, Surrey, KT9",KT9,3.0
+74,310000.0,"Ewell Road, Surbiton, Surrey, KT6",KT6,1.0
+75,535000.0,"York Road, Kingston Upon Thames, Surrey, United Kingdom, KT2",KT2,2.0
+78,350000.0,"Britannia Road, Surbiton, KT5",KT5,2.0
+80,360000.0,"Kingsworthy Close, Kingston upon Thames KT1",KT1,2.0
+83,285000.0,"Richmond Road, Kingston Upon Thames, KT2",KT2,2.0
+84,325000.0,"Weston Court, Grove Crescent, Kingston upon Thames, KT1",KT1,2.0
+85,749950.0,"Highdown, Worcester Park, Surrey, ., KT4",KT4,3.0
+94,375000.0,"Gilders Road, Chessington, Surrey, KT9",KT9,2.0
+95,275000.0,"May Close, Chessington, Surrey, KT9",KT9,2.0
+96,645000.0,"Eversley Road, Surbiton, KT5",KT5,3.0
+98,1250000.0,"Trafalgar Building, 15 Henry Macaulay Avenue, Kingston, KT2",KT2,3.0
+99,475000.0,"Headley Close, Epsom, Surrey, KT19",KT19,3.0
+102,280000.0,"Camilla House, 4 Chessington Hall Gardens, Chessington, Surrey, KT9",KT9,2.0
+103,620000.0,"Egmont Road, Surbiton, KT6",KT6,3.0
+105,875000.0,"Ash Close, New Malden, KT3",KT3,3.0
+110,500000.0,"Connaught House, Grove Road, Surbiton, KT6",KT6,2.0
+112,325000.0,"Weston Court, Grove Crescent, Kingston Upon Thames, Surrey, KT1",KT1,2.0
+113,330000.0,"Springfield Road, Kingston Upon Thames, Surrey, United Kingdom, KT1",KT1,2.0
+114,230000.0,"North Parade, Chessington, Surrey, KT9",KT9,3.0
+118,425000.0,"Mansfield Road, Chessington, Surrey, KT9",KT9,3.0
+122,1215000.0,"Borough Road, Kingston Upon Thames, KT2",KT2,4.0
+123,475000.0,"Acacia Grove, New Malden, KT3",KT3,2.0
+125,725000.0,"Elmbridge Avenue, Surbiton, KT5",KT5,3.0
+127,499950.0,"North Road, Surbiton, Surrey, KT6",KT6,2.0
+131,750000.0,"Croylands Drive, Surbiton, Surrey, KT6",KT6,3.0
+132,349950.0,"Denmark Road, Kingston Upon Thames, KT1",KT1,3.0
+133,325000.0,"Ravenscar Road, Surbiton, KT6",KT6,2.0
+136,415000.0,"Westbury Road, New Malden, Surrey, KT3",KT3,2.0
+138,685000.0,"Broadmead Avenue, Worcester Park, Surrey, KT4",KT4,3.0
+140,319950.0,"Reynolds Avenue, Chessington, Surrey, KT9",KT9,2.0
+142,1950000.0,"Old Malden Lane, Worcester Park, KT4",KT4,5.0
+143,550000.0,"Surbiton Court, St. Andrews Square, Surbiton, KT6",KT6,2.0
+144,309950.0,"Bransby Road, Chessington, Surrey, KT9",KT9,2.0
+145,625000.0,"Kingston Road, New Malden, KT3",KT3,5.0
+146,450000.0,"The Anglers, 59-61 High Street, Kingston upon Thames, Surrey, KT1",KT1,2.0
+147,850000.0,"Clarence Avenue, New Malden, KT3",KT3,5.0
+148,700000.0,"Highdown, Worcester Park, KT4",KT4,3.0
+149,450000.0,"Cedarcroft Road, Chessington, Surrey, KT9",KT9,2.0
+151,312500.0,"Hunting Gate Drive, Chessington, Surrey, KT9",KT9,1.0
+152,434950.0,"Clayton Road, Chessington, Surrey, KT9",KT9,3.0
+153,450000.0,"Grantham Court, Kingston upon Thames KT2",KT2,2.0
+156,800000.0,"Croylands Drive, Surbiton, Surrey, KT6",KT6,3.0
+161,499950.0,"Berrylands Road, Surbiton, KT5",KT5,2.0
+162,799950.0,"Royal Gallery, 12 Skerne Road, Kingston Upon Thames, Surrey, KT2",KT2,3.0
+166,425000.0,"Orchard Court, Worcester Park, KT4",KT4,2.0
+167,1150000.0,"Dunton Close, Surbiton, KT6",KT6,4.0
+169,425000.0,"Oakcroft Road, Chessington, Surrey, KT9",KT9,2.0
+172,310000.0,"The Croft, Westbury Road, New Malden, KT3",KT3,1.0
+173,750000.0,"Caversham Road, Kingston Upon Thames, KT1",KT1,3.0
+174,535000.0,"Risborough Drive, Worcester Park , KT4 ",KT4,3.0
+175,894000.0,"Ashdown Road,
+Kingston Upon Thames,
+KT1 2FQ",KT1,2.0
+179,350000.0,"Elm Road, Kingston upon Thames KT2",KT2,1.0
+180,1100000.0,"Cavendish Road, New Malden, KT3",KT3,5.0
+181,325000.0,"80 Richmond Road, Kingston Upon Thames, KT2",KT2,1.0
+182,450000.0,"Queenswood Court, Queens Road, Kingston Upon Thames, Surrey, KT2",KT2,2.0
+190,450000.0,"Ashby Avenue, Chessington, Surrey. KT9 2BU",KT9,3.0
+193,1500000.0,"Grove Crescent, Kingston upon Thames KT1",KT1,4.0
+196,799950.0,"Borough Road, Kingston Upon Thames, KT2",KT2,3.0
+197,285000.0,"May Close, Chessington, Surrey, KT9",KT9,2.0
+200,1100000.0,"Cavendish Road, New Malden, KT3",KT3,5.0
+204,650000.0,"Canford Gardens, New Malden, KT3 ",KT3,3.0
+209,1295000.0,"Ullswater Crescent, Kingston Vale, SW15",SW15,5.0
+212,400000.0,"Guilford Avenue, Surbiton, KT5",KT5,2.0
+213,435000.0,"Durbin Road, Chessington, Surrey, KT9",KT9,3.0
+214,1495000.0,"Linkside, KT3",KT3,5.0
+219,325000.0,"Kingston Road, New Malden.  KT3 3PE",KT3,1.0
+223,625000.0,"Bazalgette Gardens, New Malden, KT3",KT3,3.0
+224,439950.0,"Idmiston Square, Worcester Park, KT4",KT4,3.0
+225,875000.0,"Ash Close, New Malden, KT3",KT3,3.0
+226,450000.0,"Berrylands Road, Surbiton, KT5",KT5,2.0
+229,350000.0,"Richmond Road, Kingston Upon Thames, KT2",KT2,1.0
+233,325000.0,"Hook Road,Surbiton,KT6",KT6,2.0
+234,1500000.0,"Victoria Avenue, Surbiton, KT6",KT6,4.0
+235,525000.0,"Sherborne Road, Chessington, Surrey. KT9 1AT",KT9,3.0
+236,425000.0,"Mansfield Road, Chessington, Surrey, KT9",KT9,3.0
+237,350000.0,"Florence Road, Kingston Upon Thames, KT2",KT2,2.0
+238,369950.0,"Vivien Close, Chessington, Surrey, KT9",KT9,2.0
+240,399995.0,"Chesham Court, Brighton Road, Surbiton, Surrey, KT6",KT6,2.0
+241,450000.0,"Kingshill Avenue, KT4 ",KT4,3.0
+245,600000.0,"Princes Avenue, Surbiton, KT6",KT6,7.0
+250,325000.0,"Ravenscar Road, Surbiton, KT6",KT6,2.0
+252,590000.0,"Ancaster Crescent, New Malden, KT3",KT3,3.0
+258,350000.0,"Consero Court, 51 Britannia Road, Surbiton, KT5",KT5,2.0
+259,375000.0,"Almshouse Lane, Chessington, Surrey, KT9",KT9,2.0
+260,1845000.0,"Lord Chancellor Walk, Kingston upon Thames, Surrey, KT2",KT2,6.0
+261,875000.0,"Albemarle Gardens, New Malden, KT3",KT3,4.0
+262,300000.0,"Barsnbury Lane,Surbiton,KT5",KT5,2.0
+263,425000.0,"Haycroft Road, Surbiton, Surrey, KT6",KT6,2.0
+265,379950.0,"Clifton Road, Kingston Upon Thames, KT2",KT2,2.0
+272,270000.0,"School Lane, Surbiton, KT6",KT6,2.0
+273,705000.0,"Somerset Road, Kingston upon Thames, KT1",KT1,4.0
+274,349950.0,"Kingsway, Royal Quarter, Kingston Upon Thames, KT2",KT2,1.0
+275,1500000.0,"Victoria Avenue, Surbiton, KT6",KT6,4.0
+280,725000.0,"Elmbridge Avenue, Surbiton, KT5",KT5,3.0
+286,360000.0,"Villiers Close, Surbiton, KT5",KT5,2.0
+290,1200000.0,"Milner Road, Kingston upon Thames, KT1",KT1,4.0
+291,350000.0,"Park Close, Kingston upon Thames, KT2",KT2,2.0
+297,400000.0,"Somerset Close , KT3 ",KT3,2.0
+303,459950.0,"Charles Babbage Close, Chessington, Surrey, KT9",KT9,3.0
+310,725000.0,"Northcote Road, New Malden, KT3",KT3,4.0
+311,424000.0,"Glenbuck Road, Surbiton, KT6",KT6,3.0
+316,375000.0,"Gilders Road, Chessington, Surrey, ., KT9",KT9,2.0
+317,725000.0,"South Lane, New Malden, Surrey, KT3",KT3,4.0
+318,725000.0,"Malden Green Avenue, Worcester Park, Surrey, KT4",KT4,4.0
+323,1200000.0,"Fairfield South, Kingston, Kingston upon Thames, KT1",KT1,6.0
+324,575000.0,"Malden Way, New Malden, Surrey, KT3",KT3,4.0
+327,372500.0,"Vivien Close, Chessington, Surrey, KT9",KT9,2.0
+329,700000.0,"Kingston Road, New Malden, KT3",KT3,3.0
+331,850000.0,"Kingston Hill Place, Kingston upon Thames, Surrey, KT2",KT2,2.0
+333,235000.0,"Gooding Close, New Malden, KT3",KT3,2.0
+334,540000.0,"York Road, Kingston upon Thames KT2",KT2,3.0
+335,315000.0,"Palmerston Court, Lovelace Gardens, Surbiton, KT6",KT6,1.0
+336,425000.0,"Cheshire Gardens, Chessington, Surrey. KT9 2PT",KT9,2.0
+339,665000.0,"Highdown, Worcester Park, KT4",KT4,3.0
+343,380000.0,"Earlsfield House, Royal Quarter, Seven Kings Way, Kingston, KT2",KT2,1.0
+345,995000.0,"St. Georges Road, Kingston Upon Thames, KT2",KT2,4.0
+350,1150000.0,"Kings Road, Kingston Upon Thames, KT2",KT2,5.0
+351,600000.0,"Canbury Park Road, Kingston upon Thames KT2",KT2,2.0
+354,375000.0,"Rollesby Road, Chessington, Surrey, KT9",KT9,2.0
+355,550000.0,"Glebe Gardens, New Malden, Surrey, ., KT3",KT3,3.0
+358,360000.0,"Kingsworthy Close, Kingston upon Thames, KT1",KT1,2.0
+363,250000.0,"Pembury Avenue, Worcester Park , KT4 ",KT4,1.0
+364,765000.0,"Wilton Grove, New Malden, KT3",KT3,4.0
+365,885000.0,"Presburg Road, New Malden, KT3",KT3,4.0
+368,360000.0,"Villiers Close, Surbiton, KT5",KT5,2.0
+369,530000.0,"Windrush, New Malden, KT3",KT3,3.0
+370,875000.0,"Kings Avenue, New Malden, KT3",KT3,4.0
+371,725000.0,"Portland Avenue, New Malden, KT3",KT3,4.0
+372,170000.0,"25 Hook Road, Surbiton, ,, KT6 5AA",KT6,0.0
+375,894000.0,"Ashdown Road,
+Kingston Upon Thames,
+KT1 2FQ",KT1,2.0
+377,1225000.0,"Arundel Road, Kingston upon Thames, Surrey, KT1",KT1,4.0
+380,195000.0,"Surbiton,Surrey,KT6",KT6,0.0
+382,650000.0,"Gainsborough Road, New Malden, KT3",KT3,3.0
+383,575000.0,"Rhodrons Avenue, Chessington, Surrey. KT9 1AZ",KT9,3.0
+384,439000.0,"Guilford Avenue, Surbiton, KT5",KT5,2.0
+388,525000.0,"KT4, Worcester Park",KT4,3.0
+391,525000.0,"St. Leonards Square, Surbiton, KT6",KT6,2.0
+396,425000.0,"Hawker Court, Queens Road, Kingston Upon Thames, KT2",KT2,3.0
+398,300000.0,"Garrison Lane, Chessington, Surrey, ., KT9",KT9,3.0
+399,450000.0,"Birkenhead Avenue, Kingston Upon Thames, KT2",KT2,2.0
+404,885000.0,"Royal Park Gate, Kingston upon Thames KT2",KT2,5.0
+406,859950.0,"Yeovilton Place, Kingston Upon Thames, KT2",KT2,3.0
+407,375000.0,"Thrigby Road, Chessington, Surrey, KT9",KT9,2.0
+408,625000.0,"Tolworth Park Road, Surbiton, KT6",KT6,3.0
+413,650000.0,"Motspur Park, New Malden, KT3",KT3,3.0
+414,257500.0,"Melford Close, Chessington, Surrey, KT9",KT9,1.0
+418,735000.0,"Kelvin Grove, Chessington, Surrey. KT9 1DP",KT9,4.0
+420,399950.0,"Sigrist Square, Kingston Upon Thames, KT2",KT2,2.0
+421,200000.0,"Malden Hill, New Malden, KT3",KT3,0.0
+424,650000.0,"Franks Avenue, New Malden, KT3",KT3,3.0
+428,1100000.0,"New Malden,Kingston upon Thames,KT3",KT3,5.0
+429,400000.0,"Birkenhead Avenue, Kingston Upon Thames, KT2",KT2,2.0
+430,1250000.0,"Brunswick Road, Kingston, Kingston upon Thames, KT2",KT2,4.0
+433,449950.0,"Cambridge Grove Road, Kingston, KT1",KT1,3.0
+438,695000.0,"Chestnut Grove, New Malden, KT3",KT3,3.0
+440,379950.0,"Wolsey Way, Chessington, Surrey. KT9 1XQ",KT9,3.0
+444,295000.0,"May Close, Chessington, Surrey, KT9",KT9,2.0
+445,375000.0,"Gilders Road, Chessington, Surrey, KT9",KT9,2.0
+446,450000.0,"Seven Kings Way, Kingston, Kingston upon Thames, KT2",KT2,2.0
+450,550000.0,"Ancaster Crescent, New Malden, KT3 6BD",KT3,3.0
+453,460000.0,"Hook Rise North, Surbiton, UK, KT6",KT6,4.0
+457,225000.0,"Percy Gardens, Worcester Park, Worcester Park, Surrey, KT4",KT4,1.0
+465,625000.0,"Elm Road, New Malden, KT3",KT3,3.0
+472,140000.0,"Sopwith Avenue, Chessington, KT9",KT9,1.0
+475,1395000.0,"Chiltern Drive, Surbiton, KT5",KT5,5.0
+476,465000.0,"Whitehall Crescent, Chessington, Surrey, KT9",KT9,2.0
+478,550000.0,"Broadlands Way, Motspur Park, New Malden, KT3",KT3,2.0
+479,525000.0,"Skerne Road, Kingston Upon Thames, Surrey, KT2",KT2,2.0
+484,435000.0,"Cranes Drive, Surbiton, KT5",KT5,2.0
+485,450000.0,"St. Andrews Square, Surbiton, KT6",KT6,2.0
+488,475000.0,"Kingston Hill, Kingston Upon Thames, Surrey, United Kingdom, KT2",KT2,2.0
+491,310000.0,"Victoria Road, Surbiton, Surrey, KT6",KT6,1.0
+492,320000.0,"Victoria Road, Surbiton, Surrey, KT6",KT6,1.0
+493,1700000.0,"Wolverton Avenue, Kingston upon Thames, KT2",KT2,6.0
+496,575000.0,"Hunters Road, Chessington, Surrey, KT9",KT9,4.0
+498,595000.0,"Brunswick Road, Kingston upon Thames, KT2",KT2,2.0
+499,1100000.0,"Kingston Vale, Putney, SW15",SW15,3.0
+500,310000.0,"Boundary Close, Kingston Upon Thames, Surrey, United Kingdom, KT1",KT1,2.0
+502,725000.0,"South Lane, New Malden, KT3",KT3,4.0
+504,499950.0,"Ewell Road, Surbiton, KT6",KT6,2.0
+505,435000.0,"Manorgate Road, Kingston Upon Thames, KT2",KT2,2.0
+506,400000.0,"Phoenix Court, 126-130 Ewell Road, Surbiton, KT6",KT6,2.0
+517,1825000.0,"George Road, Kingston upon Thames, Surrey, KT2",KT2,5.0
+518,1750000.0,"Pine Walk, Surbiton, KT5",KT5,5.0
+522,1835000.0,"George Road, Kingston upon Thames, Surrey, KT2",KT2,5.0
+524,285000.0,"Chessington Hall Gardens, Chessington, Surrey. KT9 2HH",KT9,2.0
+525,325000.0,"Ravenscar Road, Surbiton, KT6",KT6,2.0
+526,485000.0,"Kingshill Avenue, Worcester Park, Surrey, KT4",KT4,3.0
+529,675000.0,"Manor Drive North, New Malden, Surrey, KT3",KT3,3.0
+536,875000.0,"Lyndhurst Avenue, Surbiton, KT5",KT5,6.0
+538,400000.0,"Surbiton,Surrey,KT5",KT5,1.0
+539,620000.0,"Blagdon Road, London, New Malden, KT3",KT3,2.0
+541,289950.0,"Moor Lane, Chessington, Surrey, KT9",KT9,2.0
+547,900000.0,"Beverley Way, London, SW20",SW20,7.0
+548,400000.0,"Beaufort Road, Kingston, Kingston upon Thames, KT1",KT1,2.0
+553,235000.0,"Avenue South, Surbiton, KT5",KT5,0.0
+556,2800000.0,"Albany Park Road, Kingston upon Thames, Surrey, KT2",KT2,6.0
+557,350000.0,"Acre Road, Kingston Upon Thames, KT2",KT2,2.0
+559,325000.0,"Pinkerton Court, 3 Lambourn Grove, Kingston Upon Thames, Surrey, KT1",KT1,1.0
+561,500000.0,"Earlsfield House, Royal Quarter, Kingston Upon Thames, Surrey, KT2",KT2,2.0
+563,375000.0,"High Street, New Malden, KT3",KT3,2.0
+564,1000000.0,"Clifton Road, Kingston upon Thames KT2",KT2,6.0
+566,1180000.0,"The Water Gardens, Warren Road, Kingston upon Thames, Surrey, KT2",KT2,3.0
+569,435000.0,"Porton Court, Portsmouth Road, London KT6",KT6,2.0
+576,275000.0,"Chessington Hall Gardens, Chessington, Surrey, KT9",KT9,2.0
+577,415000.0,"Vale Crescent, Kingston Vale, London, SW15",SW15,1.0
+578,525000.0,"Clayton Road, Chessington, Surrey, KT9",KT9,4.0
+580,475000.0,"Seven Kings Way, Kingston, Kingston upon Thames, KT2",KT2,2.0
+584,835000.0,"Barnfield Avenue, North Kingston, KT2",KT2,4.0
+585,699950.0,"Lower Green Gardens, Worcester Park, Surrey, KT4",KT4,5.0
+589,950000.0,"Chesham Road, Kingston Upon Thames, KT1",KT1,5.0
+591,450000.0,"Moor Lane, Chessington, Surrey, KT9",KT9,2.0
+592,380000.0,"Boswell Court, Clifton Road, Kingston Upon Thames, Surrey, KT2",KT2,2.0
+593,920000.0,"Mount Pleasant Road, New Malden, KT3",KT3,4.0
+595,305000.0,"Uxbridge Road, Kingston upon Thames, KT1",KT1,1.0
+597,220000.0,"Hook Road, Chessington, Surrey, KT9",KT9,2.0
+601,400000.0,"Cheltenham Close, New Malden, KT3",KT3,2.0
+602,1300000.0,"Ullswater Crescent, London, SW15",SW15,5.0
+606,1350000.0,"Albany Park Road, Kingston upon Thames, KT2",KT2,4.0
+610,449950.0,"Georgia Road, New Malden, Surrey, KT3",KT3,3.0
+611,425000.0,"Maple Road, Surbiton, KT6",KT6,2.0
+615,525000.0,"Hook Road, Surbiton, Surrey, KT6",KT6,3.0
+616,975000.0,"Chamberlain Way, Surbiton, KT6",KT6,3.0
+621,425000.0,"93 Westbury Road, New Malden, KT3",KT3,2.0
+622,2650000.0,"Orchard Rise, Kingston, Surrey, KT2",KT2,7.0
+627,275000.0,"Green Lane, Chessington, Surrey. KT9 2EE",KT9,2.0
+633,415000.0,"Kings Avenue, New Malden, KT3",KT3,2.0
+635,650000.0,"Orme Road, Kingston Upon Thames, KT1",KT1,3.0
+639,315000.0,"Royston Court, Hook Rise North, Surbiton, Surrey, KT6",KT6,2.0
+640,199950.0,"Gilders Road, Chessington, Surrey, ., KT9",KT9,1.0
+641,2225000.0,"Coombe Lane West, Kingston Upon Thames, KT2",KT2,4.0
+644,299950.0,"Regents Court, Kingston upon Thames KT2",KT2,1.0
+646,950000.0,"11 Connaught Road, Surrey, KT3 3PZ",KT3,4.0
+647,275000.0,"Halford Court, 7 Green Lane, Chessington, Surrey, KT9",KT9,2.0
+649,950000.0,"Tolworth Road, Surbiton, Surrey, KT6",KT6,5.0
+650,425000.0,"Oakcroft Road, Chessington, Surrey, KT9",KT9,2.0
+652,345000.0,"Berrylands Road, Surbiton, KT5",KT5,2.0
+653,210000.0,"Mansfield Road, Chessington, Surrey. KT9 2PN",KT9,1.0
+654,435000.0,"Maple Road, Surbiton, Surrey, KT6",KT6,2.0
+655,795000.0,"Berystede, Kingston Upon Thames, KT2",KT2,4.0
+657,1040000.0,"Selwyn Road, New Malden, KT3",KT3,4.0
+662,845000.0,"Elgar Avenue, Surbiton, KT5",KT5,5.0
+663,1150000.0,"Dukes Avenue, New Malden, KT3",KT3,5.0
+666,285000.0,"Gilders Road, Chessington, Surrey, KT9",KT9,2.0
+667,285000.0,"Richmond Road, Kingston Upon Thames, KT2",KT2,2.0
+668,415000.0,"Dudley Road, Kingston Upon Thames, KT1",KT1,2.0
+669,899950.0,"Clarence Avenue, New Malden, Surrey, United Kingdom, KT3",KT3,5.0
+675,850000.0,"Queenshurst Square, Kingston, Kingston Upon Thames, KT2",KT2,3.0
+676,925000.0,"Lynton Road, New Malden, KT3",KT3,4.0
+679,410000.0,"Tedder Close, Chessington, Surrey. KT9 2QA",KT9,3.0
+682,1625000.0,"Wonford Close, Kingston Upon Thames, Surrey, KT2",KT2,5.0
+683,550000.0,"Rosebery Road, Kingston Upon Thames, KT1",KT1,3.0
+685,365000.0,"Golding Close, Chessington, Surrey. KT9 2GG",KT9,2.0
+688,1425000.0,"Warren Rise, Coombe, KT3",KT3,4.0
+689,730000.0,"Earlsfield House, Royal Quarter, Seven Kings Way, Kingston, KT2",KT2,3.0
+690,1625000.0,"Wonford Close, Kingston-Upon-Thames, KT2",KT2,5.0
+691,1650000.0,"Brendon Close, Surrey, KT10",KT10,4.0
+693,550000.0,"Bonner Hill Road, Kingston, Kingston upon Thames, KT1",KT1,2.0
+695,450000.0,"Vale Crescent, Kingston Vale, London, SW15",SW15,1.0
+696,575000.0,"Lawrence Avenue, New Malden, KT3",KT3,2.0
+697,950000.0,"Hoppingwood Avenue, New Malden, KT3",KT3,4.0
+700,360000.0,"Villiers Close, Surbiton, KT5",KT5,2.0
+705,450000.0,"Kingshill Ave, Worcester Park, KT4",KT4,3.0
+706,799950.0,"Alexandra Drive, Surbiton, KT5",KT5,4.0
+707,649950.0,"Culsac Road, Surbiton, KT6",KT6,3.0
+708,320000.0,"Field Close, Chessington, Surrey. KT9 2QD",KT9,2.0
+712,475000.0,"Gilders Road, Chessington, KT9",KT9,3.0
+715,329950.0,"Clayton Road, Chessington, Surrey, KT9",KT9,2.0
+716,435000.0,"Hartfield Road, Chessington, Surrey. KT9 2PW",KT9,3.0
+718,840000.0,"Elmbridge Avenue, Surbiton.  KT5 9HF",KT5,3.0
+719,550000.0,"Victoria Road, Kingston Upon Thames, KT1",KT1,2.0
+720,525000.0,"High Street, Kingston Upon Thames, Surrey, United Kingdom, KT1",KT1,2.0
+721,695000.0,"Gladeside Close, Chessington, Surrey, KT9",KT9,4.0
+722,425000.0,"Richmond Court, 2 Queens Road, Kingston Upon Thames, KT2",KT2,2.0
+723,750000.0,"Coombe Gardens, New Malden, KT3",KT3,4.0
+724,1475000.0,"Burton Road, Kingston upon Thames, KT2",KT2,4.0
+725,270000.0,"School Lane, Surbiton, KT6",KT6,2.0
+739,650000.0,"Earle Gardens, Kingston Upon Thames, Surrey, United Kingdom, KT2",KT2,4.0
+753,565000.0,"Muybridge Road, New Malden, KT3",KT3,3.0
+759,2150000.0,"Kingston Hill, Kingston upon Thames, KT2",KT2,4.0
+760,825000.0,"Latchmere Road, Kingston upon Thames KT2",KT2,3.0
+761,825000.0,"Reynolds Road, New Malden, KT3",KT3,4.0
+763,899500.0,"Nigel Fisher Way, Chessington, KT9",KT9,4.0
+767,665000.0,"Cranes Park Avenue, Surbiton, KT5",KT5,3.0
+768,750000.0,"Surbiton,Surrey,KT6",KT6,3.0
+779,550000.0,"Acacia Grove, New Malden, KT3",KT3,2.0
+780,350000.0,"Red Lion Road, Tolworth, Surbiton, KT6",KT6,1.0
+781,575000.0,"Crescent Road, Kingston upon Thames, KT2",KT2,2.0
+784,399950.0,"Grove Crescent, Kingston Upon Thames KT1",KT1,2.0
+785,575000.0,"Portsmouth Road, Surbiton, KT6",KT6,2.0
+786,275000.0,"Foxglove Lane, Chessington, Surrey, KT9",KT9,1.0
+793,1600000.0,"Vicarage Close, Worcester Park, KT4",KT4,5.0
+796,215000.0,"Arcade Parade, Elm Road, Chessington, Surrey. KT9 1AB",KT9,1.0
+797,255000.0,"Ashlyns Way, Chessington, Surrey. KT9 2HL",KT9,1.0
+798,675000.0,"Pembroke Avenue, Surbiton, Surrey, KT5",KT5,3.0
+803,450000.0,"Vale Crescent, Kingston Vale, London, SW15",SW15,1.0
+804,450000.0,"St Georges Gardens, Tolworth, Surbiton, KT6",KT6,4.0
+820,599950.0,"Kingston Riverside, Kingston upon Thames KT2",KT2,2.0
+821,799950.0,"Latchmere Lane, Kingston upon Thames KT2",KT2,3.0
+822,695000.0,"Red Lion Road, Surbiton, KT6",KT6,4.0
+824,825000.0,"Mount Road, New Malden, KT3",KT3,4.0
+826,1250000.0,"Arundel Road, Kingston Upon Thames, KT1",KT1,5.0
+827,375000.0,"Cumberland House, Kingston Hill, Kingston upon Thames, Surrey, KT2",KT2,3.0
+828,360000.0,"Kirrane Close, New Malden, KT3",KT3,3.0
+829,375000.0,"Woodcote Close, Kingston Upon Thames, Surrey, United Kingdom, KT2",KT2,2.0
+830,535000.0,"York Road, Kingston Upon Thames, Surrey, United Kingdom, KT2",KT2,2.0
+834,550000.0,"Ancaster Crescent, New Malden, KT3 6BD",KT3,3.0
+837,325000.0,"Ditton Road, Surbiton, KT6",KT6,2.0
+839,1150000.0,"Dukes Avenue, New Malden, KT3",KT3,5.0
+841,325000.0,"Foxglove Lane, Chessington, Surrey, KT9",KT9,2.0
+842,2250000.0,"Coombe Lane West, Kingston upon Thames, Surrey, KT2",KT2,4.0
+843,2250000.0,"Coombe Lane West, Coombe Hill, KT2",KT2,4.0
+845,375000.0,"Stirling Court, 36 Lovelace Gardens, Surbiton, Surrey, KT6",KT6,1.0
+846,600000.0,"Bargate Close, New Malden, KT3",KT3,3.0
+848,569950.0,"Princes Road, Kingston Upon Thames, KT2",KT2,3.0
+849,367500.0,"Kingston Hill, Kingston Hill, Kingston upon Thames, KT2",KT2,2.0
+850,840000.0,"Elmbridge Avenue, Surbiton.  KT5 9HF",KT5,3.0
+851,1575000.0,"Paget Place, Kingston upon Thames, Surrey, KT2",KT2,4.0
+858,850000.0,"Royal Park Gate, Kingston upon Thames KT2",KT2,3.0
+860,320000.0,"Heron Court, Kingston upon Thames KT1",KT1,1.0
+864,265000.0,"Cowleaze Road, Kingston Upon Thames, Surrey, United Kingdom, KT2",KT2,1.0
+867,835000.0,"Norbiton Avenue, Kingston upon Thames KT1",KT1,3.0
+868,400000.0,"Drake Road, Chessington, Surrey. KT9 1LQ",KT9,3.0
+871,289950.0,"Windmill Rise, Kingston Upon Thames, KT2",KT2,1.0
+872,649950.0,"St. Leonards Road, Surbiton, KT6",KT6,2.0
+873,325000.0,"Clandon House, Kingston Hill, Kingston upon Thames, KT2",KT2,2.0
+875,975000.0,"Chamberlain Way, Surbiton, KT6",KT6,3.0
+881,795000.0,"Coombe Road, New Malden, KT3",KT3,3.0
+882,750000.0,"Coombe Road, New Malden, KT3",KT3,3.0
+883,1375000.0,"Cotsford Avenue, New Malden, KT3",KT3,4.0
+889,350000.0,"Lenelby Road, Surbiton, KT6",KT6,2.0
+891,700000.0,"Fishponds Cottage, Browns Road,Surbiton,KT5",KT5,2.0
+893,475000.0,"Water Lane, Kingston, Kingston Upon Thames, KT1",KT1,1.0
+894,375000.0,"Surbiton Road,Surbiton,KT1",KT1,2.0
+895,849000.0,"Endway, Surbiton, KT5",KT5,6.0
+899,715000.0,"Brighton Road, Surbiton, KT6",KT6,4.0
+900,535000.0,"York Road, Kingston Upon Thames, Surrey, United Kingdom, KT2",KT2,2.0
+901,775000.0,"Hatch Place, Kingston upon Thames KT2",KT2,4.0
+903,599950.0,"Avenue Road, Kingston Upon Thames, KT1",KT1,2.0
+904,725000.0,"Raeburn Avenue, Surbiton, KT5",KT5,4.0
+907,300000.0,"St Marys Court, 27 - 29 Chestnut Grove, New Malden, Surrey, KT3",KT3,1.0
+908,325000.0,"Church Road, Kingston, Kingston upon Thames, KT1",KT1,1.0
+909,450000.0,"Kingston,Kingston Upon Thames,KT1",KT1,2.0
+910,395000.0,"Ewell Road, Surbiton, KT6",KT6,2.0
+913,875000.0,"Wolsey Drive, Kingston Upon Thames, KT2",KT2,4.0
+916,170000.0,"Opal House, Percy Gardens, Malden Manor, KT4 ",KT4,1.0
+918,170000.0,"Flat 1, Opal House, Percy Gardens, Malden Manor, London, KT4 7SD",KT4,1.0
+919,1495000.0,"Cromford Way, New Malden, Surrey, KT3",KT3,4.0
+922,1150000.0,"Kings Road, Kingston Upon Thames, KT2",KT2,5.0
+923,299995.0,"Villiers Road, Kingston, KT1",KT1,0.0
+924,299995.0,"Villiers Road, Kingston, KT1",KT1,0.0
+925,300000.0,"Barsnbury Lane,Surbiton,KT5",KT5,2.0
+930,725000.0,"Portland Road, Kingston-Upon-Thames, Surrey, United Kingdom, KT1",KT1,4.0
+934,540000.0,"Penners Gardens, Surbiton, KT6",KT6,2.0
+935,235000.0,"Jupiter Court, Surbiton, KT5",KT5,1.0
+937,1150000.0,"Ullswater Crescent, London, SW15",SW15,3.0
+938,375000.0,"Kingston Hill, Kingston Upon Thames, KT2",KT2,1.0
+940,1300000.0,"Ullswater Crescent, London, SW15",SW15,5.0
+941,900000.0,"Riverside Close, Kingston upon Thames, KT1",KT1,3.0
+942,320000.0,"The Avenue, Surbiton, Surrey, KT5 8JW",KT5,1.0
+946,1125000.0,"Croylands Drive, Surbiton, KT6",KT6,4.0
+947,385000.0,"Villiers Road, Kingston, Kingston upon Thames, KT1",KT1,1.0
+948,475000.0,"Villiers Road, Kingston, KT1",KT1,2.0
+953,475000.0,"West Road, Chessington, KT9",KT9,3.0
+957,434950.0,"Cedarcroft Road, Chessington, Surrey, KT9",KT9,2.0
+958,675000.0,"Coombe Hill, Devey Close, KT2",KT2,3.0
+960,375000.0,"Kingston Hill, Kingston, Kingston upon Thames, KT2",KT2,2.0
+961,1835000.0,"George Road, Kingston Upon Thames, Surrey, KT2",KT2,5.0
+963,500000.0,"Surbiton Road, Kingston upon Thames, KT1",KT1,2.0
+966,429950.0,"Elmdene, Surbiton, Surrey, KT5",KT5,3.0
+967,730000.0,"Mount Road, New Malden, KT3",KT3,5.0
+968,1825000.0,"George Road, Kingston Upon Thames, Surrey, KT2",KT2,5.0
+971,685000.0,"Mary Adelaide Close, Kingston Vale, SW15 ",SW15,4.0
+974,894000.0,"Ashdown Road,
+Kingston Upon Thames,
+KT1 2FQ",KT1,2.0
+975,665000.0,"Highdown, Worcester Park, KT4",KT4,3.0
+977,350000.0,"Glenbuck Road,, Surbiton, KT6",KT6,2.0
+980,550000.0,"Malden Road, New Malden, Surrey, KT3",KT3,3.0
+983,325000.0,"Capel House, South Place, Surbiton, KT5",KT5,2.0
+985,599999.0,"Oak Hill Road,
+Surbiton,
+KT6 6EN",KT6,2.0
+989,735000.0,"Coombe Gardens, New Malden, KT3",KT3,3.0
+991,685000.0,"Chilmark Gardens, New Malden, KT3",KT3,4.0
+992,210000.0,"Gilders Road,Chessington,KT9",KT9,1.0
+996,579999.0,"Selbourne Avenue, Surbiton, KT6",KT6,3.0
+998,850000.0,"Hardman Road, Kingston Upon Thames, Surrey, KT2",KT2,4.0
+999,575000.0,"Green End, Chessington, Surrey, KT9",KT9,4.0
+1000,600000.0,"St. James Close, New Malden, KT3",KT3,3.0
+1001,475000.0,"Lime Grove, New Malden, KT3",KT3,2.0
+1002,925000.0,"Thorpe Road, Kingston upon Thames, KT2",KT2,3.0
+1003,795000.0,"Garland House, Royal Quarter, Kingston Upon Thames, KT2",KT2,3.0
+1004,500000.0,"Avante Court, The Bittoms, Kingston upon Thames, KT1",KT1,2.0
+1006,975000.0,"Nelson Road, New Malden, KT3",KT3,4.0
+1011,650000.0,"Maple Road, Surbiton, KT6",KT6,2.0
+1012,350000.0,"Rayleigh Court, Cambridge Road, Kingston upon Thames, KT1",KT1,2.0
+1013,319950.0,"Albury Road, Chessington, KT9",KT9,2.0
+1017,600000.0,"Oakdene Drive, Surbiton, KT5",KT5,3.0
+1020,650000.0,"Emerson Mews, New Malden, KT3",KT3,3.0
+1022,325000.0,"Sigrist Square, Kingston upon Thames KT2",KT2,1.0
+1024,199950.0,"Riverhill, Worcester Park, Surrey. KT4 7QB",KT4,2.0
+1025,300000.0,"Chiltern Drive, Berrylands, Surbiton, KT5",KT5,1.0
+1028,650000.0,"Osiers Court, Kingston upon Thames, KT1",KT1,2.0
+1029,1150000.0,"Ullswater Crescent, Kingston Hill, London, SW15",SW15,3.0
+1031,3500000.0,"Warren Cutting, Coombe Hill, KT2",KT2,6.0
+1032,439950.0,"Angus Close, Chessington, Surrey, KT9",KT9,3.0

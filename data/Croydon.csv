@@ -1,0 +1,587 @@
+,price,address,postcode,number_bedrooms
+2,230000,"South End, South Croydon, Croydon, CR0",CR0,1.0
+9,335000,"Central Hill , Upper Norwood, London, SE19",SE19,1.0
+11,625000,"The Woodfields, Sanderstead, CR2",CR2,3.0
+12,320000," 1 Westow Hill,  London, SE19",SE19,1.0
+13,300000,"5 Worcester Close , Anerley , London, SE20",SE20,1.0
+18,375000,"Redbarn Close, Purley, Surrey, CR8",CR8,2.0
+19,375000,"William Booth Road, Anerley, SE20",SE20,3.0
+20,685000,"Beaumont Road, London, SE19",SE19,4.0
+21,250000,"Whitehorse Lane, London, CR7",CR7,1.0
+22,500000,"Aylesford Avenue, Beckenham, BR3",BR3,3.0
+23,325000,"Northborough Road, Norbury, London, SW16",SW16,2.0
+24,530000,"Coppice Yard, Croydon, CR0",CR0,3.0
+26,280000,"Penge Road, Anerley, London, SE20",SE20,1.0
+27,279950,"Stanley Road, Croydon, CR0",CR0,2.0
+28,600000,"Wharncliffe Road, London, SE25",SE25,4.0
+29,365000,"Homelands Drive, London SE19",SE19,2.0
+30,425000,"Lower Road, Kenley, Surrey, ., CR8",CR8,3.0
+31,480000,"Pinnacle Apartments, Saffron Central Square, Croydon, CR0",CR0,2.0
+35,240000,"7-9 St. Peters Road, Croydon, CR0",CR0,2.0
+37,550000,"Melfort Road, Thornton Heath, CR7",CR7,5.0
+38,325000,"Church Road, London, SE19",SE19,2.0
+39,350000,"Church Road, Upper Norwood, London, SE19",SE19,1.0
+41,270000,"Sundale Avenue, Selsdon, South Croydon, Surrey, CR2",CR2,2.0
+43,150000,"London Road, Croydon, CR0",CR0,0.0
+44,350000,"Newlands Woods, Bardolph Avenue, Croydon,CR0 9JR",CR0,3.0
+46,300000,High Street London SE25,SE25,1.0
+47,325000,"Anderson Heights London Road, Norbury, SW16",SW16,2.0
+48,240000,"Oakfield Road, Croydon, CR0",CR0,1.0
+50,450000,"Woodside Green, London, SE25",SE25,3.0
+53,215000,"Laurel Court, 146 Selhurst Road, London, SE25",SE25,1.0
+56,550000,"Chartham Road, London, SE25",SE25,4.0
+62,595000,"Church Way, Sanderstead, South Croydon, Surrey, cr2 0JU",cr2,2.0
+63,310000,"Campden Road, South Croydon, CR2",CR2,1.0
+64,290000,"St Augustines Avenue, South Croydon, Surrey, CR2",CR2,2.0
+65,375000,"Chertsey Crescent, New Addington, Croydon, CR0 0DA",CR0,3.0
+66,375000,"Parker Road, Central Croydon, CR0",CR0,2.0
+67,425000,"Huntley Road, South Norwood, London, SE25",SE25,3.0
+70,475000,"Epsom Road, Croydon, Surrey, England, CR0",CR0,3.0
+71,365000,"Smitham Yard, Leaden Hill, Coulsdon, Surrey, CR5",CR5,2.0
+74,675000,"Orchard Avenue, Shirley, CR0",CR0,4.0
+75,350000,"Whitestone Way, Croydon, CR0",CR0,2.0
+78,347500,"The Residences Croydon, 4 Edridge Road, Croydon, Surrey, CR0",CR0,2.0
+81,825000,"Arkwright Road, Sanderstead, Surrey, CR2 0LP",CR2,4.0
+82,300000,Moffat Road Thornton Heath CR7,CR7,1.0
+84,425000,"Roke Lodge Road, Kenley, ., CR8",CR8,3.0
+85,335000,"Scarbrook Road, Croydon, CR0",CR0,2.0
+86,375000,"Addiscombe Road, CR0",CR0,2.0
+87,325000,"Blenheim Crescent, South Croydon, CR2",CR2,2.0
+89,450000,"Norfolk Road, Thornton Heath, CR7",CR7,5.0
+90,370000,"St. Peters Street, South Croydon, CR2",CR2,2.0
+91,395000,"Penshurst Road, Thornton Heath, CR7",CR7,2.0
+93,350000,"Selsdon Road, South Croydon, CR2",CR2,2.0
+94,325000,"Elmside, New Addington, CR0",CR0,3.0
+97,420000,"Davidson Road, Croydon, CR0",CR0,2.0
+98,415000,"Dalmally Road, Addiscombe, CR0",CR0,2.0
+100,235200,"The Residences Croydon, 4 Edridge Road, Croydon, Surrey, CR0",CR0,1.0
+101,425000,"Benson Road, Croydon, CR0",CR0,2.0
+102,730000,"Hayes Lane, Kenley, Surrey, CR8",CR8,4.0
+104,325000,"Gipsy Hill, Crystal Palace, SE19",SE19,1.0
+105,625000,"St. Andrews Road, Coulsdon, CR5",CR5,4.0
+106,325000,"Northcote Road, Croydon, CR0",CR0,2.0
+107,239999,"Whitehorse Road, Croydon, Surrey, CR0 2LB",CR0,2.0
+110,480000,"Hartley Road, Croydon, CR0",CR0,3.0
+111,245000,"Reedham Court, Aveling Close, Purley, CR8",CR8,1.0
+112,300000,"Blunt Road, South Croydon, CR2",CR2,1.0
+113,230000,"Alpha Road, Croydon, CR0",CR0,1.0
+114,800000,"Shirley Road, Shirley, Croydon, Surrey, CR0",CR0,6.0
+116,450000,"Penshurst Road, Thornton Heath, CR7",CR7,3.0
+117,300000,"Leicester Road, Croydon, CR0",CR0,2.0
+119,350000,Harold Road SE19,SE19,1.0
+125,215000,"Holmbury Grove, Featherbed Lane, Croydon CR0 9AP",CR0,1.0
+132,215000,"Burnham Gardens, ., Croydon, Surrey, CR0",CR0,1.0
+135,325000,"Cherry Orchard Road, Croydon, CR0",CR0,1.0
+136,400000,"Moffat Road, Thornton Heath, CR7",CR7,3.0
+138,215000,"Park Hill Court, Addiscombe Road, Croydon, Surrey, CR0 5PJ",CR0,1.0
+140,750000,"Cullesden Road, Kenley, CR8",CR8,4.0
+141,350000,"St Helens Crescent, Norbury, London, SW16 4LD",SW16,2.0
+142,350000,"Headley Drive, New Addington, Croydon, CR0 0QL",CR0,3.0
+143,365000,"Lodge Road, Croydon, CR0",CR0,2.0
+146,250000,"Thornhill Road, Croydon, CR0",CR0,1.0
+148,260000,"The Glade, Shirley, Croydon, Surrey, CR0",CR0,1.0
+149,465000,"Borrowdale Drive, Sanderstead, CR2",CR2,2.0
+151,275000,"Whitefield House, Whitefield Avenue, Purley, Surrey, CR8",CR8,2.0
+152,800000,"Hereward Avenue, Purley, CR8",CR8,4.0
+157,250000,"Maresfield, Park Hill, Croydon, Surrey, CR0",CR0,1.0
+160,295000,"Brighton Road, Purley, CR8",CR8,2.0
+161,399995,"Belvedere Road, London, SE19",SE19,1.0
+162,450000,"Anerley Road, Penge, SE20",SE20,3.0
+163,630000,"Melrose Road, Coulsdon, Surrey, CR5",CR5,4.0
+164,1200000,"Eversley Road, London, SE19",SE19,4.0
+167,375000,Harold Road London SE19,SE19,1.0
+170,210000,Cameron Road Croydon CR0,CR0,1.0
+171,300000,"Sylvan Road, London, SE19",SE19,1.0
+172,370000,"Nihill Place, Croydon, CR0",CR0,2.0
+173,450000,"Elgin Road, Croydon, CR0",CR0,2.0
+178,560000,"Elder Place, South Croydon, CR2",CR2,4.0
+182,595000,"Woodmere Close, Shirley, Surrey, Croydon, CR0",CR0,3.0
+183,270000,"Kelvin Gardens, ., Croydon, Surrey, CR0",CR0,2.0
+185,400000,"Tugela Road, Croydon, CR0",CR0,3.0
+187,280000,"Thanet House, Coombe Road, Croydon, CR0",CR0,2.0
+188,850000,"Eldon Avenue, Croydon, CR0",CR0,4.0
+192,300000,"Haysleigh Gardens, London, SE20",SE20,2.0
+193,295000,"Woodpecker Mount, Pixton Way, Croydon, CR0 9JE",CR0,2.0
+196,350000,"Rochford Way, Croydon, CR0 3AD",CR0,2.0
+197,365000,"Holland Road, London, SE25",SE25,2.0
+198,345000,"Compton Court, Victoria Crescent, London, SE19",SE19,2.0
+199,450000,"46 Victoria Crescent,  London, SE19",SE19,2.0
+201,310000,"Lyconby Gardens, Shirley, Croydon, Surrey, CR0",CR0,2.0
+202,375000,"Malden Avenue, South Norwood, SE25",SE25,3.0
+203,850000,"Grovelands Road, Purley, Surrey, ., CR8",CR8,6.0
+205,425000,"Beulah Hill, London, SE19",SE19,3.0
+207,300000,"Penge Road, London, SE25",SE25,1.0
+211,450000,"St. Stephens Crescent, Thornton Heath, CR7",CR7,3.0
+214,350000,"Auckland Road,, Crystal Palace, London, SE19",SE19,2.0
+215,244995,"Northcote Road, Croydon, CR0",CR0,1.0
+216,300000,"Kenley House, Ashburton Road, Croydon, CR0",CR0,2.0
+217,625000,"Carlton Road, South Croydon, Surrey, CR2 0BP",CR2,3.0
+219,250000,"Wychwood Avenue,, Thornton Heath, CR7",CR7,2.0
+224,300000,48 Heath Road Thornton Heath CR7,CR7,1.0
+225,254000,"The Residences Croydon, 4 Edridge Road, Croydon, Surrey, CR0",CR0,1.0
+226,625000,"Montgomery Way, Kenley, CR8",CR8,4.0
+227,300000,"Stanford Road, Norbury, London, SW16",SW16,1.0
+231,270000,"Sundale Avenue, South Croydon, CR2 8RS",CR2,2.0
+234,310000,"Waldronhyrst, CR2 - Guide Price £310,000 to £325,000",CR2,2.0
+235,475000,"Addiscombe Avenue, Croydon, CR0",CR0,3.0
+236,675000,"Norbury Crescent, London, SW16",SW16,4.0
+237,375000,"Siddons Road, Croydon, CR0",CR0,2.0
+238,430000,"Denning Avenue, Croydon / Waddon, CR0",CR0,3.0
+239,450000,"Totton Road, Thornton Heath, CR7",CR7,3.0
+240,310000,"Cargreen Road, South Norwood, London, SE25",SE25,1.0
+242,575000,"Gipsy Hill, Upper Norwood, London, SE19",SE19,3.0
+245,375000,"Montacute Road,New Addington,Croydon,CR0 0JF",CR0,3.0
+246,310000,"Ledaire Point, 19a Devonshire Road, Croydon, CR0",CR0,1.0
+247,385000,"Sanderstead Road, South Croydon, Surrey, CR2",CR2,2.0
+249,475000,"Malcolm Road, South Norwood, SE25",SE25,3.0
+250,350000,"Whitestone Way, Croydon, CR0",CR0,2.0
+252,375000,"Queens Road, Croydon, CR0",CR0,3.0
+253,585000,"Shirley Way, Shirley, Croydon, Surrey, CR0",CR0,3.0
+256,1575000,Gipsy Hill London SE19,SE19,8.0
+257,459950,"Hatch Road, London, SW16",SW16,3.0
+258,600000,"Brighton Road, Purley, Surrey, ., CR8",CR8,4.0
+259,475000,"Reedham Drive, Purley, Surrey, CR8",CR8,4.0
+260,260000,"Thornton Heath, Thornton Heath, CR7",CR7,2.0
+261,180000,"Epsom Road, Croydon, CR0",CR0,2.0
+263,600000,"Brading Road, Croydon, CR0",CR0,4.0
+264,230000,"Dunheved Road West, Thornton Heath, CR7",CR7,1.0
+265,325000,"Mitcham Road, Croydon, Surrey, CR0",CR0,3.0
+266,159950,"Mayday Road, Thornton Heath, Surrey, CR7",CR7,0.0
+267,615000,"Norbury Crescent, London, SW16",SW16,4.0
+268,600000,"Meadvale Road, Croydon, CR0",CR0,6.0
+270,450000,"Richmond Road, Thornton Heath, CR7",CR7,3.0
+272,315000,"Cherry Orchard Road, Croydon, CR0",CR0,1.0
+275,400000,"Foxley Lane, Purley, CR8",CR8,2.0
+276,500000,"Reedham Drive, Purley, Surrey, CR8",CR8,4.0
+278,300000,"Parrs Close, South Croydon, CR2",CR2,2.0
+279,430000,"Grasmere Road, London, SE25",SE25,2.0
+282,300000,"Lullington Road, London, SE20",SE20,1.0
+284,675000,"Grange Gardens, Upper Norwood, SE25",SE25,3.0
+286,340000,"Carfax House, 4 Worcester Close, London, SE20",SE20,1.0
+287,435000,"Pinnacle Apartments, 11 Saffron Central Square, Croydon, CR0",CR0,2.0
+288,410000,"Enmore Road, South Norwood, SE25",SE25,2.0
+289,220000,"Dartnell Road, Croydon, CR0",CR0,1.0
+290,400000,"Lower Addiscombe Road, Croydon, CR0",CR0,3.0
+291,400000,"Davidson Road, Croydon, CR0",CR0,2.0
+292,525000,"Glenthorne Avenue, Shirley Park, CR0",CR0,3.0
+293,600000,"Richmond Road, Coulsdon, CR5",CR5,3.0
+294,440000,"Pinnacle Apartments, 11 Saffron Central Square, Croydon, Surrey, CR0",CR0,2.0
+295,950000,"Foxley Lane, Purley, CR8",CR8,6.0
+296,405000,"Redwing Close, Selsdon Vale, South Croydon, Surrey, CR2",CR2,3.0
+297,625000,"Purley Park Road, Purley, Surrey, ., CR8",CR8,5.0
+302,389995,"Central Hill , Upper Norwood, London, SE19",SE19,2.0
+303,320000,"Peebles Court, 21 Whitestone Way, Croydon, CR0",CR0,2.0
+305,985000,"Selsdon Road, South Croydon, Surrey, CR2",CR2,5.0
+307,1050000,"Blenheim Park Road, South Croydon, Surrey, CR2",CR2,6.0
+311,375000,"Park View, Christchurch Road, Purley, Surrey, CR8",CR8,2.0
+312,1200000,"Hollymeoak Road, Chipstead, Coulsdon, Surrey, CR5",CR5,5.0
+316,310000,Cypress Road London SE25,SE25,1.0
+317,7450000,"Mayfield Road, South Croydon, Surrey, CR2",CR2,37.0
+318,985000,"Mayfield Road, South Croydon, Surrey, CR2",CR2,5.0
+322,325000,"Pinnacle Apartments, Saffron Square, Croydon CR0",CR0,1.0
+325,260000,"Addiscombe Grove,
+Croydon,
+CR0 5PE",CR0,1.0
+327,235000,"Doyle Road, SE25",SE25,1.0
+328,335000,"South Norwood Hill, SE25",SE25,2.0
+329,325000,"Cargreen Road, SE25",SE25,2.0
+330,250000,"Birchanger Road, SE25",SE25,1.0
+331,650000,"Mount Park Avenue, South Croydon, Surrey, CR2",CR2,4.0
+332,485000,"Sylvan Hill, SE19",SE19,2.0
+333,310000,"Epsom Road, CR0",CR0,2.0
+337,350000,"Whitestone Way, Croydon, CR0",CR0,2.0
+338,330000,"Rainier Apartments, 43 Cherry Orchard Road, Croydon, CR0",CR0,1.0
+340,350000,Pleydell Avenue London SE19,SE19,1.0
+342,450000,"Moberly Way, Kenley, CR8",CR8,3.0
+344,465000,"Benett Gardens, London, SW16",SW16,3.0
+345,295000,"Burnham Gardens, Croydon, CR0",CR0,2.0
+347,695000,Hartland Way Croydon CR0,CR0,4.0
+348,345000,"Salisbury Road, South Norwood, SE25",SE25,2.0
+349,350000,"John Street, London, SE25",SE25,2.0
+350,300000,"Sylvan Road, London, SE19",SE19,1.0
+351,300000,"Waterhouse Apartments, Saffron Central Square, Croydon, CR0",CR0,1.0
+354,375000,"Warren Road, East Croydon, CR0",CR0,2.0
+355,475000,"Jasper Road, Upper Norwood, London, SE19",SE19,2.0
+358,315000,"Orchard Road, Sanderstead, South Croydon, Surrey, CR2 9LW",CR2,2.0
+360,300000,"Bravo House, 241 Whitehorse Lane, London, SE25",SE25,2.0
+363,300000,"Peebles Court, 21 Whitestone Way, Croydon, CR0",CR0,2.0
+369,575000,"Rectory Park, South Croydon, CR2",CR2,3.0
+370,250000,"Cargreen Road, South Norwood, London, SE25",SE25,0.0
+371,450000,"Layard Road, Thornton Heath, CR7",CR7,3.0
+372,320000,"Ashburton Road, Croydon, CR0",CR0,2.0
+375,435000,"43 Cherry Orchard Road, East Croydon, CR0",CR0,2.0
+378,475000,"Dovercourt Avenue, Thornton Heath, Croydon, CR7 7LG",CR7,3.0
+379,490000,"Famet Avenue, Purley, CR8 2DN",CR8,3.0
+385,560000,"Brighton Road,
+Purley,
+CR8",CR8,2.0
+388,500000,"Brighton Road,
+Purley,
+CR8",CR8,2.0
+390,235200,"The Residences Croydon, 4 Edridge Road, Croydon, Surrey, CR0",CR0,1.0
+392,545000,"Brighton Road,
+Purley,
+CR8",CR8,2.0
+394,320000,"Brighton Road,
+Purley,
+CR8",CR8,1.0
+396,280000,"Heathfield Road, South Croydon, Croydon, CR0",CR0,2.0
+397,500000,"Tanfield Road, Croydon, CR0",CR0,3.0
+408,450000,"Davidson Road, Croydon, CR0",CR0,3.0
+410,400000,"Highlands Court, Highland Road, London, SE19",SE19,2.0
+412,285000,"Lambeth Road, Croydon, CR0",CR0,2.0
+413,540000,"Ferris Avenue, Shirley, Croydon, Surrey, CR0",CR0,3.0
+415,425000,"Thicket Road, SE20",SE20,2.0
+420,325000,"Highfield Hill, Crystal Palace, SE19",SE19,2.0
+424,490000,"Sherwood Oaks, 13 Frensham Road, Kenley, Surrey, CR8",CR8,3.0
+425,375000,"Chertsey Crescent, New Addington, Croydon, CR0 0DA",CR0,3.0
+426,325000,"The Cascades, 18 Valley Road, Kenley, CR8",CR8,1.0
+432,325000,"Beaconsfield Road, Croydon, CR0",CR0,3.0
+433,340000,"Warren Road, Croydon, CR0",CR0,2.0
+434,350000,"St Crispin's House, 2 Barclays Road, Croydon, Surrey, CR0",CR0,2.0
+435,410000,"Hillside Avenue, Purley, CR8",CR8,3.0
+436,450000,"Woodside Green, London, SE25",SE25,3.0
+437,1350000,"Fox Hill Gardens, London, SE19",SE19,4.0
+445,270000,"Clifford Road, London, SE25",SE25,2.0
+446,450000,"St. Johns Road, Croydon, CR0",CR0,3.0
+448,310000,"Elmhurst Court, St. Peters Road, Croydon, CR0",CR0,3.0
+450,470000,"Hermitage Road,
+London,
+SE19 3QN",SE19,2.0
+454,375000,"Elmers Road, Woodside, SE25",SE25,2.0
+456,450000,Palace Road London SE19,SE19,2.0
+459,550000,"Shirley Road, Croydon, CR0",CR0,3.0
+460,265000,"Venture Lofts, 15 High Street, Purley, CR8",CR8,1.0
+461,320000,"Hollywoods, Courtwood Lane, Croydon, Surrey, CR0",CR0,2.0
+463,315000,"Anerley Road , Anerley, SE20",SE20,2.0
+466,325000,"Apsley Road, South Norwood, SE25",SE25,2.0
+469,415000,"Honeysuckle Gardens, Shirley, Croydon, Surrey, CR0",CR0,3.0
+471,195000,"Friars Wood, Pixton Way, Croydon, CR0 9JN",CR0,1.0
+474,475000,"Victoria Crescent, Crystal Palace, SE19",SE19,2.0
+476,350000,"Kempton Walk, Croydon, CR0",CR0,3.0
+477,425000,"Holmesdale Road, London, SE25",SE25,3.0
+480,550000,"Princes Close, South Croydon, Surrey, CR2",CR2,2.0
+482,285000,"Brighton Road, Purley, CR8",CR8,2.0
+483,465000,"Anerley Road, London, SE20",SE20,2.0
+485,360000,"Wyche Grove, CR2 6EX - Guide Price £360,000 to £375,000",CR2,2.0
+489,270000,"Westbury Road, Croydon, CR0",CR0,1.0
+490,290000,"Penge Road, Anerley, London, SE20",SE20,1.0
+491,135000,"Ludford Close, Croydon, CR0",CR0,0.0
+492,300000,"Augustus Court, Church Road, SE19",SE19,1.0
+497,210000,"Edgecoombe, South Croydon, CR2 8AA",CR2,1.0
+498,465000,"Selsdon Park Road, Selsdon, South Croydon, Surrey, CR2",CR2,3.0
+499,210000,"Sydenham Road, Croydon, CR0",CR0,1.0
+500,600000,"Meadvale Road, Croydon, CR0",CR0,6.0
+502,325000,"Manor Road, London, SE25",SE25,2.0
+503,900000,"Honister Heights, Purley, CR8",CR8,5.0
+504,440000,"Pitt Road, Croydon, CR0",CR0,3.0
+505,475000,"Maplethorpe Road, Thornton Heath, CR7",CR7,4.0
+510,110000,"Epsom Road, Croydon, Surrey, CR0",CR0,1.0
+511,220000,"Croham Road, South Croydon.  CR2 7BB",CR2,1.0
+512,250000,"Caterham Court, 77 Beauchamp Road, London, SE19",SE19,1.0
+513,425000,Queen Mary Road Crystal Palace SE19,SE19,2.0
+514,575000,"Foxley Hill Road, Purley, CR8",CR8,3.0
+516,525000,"Biggin Way, Upper Norwood, London, SE19",SE19,3.0
+517,799995,"Hamlyn Gardens, London, SE19",SE19,4.0
+518,295000,"Kelling Gardens, Croydon, CR0",CR0,3.0
+519,225000,"Sussex Court, Sussex Road, Mitcham, CR4",CR4,2.0
+520,550000,"Valley Road, Kenley, CR8",CR8,4.0
+524,360000,"Fairchildes Avenue, New Addington, Croydon, Surrey, CR0",CR0,3.0
+528,479950,"Dalmally Road, Addiscombe, CR0",CR0,3.0
+529,230000,"Bramble Close, Croydon, CR0",CR0,2.0
+530,240000,"South End, South Croydon, Croydon, CR0",CR0,1.0
+531,425000,"Hawthorne Court, 62 Woodcote Valley Road, Purley, CR8",CR8,2.0
+532,200000,"Selsdon Road, South Croydon, CR2",CR2,1.0
+537,310000,"St Peters Road, South Croydon, Surrey, England, CR0",CR0,2.0
+538,525000,"Clyde Avenue, South Croydon, CR2",CR2,3.0
+539,650000,"Kenley Lane, Kenley, Surrey, ., CR8",CR8,4.0
+541,275000,"Sorrel Bank, Linton Glade, Croydon, CR0 9LU",CR0,2.0
+542,320000,"Ross Court, 10 Haling Park Road, South Croydon, CR2",CR2,2.0
+543,220000,"Hood Close, Croydon, CR0",CR0,2.0
+545,750000,"Fryston Avenue, Croydon, CR0",CR0,5.0
+551,450000,"Hatch Road, London, SW16",SW16,3.0
+554,350000,"Oaks Road, Kenley, Surrey, ., CR8",CR8,3.0
+555,425000,"Smitham Yard, Leaden Hill, Coulsdon, Surrey, CR5",CR5,2.0
+558,310000,"Smitham Yard, Leaden Hill, Coulsdon, Surrey, CR5",CR5,1.0
+560,365000,"High Street, Croydon, CR0",CR0,2.0
+563,425000,"Gipsy Hill, London, SE19",SE19,2.0
+564,620000," Hobart Gardens,  Thornton Heath , CR7",CR7,3.0
+567,585000,"Calum Court, 32-42 High Street, Purley, CR8",CR8,3.0
+568,450000,"Addison Road, South Norwood, SE25",SE25,3.0
+569,319950,"St Anns Way, South Croydon, Surrey, CR2 6DN",CR2,2.0
+571,200000,"Blunt Road, South Croydon, Surrey, ., CR2",CR2,1.0
+572,285000,"Eskmont Ridge, ., London, ., SE19",SE19,1.0
+573,265000,"Anerley Road, Anerley, SE20",SE20,1.0
+575,410000,"Enmore Road, South Norwood, SE25",SE25,2.0
+577,580000,"Turkey Oak Close, London, SE19",SE19,4.0
+578,300000,"131-133 Haling Park Road, South Croydon, CR2",CR2,2.0
+579,550000,"College Green, London, SE19",SE19,3.0
+580,350000,"Whitworth Road, London, SE25",SE25,2.0
+582,425000,"Thursley Crescent, Croydon, CR0",CR0,4.0
+583,225000,"Middlefields, Croydon, CR0 9LH",CR0,1.0
+584,395000,"Burford Way, New Addington, Croydon, Surrey, CR0",CR0,3.0
+587,750000,"Green Lane, Norbury, SW16",SW16,4.0
+588,625000,"The Ruffetts, Ballards Farm, South Croydon, Surrey, CR2",CR2,3.0
+589,530000,Gwynne Avenue Croydon CR0,CR0,4.0
+592,375000,"Famet Avenue, Kenley, CR8",CR8,3.0
+593,290000,"Greenlands, Addington Road, South Croydon, CR2 8LE",CR2,2.0
+595,540000,"Cherry Hill Gardens, Croydon, CR0",CR0,5.0
+596,410000,"Wagtail Gardens, Selsdon Vale, South Croydon, Surrey, CR2",CR2,3.0
+597,350000,"Ravensdale Gardens, London, SE19",SE19,2.0
+599,315000,"Selsdon Park Road, South Croydon, Surrey, CR2 8JH",CR2,3.0
+600,550000,"Grange Road, Norwood, London, SE25",SE25,4.0
+606,300000,"Ecclesbourne Road, Thornton Heath, CR7",CR7,2.0
+607,475000,"Addiscombe Court Road, East Croydon, CR0",CR0,3.0
+608,315000,"Nursery Road, Thornton Heath, CR7",CR7,2.0
+609,475000,"Melville Avenue, South Croydon, CR2 7HZ",CR2,3.0
+612,475000,"Saffron Square, Croydon, CR0",CR0,2.0
+613,425000,"Hamlet Road, London, SE19",SE19,2.0
+618,600000,"Chandler Court, 20a South End, Croydon, CR0",CR0,3.0
+620,387500,"Shaxton Crescent, New addington, Surrey, CR0 0NW",CR0,3.0
+621,475000,"The Ridgeway, Croydon, CR0",CR0,3.0
+622,325000,"Beauchamp Road, London, SE19",SE19,1.0
+624,395000,"Wentworth Way, Sanderstead, Surrey, CR2 9EZ",CR2,2.0
+625,465000,"Zenith Court, 96 Park Hill Rise, Croydon, Surry, CR0",CR0,2.0
+627,430000,"Wagtail Gardens, Selsdon Vale, South Croydon, Surrey, CR2",CR2,3.0
+632,400000,"Downlands Road, Purley, Surrey, CR8 4JJ",CR8,3.0
+634,500000,"Purley Way,
+Croydon,
+CR0 3JP",CR0,2.0
+637,250000,"2 Barclay Road, Central Croydon, CR0",CR0,1.0
+638,275000,"33a Moffat Road, Thornton Heath, CR7",CR7,2.0
+642,395000,"Selcroft Road, Purley, Surrey., ., CR8",CR8,2.0
+643,285000,"Oval Road, Croydon, CR0",CR0,2.0
+645,575000,"Waterworks Cottages, Featherbed Lane, Croydon, CR0 9AA",CR0,3.0
+646,725000,"Reynolds Way, London CR0",CR0,4.0
+651,735000,"Farm Fields, Sanderstead, South Croydon, Surrey, CR2 0HP",CR2,4.0
+653,475000,"Gladeside, Shirley, Croydon, Surrey, CR0",CR0,3.0
+654,290000,"Grove Lodge, 2c Bensham Grove, Thornton, Surrey, CR7",CR7,1.0
+657,290000,"Halstead Close, Croydon, CR0",CR0,2.0
+659,275000,"Old School Place, Croydon, Surrey, CR0",CR0,2.0
+660,260000,"Inglewood, Forestdale, Croydon, CR0 9LN",CR0,2.0
+661,285000,"Oval Road, Croydon, CR0",CR0,2.0
+662,399000,"Apartment 2, Nodia Mansions Apartments , 7 Heath Road, Thornton Heath, London, CR7",CR7,2.0
+663,399000,"Apartment 1, Nodia Mansions Apartments , 7 Heath Road, Thornton Heath, London, CR7",CR7,2.0
+664,320000,"Beulah Crescent, Thornton Heath, CR7",CR7,2.0
+666,430000,"Little Roke Avenue, Kenley, CR8",CR8,3.0
+667,240000,"Waddon Road, Croydon, CR0",CR0,1.0
+668,300000,"Peregrine Gardens, Shirley, Croydon, Surrey, CR0",CR0,2.0
+669,290000,"Selsdon Road, Selsdon Road, South Croydon, Croydon, CR2",CR2,2.0
+670,385000,"Aveling Close, Purley, Surrey, ., CR8",CR8,3.0
+671,375000,"Spurgeon Road, London, SE19",SE19,2.0
+672,600000,"Parker road, South Croydon, CR0 1DN",CR0,3.0
+673,325000,"Addiscombe Road, Croydon, CR0",CR0,2.0
+674,250000,"St. Arvans Close, Croydon, CR0",CR0,1.0
+676,270000,"Ellis Road, Old Coulsdon, Surrey, ., CR5",CR5,2.0
+677,425000,"Biddulph Road, South Croydon, Surrey, ., CR2",CR2,3.0
+679,526000,"Addington Road,
+South Croydon,
+CR2",CR2,2.0
+684,350000,"Wandle Road, Croydon, CR0",CR0,2.0
+685,525000,"Coppice Yard, Croydon, CR0",CR0,3.0
+687,270000,"Clifford Road, London, SE25",SE25,2.0
+688,300000,"Spa Hill, Upper Norwood, London, SE19",SE19,3.0
+689,500000,"Crowther Road, South Norwood, London, SE25",SE25,3.0
+690,235000,"Green Dragon House, Croydon, CR0",CR0,1.0
+691,195000,"Blenheim Crescent, South Croydon, CR2",CR2,1.0
+692,275000,"Scarbrook Road, Croydon, CR0",CR0,1.0
+693,425000,"Gipsy Hill, London, SE19",SE19,2.0
+694,225000,"Nicholson Road, Croydon, CR0",CR0,1.0
+697,700000,"Shelford Rise, Upper Norwood, London, SE19",SE19,4.0
+698,725000,"Reynolds Way, Park Hill, Croydon, Surrey, CR0",CR0,4.0
+699,350000,Auckland Road London SE19,SE19,1.0
+700,425000,"Shade Apartments, 29 Beech Avenue, Sanderstead, CR2",CR2,2.0
+701,775000,"Glenhurst Rise, Upper Norwood, London, SE19",SE19,4.0
+703,425000,"Mowbray Road, Crystal Palace, SE19",SE19,2.0
+706,329995,"Copper Close, London, SE19",SE19,1.0
+710,425000,"Aveling Close, PURLEY, Surrey, CR8",CR8,3.0
+711,285000,"Oval Road, East Croydon, Croydon, CR0",CR0,2.0
+713,250000,"12 Shirley Oaks Road, Shirley, CR0",CR0,1.0
+714,525000,"Woodland Gardens, Selsdon, South Croydon, Surrey, CR2 8PH",CR2,3.0
+715,389950,"Foss Avenue, Croydon, CR0",CR0,3.0
+722,385000,"Maberley Crescent, London, SE19",SE19,2.0
+723,300000,"4 Worcester Close, Anerley, SE20",SE20,1.0
+729,499950,"Sissinghurst Road, Addiscombe, CR0",CR0,3.0
+730,750000,"Hermitage Road, Upper Norwood, London, SE19",SE19,3.0
+731,420000,"Addington Road, London CR0",CR0,2.0
+732,475000,"Thornton Crescent, Coulsdon, CR5",CR5,4.0
+734,325000,"Epsom Road, Croydon, CR0",CR0,2.0
+735,250000,"Gresham Court, 11 Pampisford Road, Purley, Surrey, CR8",CR8,2.0
+736,685000,"The Coach House, Lansdowne Place, London SE19",SE19,2.0
+737,325000,"The Heights, 7-9 Beauchamp Road, London, SE19",SE19,1.0
+738,749950,"Upper Selsdon Road, South Croydon, Surrey, CR2 0DU",CR2,4.0
+739,480000,"Lakehall Gardens, Thornton Heath, CR7",CR7,4.0
+740,480000,"Lakehall Gardens, Thornton Heath, CR7",CR7,4.0
+741,500000,"Strathyre Avenue, Norbury, London, SW16",SW16,3.0
+744,450000,"Godstone Road, Kenley, CR8 5AJ",CR8,3.0
+745,450000,"Godstone Road, Kenley, CR8 5AJ",CR8,3.0
+746,325000,"St. Augustines Avenue, South Croydon, CR2",CR2,2.0
+747,466000,"Leon House, Croydon, CR0",CR0,2.0
+748,450000,"Belvedere Road, Crystal Palace, London, SE19",SE19,2.0
+749,375000,"Princess Road, Croydon, CR0",CR0,2.0
+751,240000,"Steep Hill, Croydon, CR0",CR0,1.0
+752,350000,"Elmers Road, London, SE25",SE25,2.0
+758,340000,"Warren Road, Croydon, CR0",CR0,2.0
+759,400000,"Selby Road, London, SE20",SE20,2.0
+760,580000,"Grange Avenue, London, SE25",SE25,4.0
+761,350000,"Crofters Mead, Courtwood Lane, Croydon, CR0 9HS",CR0,3.0
+763,152500,"Plough Lane, Purley, CR8",CR8,1.0
+764,228750,"Plough Lane, Purley, CR8",CR8,1.0
+765,118000,"Plough Lane, Purley, CR8",CR8,1.0
+773,399995,Liverpool Road Thornton Heath CR7,CR7,3.0
+781,349995,"Morello, Maraschino Apartments, Croydon CR0",CR0,1.0
+782,340000,"Maraschino Apartments, Morello, Croydon CR0",CR0,1.0
+786,385000,"Exeter Road, Addiscombe, CR0",CR0,3.0
+788,300000,Lullington Road London SE20,SE20,1.0
+791,300000,"The Woodlands, Upper Norwood, London, SE19",SE19,2.0
+792,325000,"Gipsy Hill, Crystal Palace, London, SE19",SE19,1.0
+793,225000,"Heathfield Road, Croydon, CR0",CR0,1.0
+794,315000,"Morland Road, Croydon, CR0",CR0,2.0
+795,210000,"Pennycroft, Pixton Way, Croydon, CR0 9LL",CR0,1.0
+796,300000,Menlo Gardens London SE19,SE19,2.0
+797,580000,"Florida Road, London, CR7",CR7,3.0
+798,485000,"Pinnacle Apartments, Saffron Central Square, Croydon, CR0",CR0,2.0
+800,345000,"Compton Court, Victoria Crescent, London, SE19",SE19,2.0
+804,220000,"Whitehorse Lane, London, SE25",SE25,1.0
+807,400000,"Overbury Crescent, New Addington, Croydon, CR0",CR0,3.0
+808,315000,"Applegarth, Field Way, New Addington, Croydon, CR0",CR0,3.0
+809,425000,"Penrith Road, Thornton Heath, CR7",CR7,3.0
+810,325000,"Westbury Road, Croydon, CR0",CR0,2.0
+811,385000,"Devonshire Road, Croydon, CR0",CR0,3.0
+813,138000,"Watney Close, Purley, Surrey, CR8",CR8,1.0
+818,525000,"Brigstock Road, Coulsdon, CR5",CR5,4.0
+820,425000,"Woodcote Grove Road, Coulsdon, Surrey, CR5",CR5,4.0
+825,415000,"Poirier House, 15 Purley Rise, Purley, Surrey, CR8",CR8,2.0
+828,395000,"Woodstock Road, Croydon, CR0",CR0,2.0
+829,285000,"Lansdowne Road, East Croydon, CR0",CR0,2.0
+831,450000,"Sanderstead Road, South Croydon, CR2",CR2,3.0
+833,550000,"Mount Park Avenue, South Croydon, CR2",CR2,3.0
+835,269000,"3 Cabot Close, Croydon, CR0",CR0,1.0
+837,260000,"Wickham Road, Shirley, Croydon, Surrey, CR0",CR0,1.0
+838,260000,"Cotelands, Croydon, CR0",CR0,1.0
+839,465000,"Calum Court, 32-42 High Street, Purley, CR8",CR8,2.0
+841,245000,"Scarbrook Road, Croydon, CR0",CR0,1.0
+842,315000,"Santina Apartments, Morello, Croydon CR0",CR0,1.0
+843,325000,"The Pines, Purley, Surrey, ., CR8",CR8,2.0
+844,1195000,"Redtiles Gardens, Kenley, CR8",CR8,6.0
+846,370000,"Queen Street, Croydon, Surrey, CR0",CR0,2.0
+847,235000,"Clyde Road, Croydon, CR0",CR0,1.0
+851,260000,"Haling Park Road, South Croydon, CR2",CR2,1.0
+852,300000,"Ward Close, South Croydon, Surrey, ., CR2",CR2,2.0
+853,270000,"Wellesley Road, Croydon, CR0",CR0,1.0
+854,245000,"Wellesley Road, Croydon, CR0",CR0,1.0
+855,500000,"Annsworthy Crescent, London, SE25",SE25,4.0
+858,78750,"Leon House, 233 High Street, Croydon, CR0",CR0,1.0
+859,103125,"Leon House, 233 High Street, Croydon, CR0",CR0,2.0
+860,170000,"Brighton Road, Purley, Surrey, CR8",CR8,1.0
+861,375000,"Kemerton Road, Croydon, CR0",CR0,2.0
+862,325000,"Church Road, London, SE19",SE19,2.0
+863,325000," Southcote Road,  London, SE25",SE25,2.0
+865,500000,"Frant Road, Thornton Heath, CR7",CR7,3.0
+866,285000,Holmesdale Road London SE25,SE25,2.0
+867,285000,"Sidney Road, London, SE25 5NB",SE25,2.0
+869,77500,"Leon House, 233 High Street, Croydon, CR0",CR0,1.0
+873,268000,"Addiscombe Grove,
+Croydon,
+CR0 5PE",CR0,1.0
+874,325000,"Sorrel Bank, Linton Glade, Forestdale, Croydon, CR0",CR0,2.0
+875,370000,"St. Peters Street, South Croydon, CR2",CR2,2.0
+876,289950,"Kidderminster Road, Croydon, CR0",CR0,1.0
+877,299950,"Kidderminster Road, Croydon, CR0",CR0,2.0
+879,425000,"Davidson Road, Croydon, CR0",CR0,3.0
+881,300000,"28 Normanton Road, South Croydon, CR2",CR2,2.0
+882,350000,"Uvedale Crescent, New Addington, Croydon, CR0 0BS",CR0,3.0
+883,800000,"Hartley Down, Purley, Surrey, CR8",CR8,4.0
+884,325000,"Enmore Road, South Norwood, London, SE25",SE25,1.0
+885,410000,"Enmore Road, South Norwood, London, SE25",SE25,2.0
+886,410000,"Enmore Road, South Norwood, London, SE25",SE25,2.0
+887,280000,"Bramley Hill, South Croydon, CR2",CR2,2.0
+888,170000,"Shinners Close, London, SE25",SE25,0.0
+889,280000,"Heathfield Road, South Croydon, CR0",CR0,2.0
+890,330000,"13 Russell Hill, Purley, CR8",CR8,2.0
+891,285000,"Lansdowne Road, Croydon, CR0",CR0,2.0
+893,400000,"Percy Road, London, SE25",SE25,2.0
+894,110000,"Catalina Court, 61-63 Sunny Bank, London, SE25",SE25,1.0
+895,495000,"Vita Apartments, Croydon, CR0",CR0,2.0
+896,315000,"London Road, Croydon, CR0",CR0,2.0
+900,725000,"Reynolds Way, Park Hill, Croydon, Surrey, CR0",CR0,4.0
+901,350000,"Addington Road, Sanderstead, Surrey, CR2 8RE",CR2,2.0
+902,425000,"Chalfont Road, London, SE25",SE25,3.0
+904,320000,"Stannus Court, 58 Outram Road, Croydon, CR0",CR0,2.0
+907,270000,"Kidderminster Road, Croydon, CR0",CR0,1.0
+913,450000,"Ladbrook Road, South Norwood, SE25",SE25,3.0
+914,195000,"Brighton Road, Purley, CR8",CR8,0.0
+915,425000,"Hillside Avenue, Purley, Surrey, CR8",CR8,3.0
+921,230000,"Biddulph Road, South Croydon, CR2",CR2,1.0
+922,180000,"Brigstock Road, Thornton Heath, ,, CR7 7JE",CR7,2.0
+924,775000,"Brownlow Road, Park Hill, CR0",CR0,4.0
+928,365000,"Chatsworth Road, Croydon, CR0",CR0,2.0
+929,385000,"Chatsworth Road, Croydon, CR0",CR0,1.0
+931,110000,"Alden Court, Croydon, CR0 5QN",CR0,1.0
+934,87000,"Vita Apartments, 1 Caithness Walk, Croydon, CR0",CR0,1.0
+935,320000,"Beulah Hill , London, SE19",SE19,2.0
+936,390000,"Lancing Road, Croydon, CR0",CR0,3.0
+939,265000,"Oval Road, Croydon, CR0",CR0,1.0
+943,350000,"South View Court, The Woodlands, London, SE19",SE19,2.0
+946,375000,"Sydenham Road, Croydon, CR0",CR0,2.0
+947,245000,"Birdhurst Road, South Croydon, CR2",CR2,1.0
+949,680000,"Upper Selsdon Road, South Croydon, Surrey, CR2 0DZ",CR2,4.0
+951,290000,"Moreton Road, South Croydon, CR2",CR2,2.0
+952,475000,"Caithness Walk, Croydon, CR0",CR0,2.0
+953,600000,"Birdwood Close, South Croydon, CR2 8QG",CR2,4.0
+954,300000,"Dorrington Court, South Norwood Hill, London, SE25",SE25,2.0
+955,425000,"Kimberley Road, Croydon, CR0",CR0,3.0
+956,315000,"Radcliffe House, 3 Worcester Close, London, SE20",SE20,1.0
+957,600000,"Beaumont Road, Purley, CR8",CR8,3.0
+958,440000,"Calley Down Crescent, New Addington, Croydon, CR0 0EJ",CR0,4.0
+959,450000,"Ecclesbourne Road,Thornton Heath,CR7 7BN",CR7,3.0
+960,349950,"West Street, Croydon, CR0",CR0,2.0
+961,350000,"Castle Hill Avenue, New Addington, Croydon, CR0 0TB",CR0,4.0
+962,300000,"Bensham Manor Road, Thornton Heath, CR7",CR7,2.0
+963,210000,"Ladygrove, Pixton Way, Croydon, CR0 9LT",CR0,1.0
+964,400000,"Willow Wood Crescent, London, SE25",SE25,3.0
+965,360000,"Sorrel Bank, Linton Glade, Croydon, CR0 9LY",CR0,3.0
+968,350000,"28 Roke Road, Kenley, CR8",CR8,2.0
+969,499950,"Wydehurst Road, Addiscombe, CR0",CR0,3.0
+970,325000,"Enmore Road, South Norwood, SE25",SE25,1.0
+971,410000,"Enmore Road, South Norwood, SE25",SE25,2.0
+973,320000,"Newlands Wood, Forestdale, CR0 9JR",CR0,2.0
+975,695000,"Beechwood Road, Sanderstead, South Croydon, Surrey, CR2 0AA",CR2,6.0
+977,250000,"Fox Hill, London, SE19",SE19,1.0
+978,485000,Ash Tree Way Croydon CR0,CR0,3.0
+979,408000,"Admiral Court, Croydon, CR0",CR0,2.0
+980,413000,"Admiral Court, Croydon, CR0",CR0,2.0
+981,459000,"Admiral Court, Croydon, CR0",CR0,2.0
+982,765000,"Reddown Road, Coulsdon, CR5",CR5,5.0
+985,495000,"The Gallop, South Croydon, Surrey, CR2 7LP",CR2,2.0
+986,600000,Norfolk Road Thornton Heath CR7,CR7,4.0
+987,449950,"Malden Avenue, South Norwood, SE25",SE25,3.0
+988,350000,"Barker Court, 1 Broomhall Road, Sanderstead, South Croydon, CR2",CR2,2.0
+990,340000,"Westfield Road, Croydon, CR0",CR0,2.0
+991,799995,"Pytchley Crescent, Crystal Palace, SE19",SE19,3.0
+996,400000,"Exeter Road, Croydon, CR0",CR0,3.0
+999,500000,"Addiscombe Avenue, Addiscombe, CR0",CR0,4.0
+1000,300000,"Kenley House, Ashburton Road, Croydon, CR0",CR0,2.0
+1001,265000,"Gillett Road, Thornton Heath, CR7",CR7,2.0
+1002,350000,"Queen Street, Croydon, CR0",CR0,2.0
+1003,200000,"Green Dragon House, 64-70 High Street, Croydon, CR0",CR0,1.0
+1004,400000,"London Road, Norbury, London, SW16",SW16,2.0
+1005,250000,"Denmark Road, London, SE25",SE25,1.0
+1006,230000,"South Norwood Hill, South Norwood, London, SE25",SE25,1.0
+1007,400000,"Tudor Road, Crystal Palace, London, SE19",SE19,2.0
+1008,290000,"Portland Road, London, SE25",SE25,3.0
+1009,380000,"Versailles Road, London, SE20",SE20,2.0
+1010,825000,"Hartley Way, Purley, Surrey, CR8",CR8,4.0
+1014,400000,"South Norwood Hill, Crystal Palace, SE25",SE25,5.0
+1018,575000," Frimley Close,  Croydon, CR0",CR0,4.0
+1019,225000,"Sovereign Court, Warham Road, South Croydon, CR2 6LP",CR2,2.0
+1020,300000,"Gipsy Hill, Crystal Palace, SE19",SE19,1.0
+1023,600000,"Greenview Avenue, Shirley, CR0",CR0,3.0
+1024,345000,"Worcester Close, London, SE20",SE20,1.0
+1025,325000,"Northborough Road, Norbury, London, SW16",SW16,2.0
+1030,365000,"Pemdevon Road, Croydon, CR0",CR0,2.0
+1031,250000,"Ladygrove, Pixton Way, Croydon, Surrey, CR0",CR0,2.0
+1045,250000,"420 London Road, Croydon, CR0",CR0,2.0
+1046,350000,"Anerley Road, Anerley, London, SE20",SE20,3.0
+1047,430000,"Fairhaven Avenue, Croydon, CR0",CR0,3.0
+1049,270000,"Franklin Way, Croydon, CR0",CR0,2.0

@@ -1,0 +1,677 @@
+,price,address,postcode,number_bedrooms
+3,500000.0,"Fulwood Avenue,Wembley,HA0",HA0,3.0
+4,650000.0,"Donaldson road, Queen's Park, London, NW6",NW6,2.0
+8,325000.0,"Sunningdale Gardens, Kingsbury, NW9",NW9,2.0
+9,300000.0,"Craven Park, London, NW10 9AZ",NW10,1.0
+10,695000.0,"Brondesbury Villas, London, NW6",NW6,2.0
+11,290000.0,"John Perrin Place, Harrow, Middlesex, HA3",HA3,1.0
+16,344000.0,"Honeypot Lane,
+London,
+NW9",NW9,1.0
+17,335000.0,"Honeypot Lane,
+London,
+NW9",NW9,1.0
+18,347000.0,"Honeypot Lane,
+London,
+NW9",NW9,1.0
+19,419000.0,"Honeypot Lane,
+London,
+NW9",NW9,2.0
+20,349000.0,"Honeypot Lane,
+London,
+NW9",NW9,1.0
+21,523000.0,"Lakeside Drive, 
+Park Royal, 
+London 
+NW10 7HQ",NW10,2.0
+22,372000.0,"Lakeside Drive, 
+Park Royal, 
+London 
+NW10 7HQ",NW10,1.0
+23,472000.0,"Lakeside Drive, 
+Park Royal, 
+London 
+NW10 7HQ",NW10,2.0
+24,571000.0,"Lakeside Drive, 
+Park Royal, 
+London 
+NW10 7HQ",NW10,2.0
+25,132000.0,"Honeypot Lane,
+London,
+NW9",NW9,1.0
+26,370000.0,"Lakeside Drive, 
+Park Royal, 
+London 
+NW10 7HQ",NW10,1.0
+27,416000.0,"Lakeside Drive, 
+Park Royal, 
+London 
+NW10 7HQ",NW10,1.0
+28,600000.0,"Crummock Gardens, Kingsbury, NW9",NW9,3.0
+34,675000.0,"Keswick Gardens, Wembley, HA9",HA9,3.0
+35,645000.0,"Highfield Avenue, Kingsbury, NW9",NW9,4.0
+36,700000.0,"Kenton Road, Greater London, HA3",HA3,5.0
+44,340000.0,"Empire Court, North End Road, Wembley Park, HA9",HA9,2.0
+48,765000.0,"Huddlestone Road, London, NW2",NW2,3.0
+52,430000.0,"Brondesbury Road, London, NW6",NW6,1.0
+53,799950.0,"Brondesbury Road, London, NW6",NW6,2.0
+54,525000.0,"Charterhouse Avenue, Wembley, HA0",HA0,3.0
+55,450000.0,"Yates Court, 228 Willesden Lane, London, NW2",NW2,2.0
+56,475000.0,"Pember Road, London, NW10",NW10,1.0
+57,499950.0,"Ivy Road, London, NW2",NW2,2.0
+59,800000.0,"Dollis Hill Avenue, Dollis Hill, London, NW2",NW2,3.0
+60,435000.0,"Neeld Crescent, Wembley, HA9",HA9,3.0
+62,550000.0,"Birchside Apartments, 1 Albert Road, Queens Park, London, NW6",NW6,1.0
+63,325000.0,"Elgar Avenue, Neaseden, NW10",NW10,2.0
+64,555000.0,"Lodore Gardens, London, NW9",NW9,3.0
+67,550000.0,"Beaumont Avenue, Wembley, Middlesex HA0",HA0,3.0
+68,1250000.0,"Liddell Gardens, Kensal Rise NW10",NW10,4.0
+70,530000.0,"Kilburn Lane, London, W10",W10,2.0
+73,560000.0,"Monks Park, Wembley, Greater London, HA9",HA9,3.0
+74,625000.0,"Crummock Gardens, Colindale, NW9",NW9,3.0
+75,310000.0,"Hyde Court, Church Lane, Kingsbury, London, NW9",NW9,2.0
+77,275000.0,"Mascotts Close, London, NW2",NW2,1.0
+78,375000.0,"Roe Lane, London, NW9",NW9,2.0
+79,585000.0,"Willesden Lane, Brondesbury, NW6",NW6,3.0
+83,360000.0,"Fiona Court, Brondesbury Villas, Queen's Park, London, NW6",NW6,1.0
+85,475000.0,"Brondesbury Villas, London, NW6",NW6,2.0
+87,600000.0,"33 Olympic Way, Wembley, London, HA9",HA9,2.0
+89,400000.0,"High Road, Willesden, London, NW10",NW10,2.0
+91,400000.0,"Heber Road, London, NW2",NW2,1.0
+92,600000.0,"Milverton Road, Brondesbury Park, NW6",NW6,2.0
+94,750000.0,"Nettleden Avenue, Wembley, HA9",HA9,6.0
+95,550000.0,"Eton Avenue, Sudbury, HA0",HA0,4.0
+96,300000.0,"Matthews Close, Wembley, HA9",HA9,1.0
+97,2250000.0,"Victoria Road, London, NW6",NW6,6.0
+98,1395000.0,"Wren Avenue, Willesden Green, NW2",NW2,4.0
+100,415000.0,"31 Cavendish Road, London NW6",NW6,0.0
+101,300000.0,"Willesden Lane, Willesden Green, NW6",NW6,1.0
+102,530000.0,"Malvern Road, Maida Vale, London, NW6",NW6,2.0
+103,350000.0,"Uphill Drive, Kingsbury, London, NW9 0BU",NW9,2.0
+104,625000.0,"Glengall Road, London, NW6",NW6,2.0
+108,429995.0,"Brondesbury Road, London, NW6 6AS",NW6,1.0
+110,650000.0,"Chichele Road, Willesden Green, London, NW2",NW2,3.0
+111,525000.0,"Selwyn Road, Harlesden, NW10 8QY",NW10,3.0
+112,650000.0,"The Avenue, Queens Park, NW6 ",NW6,2.0
+113,415000.0,"31 Cavendish Road, London NW6",NW6,0.0
+114,600000.0,"Milverton Road, Brondesbury Park, London, NW6",NW6,2.0
+115,350000.0,"High Road, Wembley Park, Wembley, HA9",HA9,1.0
+116,475000.0,"Hatton Road, Wembley, HA0",HA0,2.0
+117,700000.0,"Rosslyn Crescent, Wembley Park, Wembley, HA9",HA9,4.0
+118,1100000.0,"Birchen Grove, Queensbury, London, NW9",NW9,3.0
+125,475000.0,"Malvern Road, NW6",NW6,2.0
+126,332000.0,"Lapis Close, London, NW10",NW10,1.0
+127,324950.0,"Cosgrove House, Hatton Road, Wembley, HA0",HA0,1.0
+130,1750000.0,"Tennyson Road, Queen's Park, London, NW6",NW6,4.0
+132,650000.0,"Roe Lane, Kingsbury, London, NW9",NW9,4.0
+134,400000.0,"Tanfield Avenue, Dollis Hill, London, NW2",NW2,2.0
+137,650000.0,"London Road, Wembley, HA9",HA9,4.0
+141,400000.0,"Minet Avenue, Harlesden NW10",NW10,2.0
+142,400000.0,"Minet Avenue, London, NW10",NW10,2.0
+144,450000.0,"Harlesden Road, Willesden Green, London, NW10",NW10,2.0
+145,650000.0,"Coverdale Road, Brondesbury, London, NW2",NW2,2.0
+146,350000.0,"Greenford Road, Harrow HA1",HA1,2.0
+148,415000.0,"Sidmouth Parade, Sidmouth Road, London, NW2",NW2,2.0
+150,300000.0,"Willesden Lane, Willesden Green, NW6",NW6,1.0
+152,500000.0,"Ivy Road, Cricklewood, NW2",NW2,2.0
+153,1400000.0,"Victoria Road, London, NW6",NW6,5.0
+159,459950.0,"Torbay Mansions, 102-130 Willesden Lane, London, NW6",NW6,2.0
+160,431000.0,"Watkin Road,
+Wembley,
+HA9 0NL",HA9,1.0
+162,450000.0,"Lovett Way, Neasden, London, NW10",NW10,4.0
+164,695000.0,"Valley Drive, Kingsbury, NW9",NW9,3.0
+166,600000.0,"Phillimore Gardens, London, NW10",NW10,3.0
+169,599950.0,"The Ridgeway, Kingsbury, NW9",NW9,3.0
+171,625000.0,"Wyld Way, Wembley Park, Wembley, HA9",HA9,4.0
+172,450000.0,"North Circular Road, Cricklewood, NW2",NW2,3.0
+177,400000.0,"Christchurch Avenue, London, NW6",NW6,1.0
+178,715000.0,"Birchside Apartments, Albert Road, London, NW6",NW6,2.0
+179,545000.0,"17 Westly Court, Dartmouth Road, London, NW2 4EL",NW2,2.0
+180,549000.0,"The Boltons, Wembley, HA0",HA0,4.0
+181,475000.0,"Brondesbury Road, Queen's Park, London, NW6",NW6,1.0
+182,695000.0,"Mortimer Road, Kensal Rise NW10",NW10,2.0
+185,180000.0,"Kestrel Close, WEMBLEY, London, UK, NW10",NW10,0.0
+186,577000.0,"Watkin Road,
+Wembley,
+HA9 0NL",HA9,2.0
+187,450000.0,"Tanfield Avenue, Dollis Hill, London, NW2",NW2,2.0
+188,625000.0,"Furness Road, Kensal Green, London, NW10",NW10,3.0
+189,700000.0,"Marley Walk, Willesden Green, London, NW2",NW2,2.0
+197,575000.0,"Stag Lane, LONDON, NW9",NW9,3.0
+201,422000.0,"255 Ealing Road, Alperton,
+London,
+HA0",HA0,2.0
+204,327500.0,"255 Ealing Road, Alperton,
+London,
+HA0",HA0,1.0
+207,340000.0,"TNQ, Everly House, 52 Capitol Way, London, NW9",NW9,1.0
+208,300000.0,"Oaklands Court, Nicoll Road, NW10 9AU",NW10,1.0
+209,525000.0,"Preston Hill, Harrow, HA3 9SB",HA3,3.0
+210,599950.0,"Priory Park Road, London, NW6",NW6,2.0
+211,325000.0,"Empire Way, Wembley, HA9",HA9,1.0
+212,575000.0,"Springfield Gardens, Kingsbury, London, NW9",NW9,3.0
+213,390000.0,"Flowers Close, Dollis Hill, London, NW2",NW2,2.0
+218,400000.0,"Canaletto Court, 18 Neasden Lane, London, NW10",NW10,1.0
+222,280000.0,"Barons Court, Church Lane NW9",NW9,3.0
+223,600000.0,"Georgian Court, Wembley, HA9",HA9,4.0
+226,400000.0,"St. Marys Mansions, St. Marys Road, London, NW10",NW10,2.0
+229,625000.0,"Mount Pleasant, Wembley, London, HA0",HA0,3.0
+232,600000.0,"Hatton Road, Wembley, London, HA0",HA0,3.0
+233,399000.0,"Nexus Court, Malvern Road, London, NW6",NW6,1.0
+239,475000.0,"Teignmouth Road, London, NW2 4HN",NW2,1.0
+241,545000.0,"Dartmouth Road, Willesden Green, London, NW2",NW2,2.0
+242,525000.0,"Walm Lane, Willesden Green, London, NW2",NW2,2.0
+243,575000.0,"Vivian Gardens, Wembley, HA9",HA9,4.0
+249,675000.0,"Melrose Avenue, Willesden Green, London, NW2",NW2,2.0
+251,695000.0,"Ancona Road, Kensal Green, London, NW10",NW10,2.0
+252,575000.0,"Vivian Gardens, Wembley Park, Wembley, HA9",HA9,3.0
+253,580000.0,"Gabrielle Close, Wembley, HA9",HA9,3.0
+254,200000.0,"Chestnut Avenue, Wembley, London, HA0 2LU",HA0,1.0
+257,725000.0,"Heathfield Park, London, NW2",NW2,2.0
+260,615000.0,"Brondesbury Villas, London, NW6",NW6,2.0
+265,580000.0,"Gabrielle Close, Wembley, Greater London, HA9",HA9,3.0
+266,440000.0,"Moore View, 91 Chalkhill Road, Wembley, HA9",HA9,2.0
+270,700000.0,"Farriers House, Greyhound Road, Kensal Green NW10",NW10,2.0
+273,850000.0,"Litchfield Gardens, Willesden Green, NW10",NW10,4.0
+275,450000.0,"399, London, NW9",NW9,1.0
+276,1250000.0,"Brondesbury Villas, Queen's Park, London, NW6",NW6,3.0
+281,425000.0,"Bron Court, 12, Brondesbury Road, London, NW6 6AU",NW6,2.0
+282,765000.0,"Crundale Avenue, Kingsbury, NW9",NW9,5.0
+283,630000.0,"Buck Lane, Kingsbury, NW9",NW9,4.0
+284,485000.0,"Shoot up Hill, Kilburn, London, NW2",NW2,2.0
+289,360000.0,"Rushout Avenue, Harrow, Middlesex, HA3 0AH",HA3,1.0
+290,550000.0,"Trinity Court, Willesden Green, NW2",NW2,2.0
+291,1595000.0,"Linden Avenue, Kensal Rise, NW10",NW10,4.0
+292,1750000.0,"Honiton Road, Queen's Park, London, NW6",NW6,4.0
+293,400000.0,"Priory Park Road, Brondesbury, NW6",NW6,1.0
+296,1100000.0,"St. Margarets Road, Kensal Rise, London, NW10",NW10,4.0
+300,575000.0,"Pienna Apartments, 2 Elvin Gardens, Wembley, HA9",HA9,2.0
+301,649950.0,"Furness Road, London, NW10",NW10,3.0
+303,599999.0,"Scholars House, 36 Glengall Road, London, NW6",NW6,2.0
+304,625000.0,"Cedar Lodge, Exeter Road, London, NW2",NW2,2.0
+305,565000.0,"Holland Road, London, NW10",NW10,3.0
+306,440000.0,"Canterbury House, Canterbury Road, London, NW6",NW6,1.0
+308,600000.0,"Shakespeare Drive, Harrow, London, Uk, HA3",HA3,3.0
+309,745000.0,"Birchside Apartments, 1 Albert Road, Queen's Park, NW6",NW6,2.0
+312,1400000.0,"Liddell Gardens, London, NW10",NW10,4.0
+313,530000.0,"Berkhamsted Avenue, Wembley, London, HA9",HA9,3.0
+314,600000.0,"Brondesbury Villas, London, NW6",NW6,2.0
+315,538000.0,"Winchelsea Road, London NW10",NW10,3.0
+317,345000.0,"Winchelsea Road, London, NW10",NW10,1.0
+320,599950.0,"Chapter Road, Dollis Hill, London, Uk, NW2",NW2,3.0
+322,475000.0,"Aylesbury House, Hatton Road, Wembley, HA0",HA0,2.0
+323,595000.0,"Hatton Road, Wembley, London, HA0",HA0,3.0
+324,238000.0,"Hatton Road, Wembley, London , HA0",HA0,3.0
+328,275000.0,"Lister House , Barn Hill Road, Wembley HA9 9DH",HA9,1.0
+330,365000.0,"Rivington Court, London, NW10",NW10,2.0
+331,1175000.0,"Ravensworth Road, Kensal Green NW10",NW10,5.0
+333,745000.0,"Birchside Apartments, Queens Park, NW6",NW6,2.0
+334,1450000.0,"Wellington Road, Kensal Rise, London, NW10",NW10,3.0
+335,715000.0,"Woodcock Dell Avenue , Harrow , Middlesex, HA3 0PW",HA3,4.0
+336,327500.0,"TNQ, 50 Capitol Way, London, NW9",NW9,1.0
+337,675000.0,"Willesden Green, Willesden Green, London, NW10",NW10,2.0
+339,350000.0,"Guinevere Court, King George Crescent, Wembley, HA0",HA0,2.0
+342,450000.0,"Electric House, Willesden Lane, NW2",NW2,1.0
+344,475000.0,"Winchester Avenue, London, NW6",NW6,1.0
+347,475000.0,"Glengall Road, Queen's Park, London, NW6",NW6,1.0
+348,750000.0,"The Dene, Wembley, HA9",HA9,5.0
+351,700000.0,"Chapter Road, London, NW2",NW2,4.0
+356,585000.0,"Forty Close, Wembley, Greater London, HA9",HA9,2.0
+358,550000.0,"Brondesbury Villas, Queens Park, NW6",NW6,1.0
+359,535000.0,"Brondesbury Villas, Queens Park, NW6",NW6,2.0
+361,325000.0,"Ash Tree Dell, KINGSBURY, NW9",NW9,2.0
+362,865000.0,"Priory Park Road,  Queen's Park, London, NW6",NW6,2.0
+363,465000.0,"Old St. Andrews Mansions, Old Church Lane, London, NW9",NW9,2.0
+365,399950.0,"Minet Avenue, Harlesden NW10 8AU",NW10,2.0
+370,275500.0,"Greenford Road, Harrow HA1",HA1,2.0
+372,375000.0,"Park Avenue, London, NW2",NW2,1.0
+376,625000.0,"Donaldson Road, London, NW6",NW6,1.0
+379,650000.0,"Winston Avenue, Kingsbury, London, NW9",NW9,4.0
+380,385000.0,"Besant Way, Neasden, London, NW10",NW10,3.0
+381,425000.0,"Grand Union, Beresford Avenue, Alperton, London, HA0",HA0,1.0
+382,517500.0,"Grand Union, Beresford Avenue, Alperton, London, HA0",HA0,1.0
+383,590000.0,"Grand Union, Beresford Avenue, Alperton, London, HA0",HA0,2.0
+384,790000.0,"Grand Union, Beresford Avenue, Alperton, London, HA0",HA0,3.0
+387,899950.0,"Ravensworth Road, London, NW10",NW10,3.0
+389,4000000.0,"Aylestone Avenue, Brondesbury, London, NW6",NW6,5.0
+390,1100000.0,"Wrentham Avenue, London, NW10",NW10,3.0
+399,170000.0,"Watford Road, Wembley, HA0",HA0,1.0
+403,585000.0,"Stag Lane, Kingsbury, NW9",NW9,3.0
+404,589950.0,"Furness Road, London, NW10",NW10,2.0
+405,460000.0,"Kinloch Drive, Kingsbury, NW9",NW9,2.0
+406,525000.0,"Westbury Road, Wembley, HA0",HA0,3.0
+407,675000.0,"Castleton Avenue, Wembley, HA9",HA9,4.0
+408,875000.0,"Preston Road Area, Wembley, Middlesex, HA9",HA9,5.0
+411,875000.0,"Harvist Road, Queens Park NW6",NW6,3.0
+416,925000.0,"Salusbury Road, London, NW6",NW6,3.0
+421,950000.0,"Nightingale Road, Harlesden, London, NW10",NW10,4.0
+422,599950.0,"Buchanan Gardens, Kensal Rise, NW10",NW10,2.0
+423,725000.0,"Christchurch Court, Brondesbury, NW6",NW6,2.0
+424,650000.0,"Station Grove, Wembley, HA0",HA0,4.0
+426,485000.0,"Maybank Avenue, Wembley, HA0 2TJ",HA0,3.0
+428,649950.0,"Ravenscroft Avenue, Wembley, HA9",HA9,4.0
+429,387000.0,"Dyne Road, Brondesbury, NW6",NW6,1.0
+430,549950.0,"Pettsgrove Avenue, Wembley, HA0",HA0,3.0
+431,2500000.0,"Opal Mews, Priory Park Road, Queen's Park, London, NW6",NW6,5.0
+435,1000000.0,"Chamberlayne Road, Kensal Rise, NW10 ",NW10,4.0
+436,850000.0,"Donaldson Road, London, NW6",NW6,2.0
+437,475000.0,"Scarle Road, Alperton, Wembley, HA0",HA0,3.0
+439,575000.0,"Victoria Road, London, NW6",NW6,2.0
+441,500000.0,"Riffel Road, London, NW2",NW2,2.0
+443,460000.0,"Scholars House, 36 Glengall Road, London, NW6",NW6,1.0
+446,275000.0,"Bruce Road, Stonebridge, London, NW10 8RE",NW10,1.0
+447,375000.0,"St.Julians Road, Kilburn, London, NW6 7LA",NW6,2.0
+449,550000.0,"55 Cooper Road, London, NW10",NW10,3.0
+450,570000.0,"Oxford Road, NW6",NW6,2.0
+451,549950.0,"Lancelot Road, Wembley, HA0",HA0,3.0
+453,580000.0,"Neasden, London, NW10",NW10,3.0
+455,1100000.0,"All Souls Avenue, London, NW10",NW10,4.0
+457,340000.0,"Mapes House,  Winchester Avenue, London, NW6",NW6,2.0
+458,499950.0,"Burton Road, London, NW6",NW6,2.0
+459,400000.0,"Cipher Court, Flowers Close, London, NW2",NW2,2.0
+461,325000.0,"Harrow Road, Wembley, HA9",HA9,2.0
+463,640000.0,"Walm Lane, Willesden Green, NW2",NW2,3.0
+464,700000.0,"Bramston Road, Willesden Junction NW10",NW10,3.0
+466,1500000.0,"Holland Road, Kensal Rise NW10",NW10,4.0
+467,419000.0,"Queensbury Square, Honeypot Lane, NW9",NW9,2.0
+468,700000.0,"Gladstone Park Gardens, Dollis Hill, NW2",NW2,3.0
+471,685000.0,"Sherborne Gardens, Queensbury, NW9",NW9,5.0
+472,725000.0,"Bathurst Gardens, Kensal Rise NW10",NW10,3.0
+474,460000.0,"Greenbank Avenue, Wembley, Middlesex, HA0",HA0,3.0
+475,450000.0,"St. Marys Road, London, NW10",NW10,3.0
+476,650000.0,"Chatsworth Avenue, Wembley, HA9",HA9,3.0
+478,400000.0,"Honeywood Road, Harlesden, London, NW10",NW10,2.0
+479,1350000.0,"Dunster Gardens , London, NW6",NW6,7.0
+480,600000.0,"Newhaven Court, 189 Willesden Lane, London, NW6",NW6,2.0
+485,430000.0,"Opal House, Agate Close, Park Royal, NW10 7FB",NW10,2.0
+486,193500.0,"Opal House, Agate Close, Park Royal, NW10 7FB",NW10,2.0
+489,550000.0,"Fairfields Close, Kingsbury, NW9",NW9,3.0
+490,399000.0,"Nexus Court, Malvern Road, London, NW6",NW6,1.0
+493,550000.0,"Princes Court, Shoot Up Hill, Kilburn, NW2",NW2,2.0
+495,369000.0,"Sellons Avenue, Harlesden, NW10",NW10,1.0
+496,300000.0,"St. Johns Road, Wembley, London, Uk, HA9",HA9,1.0
+498,450000.0,"Sheldon Road, London, NW2",NW2,2.0
+501,1150000.0,"Charteris Road, London, NW6",NW6,3.0
+502,725000.0,"Thandie House, 21 Chamberlayne Road, Kensal Rise, London, NW10",NW10,2.0
+505,319950.0,"Bolton Road, Harlesden, NW10 4BA",NW10,1.0
+510,800000.0,"Chatsworth Road, Mapesbury, London, NW2 ",NW2,3.0
+511,675000.0,"Chatsworth Road, Mapesbury, London, NW2 ",NW2,2.0
+512,425000.0,"Chatsworth Road, Mapesbury, London, NW2 ",NW2,1.0
+514,450000.0,"Aston Mews, 103 Kilburn Lane, London, W10",W10,1.0
+515,450000.0,"Banister Road, Kensal Rise, London, W10",W10,1.0
+516,347000.0,"Queensbury Square, Honeypot Lane, NW9",NW9,1.0
+517,285000.0,"Queensbury Square, Honeypot Lane, London, NW9",NW9,1.0
+518,450000.0,"Kingisholt Court, Wellington Road, London, NW10",NW10,2.0
+519,470000.0,"Queensbury Square, Honeypot Lane, London, NW9",NW9,2.0
+520,335000.0,"Queensbury Square, Honeypot Lane, NW9",NW9,1.0
+521,344000.0,"Queensbury Sqaure, Honeypot Lane, London, NW9",NW9,1.0
+522,349000.0,"Queensbury Square, Honeypot Lane, NW9",NW9,1.0
+523,400000.0,"St. Julians Road, Kilburn, NW6",NW6,2.0
+524,525000.0,"Cambridge Avenue, Kilburn, London, NW6",NW6,1.0
+525,570000.0,"Oxford Road, NW6",NW6,2.0
+526,750000.0,"Lindsay Drive, Kenton, Harrow, HA3",HA3,5.0
+528,975000.0,"Cedar Road, London, NW2",NW2,4.0
+538,625000.0,"Pienna Apartments, Elvin Gardens , Wembley, HA9 0GP",HA9,2.0
+539,270000.0,"Forty Avenue, Preston, Wembley, HA9",HA9,2.0
+540,435000.0,"The Avenue, London, NW6",NW6,1.0
+541,700000.0,"Wrottesley Road, Kensal Rise NW10",NW10,3.0
+542,1450000.0,"Teignmouth road, London, NW2",NW2,5.0
+543,499950.0,"Leghorn Road, Harlesden, NW10",NW10,2.0
+545,330000.0,"Northwick Road, Alperton, Wembley, HA0",HA0,2.0
+546,1499950.0,"Herbert Gardens, London, NW10",NW10,5.0
+547,625000.0,"All Souls Avenue, Kensal Green, London, NW10",NW10,2.0
+548,325000.0,"Craven Park, Harlesden, London, NW10",NW10,1.0
+549,505000.0,"Baillie Apartments, Gallions Reach, London, E16",E16,2.0
+551,1250000.0,"Leighton Gardens, London, NW10",NW10,3.0
+552,625000.0,"Brondesbury Villas, Kilburn, NW6",NW6,2.0
+553,625000.0,"Pienna Apartments , 2 Elvin Gardens, Wembley, HA9 0GN",HA9,2.0
+557,775000.0,"Foster Apartments, 
+North End Road, 
+Wembley, 
+London, 
+HA9",HA9,3.0
+558,350000.0,"Grove Park, Colindale, London, NW9",NW9,1.0
+560,455000.0,"Foster Apartments, 
+North End Road, 
+Wembley, 
+London, 
+HA9",HA9,1.0
+562,415000.0,"Sandringham Road, London, NW2",NW2,1.0
+563,450000.0,"Ivy Road, Cricklewood, London, NW2",NW2,2.0
+564,575000.0,"Pharamond, 258-262 Willesden Lane, London, NW2",NW2,2.0
+567,335000.0,"Gibraltar House, Connaught Road, London NW10",NW10,1.0
+568,300000.0,"Ramsey House, Central Square, Wembley, HA9",HA9,1.0
+569,425000.0,"St Julians Road, Kilburn, NW6",NW6,2.0
+573,430000.0,"Brondesbury Villas, Queens Park, NW6",NW6,1.0
+579,825000.0,"Talbot Road, Wembley, HA0",HA0,7.0
+580,370000.0,"Rushout Avenue, Harrow, Middlesex, HA3 0AH",HA3,1.0
+584,725000.0,Canterbury Road London NW6,NW6,2.0
+589,1850000.0,"Keslake Road, London, NW6",NW6,4.0
+590,2250000.0,"Teignmouth Road, London, NW2",NW2,5.0
+593,690000.0,"Fortunegate Road, London, NW10",NW10,3.0
+594,550000.0,"Spezia Road, Willesden Junction NW10",NW10,4.0
+595,750000.0,"Dunster Gardens, London NW6",NW6,3.0
+596,790000.0,"Affinity House, Grand Union, Beresford Avenue, HA0",HA0,3.0
+597,595000.0,"Affinity House, Grand Union, Beresford Avenue, HA0",HA0,2.0
+598,519000.0,"Affinity Tower, Grand Union, Beresford Avenue, HA0",HA0,1.0
+599,775000.0,"Silverworks Close, Colindale, London, NW9",NW9,4.0
+600,475000.0,"Brondesbury Villas, London, NW6",NW6,2.0
+603,425000.0,"Atlip Road, Wembley, HA0",HA0,2.0
+604,2000000.0,"Leighton Gardens, London, NW10",NW10,5.0
+605,425000.0,"Brondesbury Villas, London, NW6",NW6,1.0
+607,775000.0,"Harvist Road, Queen's Park, NW6",NW6,3.0
+609,1200000.0,"Bolton Gardens, Kensal Rise, NW10",NW10,4.0
+611,325000.0,"Chartwell Court, 151 Brook Road, London, NW2",NW2,1.0
+617,650000.0,"Chatsworth Road, Mapesbury, London, NW2",NW2,3.0
+619,725000.0,"Dartmouth Road, Mapesbury Estate, London, NW2",NW2,2.0
+620,2250000.0,"Harvist Road, Queen's Park, London, NW6",NW6,4.0
+621,500000.0,"Banister Road, Kensal Rise, London, W10",W10,2.0
+624,600000.0,KINGSBURY - SPRINGFIELD ESTATE COLINDALE/KINSGURY BORDER. NW9,NW9,3.0
+625,575000.0,"Kilburn Lane, W10",W10,2.0
+631,750000.0,"Chapter Road, London, NW2",NW2,4.0
+632,460000.0,"Brondesbury Road, Queens Park, London, NW6 6RY",NW6,2.0
+633,1950000.0,"Brondesbury Road, Queen's Park, London, NW6",NW6,4.0
+634,380000.0,"Marathon House, 33 Olympic Way, Wembley City , HA9 0GF",HA9,1.0
+637,1250000.0,"Wellington Road, Kensal Green, London, UK, NW10",NW10,5.0
+638,800000.0,"Cedarside Apartments, 3 Albert Road, Queens Park, NW6",NW6,2.0
+642,625000.0,"33 Olympic Way, Wembley, London, HA9",HA9,2.0
+646,590000.0,"40-42 Brondesbury Park, London, NW6",NW6,3.0
+652,435000.0,"Casseldean Road, London, NW10 8QR",NW10,2.0
+654,249950.0,"Pegasus Court (Harrow), Harrow, HA3 0XT",HA3,1.0
+655,400000.0,"Thomas A Beckett Close, Sudbury, Wembley, HA0",HA0,2.0
+656,525000.0,"Hatton Road, Alperton, London, HA0",HA0,3.0
+660,1500000.0,"Anson Road, Willesden Green, London, NW2",NW2,5.0
+663,800000.0,"Harvist Road, Queens Park NW6",NW6,2.0
+664,499950.0,"Hatton Road, Wembley, HA0",HA0,3.0
+666,2250000.0,"Harvist Road, Queen's Park, London, NW6",NW6,4.0
+667,525000.0,"Wendover Road, Harlesden NW10",NW10,2.0
+668,449950.0,"Warfield Yard, Kensal Green, London NW10",NW10,1.0
+669,499950.0,"Hatton Road, Wembley, HA0",HA0,3.0
+671,649950.0,"Beaconsfield Road, London, London, NW10",NW10,3.0
+672,600000.0,"Farm Avenue, Wembley, London, HA0",HA0,3.0
+675,300000.0,"Montrose Court, The Hyde, NW9",NW9,2.0
+679,480000.0,"3 Lakeside Drive, London, NW10",NW10,2.0
+681,2295000.0,"Chatsworth Road, Mapesbury Estate, London, NW2",NW2,5.0
+682,270000.0,"Atlip Road, Alperton, Wembley, HA0",HA0,1.0
+686,650000.0,"Dollis Hill Lane, Dollis Hill, London, NW2",NW2,3.0
+687,380000.0,"Signia Court, Wembley Hill Road, Wembley, Middlesex, HA9 8BE",HA9,1.0
+689,1445000.0,"Acton Lane , Harlesden, London, NW10",NW10,6.0
+690,375000.0,"Acton Lane , Harlesden, London, NW10",NW10,1.0
+692,475000.0,"Acton Lane, Harlesden, London, NW10",NW10,2.0
+693,600000.0,"Ilex Road, Willesden, London, NW10 9NX",NW10,6.0
+694,595000.0,"Acton Lane, Harlesden, London, NW10",NW10,3.0
+695,450000.0,"College Road, Kensal Green, London, NW10 5ER",NW10,2.0
+696,429000.0,"Watkin Road,
+Wembley,
+HA9 0NL",HA9,1.0
+697,429000.0,"Watkin Road,
+Wembley,
+HA9 0NL",HA9,1.0
+698,579000.0,"Watkin Road,
+Wembley,
+HA9 0NL",HA9,2.0
+702,450000.0,"Harrow Road, London, NW10",NW10,2.0
+703,650000.0,"Malvern Road, Maida Vale, NW6",NW6,2.0
+704,900000.0,"Willesden Lane, Brondesbury, London, NW6",NW6,3.0
+705,950000.0,"The Avenue, Queen's Park, London, NW6",NW6,4.0
+708,570000.0,"Oxford Road, NW6",NW6,2.0
+709,1100000.0,"Harlesden Road, London, NW10",NW10,4.0
+711,3450000.0,"Brondesbury Road, London, NW6",NW6,5.0
+712,585000.0,"Rainham Road, London, NW10",NW10,2.0
+713,570000.0,"Rainham Road, London, NW10",NW10,2.0
+714,750000.0,"Teignmouth Road, Mapesbury Conservation Area, NW2",NW2,3.0
+716,525000.0,"Leghorn Road, Kensal Rise, NW10",NW10,2.0
+717,640000.0,"Watkin Road,
+Wembley,
+HA9 0NL",HA9,3.0
+718,565000.0,"Watkin Road,
+Wembley,
+HA9 0NL",HA9,2.0
+719,649000.0,"Watkin Road,
+Wembley,
+HA9 0NL",HA9,3.0
+721,585000.0,"Rainham Road, Kensal Green, NW10",NW10,2.0
+722,570000.0,"Rainham Road, Kensal Green, NW10",NW10,2.0
+723,599950.0,"Holland Road, London, NW10",NW10,3.0
+724,83750.0,"Liberty Wharf, Waterfront Heights, Mount Pleasant, Wembley, HA0",HA0,1.0
+727,550000.0,"Cambridge Road, London NW6",NW6,1.0
+728,1975000.0,"Hawthorn Road, London, NW10",NW10,8.0
+729,725000.0,"Brondesbury Park, London, NW6",NW6,2.0
+730,1175000.0,"Brondesbury Park, Brondesbury, NW6",NW6,3.0
+732,440000.0,"Bayford Road, Kensal Green, London, NW10",NW10,2.0
+734,849950.0,"Earlsmead Road, Kensal Rise, NW10",NW10,3.0
+735,1250000.0,"Wakeman Road, London, NW10",NW10,5.0
+736,290000.0,"Campbell Gordon Way, London, NW2",NW2,1.0
+737,575000.0,"Marlow Court, Willesden Lane, Willesden Green, London, NW6 7PS",NW6,4.0
+740,375000.0,"74 Craven Park, Roundwood, NW10",NW10,2.0
+741,720000.0,"Roundwood Road, London, NW10",NW10,3.0
+742,475000.0,"Carlyon Close, Alperton, HA0",HA0,3.0
+743,595000.0,"Birchside Apartments, 1 Albert Road, Queen's Park, NW6",NW6,1.0
+744,600000.0,"Temple Road, Cricklewood, London, NW2",NW2,2.0
+745,425000.0,"Melrose Avenue, Willesden Green, London, NW2",NW2,2.0
+746,425000.0,"Sheldon Road, Willesden Green, London, NW2",NW2,2.0
+748,325000.0,"Highfield Avenue, London, NW9",NW9,2.0
+749,475000.0,"City View, 7 Banister Road, W10",W10,2.0
+750,625000.0,"Furness Road, Kensal Green, London, NW10",NW10,3.0
+751,375000.0,"Kenmere Gardens, Wembley, HA0",HA0,2.0
+752,550000.0,"Riffel Road, Willesden Green, NW2",NW2,2.0
+753,132000.0,"Honeypot Lane,
+London,
+NW9",NW9,1.0
+754,169000.0,"Honeypot Lane,
+London,
+NW9",NW9,2.0
+755,382500.0,"North End Road, Wembley,
+London, 
+HA9 0LU",HA9,1.0
+757,210000.0,"Honeypot Lane,
+London,
+NW9",NW9,3.0
+758,330000.0,"Honeypot Lane,
+London,
+NW9",NW9,1.0
+759,422500.0,"Honeypot Lane,
+London,
+NW9",NW9,2.0
+760,525000.0,"Honeypot Lane,
+London,
+NW9",NW9,3.0
+761,1455000.0,"Douglas Road, Queen's Park, London, NW6",NW6,5.0
+762,350000.0,"St. Marys Mansions, St. Marys Road, Harlesden, London, NW10 4AT",NW10,2.0
+763,599950.0,"Holland Road, London, NW10",NW10,3.0
+764,425000.0,"255 Ealing Road, Alperton,
+London,
+HA0",HA0,2.0
+765,327500.0,"255 Ealing Road, Alperton,
+London,
+HA0",HA0,1.0
+767,2000000.0,"Keslake Road, London, NW6",NW6,5.0
+768,335000.0,"Chichele Road, London, NW2",NW2,1.0
+769,699950.0,"Aylestone Avenue, London, NW6",NW6,2.0
+772,275000.0,"Rainborough Close, Neasden, London, NW10",NW10,1.0
+773,350000.0,"Hatton Road, Alperton, Wembley, HA0",HA0,1.0
+775,570000.0,"Oxford Road, NW6",NW6,2.0
+778,799950.0,"Brondesbury Villas, London, NW6",NW6,3.0
+779,1795000.0,"Crediton Road, London, NW10",NW10,3.0
+780,825000.0,"Keslake Road, London, NW6",NW6,2.0
+782,500000.0,"Springwell Avenue, Harlesden, London, NW10",NW10,2.0
+784,449950.0,"Warfield Yard, Kensal Green, NW10 ",NW10,1.0
+785,374950.0,"Mount Pleasant, Wembley, Middlesex HA0",HA0,2.0
+786,85000.0,"Taverners Court, Wembley, London, HA9",HA9,2.0
+787,97500.0,"Marathon House, Wembley, London, HA9",HA9,1.0
+790,725000.0,"Delmore, Brondesbury Park, Brondesbury Park, NW6",NW6,2.0
+791,725000.0,"Delmore, Brondesbury Park, Brondesbury Park, NW6",NW6,2.0
+792,1175000.0,"Delmore, Brondesbury Park, Brondesbury Park, NW6",NW6,3.0
+793,495000.0,"Sunnymead Road, KINGSBURY, NW9",NW9,3.0
+794,385000.0,"Churchmead Road, Willesden, NW10",NW10,1.0
+797,480000.0,"Regal Building, Kilburn Lane, W10",W10,2.0
+799,500000.0,"St Marys Road, Harlesden, London, NW10",NW10,3.0
+800,1100000.0,"Birchen Grove, Queensbury, London, NW9",NW9,3.0
+801,575000.0,"Kilburn Lane, W10",W10,2.0
+802,615000.0,"Brondesbury Villas, Kilburn, London, NW6",NW6,2.0
+804,480000.0,"Victoria Road, Kilburn, NW6",NW6,2.0
+808,1300000.0,"The Avenue,
+London,
+NW6",NW6,2.0
+811,825000.0,"Cavendish Road, Brondesbury, London, NW6",NW6,3.0
+812,2250000.0,"Brondesbury Park, London, NW2",NW2,7.0
+813,450000.0,"St. Marys Road, London, NW10",NW10,3.0
+814,509950.0,"Rugby Avenue, Wembley, Middlesex HA0",HA0,3.0
+815,300000.0,"Montrose Court, The Hyde, NW9",NW9,2.0
+816,395000.0,"Harlesden Road, Willesden, London, NW10",NW10,2.0
+817,300000.0,"Farnborough Close, Wembley Park, Wembley, HA9",HA9,1.0
+818,365000.0,"Kingsgate, Wembley Park, Wembley, HA9",HA9,2.0
+819,950000.0,"Brondesbury Park, London, NW6",NW6,3.0
+821,1250000.0,"Artisan Quarter, Wellington Road, London, NW10",NW10,5.0
+822,699950.0,"Harlesden Road, NW10",NW10,3.0
+823,950000.0,"Wrentham Avenue, London, NW10",NW10,2.0
+824,639950.0,"Leghorn Road, London, NW10",NW10,3.0
+825,550000.0,"Foster Apartments, 
+North End Road, 
+Wembley, 
+London, 
+HA9",HA9,2.0
+827,280000.0,"Bertie Road, Brent Park, London, NW10 2LH",NW10,2.0
+828,350000.0,"Cara House, Colindale, London, NW9 0AZ",NW9,1.0
+833,575000.0,"Walm Lane, London, NW2",NW2,2.0
+834,825000.0,"Cavendish Road, Brondesbury, NW6",NW6,3.0
+835,1550000.0,"Chamberlayne Road, London, NW10",NW10,5.0
+836,285000.0,"Flexmore House, Harrow Road, London, NW10",NW10,1.0
+837,495000.0,"Dyne Road, Brondesbury, NW6",NW6,2.0
+839,550000.0,"Fairfields Close, Kingsbury, London, Uk, NW9",NW9,3.0
+841,620000.0,"Buck Lane, London, NW9",NW9,3.0
+842,360000.0,"Wembley Hill Road, Wembley, London, HA9",HA9,1.0
+843,390000.0,"Signia Court, Wembley Hill Rd, HA9",HA9,1.0
+844,595000.0,"Signia Court, Wembley Hill Rd, HA9",HA9,3.0
+848,950000.0,"Larch Road, Willesden Green, NW2",NW2,4.0
+849,650000.0,"Tudor Close, Kingsbury, NW9",NW9,3.0
+851,330000.0,"Ash Walk, Wembley, London, Uk, HA0",HA0,2.0
+852,425000.0,"Grosvenor Court, Christchurch Avenue, London, NW6",NW6,1.0
+855,410000.0,"Victoria Road, West Hampstead, NW6",NW6,1.0
+857,575000.0,"Springfield Gardens, Kingsbury, NW9",NW9,3.0
+858,1175000.0,"Hiley Road, London, NW10",NW10,4.0
+860,615000.0,"Kilburn Lane, London, W10",W10,3.0
+861,995000.0,"Leghorn Road, London, NW10",NW10,4.0
+862,640000.0,"Ravensworth Road, Kensal Green NW10",NW10,3.0
+864,230000.0,"Brewery Close, Wembley, Middlesex, HA0",HA0,1.0
+866,1275000.0,"All Souls Avenue, Kensal Rise/Willesden, NW10 ",NW10,4.0
+867,600000.0,"High Road, Willesden Green, London, NW10",NW10,2.0
+868,350000.0,"Eagle Road, Wembley, HA0",HA0,2.0
+870,275000.0,"Harp Island Close, Neasden, London, NW10",NW10,1.0
+871,300000.0,"Central Square, Wembley, HA9",HA9,1.0
+872,400000.0,"Longley Avenue, Alperton, Wembley, HA0",HA0,2.0
+873,800000.0,"Beverley Gardens, Wembley, HA9",HA9,5.0
+876,400000.0,"Palace Arts Way, Wembley Park, Wembley, HA9",HA9,1.0
+877,320000.0,"Dara House, 50 Capitol Way, London, NW9",NW9,1.0
+883,380000.0,"Signia Court, Wembley Hill Road, Wembley, Middlesex, HA9 8BE",HA9,1.0
+886,610000.0,"Tudor Close, KINGSBURY, NW9",NW9,3.0
+888,390000.0,"Graham Apartments, Silverworks Close, London, NW9",NW9,1.0
+889,360000.0,"Shakespeare Road, NW10 8EY",NW10,2.0
+892,625000.0,"Church Lane, Kingsbury, London, London, NW9",NW9,3.0
+894,90000.0,"Hatton Road, Middlesex, HA0",HA0,1.0
+895,300000.0,"Hatton Road, Wembley, Middlesex, HA0",HA0,1.0
+898,330000.0,"Pitfield Way, Neasden, London, NW10",NW10,2.0
+899,400000.0,"Mapes House, 1-13 Winchester Avenue,Queens Park,NW6",NW6,2.0
+901,424950.0,"Glengall Road, Kilburn NW6",NW6,1.0
+902,600000.0,"Leghorn Road, London, NW10",NW10,2.0
+903,3650000.0,"Milverton Road, Brondesbury, NW6",NW6,5.0
+904,425000.0,"Malvern Road, Queen's Park, London, NW6",NW6,1.0
+906,900000.0,"Chevening Road, Queens Park, NW6",NW6,2.0
+907,550000.0,"Yeats Close, London, NW10",NW10,4.0
+913,425000.0,"Crownhill Road, London, NW10",NW10,2.0
+914,590000.0,"Brookfield Crescent, Kenton, HARROW, Middlesex, HA3",HA3,3.0
+915,525000.0,"Ravensworth Road, London, NW10",NW10,2.0
+918,1300000.0,"Cedarside Penthouse, Queen's Park, London, NW6",NW6,2.0
+921,550000.0,"Olive Road, Cricklewood, London NW2",NW2,3.0
+923,769950.0,"Burns Road, London, NW10",NW10,3.0
+924,620000.0,"Summit Close, London, NW9",NW9,3.0
+926,850000.0,"Sudbury Court Road, Harrow, HA1",HA1,4.0
+927,525000.0,"Rannock Avenue, London, NW9",NW9,2.0
+929,600000.0,"Crummock Gardens, London, NW9",NW9,3.0
+930,365000.0,"Uphill Drive, Kingsbury, NW9",NW9,2.0
+931,500000.0,"Warwick Lodge, West Hampstead Borders, NW2",NW2,3.0
+932,170000.0,"Hatton Road, Wembley, HA0",HA0,2.0
+934,350000.0,"Braemar Avenue, Neasden, London, NW10",NW10,2.0
+935,500000.0,"Overton Close, Neasden, London, NW10",NW10,3.0
+936,450000.0,"Williams Way, Sudbury, Wembley, HA0",HA0,2.0
+937,400000.0,"Flowers Close, Dollis Hill, London, NW2",NW2,2.0
+938,1299950.0,"Wakeman Road, London, NW10",NW10,4.0
+939,850000.0,"Queenscourt, Wembley, HA9",HA9,4.0
+940,390000.0,"Empire Way, Wembley, HA9",HA9,1.0
+942,380000.0,"Lakeside Drive, Park Royal, London, NW10",NW10,1.0
+943,775000.0,"Park View Road, London, NW10",NW10,5.0
+945,1325000.0,"The Avenue,
+London,
+NW6",NW6,3.0
+946,1850000.0,"The Avenue,
+London,
+NW6",NW6,3.0
+952,550000.0,"Foster Apartments, 
+North End Road, 
+Wembley, 
+London, 
+HA9",HA9,2.0
+953,745000.0,"NOMA, Kilburn High Road, NW6",NW6,2.0
+954,675000.0,"Noma, Westminster, NW6",NW6,2.0
+955,595000.0," 53-63 Signia Court , Wembley Hill Road, Wembley, Middlesex, HA9 8DE",HA9,3.0
+957,925000.0,"St Johns Avenue, Harlesden, London, NW10",NW10,4.0
+958,525000.0,"Wyld Way, Wembley, HA9",HA9,3.0
+959,575000.0,"Coniston Gardens, London, NW9",NW9,3.0
+960,399995.0,"Minet Avenue, London, NW10",NW10,2.0
+962,650000.0,"Windsor Crescent, Wembley, Middlesex, HA9",HA9,7.0
+964,375000.0,"Avonhurst House, Coverdale Road, NW2",NW2,1.0
+970,600000.0,"Esmond Road, London, NW6",NW6,2.0
+971,400000.0,"Charlton Road, Harlesden, London, NW10",NW10,2.0
+972,340000.0,"Wells Drive, Kingsbury, NW9",NW9,2.0
+973,490000.0,"Grove Way, WEMBLEY, HA9",HA9,3.0
+974,795000.0,"Brondesbury Road, London, NW6",NW6,2.0
+975,475000.0,"Pember Road, London, NW10",NW10,1.0
+976,550000.0,"Priory Park Road, NW6",NW6,2.0
+977,400000.0,"Charlton Road, London, NW10",NW10,2.0
+978,143750.0,"Liberty Wharf, Waterfront Heights, 152 Mount Pleasant, Wembley, HA0",HA0,3.0
+979,275000.0,"Rose Bates Drive, Kingsbury, NW9",NW9,2.0
+980,550000.0,"Olive Road, Cricklewood, NW2",NW2,3.0
+983,440000.0,"Hatton Road, Wembley, HA0",HA0,2.0
+986,310000.0,"Elizabeth House, Wembley, Greater London, HA9",HA9,1.0
+990,275000.0,"Rose Bates Drive, KINGSBURY, NW9",NW9,2.0
+991,600000.0,"Acton Lane, Harlesden, London, NW10",NW10,2.0
+994,450000.0,"Campbell Gordon Way, Gladstone Park, London, NW2",NW2,2.0
+996,1999950.0,"Keslake Road, London, NW6",NW6,4.0
+1000,720000.0,"Roundwood Road, London, NW10",NW10,3.0
+1001,725000.0,"Harvist Road, London, NW6",NW6,3.0
+1003,575000.0,"Pienna Apartments, 2 Elvin Gardens, Wembley, HA9",HA9,2.0
+1005,600000.0,"Leghorn Road, Kensal Rise, NW10",NW10,2.0
+1006,300000.0,"Elm Road, Wembley, HA9",HA9,1.0
+1008,375000.0,"Mannock Close, London, NW9",NW9,2.0
+1009,465000.0,"Craven Park, Harlesden, London, NW10",NW10,2.0
+1010,1325000.0,"The Avenue, Brondesbury Park, London, NW6",NW6,3.0
+1012,2695000.0,"St. Gabriels Road, Mapesbury Conservation Area, London, NW2.",NW2,6.0
+1013,999950.0,"College Mansions, Winchester Avenue, London, NW6",NW6,3.0
+1016,650000.0,"Audrey Gardens, North Wembley, Wembley, HA0",HA0,3.0
+1017,775000.0,"Anson Road, Willesden Green, NW2",NW2,3.0
+1018,1650000.0,"Burrows Road, London, NW10",NW10,4.0
+1019,400000.0,"Willesden Lane, Brondesbury Park, London, NW6",NW6,1.0
+1020,162750.0,"Mount Pleasant, Wembley, Middlesex, HA0",HA0,2.0
+1021,142500.0,"Mount Pleasant, Wembley, Middlesex, HA0",HA0,3.0
+1022,126000.0,"Mount Pleasant, Wembley, Middlesex, HA0",HA0,1.0
+1023,600000.0,"Leghorn Road, Willesden Junction, NW10",NW10,2.0
+1024,635000.0,"Crummock Gardens, KINGSBURY, NW9",NW9,4.0
+1027,649950.0,"Rucklidge Avenue, London, NW10",NW10,3.0
+1028,649950.0,"Rucklidge Avenue, Willesden Junction NW10",NW10,3.0
+1032,895000.0,"Harlesden Road, Willesden, London NW10",NW10,3.0
+1033,485000.0,"Highmeadow Crescent, London, NW9",NW9,3.0
+1034,700000.0,"Dartmouth Road, London, NW2",NW2,3.0
+1035,875000.0,"Mora Road, Cricklewood, NW2",NW2,4.0
+1038,1600000.0,"Victoria Road, Queen's Park NW6",NW6,4.0
+1039,500000.0,"Cholmondeley Avenue, London, NW10",NW10,2.0
+1041,550000.0,"Ridley Road, Kensal Rise, NW10",NW10,4.0
+1042,1200000.0,"Burrows Road, London, NW10",NW10,4.0
+1043,385000.0,"Signia Court, Wembley Hill Road, Wembley, Middlesex, HA9",HA9,1.0
+1044,475000.0,"Caple Road, London, NW10",NW10,2.0
+1045,450000.0,"St. Johns Avenue, Harlesden, NW10",NW10,2.0
+1046,525000.0,"Brondesbury Road, Queen's Park, London, NW6",NW6,1.0
+1048,1499950.0,"Buchanan Gardens, London, NW10",NW10,5.0
+1049,95625.0,"North End Road, Wembley,
+London, 
+HA9 0LU",HA9,1.0
