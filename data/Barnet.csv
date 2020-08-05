@@ -1,0 +1,784 @@
+,price,address,postcode,number_bedrooms
+0,600000.0,"Hale Grove Gardens, Mill Hill, London, NW7 ",NW7,3.0
+1,455000.0,"Golders Green Crescent, London, NW11",NW11,1.0
+2,695000.0,"Tiverton Way, Mill Hill, London, NW7",NW7,4.0
+4,679950.0,"Park Road, Hendon, NW4",NW4,3.0
+5,500000.0,"Grasvenor Avenue, Barnet, Hertfordshire, EN5",EN5,3.0
+6,350000.0,"High Barnet,Hertfordshire,EN5",EN5,1.0
+12,375000.0,"Crocus Field, Barnet, Hertfordshire, United Kingdom, EN5",EN5,3.0
+13,850000.0,"Barnet,London,EN5",EN5,3.0
+14,390000.0,"Temple Fortune,London,NW11",NW11,1.0
+15,600000.0,"Springcroft Avenue, East Finchley, N2",N2,2.0
+16,1100000.0,"Lichfield Grove, London, London, N3",N3,3.0
+17,249995.0,"Warwick Road, Barnet, North London, EN5",EN5,1.0
+18,550000.0,"High Barnet,Hertfordshire,EN5",EN5,2.0
+19,700000.0,"Madoc Close, London, NW2 ",NW2,2.0
+22,600000.0,"Brookfield Crescent, Mill Hill, London, NW7 ",NW7,3.0
+23,179995.0,"Leicester Road, Barnet, North London, EN5",EN5,0.0
+35,915000.0,"Coleridge Walk, Hampstead Garden Suburb, NW11",NW11,3.0
+36,400000.0,"Pendragon Walk, Kingsbury, London, Uk, NW9",NW9,2.0
+38,550000.0,"New Southgate,Royal Drive London N11,N11",N11,2.0
+40,450000.0,"Rookery Close, London, NW9",NW9,3.0
+44,930000.0,"Derwent Crescent, Whetstone, London, N20 ",N20,4.0
+46,1150000.0,"Leicester Road, East Finchley, N2",N2,4.0
+48,1250000.0,"Maurice Browne Avenue, Mill Hill, London, NW7",NW7,4.0
+50,385000.0,"399, London, NW9",NW9,1.0
+51,365000.0,"Friern Park, London, N12",N12,2.0
+59,700000.0,"Snowberry Close, High Barnet, Hertfordshire, EN5",EN5,4.0
+60,395000.0,"Swannell Way, Barnet, London, NW2",NW2,1.0
+61,400000.0,"Barnet,EN5,EN5",EN5,2.0
+64,625000.0,"Church Hill Road, East Barnet, Barnet, EN4",EN4,4.0
+65,275000.0,"Barford Close, Hendon, London, NW4",NW4,1.0
+67,795000.0,"Mansfield Avenue, East Barnet, EN4",EN4,4.0
+69,410000.0,"Camarthen Green, Kingsbury, NW9",NW9,2.0
+70,700000.0,"Tudor House, Madoc Close, London, NW2",NW2,2.0
+71,499950.0,"Ramillies Road, London NW7",NW7,3.0
+72,375000.0,"Welbeck Close, North Finchley, N12",N12,2.0
+73,1599950.0,"Downage, London NW4",NW4,5.0
+74,399000.0,"Sunny Gardens Road, Hendon NW4",NW4,2.0
+77,320000.0,"Booth Road, London, NW9",NW9,1.0
+78,460000.0,"Aerodrome Road, Colindale, London, NW9",NW9,2.0
+79,465000.0,"Mays Lane, Barnet, EN5",EN5,3.0
+82,385000.0,"Marchant Close, Mill Hill, NW7",NW7,2.0
+83,495000.0,"Rosebery Place, Mill Hill, London, NW7 2FA",NW7,2.0
+84,700000.0,"Squires Lane, Finchley, London, N3 ",N3,3.0
+86,799995.0,"Brookside South, East Barnet EN4",EN4,4.0
+89,565000.0,"1201 High Road, 
+Totteridge & Whetstone, 
+N20",N20,2.0
+90,575000.0,"1201 High Road, 
+Totteridge & Whetstone, 
+N20",N20,2.0
+91,550000.0,"1201 High Road, 
+Totteridge & Whetstone, 
+N20",N20,2.0
+92,137500.0,"1201 High Road, 
+Totteridge & Whetstone, 
+N20",N20,2.0
+94,141250.0,"1201 High Road, 
+Totteridge & Whetstone, 
+N20",N20,2.0
+95,143750.0,"1201 High Road, 
+Totteridge & Whetstone, 
+N20",N20,2.0
+97,7950000.0,"Winnington Road, London, N2",N2,6.0
+99,500000.0,"Cecil Road, Colindale, NW9",NW9,3.0
+101,925000.0,"Mill Hill,London, NW7,NW7",NW7,4.0
+102,325000.0,"11 Boulevard Drive, London, NW9",NW9,1.0
+104,850000.0,"Stoneyfields Gardens, Edgware, HA8",HA8,4.0
+105,400000.0,"Elysium Court, 57 Bells Hill, Barnet, EN5",EN5,2.0
+111,700000.0,"Linden Road, New Southgate, N11",N11,3.0
+113,635000.0,"Cotswold Gardens, London, NW2",NW2,3.0
+114,900000.0,"Park Road, New Barnet, EN4",EN4,5.0
+117,399950.0,"Raffles House, Brampton Grove, Hendon NW4 4BX",NW4,2.0
+118,975000.0,"Edgwarebury Lane, Edgware, HA8",HA8,4.0
+121,325000.0,"Greenway Close, Friern Barnet N11",N11,2.0
+126,425000.0,"Holders Hill Road, Mill Hill, London, NW7 ",NW7,2.0
+128,1050000.0,"Queens Gardens, London NW4",NW4,4.0
+130,475000.0,"Greenacres,Finchley,N3",N3,2.0
+131,500000.0,"82 Holden Road, N12",N12,2.0
+133,925000.0,"HOLDENHURST AVENUE,  FINCHLEY, N12 ",N12,4.0
+134,360000.0,"Finchley Road, Childs Hill, London, NW2 2HY",NW2,3.0
+135,447000.0,"Colindale Gardens, Colindale Avenue,
+London,
+NW9 5HU",NW9,1.0
+136,431000.0,"Colindale Gardens, Colindale Avenue,
+London,
+NW9 5HU",NW9,1.0
+137,426000.0,"Colindale Gardens, Colindale Avenue,
+London,
+NW9 5HU",NW9,1.0
+138,400000.0,"Long Lane, Finchley, London, N3 ",N3,2.0
+139,800000.0,"Queens Avenue, Finchley, London, N3 ",N3,3.0
+140,300000.0,"Coxshall Lodge, 33 Parkhurst Road, London, N11",N11,1.0
+141,525000.0,"Woodberry Gardens, Finchley, London, Uk, N12",N12,2.0
+142,430000.0,"32 Station Road, Barnet, EN5",EN5,2.0
+143,300000.0,"Nevis Court, 1Loch Crescent HA8 8FE",HA8,1.0
+145,750000.0,"Sylvester Road, N2",N2,3.0
+146,525000.0,"Woodberry Gardens, North Finchley, London, N12",N12,2.0
+149,920000.0,"Mount Pleasant, Cockfosters, EN4",EN4,4.0
+150,350000.0,"Woodlands Avenue, Finchley, London, N3 ",N3,1.0
+151,650000.0,"Sedgemere Avenue, East Finchley, London, N2",N2,3.0
+152,500000.0,"Finchley Road, Child's Hill, London, NW2",NW2,2.0
+153,500000.0,"Long Lane, Finchley, N3",N3,2.0
+154,335000.0,"Stanhope Court, East End Road, Finchley, N3",N3,1.0
+155,450000.0,"Hendon Way, Hendon, NW4",NW4,3.0
+156,765000.0,"Ashbourne Avenue, London, NW11",NW11,3.0
+157,825000.0,"Monks Avenue, Barnet, North London, EN5",EN5,4.0
+158,450000.0,"Station Road, Falcon Court, Barnet EN5 1YZ",EN5,2.0
+162,347500.0,"Temple Avenue, London, N20",N20,1.0
+164,675000.0,"Ibsley Way, Cockfosters, Barnet, EN4",EN4,3.0
+168,675000.0,"Alverstone Avenue, East Barnet, EN4",EN4,3.0
+169,779000.0,"Great North Way, Hendon, NW4",NW4,3.0
+170,569000.0,"Bittacy Hill,
+London,
+NW7 1BS",NW7,2.0
+171,500000.0,"Elderberry Court, 2a Alberton Gardens, London, NW11",NW11,2.0
+172,725000.0,"Marsh Lane, Mill Hill, London, NW7",NW7,3.0
+176,299950.0,"Poplar Grove, London, N11",N11,2.0
+177,715000.0,"Holly Park Road, London, N11",N11,3.0
+178,525000.0,"Woodberry Gardens, North Finchley, London, N12",N12,2.0
+179,525000.0,"Whetstone,London,N20",N20,2.0
+180,725000.0,"Hale Grove Gardens, Mill Hill, London, NW7",NW7,4.0
+181,599950.0,"Cromer Road, New Barnet, Barnet, EN5",EN5,5.0
+182,310000.0,"Ashley Court, Somerset Road, New Barnet, EN5",EN5,1.0
+183,670000.0,"Sedgemere Avenue, London, N2",N2,3.0
+184,300000.0,"11 Charcot Road, Colindale, NW9",NW9,2.0
+185,1250000.0,"Talbot Avenue, East Finchley, London, N2",N2,4.0
+187,500000.0,"Millway, Mill Hill, London, NW7",NW7,2.0
+192,750000.0,"Stoneyfields Lane, Edgware, Middlesex, HA8",HA8,4.0
+193,920000.0,"Elmfield Road, N2",N2,4.0
+194,755000.0,"Lankaster Gardens, N2",N2,3.0
+195,625000.0,"Amiot House, Colindale, London, NW9",NW9,3.0
+196,625000.0,"Darlands Drive, Barnet, Hertfordshire, EN5",EN5,3.0
+197,2475000.0,"Reynolds Close, Hampstead Garden Suburb NW11",NW11,5.0
+198,875000.0,"Pattison Road, London, NW2",NW2,2.0
+199,735000.0,"Pymmes Brook Drive, Barnet, EN4 9RU",EN4,4.0
+200,470000.0,"Gazette Court, Observer Court, NW9",NW9,2.0
+203,1195000.0,"Prospect Road, London, NW2",NW2,4.0
+204,1090000.0,"Flower Lane, Mill Hill, London, NW7",NW7,5.0
+206,1100000.0,"Royal Engineers Way
+London
+NW7 1PQ
+",NW7,2.0
+207,775000.0,"Royal Engineers Way
+London
+NW7 1PQ
+",NW7,2.0
+208,415000.0,"Royal Engineers Way
+London
+NW7 1PQ
+",NW7,1.0
+209,700000.0,"Osidge Lane, London, N14",N14,3.0
+210,535000.0,"Carleton House, 20 Boulevard Drive, London, NW9",NW9,2.0
+211,525000.0,"York House, 5 Regency Crescent, London, NW4",NW4,2.0
+212,775000.0,"Allerton Court, 1 Turnberry Close, London, NW4",NW4,3.0
+213,4250000.0,"Holders Hill Crescent, London, NW4",NW4,5.0
+214,290000.0,"Walbrook Court, Edgware, HA8",HA8,1.0
+215,525000.0,"Palmerstone Court, 2 Rosebery Place, Mill Hill, London, NW7",NW7,2.0
+216,625000.0,"Garrison Heights, 55 Henry Darlot Drive, Mill Hill, London, NW7",NW7,2.0
+217,485000.0,"Hale Grove Gardens, Mill Hill, London, NW7",NW7,3.0
+218,625000.0,"Whetstone, N20, Whetstone, London, N20",N20,2.0
+221,999900.0,"Langley Court, Raleigh Close, Hendon, NW4",NW4,3.0
+223,755000.0,"Lankaster Gardens, London, N2",N2,3.0
+224,640000.0,"Northway House, London, N20",N20,2.0
+225,401000.0,"Colindale Gardens, Colindale Avenue,
+London,
+NW9 5HU",NW9,1.0
+226,385000.0,"St Pancras Court, East Finchley, N2",N2,2.0
+227,535000.0,"Woodfield Avenue, Colindale, NW9",NW9,3.0
+232,1195000.0,"Hill Rise, Hampstead Garden Suburb, NW11",NW11,4.0
+233,425000.0,"Barnet Road, Arkley, EN5",EN5,1.0
+235,550000.0,"Corringham Court, NW11",NW11,2.0
+237,565000.0,"WOODSTOCK ROAD, LONDON, NW11",NW11,3.0
+238,315000.0,"Conrad Court, Needleman Close, NW9",NW9,1.0
+241,400000.0,"Lancaster Road, Barnet, Hertfordshire, EN4",EN4,2.0
+243,399950.0,"Eaton Court, 126 Edgware Way, Edgware, HA8",HA8,2.0
+244,425000.0,"Waterlow Court, Heath Close, London, NW11",NW11,1.0
+245,475000.0,"Holden Road, North Finchley, N12",N12,2.0
+246,550000.0,"3 BEDROOM SEMI WITH POTENTIAL! Sampson Ave, Barnet EN5",EN5,4.0
+252,350000.0,"Squires Lane, Finchley, N3",N3,1.0
+253,625000.0,"Gladstone House, Quayle Crescent, Whetstone, N20",N20,2.0
+254,379950.0,"Malcolm Crescent, London NW4",NW4,2.0
+257,400000.0,"Ballards Lane, Finchley, London, N3",N3,2.0
+259,525000.0,"York House,Holders Hill Road,NW4",NW4,2.0
+260,375000.0,"Park Road, New Barnet, Herts, EN4",EN4,2.0
+261,295000.0,"Greenway Close, Friern Barnet, N11",N11,1.0
+263,600000.0,"Russell Lane, London, N20",N20,3.0
+265,450000.0,"Brunswick Park,London, N11,N11",N11,3.0
+267,4250000.0,"Holders Hill Crescent, London, NW4",NW4,5.0
+268,409950.0,"Russell Lane, Whetstone, London, N20",N20,2.0
+270,369995.0,"Charlton Lodge, NW11",NW11,1.0
+271,650000.0,"Lacey Drive, Edgware Green, HA8",HA8,4.0
+272,1000000.0,"Hillcourt Avenue, North Finchley, London, N12",N12,4.0
+274,350000.0,"Vernon Crescent, East Barnet, EN4",EN4,2.0
+275,700000.0,"The Ridgeway,
+Mill Hill,
+London,
+NW7 1AA",NW7,2.0
+276,535000.0,"Beaufort Park, Collindale, London, London, UK, NW9",NW9,2.0
+277,275000.0,"High Road, East Finchley, N2",N2,1.0
+278,615000.0,"Henry Darlot Drive, Mill Hill, London, NW7 ",NW7,2.0
+279,775000.0,"Turnberry Close, London NW4",NW4,3.0
+281,1200000.0,"Ravensdale Avenue, North Finchley, London, N12",N12,5.0
+282,525000.0,"Pocklington Close, Colindale, NW9",NW9,3.0
+284,799950.0,"Princess Park Manor, Royal Drive, London, N11",N11,3.0
+285,615000.0,"Garrison Heights, 55 Henry Darlot Drive, Mill Hill, London, NW7",NW7,2.0
+286,365000.0,"St. Marks Close, New Barnet, Hertfordshire, EN5",EN5,2.0
+287,585000.0,"Meadowlark House
+Moorhen Drive off Perryfield Way
+London
+NW9 7DL",NW9,3.0
+288,389000.0,"Meadowlark House
+Moorhen Drive off Perryfield Way
+London
+NW9 7DL",NW9,1.0
+289,400000.0,"Queensborough Court, North Circular Road, Finchley, London, N3",N3,3.0
+290,520000.0,"Sylvan Avenue, Mill Hill, NW7",NW7,2.0
+291,535000.0,"Regent Court, 190 Ballards Lane, Finchley, London, N3",N3,3.0
+292,460000.0,"Mays Lane, Barnet, EN5",EN5,3.0
+293,950000.0,"Sefton Avenue, Mill Hill, London, NW7",NW7,5.0
+295,450000.0,"Victoria Road, New Barnet, EN4",EN4,3.0
+298,625000.0,"Orchard Avenue, Finchley, N3",N3,2.0
+299,350000.0,"Colman Court, Christchurch Avenue, North Finchley, London, N12",N12,2.0
+301,775000.0,"Friars Walk, London, N14",N14,3.0
+302,235000.0,"Crawford Court, 7 Charcot Road, London, NW9",NW9,1.0
+303,825000.0,"Audley Road, Hendon, NW4",NW4,5.0
+306,825000.0,"Audley Road, London NW4",NW4,5.0
+307,2195000.0,"Thornton Way,Hampstead Garden Suburb,NW11",NW11,3.0
+308,375000.0,"Birnbeck Court Finchley Road, NW11",NW11,2.0
+309,365000.0,"Carvell House, 22 Aerodrome Road, London, NW9",NW9,1.0
+310,645000.0,"Albert Road, London, NW4",NW4,3.0
+311,550000.0,"Layfield Road, London, NW4",NW4,3.0
+312,750000.0,"Pembroke Road, Muswell Hill, London, N10",N10,3.0
+313,550000.0,"Well Approach, Barnet, Hertfordshire, EN5",EN5,3.0
+314,385000.0,"Old Farm Road, East Finchley, London, N2",N2,3.0
+315,725000.0,"Minerva Way, Barnet, Hertfordshire, EN5",EN5,4.0
+316,669500.0,"Woodhouse Road, Finchley, N12",N12,4.0
+317,825000.0,"Audley Road, London, NW4 ",NW4,5.0
+318,379950.0,"Featherstone Court, Bunns Lane, London, NW7",NW7,2.0
+320,580000.0,"Princess Park Manor, Royal Drive, Friern Barnet, London, N11",N11,3.0
+322,425000.0,"Collison Avenue, Barnet, Hertfordshire, EN5",EN5,1.0
+324,470000.0,"98c Brunswick Park Road, New Southgate, London, N11",N11,2.0
+326,1150000.0,"Lyndhurst Gardens, Finchley, N3",N3,4.0
+327,875000.0,"Endersleigh Gardens, London NW4",NW4,7.0
+328,799950.0,"South Square, Hampstead Garden Suburb, NW11",NW11,3.0
+329,210000.0,"Finchley Lodge, Gainsborough Road, London, N12",N12,0.0
+330,400000.0,"Thonrey Close, London, NW9",NW9,1.0
+331,999000.0,"Sweets Way,
+London,
+N20 0NU",N20,4.0
+332,430000.0,"Whetstone,London N20,N20",N20,2.0
+334,475000.0,"Charles Sevright Way, Mill Hill, London, NW7 ",NW7,2.0
+335,345000.0,"Finchley Road, London, NW11",NW11,2.0
+336,450000.0,"Warwick Court, Ossulton Way, Hampstead Garden Suburb N2",N2,2.0
+337,370000.0,"21 Station Road, Barnet, Herts EN5 1PL",EN5,2.0
+338,700000.0,"Glendale Avenue, Edgware, HA8",HA8,3.0
+339,350000.0,"Vincent Court, Bell Lane, Hendon, London NW4",NW4,1.0
+342,435000.0,"Harvey Close, London, Uk, NW9",NW9,2.0
+345,500000.0,"The Towers, Parson Street, London, NW4",NW4,2.0
+346,165000.0,"Friern Park, London, Uk, N12",N12,1.0
+347,690000.0,"Royal Drive, Friern Barnet, London, N11",N11,3.0
+348,580000.0,"Robin Lane,Hendon,NW4",NW4,3.0
+349,2500000.0,"High Street,Mill Hill Village NW7,NW7",NW7,7.0
+350,850000.0,"Lightworks Apartments, 1B Devonshire Place, Childs HIll, London, NW2",NW2,2.0
+351,525000.0,"Willowbay Close, Barnet, EN5",EN5,3.0
+352,300000.0,"Russell Court, Station Approach, New Barnet, EN5",EN5,2.0
+356,250000.0,"Grove House,Finchley,N3",N3,1.0
+357,775000.0,"Allerton Court, 1 Turnberry Close, Hendon, NW4",NW4,3.0
+358,560000.0,"Vicarage Court, 38-40 Holden Road, Woodside Park, N12",N12,2.0
+359,375000.0,"Meadway, Hampstead Garden Suburb, NW11",NW11,1.0
+360,2700000.0,"West Heath Road, Hampstead NW3",NW3,3.0
+363,399950.0,"Richmond Road, New Barnet, EN5",EN5,2.0
+366,360000.0,"Marlborough Close, Whetstone, London, N20",N20,2.0
+367,4850000.0,Westover Hill Hampstead NW3,NW3,5.0
+369,500000.0,"Parson Street, Hendon, London, NW4",NW4,2.0
+370,295000.0,"Solomons Court, N12, Finchley, London, N12",N12,1.0
+371,375000.0,"Tapster Street, High Barnet, Barnet, EN5",EN5,1.0
+372,600000.0,"Mays Lane, Barnet, EN5",EN5,4.0
+374,735000.0,"Calvert Road, Barnet, EN5",EN5,3.0
+380,750000.0,"Pembroke Road, Muswell Hill, London, Greater London, N10",N10,3.0
+381,435000.0,"Lyons Court, Eversleigh Road, Barnet, Hertfordshire, EN5",EN5,2.0
+384,349995.0,"Conifer Court, Great North Way, Hendon, NW4",NW4,2.0
+385,650000.0,"Edgware,Middlesex,HA8",HA8,4.0
+386,525000.0,"Oakleigh Road North, Whetstone, N20",N20,3.0
+389,375000.0,"16 Royal Engineers Way, Mill Hill, NW7",NW7,1.0
+392,575000.0,"Church Lane,East Finchley,N2",N2,2.0
+393,750000.0,"Crescent Road, Barnet, North London, EN4",EN4,3.0
+394,625000.0,"Sebright Road, Barnet, Hertfordshire, EN5",EN5,3.0
+395,550000.0,"Chilton Road, Edgware, HA8",HA8,3.0
+396,400000.0,"Whetstone,High Road, London, N20,N20",N20,1.0
+399,428995.0,"Ashley Court, Great North Way, Hendon, NW4",NW4,3.0
+400,600000.0,"Hale Grove Gardens, Mill Hill, London, NW7 ",NW7,3.0
+401,600000.0,"Cyprus Road,Finchley,N3",N3,2.0
+408,475000.0,"Flat 55, Hallington Court, 6 Brannigan Way, Edgware, HA8",HA8,2.0
+409,1100000.0,"Huntingdon Road, East Finchley, N2",N2,4.0
+410,319950.0,"East Barnet Road, New Barnet, EN4",EN4,1.0
+411,1435000.0,"Collingham House, Hammers Lane, Mill Hill, Londn, NW7",NW7,3.0
+412,255000.0,"Oak House, Cricklewood Lane, London, NW2",NW2,2.0
+413,450000.0,"Edinburgh House, Tenterden Grove, London, NW4",NW4,2.0
+414,459950.0,"Downhurst Court, 49 Parson Street, London, NW4",NW4,2.0
+415,575000.0,"Brunswick Park Road, Brunswick Park, N11",N11,3.0
+416,310000.0,"Boulevard Drive, Colindale, London, NW9",NW9,1.0
+417,900000.0,"Regis Place, 10 Llanvanor Road, London, NW2",NW2,2.0
+419,435000.0,"Biggs Court, 1 Harvey Close, NW9",NW9,2.0
+421,2850000.0,"North Square, Hampstead Garden Suburb, NW11",NW11,6.0
+422,300000.0,"High Road, East Finchley, London, N2",N2,1.0
+423,890000.0,"Heddon Court Avenue, Cockfosters, EN4",EN4,3.0
+424,495000.0,"Russell Court, Station Approach, New Barnet, EN5",EN5,3.0
+425,350000.0,"Daws Lane, Mill Hill, London, NW7 ",NW7,2.0
+426,600000.0,"Titan Court, 1 Flower Lane, London, NW7",NW7,2.0
+427,360000.0,"Grenville Place, Mill Hill, London, NW7 ",NW7,0.0
+429,785000.0,"Willifield Way, NW11",NW11,2.0
+430,550000.0,"Montgomery Court, 66 Mountfield Road, Finchley, London, N3",N3,2.0
+431,525000.0,"Pembroke Road, Muswell Hill, London, N10",N10,2.0
+433,375000.0,"83a Highfield Avenue, Brent Cross, NW11",NW11,1.0
+435,375000.0,"Garden City, Edgware, HA8",HA8,3.0
+436,419950.0,"Sunny Hill Court, Sunningfields Crescent, London NW4",NW4,3.0
+437,459950.0,"Cumberland Gardens, Hendon, NW4",NW4,2.0
+439,425000.0,"Leicester Road, New Barnet, EN5",EN5,2.0
+441,325000.0,"North Gates, High Road, North Finchley, N12",N12,2.0
+442,475000.0,"Denison Close, East Finchley, N2",N2,2.0
+443,395000.0,"New Ash Close, East Finchley, N2",N2,2.0
+444,305000.0,"27 Heritage Avenue, London, NW9",NW9,1.0
+445,435000.0,"Gills Court, Somerset Road, New Barnet, EN5",EN5,2.0
+446,1395000.0,"THE VALE, LONDON, NW11",NW11,4.0
+447,800000.0,"Cornwall Avenue, Finchley, N3",N3,4.0
+448,390000.0,"East End Road, East Finchley, N2",N2,2.0
+449,450000.0,"Tenterden Grove, London NW4",NW4,2.0
+450,350000.0,"Amroth Green, Fryent Grove, NW9",NW9,1.0
+451,575000.0,"Wendover Court, NW2",NW2,3.0
+454,890000.0,"Heddon Court Avenue, Cockfosters, EN4",EN4,3.0
+455,1100000.0,"Bedford Avenue, Barnet, London, EN5",EN5,5.0
+456,750000.0,"Grants Close, Mill Hill, NW7",NW7,4.0
+457,375000.0,"High Road, London, N20",N20,3.0
+458,549500.0,"Woodville Road, Barnet, Hertfordshire, EN5",EN5,2.0
+459,600000.0,"Manor Park Road, East Finchley, London, N2 ",N2,3.0
+461,415000.0,"WINDSOR COURT, GOLDERS GREEN ROAD, LONDON, NW11",NW11,1.0
+462,995000.0,"The Claves, Millbrook Park, Mill Hill, London, NW7",NW7,2.0
+465,729950.0,"Arlington Road, Southgate, N14",N14,3.0
+466,780000.0,"Coverdale Road, Friern Barnet, London, N11",N11,6.0
+468,572000.0,"Bittacy Hill,
+London,
+NW7 1BS",NW7,2.0
+469,525000.0,"Echo Court, Telegraph Avenue, NW9",NW9,3.0
+471,470000.0,"Gazette Court, Observer Court, NW9",NW9,2.0
+472,1400000.0,"Talbot Avenue, N2",N2,4.0
+474,375000.0,Plantagenet Road New Barnet EN5,EN5,1.0
+475,350000.0,"Amroth Green, Fryent Grove, NW9",NW9,1.0
+476,895000.0,"Alexandra Grove, North Finchley, N12",N12,4.0
+477,350000.0,"17 Boulevard Drive, Colindale, NW9",NW9,2.0
+479,5800000.0,"Linnell Drive, Hampstead Garden Suburb NW11",NW11,6.0
+488,280000.0,"High Street, High Barnet, EN5",EN5,1.0
+489,275000.0,"East Barnet Road, Barnet, Hertfordshire, EN4",EN4,1.0
+490,950000.0,"Toye Avenue, Whetstone, N20",N20,4.0
+492,800000.0,"BOYNE AVENUE, LONDON, NW4",NW4,5.0
+494,625000.0,"Princess Park Manor, Friern Barnet, London, N11",N11,2.0
+496,325000.0,"Brent View Road, NW9",NW9,1.0
+497,800000.0,"Chesterfield Road, Finchley, N3",N3,3.0
+499,305000.0,"Croft House, 21 Heritage Avenue, Beaufort Park , London, NW9",NW9,1.0
+501,425000.0,"Northway House, Acton Walk, Whetstone, N20",N20,1.0
+502,400000.0,"Blackdown Close,East Finchley,N2",N2,2.0
+504,375000.0,"Croft House, 21 Heritage Avenue, Beaufort Park, London, NW9",NW9,2.0
+505,965000.0,"Featherstone Road, Mill Hill, London, NW7",NW7,3.0
+506,780000.0,"Green Lane, Edgware, HA8",HA8,4.0
+507,595000.0,"Chesterfield Road, Barnet, EN5",EN5,4.0
+510,439950.0,"100 Kingsway, Finchley, N12",N12,2.0
+511,575000.0,"Finchley Road, NW11",NW11,2.0
+514,325000.0,Britten Close Golders Green NW11,NW11,1.0
+516,1150000.0,"The Vale, London, NW11",NW11,4.0
+517,300000.0,"Bloomsbury Close, Mill Hill, London, NW7",NW7,1.0
+518,395000.0,"The Croft, High Barnet, Hertfordshire, EN5",EN5,2.0
+519,275000.0,"Scottwell Drive, Colindale, London, NW9",NW9,1.0
+520,750000.0,"Hatherleigh Close, Mill Hill, London, NW7",NW7,3.0
+524,675000.0,"Southfields, London, NW4",NW4,3.0
+525,401000.0,"Colindale Gardens, Colindale Avenue,
+London,
+NW9 5HU",NW9,1.0
+528,5000000.0,"Beech Hill, Hadley Wood, London, EN4",EN4,6.0
+529,459950.0,"Lichfield Road, London, NW2",NW2,2.0
+530,630000.0,"Brunswick Park Gardens, London, N11",N11,5.0
+531,625000.0,"Magnolia Gardens, Edgware, HA8",HA8,4.0
+534,230000.0,"Curtiss House, 27 Heritage Avenue, Beaufort Park, London, NW9",NW9,1.0
+535,700000.0,"Pembroke Road, Muswell Hill, London, N10",N10,3.0
+538,424999.0,"Derby Lodge, East End Road, London, N3 3QG",N3,2.0
+539,299250.0,"Park Road, New Barnet, EN4",EN4,1.0
+540,399950.0,Sutton Road N10,N10,1.0
+541,685000.0,"Raleigh Drive, Oakleigh, N20",N20,4.0
+542,399950.0,"Tennyson Road, Mill Hill, NW7",NW7,2.0
+543,425000.0,"Union Street, High Barnet, Herts, EN5",EN5,2.0
+545,375000.0,"Windsor Road, Barnet, EN5",EN5,2.0
+546,575000.0,"Twinn Building, Regiment Hill, Mill Hill East, London, NW7",NW7,2.0
+547,275000.0,"Torrington Park, North Finchley, N12",N12,2.0
+548,825000.0,"Hale Drive, Mill Hill, London, NW7",NW7,4.0
+549,1075000.0,"Edgeworth Crescent, London NW4",NW4,4.0
+551,595000.0,"Moss Hall Grove, North Finchley, N12",N12,3.0
+553,665000.0,"Montagu Road, London NW4",NW4,3.0
+555,1100000.0,"Denman Drive South, Hampstead Garden Suburb, NW11",NW11,3.0
+556,390000.0,"Garden House, The Grange, London, N2",N2,3.0
+558,550000.0,"Brent View Road, London, NW9",NW9,4.0
+559,899950.0,"Long Lane, East Finchley, London, N2",N2,3.0
+560,425000.0,"Wallace, Clayton Field, London, Uk, NW9",NW9,3.0
+561,315000.0,"Darwin Close, London, N11",N11,2.0
+564,895000.0,"Fairview Way, Edgware, HA8",HA8,4.0
+565,450000.0,"Creighton Avenue, East Finchley, London, N2",N2,1.0
+566,279950.0,"Booth Road, Colindale, London, NW9",NW9,1.0
+567,450000.0,"Denison Close, East Finchley, London, N2",N2,2.0
+568,325000.0,"Greenway Close, London N11",N11,2.0
+569,440000.0,"Station Road,Hendon,NW4",NW4,2.0
+570,525000.0,"County Gate, Barnet, Herts, EN5 ",EN5,3.0
+574,249999.0,"Potters Road, New Barnet, EN5",EN5,1.0
+575,310000.0,"Verulam Court, Woolmead Avenue, London NW9",NW9,1.0
+576,450000.0,"Warwick Court, Ossulton Way, East Finchley, London, N2",N2,2.0
+579,450000.0,"Salento Close, Finchley, London, N3 ",N3,2.0
+582,650000.0,"Squires Lane, Finchley, N3",N3,3.0
+584,560000.0,"Moorhen Drive, Hendon, London, NW9",NW9,2.0
+586,495000.0,"Denison Close, East Finchley, London, N2 ",N2,2.0
+587,795000.0,"Long Lane, East Finchley, London, N2 ",N2,2.0
+589,500000.0,"Brookmead Court, Totteridge Lane, Totteridge, N20",N20,3.0
+590,450000.0,"Albert Road, Mill Hill, London, NW7 ",NW7,2.0
+591,375000.0,"Oakleigh Road North, London, N20",N20,2.0
+593,360000.0,"Elm Park Road, Finchley Central, N3",N3,1.0
+596,395000.0,"King Street Mews, East Finchley, London, N2 ",N2,1.0
+597,385000.0,"King Street Mews, East Finchley, London, N2 ",N2,1.0
+598,550000.0,"Coleridge Road, Finchley, N12",N12,2.0
+599,459950.0,"Arctic House, 3 Heritage Avenue, London, NW9",NW9,2.0
+600,300000.0,"Montrose Court, The Hyde, NW9",NW9,2.0
+602,400000.0,"Talgarth Walk, London, NW9",NW9,2.0
+603,360000.0,"Mosswell House, Colney Hatch Lane, London, N10",N10,3.0
+604,599000.0,"Ballards Lane, Finchley, N3",N3,2.0
+609,575000.0,"Fortune Avenue, Edgware, HA8",HA8,4.0
+610,379950.0,"Goldhawk House, 10 Beaufort Square, London, NW9",NW9,1.0
+611,1200000.0,"Laurel Way, London N20 8HR",N20,4.0
+612,425000.0,"Grosvenor Road, Finchley, N3",N3,2.0
+616,400000.0,"Hutton Grove, North Finchley, N12",N12,2.0
+617,275000.0,"Strode Close, Muswell Hill, London, N10",N10,1.0
+618,569999.0,"St Wilfrids Road, New Barnet, EN4",EN4,3.0
+619,569999.0,"St. Wilfrids Road, Barnet, North London, EN4",EN4,3.0
+621,300000.0,"Courier Court, 2 Guardian Avenue, London, NW9",NW9,1.0
+622,497000.0,"Orchard Mead House, 733 Finchley Road, London, NW11 8DJ",NW11,2.0
+623,550000.0,"1 Moorhen Drive, West Hendon, NW9",NW9,2.0
+624,625000.0,"Avondale Road, Finchley, N3 2ES",N3,3.0
+627,865000.0,"The Croft, High Barnet, Hertfordshire, EN5",EN5,4.0
+628,950000.0,"Sevington Road, London NW4",NW4,4.0
+629,775000.0,"Old Fold View, Barnet, EN5",EN5,3.0
+630,350000.0,"Coleswood, Simmons Close, Whetstone, London, N20",N20,2.0
+632,349950.0,"Wheatley Close, London NW4",NW4,2.0
+635,350000.0,"Highfield Court, King Edward Road, New Barnet, EN5",EN5,2.0
+637,375000.0,"Saffron Court, Cockfosters,Cockfosters,EN4",EN4,1.0
+639,1765000.0,"Carmel Gate, Temple Fortune, NW11",NW11,3.0
+640,580000.0,"Sherrards Way, Barnet, EN5",EN5,3.0
+641,165000.0,"Church Road, London NW4",NW4,1.0
+642,869950.0,"Hamilton Road, London, NW11",NW11,6.0
+643,699950.0,"Oakleigh Road North, London, N20",N20,4.0
+645,400000.0,"Beaumont Court, Cherry Close, London, Uk, NW9",NW9,3.0
+646,1250000.0,"Ossulton Way, Hampstead Garden Suburb, N2 ",N2,4.0
+647,825000.0,"Beaufort Park,
+Aerodrome Road,
+London,
+NW9 5GW",NW9,3.0
+650,375000.0,"Tapster Street, High Barnet, Barnet, EN5",EN5,1.0
+652,400000.0,"High Barnet,Hertfordshire,EN5",EN5,2.0
+654,275000.0,"Alwyn Gardens, London NW4",NW4,1.0
+655,415000.0,"Highpoint, Lyonsdown Road, New Barnet, EN5",EN5,2.0
+657,1295000.0,"Ridge Hill, NW11",NW11,6.0
+659,555000.0,"Wessex Gardens, London, NW11",NW11,2.0
+660,375000.0,"Squires Lane, N3",N3,1.0
+661,899500.0,"Finchley,London,N3",N3,4.0
+662,700000.0,"Mowbray Road, Barnet, London, EN5",EN5,4.0
+663,550000.0,"Beaufort Park,
+Aerodrome Road,
+London,
+NW9 5GW",NW9,2.0
+664,1500000.0,"Oaklands Lane, Arkley, EN5",EN5,2.0
+665,1550000.0,"Langton Avenue, Whetstone, N20",N20,4.0
+666,375000.0,"21 Station Road, Barnet, EN5",EN5,2.0
+667,450000.0,"2 Brannigan Way, Edgware, HA8",HA8,2.0
+672,625000.0,"Wolmer Gardens, Edgware, HA8",HA8,3.0
+673,399950.0,"Harvil Court, London, NW9",NW9,2.0
+674,629950.0,"97 Finchley Lane, London, NW4",NW4,2.0
+675,565000.0,"WOODSTOCK ROAD, LONDON, NW11",NW11,3.0
+676,495000.0,"Hermitage Lane, London, NW2 2HB",NW2,3.0
+677,975000.0,"Lincoln Road, East Finchley, N2",N2,3.0
+680,625000.0,"High Road, London, N12",N12,3.0
+683,340000.0,"Stanton Court, Princes Avenue, Finchley, London, N3",N3,1.0
+684,650000.0,"Southfields, London NW4",NW4,3.0
+685,499950.0,"Sunnyside, London, NW2 2QP",NW2,2.0
+686,500000.0,"Moorhen Drive, Hendon, London, NW9",NW9,2.0
+687,560000.0,"East Drive, Colindale, London, NW9",NW9,2.0
+688,1250000.0,"Richmond Road, New Barnet, Barnet, EN5",EN5,4.0
+691,375000.0,"Golders Green Road, London, NW11",NW11,1.0
+692,435000.0,"Brownlow Road, Finchley, London, N3",N3,2.0
+693,475000.0,"Rosemont Avenue, North Finchley, London, N12",N12,3.0
+694,630000.0,"Tudor Road, New Barnet, EN5",EN5,3.0
+695,605000.0,"Bournegate Court, Ebony Crescent, Cockfosters, EN4",EN4,3.0
+696,399000.0,"Eversleigh Court, Eversleigh Road, Finchley, N3",N3,3.0
+697,490000.0,"Beaufort Park, London, NW11",NW11,3.0
+699,450000.0,"Wavertree Court, 66B The Broadway, London, NW7",NW7,2.0
+703,275000.0,"Parkwood Flats,Oakleigh Road North, London, N20,N20",N20,1.0
+704,390000.0,"Griffin Lodge,Woodside Avenue,N12",N12,2.0
+705,380000.0,"Longberrys, Cricklewood Lane, London, NW2",NW2,2.0
+706,650000.0,"Longfield Avenue, Mill Hill, London, NW7",NW7,3.0
+709,465000.0,"Ashurst Road, Friern Barnett, N12",N12,2.0
+710,680000.0,"Ebony Crescent, Cockfosters, EN4",EN4,4.0
+711,350000.0,"Amroth Green, Fryent Grove, NW9",NW9,1.0
+714,445000.0,"Prospect Road, Barnet, EN5 5AD",EN5,2.0
+715,769950.0,Alverstone Avenue East Barnet EN4,EN4,4.0
+716,200000.0,"Aeroville, Colindale, NW8",NW8,1.0
+717,400000.0,"Nevis Court, 1 Loch Crescent, Edgware, HA8",HA8,2.0
+719,450000.0,"Woodfield Avenue, NW9",NW9,3.0
+720,899950.0,"First Avenue, Hendon, London NW4 ",NW4,5.0
+721,401000.0,"Colindale Gardens, Colindale Avenue,
+London,
+NW9 5HU",NW9,1.0
+722,399000.0,"DARTMOUTH ROAD, LONDON, NW4",NW4,2.0
+723,399950.0,"Raffles House, 67 Brampton Grove, London, NW4",NW4,2.0
+724,460000.0,"4 Peacock Close, Mill Hill, NW7",NW7,2.0
+726,350000.0,"11 Argyle Road, London, N12",N12,2.0
+727,899950.0,"First Avenue, London, NW4",NW4,5.0
+728,500000.0,"High Road, North Finchley, London, N12",N12,2.0
+729,320000.0,"Boulevard Drive, Colindale, London, NW9",NW9,1.0
+730,325000.0,"Bloomsbury Close, Mill Hill, London, NW7",NW7,1.0
+732,265000.0,"DARTMOUTH ROAD, LONDON, NW4",NW4,1.0
+733,779950.0,"Cat Hill, Barnet, Hertfordshire, EN4",EN4,5.0
+735,600000.0,"Cockfosters Road, Cockfosters, EN4",EN4,3.0
+737,779950.0,"Cat Hill, East Barnet, EN4",EN4,5.0
+738,325000.0,"Friern Barnet Road, London, N11",N11,1.0
+739,290000.0,"Burnham Court, Brent Street, London, NW4",NW4,1.0
+741,499999.0,"Cumberland Gardens, Holders Hill Road, London, NW4",NW4,3.0
+742,300000.0,"Woodstock Avenue, London, NW11",NW11,1.0
+743,695000.0,"Crewys Road, Childs Hill, London, NW2 2AA",NW2,3.0
+745,415000.0,"Algernon Road, London NW4",NW4,2.0
+747,285000.0,"Heritage Avenue, Colindale, London, NW9",NW9,0.0
+748,985000.0,"Knightwood Court,Barnet,EN4",EN4,2.0
+749,300000.0,"Colliford Court, 26 Farnsworth Drive, Edgware, HA8",HA8,1.0
+750,375000.0,"Tapster Street, High Barnet, Barnet, EN5",EN5,1.0
+751,390000.0,"Vanderville Gardens, East Finchley, London, N2",N2,2.0
+753,629000.0,"Niton Close, Barnet, Hertfordshire, EN5",EN5,4.0
+755,785000.0,"North End Road, London, NW11",NW11,4.0
+756,1495000.0,"Hutchings Walk, Hampstead Garden Suburb, NW11",NW11,3.0
+757,425000.0,"Park Lodge, Friern Park, London, N12",N12,2.0
+758,765000.0,"Pymmes Green Road, London, N11",N11,4.0
+759,365000.0,"High Road, East Finchley, London, N2",N2,2.0
+760,310000.0,"Victoria Road, New Barnet, EN4",EN4,2.0
+761,250000.0,"Hendon Way, London, London, NW2 2LY",NW2,1.0
+762,650000.0,"Gallants Farm Road, East Barnet, Barnet, Hertfordshire, EN4",EN4,3.0
+764,399950.0,"Beaconsfield Road, London, N11",N11,3.0
+765,425000.0,"Beaconsfield Road, London, N11",N11,2.0
+767,400000.0,"Layfield Road, Hendon, NW4",NW4,3.0
+771,790000.0,"Birkbeck Road, North Finchley, N12",N12,4.0
+772,325000.0,"19 Moorhen Drive, Hendon, NW9",NW9,1.0
+773,335000.0,"Prince of Wales Close,Hendon,NW4",NW4,2.0
+774,450000.0,"Denehurst Gardens, NW4",NW4,2.0
+775,900000.0,"The Barnabas, Holden Road, London, N12",N12,3.0
+776,399999.0,"Brittany Court, 16A Plantagenet Road, New Barnet, Hertfordshire, EN5",EN5,2.0
+778,375000.0,"Welbeck Road, East Barnet, EN4",EN4,2.0
+781,800000.0,"Chanctonbury Way, Woodside Park, N12",N12,3.0
+782,925000.0,"Holdenhurst Avenue, Finchley, N12",N12,4.0
+784,439950.0,"Graham Road, Hendon, NW4",NW4,2.0
+785,375000.0,"The Brookdales, Bridge Lane, London, NW11",NW11,1.0
+786,385000.0,"Burnell Building, Gerons Way, Fellows Sqaure, Cricklewood London, NW2",NW2,1.0
+788,425000.0,"Fryent Grove, NW9",NW9,2.0
+789,360000.0,"Dean Walk, HA8",HA8,2.0
+790,450000.0,"Ballards Lane, West Finchley, N3",N3,2.0
+793,420000.0,"Sycamore Close, Edgware, HA8",HA8,2.0
+794,650000.0,"Lawton Road, Barnet, EN4",EN4,4.0
+795,325000.0,"Bittacy Court, Bittacy Hill, Mill Hill East, NW7 1HY",NW7,2.0
+796,270000.0,"King Street Mews, East Finchley, London, N2 ",N2,0.0
+799,1750000.0,"Langton Avenue, Whetstone, London, N20",N20,6.0
+800,550000.0,"Torrington Grove, North Finchley, London, N12",N12,2.0
+801,800000.0,"Darlands Drive, Barnet, EN5",EN5,5.0
+802,620000.0,"Lynton Avenue, London, NW9",NW9,4.0
+804,1250000.0,"Knightwood Court,Barnet,EN4",EN4,2.0
+805,1250000.0,"Knightwood Court,Barnet,EN4",EN4,2.0
+806,400000.0,"Meadway Court, Meadway, London, NW11",NW11,1.0
+807,475000.0,"Lucan Road, Barnet, Hertfordshire, EN5",EN5,2.0
+808,380000.0,"Meadowlark House
+Moorhen Drive off Perryfield Way
+London
+NW9 7DL",NW9,1.0
+809,800000.0,"Queens Avenue, Finchley, London, N3",N3,3.0
+811,325000.0,"Victoria Road, New Barnet, EN4",EN4,2.0
+813,645000.0,"White Lodge, NW11",NW11,2.0
+815,475000.0,"Ash Tree Court, Prospect Ring, N2",N2,2.0
+816,1595000.0,"Allandale Avenue,Finchley, N3,N3",N3,5.0
+817,875000.0,"Sunny Gardens Road, Hendon, NW4",NW4,5.0
+818,479950.0,"Edinburgh House, Tenterden Grove, Hendon, London NW4 ",NW4,2.0
+819,265000.0,"Dartmouth Road, Hendon, NW4",NW4,1.0
+820,415000.0,"High Mount, Station Road, Hendon, NW4",NW4,2.0
+821,399000.0,"Dartmouth Road, Hendon, NW4",NW4,2.0
+823,745000.0,"Normandy Avenue, High Barnet, Hertfordshire, EN5",EN5,3.0
+824,390000.0,"Russell Parade, Golders Green Road, London, NW11",NW11,1.0
+828,325000.0,"Crabtree Court, Hexham Road, New Barnet, Hertfordshire, EN5",EN5,2.0
+830,385000.0,"High Road, East Finchley, London, N2",N2,2.0
+831,775000.0,"Manor Park Road, East Finchley, N2",N2,3.0
+834,499950.0,"Neeld Crescent, London NW4",NW4,2.0
+835,319950.0,"Caversham Court, 102 Brunswick Park Road, N11",N11,2.0
+836,500000.0,"Cornwall Works, N3",N3,1.0
+837,310000.0,"Verulam Court, Woolmead Avenue, London NW9",NW9,1.0
+838,825000.0,"Friern Park, North Finchley, N12",N12,3.0
+840,265000.0,"BIRNBECK COURT, FINCHLEY ROAD, TEMPLE FORTUNE, NW11 6BB, LONDON, NW11",NW11,1.0
+843,1250000.0,"Cockfosters Road, Hadley Wood, EN4",EN4,2.0
+845,390000.0,"Golders Green Road, Golders Green, London, NW11",NW11,1.0
+846,599950.0,"Lyttelton Road, Hampstead Garden Suburb, London, N2",N2,3.0
+847,565000.0,"Longmore Avenue, East Barnet, EN4",EN4,3.0
+848,355000.0,"Cat Hill, Barnet, EN4",EN4,2.0
+849,649950.0,"Alexandra Road, London, NW4",NW4,3.0
+850,485000.0,"Hale Grove Gardens, Mill Hill, London, NW7",NW7,3.0
+852,315000.0,"Martlesham Walk, NW9",NW9,2.0
+854,400000.0,"High Barnet,Barnet,EN5",EN5,2.0
+855,265000.0,"Dartmouth Road, London, NW4",NW4,1.0
+856,399950.0,"Dartmouth Road, London, NW4",NW4,2.0
+860,299950.0,"Somerset Road, New Barnet, Barnet, EN5",EN5,1.0
+862,419995.0,"Hermitage Court, Hermitage Lane, Childs Hill, London, NW2 2HA",NW2,2.0
+863,335000.0,"Glebe Road, London, N3",N3,1.0
+865,625000.0,"Sturgess Avenue, Hendon, NW4",NW4,3.0
+867,930000.0,"Fairmont Mews, Childs Hill, NW2",NW2,2.0
+869,475000.0,"Highfield Avenue, Golders Green NW11 ",NW11,2.0
+872,399950.0,"Waterlow Court, Heath Close, London, NW11",NW11,1.0
+873,1175000.0,"Baronsmere Road, N2",N2,4.0
+875,435000.0,"Vernon Crescent, EN4",EN4,2.0
+878,1065000.0,"Sweets Way,
+London,
+N20 0NU",N20,5.0
+881,850000.0,"Whitehouse Way, London, N14",N14,4.0
+882,850000.0,"Pembroke Road, Muswell Hill, London, N10",N10,4.0
+884,2895000.0,"Hodford Road, Golders Green, NW11",NW11,5.0
+885,425000.0,"Princess Park Manor,Royal Drive,N11",N11,2.0
+886,875000.0,"Holden Road, London N12 7DF",N12,4.0
+887,605000.0,"Cockfosters Herts, EN4,Cockfosters,EN4",EN4,3.0
+889,745000.0,"Bosworth Road, Barnet, EN5",EN5,3.0
+891,425000.0,"Vincent Court, Bell Lane, Hendon, NW4",NW4,2.0
+892,1100000.0,"Francklyn Gardens, Edgware, HA8",HA8,4.0
+893,565000.0,"Daneland, East Barnet, EN4",EN4,4.0
+894,315000.0,"Shakespeare Road, London, NW7",NW7,1.0
+895,450000.0,"Beaufort Park, London NW9",NW9,2.0
+897,360000.0,"Fairview Court, Linksway, NW4",NW4,2.0
+899,285000.0,"Fairfield Close, London, N12",N12,1.0
+900,705000.0,"The Ridgeway,
+Mill Hill,
+London,
+NW7 1AA",NW7,2.0
+901,520000.0,"Northway House, Acton Walk, Whetstone, N20",N20,2.0
+902,550000.0,"Finchley Road, NW11",NW11,2.0
+904,400000.0,"Golders Way, London, NW11",NW11,2.0
+905,530000.0,"HAMLET SQUARE, OFF THE VALE, LONDON, NW2",NW2,2.0
+906,700000.0,"Cheviot Gardens, London, NW2",NW2,3.0
+907,950000.0,"Meadow Drive, London NW4",NW4,5.0
+908,790000.0,"Cockfosters, Barnet, EN4",EN4,3.0
+909,1395000.0,"Grimsdyke Crescent, Arkley, Hertfordshire, EN5",EN5,5.0
+910,530000.0,"Ravenscroft Park,Barnet,EN5",EN5,2.0
+911,725000.0,"Alston Road, High Barnet, Barnet, EN5",EN5,4.0
+913,175000.0,"Hertswood Court, Barnet, EN5 4AU",EN5,1.0
+914,475000.0,"Oakleigh Road North, Whetstone, London, N20",N20,2.0
+915,830000.0,"Totteridge Green, Totteridge, London, N20",N20,2.0
+916,385000.0,"Grove House, Waverley Grove, Finchley Central, N3",N3,3.0
+917,600000.0,"AVONDALE ROAD, FINCHLEY, N3",N3,3.0
+918,375000.0,"LONG LANE, FINCHLEY, N3",N3,2.0
+919,450000.0,"Randall Court, Page Street, London, NW7",NW7,2.0
+920,565000.0,"Chamberlain Court, 1 Rosebery Place, Mill Hill, London, NW7",NW7,3.0
+921,705000.0,"The Ridgeway,
+Mill Hill,
+London,
+NW7 1AA",NW7,2.0
+922,450000.0,"Grange Avenue, North Finchley, N12",N12,2.0
+924,475000.0,"Westbury Court, Lyonsdown Road, Barnet EN5",EN5,2.0
+927,595000.0,"Kitchener Road, N2",N2,3.0
+929,4950000.0,"Crooked Usage,Finchley,N3",N3,6.0
+931,2495000.0,"West Heath Gardens, Hampstead NW3",NW3,4.0
+932,310000.0,"Warmwell Avenue, Colindale, NW9",NW9,2.0
+934,550000.0,"Swan Lane, Whetstone, London, Uk, N20",N20,3.0
+935,2000000.0,"Whetstone,London,N20",N20,5.0
+936,700000.0,"Ridgeview Road, Whetstone, N20",N20,4.0
+937,325000.0,"Brent View Road, Hendon, London, NW9",NW9,2.0
+939,499950.0,"Finchley Road, London NW11",NW11,2.0
+940,395000.0,"Crescent Road, Barnet, EN4",EN4,2.0
+944,675000.0,"Mill Hill,London NW7,NW7",NW7,4.0
+946,435000.0,"Gills Court, Somerset Road, New Barnet, EN5",EN5,2.0
+947,360000.0,"Mill Hill,London NW7,NW7",NW7,2.0
+948,940000.0,"New Trinity Road, East Finchley, N2",N2,4.0
+949,550000.0,"Northway House, Acton Walk, Whetstone, N20",N20,2.0
+951,475000.0,"Green Lane, London, NW4",NW4,2.0
+952,980000.0,"Brookside Road, NW11",NW11,5.0
+955,2195000.0,"Thornton Way, Hampstead Garden Suburb, NW11",NW11,3.0
+956,930000.0,"Fairmont Mews, London NW2",NW2,2.0
+958,150000.0,"Ferrydale Lodge, Church Road, NW4 4EW",NW4,1.0
+960,249950.0,"Windmill Drive, London, NW2",NW2,0.0
+965,325000.0,"Blackdown Close, East Finchley, London, N2",N2,2.0
+966,850000.0,"Shamrock Way, Southgate, N14",N14,4.0
+967,450000.0,"Dale Grove,London,N12 8EE",N12,3.0
+969,450000.0,"Cardrew Close, North Finchley, N12",N12,3.0
+970,1600000.0,"Apartment 5, Four 5 Two, Finchley Road, London, NW11",NW11,3.0
+971,950000.0,"Apartment 3, Four 5 Two, Finchley Road, London, NW11",NW11,2.0
+972,375000.0,"Ashbourne Close, North Finchley,N12 ",N12,2.0
+973,325000.0,"3 Mornington Close, Colindale, NW9",NW9,1.0
+978,145000.0,"168b West Hendon Broadway, London, NW9 7AA",NW9,1.0
+979,450000.0,"BALLARDS LANE, FINCHLEY, N3",N3,2.0
+980,450000.0,"Sherwood Hall, East End Road, London, N2",N2,2.0
+986,729950.0,"Russell Lane, Whetstone, London, N20",N20,5.0
+987,350000.0,"Abbotts Road, New Barnet, EN5",EN5,2.0
+989,495000.0,"St. Anns Court, Sunningfields Road, London, NW4",NW4,2.0
+990,1075000.0,"Oakwood Road, Hampstead Garden Suburb, London NW11",NW11,4.0
+991,637000.0,"Dalmeny Road, New Barnet, EN5",EN5,3.0
+994,465000.0,"Gordon Road, Finchley, London, N3",N3,2.0
+995,399000.0,"Eversleigh Road, Finchley Central, N3",N3,3.0
+997,475000.0,"Gazette Court, 1 Observer Close, Colindale, London, NW9",NW9,2.0
+998,589995.0,"2 Henry Darlot Drive
+Mill Hill,
+London,
+NW7 1NP",NW7,2.0
+999,584995.0,"2 Henry Darlot Drive
+Mill Hill,
+London,
+NW7 1NP",NW7,2.0
+1000,525000.0,"Woodberry Gardens, North Finchley, London, N12",N12,2.0
+1001,584995.0,"2 Henry Darlot Drive
+Mill Hill,
+London,
+NW7 1NP",NW7,2.0
+1002,624995.0,"2 Henry Darlot Drive
+Mill Hill,
+London,
+NW7 1NP",NW7,2.0
+1003,594995.0,"2 Henry Darlot Drive
+Mill Hill,
+London,
+NW7 1NP",NW7,2.0
+1005,589995.0,"2 Henry Darlot Drive
+Mill Hill,
+London,
+NW7 1NP",NW7,2.0
+1006,459995.0,"2 Henry Darlot Drive
+Mill Hill,
+London,
+NW7 1NP",NW7,1.0
+1007,454995.0,"2 Henry Darlot Drive
+Mill Hill,
+London,
+NW7 1NP",NW7,1.0
+1008,454995.0,"2 Henry Darlot Drive
+Mill Hill,
+London,
+NW7 1NP",NW7,1.0
+1009,449995.0,"2 Henry Darlot Drive
+Mill Hill,
+London,
+NW7 1NP",NW7,1.0
+1010,449995.0,"2 Henry Darlot Drive
+Mill Hill,
+London,
+NW7 1NP",NW7,1.0
+1011,1249995.0,"2 Henry Darlot Drive
+Mill Hill,
+London,
+NW7 1NP",NW7,4.0
+1012,240000.0,"Homan Court, 17 Friern Watch Avenue, London, Uk, N12",N12,2.0
+1013,160000.0,"Holden Road, London, Uk, N12",N12,2.0
+1014,400000.0,"Arc Court 1 Friern Barnet Road, Friern Barnet, London, N11",N11,2.0
+1016,850000.0,"Parkhurst Road, Friern Barnet, N11",N11,4.0
+1017,385000.0,"Meadowlark House
+Moorhen Drive off Perryfield Way
+London
+NW9 7DL",NW9,1.0
+1018,1175000.0,"Laurel Way, London N20 8HR",N20,4.0
+1019,535000.0,"Woodfield Avenue, Colindale, London, NW9",NW9,3.0
+1020,320000.0,"Stokes Court, East Finchley, N2",N2,2.0
+1021,475000.0,"Dairyman Close, London, NW2 1EP",NW2,2.0
+1024,360000.0,"Olivia Court, Ebony Crescent, Cockfosters, Hertfordshire, EN4",EN4,1.0
+1025,825000.0,"Hendale Avenue, London NW4",NW4,3.0
+1026,300000.0,"Whitmore House, East Crescent N11",N11,1.0
+1028,825000.0,"Hendale Avenue, London NW4",NW4,3.0
+1030,325000.0,"7 Grove Road, Finchley, N12",N12,2.0
+1031,550000.0,"Tudor Gables, Birkbeck Road, Mill Hill, London, NW7",NW7,3.0
+1032,1900000.0,"Sunny Gardens Road, London, NW4",NW4,5.0
+1033,429950.0,"Sunningfields Road, London, NW4",NW4,2.0
+1034,585000.0,"Stanhope Avenue, Finchley, London, N3",N3,3.0
+1035,379000.0,"Renters Avenue, Hendon, NW4",NW4,2.0
+1036,400000.0,"Franklin Close, London, N20",N20,2.0
+1039,525000.0,Temple Fortune House Finchley Road NW11,NW11,3.0
+1041,380000.0,"Sutton Crescent, Barnet EN5 2SS",EN5,2.0
+1042,755000.0,"Upcroft Avenue, Edgware, HA8",HA8,4.0
+1043,550000.0,"Denver Court, 132 Hendon Lane, London, N3",N3,2.0
+1045,450000.0,"Elm Park Road, Finchley, London, N3",N3,3.0
+1047,650000.0,"Lynford Gardens, Edgware, HA8",HA8,3.0
+1049,975000.0,"Johns Avenue, London, NW4",NW4,4.0

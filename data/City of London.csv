@@ -1,0 +1,211 @@
+,price,address,postcode,number_bedrooms
+0,1595000.0,"Pinks Mews, The Dyers Building, Holborn, EC1N",EC1N,2.0
+1,1995000.0,"Pinks Mews, The Dyers Building, Holborn, EC1N",EC1N,0.0
+2,1595000.0,"Pinks Mews, The Dyers Building, Holborn, EC1N",EC1N,2.0
+3,825000.0,"Wexner Building, Spitalfields, London, E1",E1,2.0
+6,1850000.0,"Shakespeare Tower, Barbican, London, EC2Y",EC2Y,3.0
+7,445000.0,"Hosier Lane, London, EC1A",EC1A,0.0
+8,1195000.0,"Trinity Square, London, EC3N",EC3N,2.0
+9,615000.0,"Red Lion Court, Holborn, London EC4A",EC4A,1.0
+10,355000.0,"Cullum Welch House, EC1Y",EC1Y,0.0
+12,850000.0,"28 Bartholomew Close, London, EC1A",EC1A,2.0
+13,1995000.0,"E3, Pinks Mews, 1-6 Dyer's Buildings, Holborn, London, EC1N",E3,2.0
+14,900000.0,Lovat Lane London EC3R,EC3R,2.0
+15,1376000.0,"Worship Street, EC2A",EC2A,2.0
+16,500000.0,"Petticoat Square, City, London, E1",E1,2.0
+17,899995.0,"Andrewes House, Barbican, London, EC2Y",EC2Y,1.0
+18,740000.0,"The Heron,London, EC2Y",EC2Y,1.0
+19,405000.0,"Charterhouse Square, EC1M",EC1M,0.0
+20,735000.0,"Ben Jonson House, Barbican EC2Y",EC2Y,1.0
+21,565000.0,Ben Jonson House Barbican EC2,EC2,1.0
+23,800000.0,"Mitre street, City, London, EC3A",EC3A,2.0
+25,500000.0,"Petticoat Square, City, London, E1",E1,2.0
+26,900000.0,"Defoe House, Barbican, London, EC2Y",EC2Y,2.0
+29,1660000.0,"Barts Square, 56 West Smithfield, Smithfield Market, City Of London, EC1A",EC1A,2.0
+30,825000.0,"Furnival Street, London, EC4A",EC4A,1.0
+31,875000.0,"Ludgate Square, City, London, EC4M",EC4M,2.0
+32,525000.0,"Flat 101, 32 Cock Lane, London, EC1A 9BW",EC1A,1.0
+33,5750000.0,"Principal Tower, Worship Street, EC2A",EC2A,3.0
+34,5750000.0,"Principal Tower, Worship Street, EC2A",EC2A,3.0
+35,1376000.0,"Worship Street, EC2A",EC2A,2.0
+36,1950000.0,Shakespeare Tower Barbican EC2,EC2,3.0
+37,675000.0,Andrewes House Barbican EC2,EC2,1.0
+38,950000.0,"Victoria House, 25 Tudor Street, London, EC4Y",EC4Y,2.0
+40,570000.0,"Bishopsgate, City of London, London, EC2M",EC2M,1.0
+41,825000.0,"St Dunstans House, 133 137 Fetter Lane, London, EC4A",EC4A,1.0
+42,995000.0,"Mountjoy House, Barbican, London, EC2Y",EC2Y,1.0
+43,560000.0,"The Heron,5 Moor Lane, London, EC2Y",EC2Y,0.0
+44,899950.0,"Andrewes House, Barbican, London, EC2Y",EC2Y,2.0
+45,995000.0,"Hosier Lane, EC1A",EC1A,2.0
+46,520000.0,"Breton House, Barbican, London, EC2Y",EC2Y,0.0
+47,615000.0,"Little Britain, London, EC1A",EC1A,1.0
+48,550000.0,"Octave House, 4 Botolph Alley, London, EC3R",EC3R,1.0
+49,850000.0,"Dominion House, Bartholomew Close, EC1",EC1,1.0
+50,679950.0,"Middle Street,
+London,
+EC1A",EC1A,2.0
+51,2500000.0,"Canonbury Square, London, N1",N1,5.0
+52,795000.0,"Vicary House, 24 Bartholomew Close, London, EC1A",EC1A,1.0
+54,665000.0,"Breams Buildings, City, London, EC4A",EC4A,1.0
+55,720000.0,"Ben Jonson House, Barbican, London, EC2Y",EC2Y,1.0
+56,800000.0,"Lombard Lane, Fleet Street, Blackfriars, London, EC4Y",EC4Y,2.0
+58,1995000.0,"Pinks Mews, Holborn, EC1N",EC1N,2.0
+60,625000.0,"Bride Court, The City Of London, EC4Y",EC4Y,1.0
+61,600000.0,"Red Lion Court, London, EC4A",EC4A,1.0
+62,395000.0,"Florin Court, EC1M",EC1M,0.0
+63,950000.0,"St. Dunstans House, 133-137 Fetter Lane, London, EC4A",EC4A,1.0
+67,749999.0,"Creechurch Lane, EC3A, London",EC3A,2.0
+68,1299999.0,"Roman House, Barbican, London, EC2Y",EC2Y,2.0
+70,650000.0,"The Heron, Moor Lane, City Of London, EC2Y",EC2Y,0.0
+71,660000.0,"Thomas More House, Barbican, London, EC2Y",EC2Y,1.0
+72,8800000.0,"Aldersgate Street, London, EC1A",EC1A,3.0
+74,700000.0,"Frobisher Crescent, Barbican, London, EC2Y",EC2Y,1.0
+75,2750000.0,"The Postern, EC2Y",EC2Y,4.0
+77,1100000.0,"Temple Avenue, London, EC4Y",EC4Y,2.0
+78,1100000.0,"Ludgate Broadway, City Of London, EC4V",EC4V,2.0
+79,850000.0,"Dominion House, Barts Square, Barbican, EC1A",EC1A,1.0
+82,800000.0,"Willoughby House, Barbican, London, EC2Y",EC2Y,1.0
+83,1275000.0,"Ben Jonson House, Barbican, London, EC2Y",EC2Y,2.0
+86,1995000.0,"Defoe House, Barbican, London, EC2Y",EC2Y,3.0
+89,585000.0,"High Timber Street, EC4V",EC4V,1.0
+90,1225000.0,Fetter Lane London EC4A,EC4A,2.0
+93,2790000.0,"Sir John Lyon House, High Timber Street, EC4V",EC4V,3.0
+95,849950.0,"Andrewes House, Barbican, London, EC2Y",EC2Y,2.0
+96,775000.0,"Andrewes House, Barbican, London, EC2Y",EC2Y,1.0
+97,1450000.0,"Speed House, Barbican, London, EC2Y",EC2Y,3.0
+98,900000.0,"Pemberton House, 7 Pemberton Row, London, EC4A",EC4A,2.0
+99,565000.0,"Sir John Lyon House, High Timber Street, EC4V",EC4V,1.0
+100,2750000.0,"The Postern, EC2Y",EC2Y,4.0
+101,1000000.0,"Wood Street, Moorgate, London, EC2Y",EC2Y,2.0
+102,1400000.0,"Tapestry Building, City, London, EC2M",EC2M,2.0
+103,625000.0,"Sir John Lyon House, 8 High Timber Street, EC4V",EC4V,1.0
+104,1100000.0,"Ludgate Broadway, City, London, EC4V",EC4V,2.0
+105,700000.0,"London House, 172 Aldersgate Street, City of London, London, EC1A",EC1A,2.0
+106,1695000.0,"Blake Tower, 2 Fann Street, London, EC2Y",EC2Y,2.0
+107,522000.0,"Friar Street, St Pauls, London, EC4V",EC4V,1.0
+108,999995.0,29 Essex Street London WC2R,WC2R,1.0
+109,950000.0,"Werna House,  Monument Street, The City, EC3R",EC3R,2.0
+112,1695000.0,Shakespeare Tower Barbican EC2,EC2,3.0
+113,745000.0,Ben Jonson House Barbican EC2,EC2,1.0
+115,800000.0,"Temple House, 6 Temple Avenue, London, EC4Y",EC4Y,2.0
+116,780000.0,Moor Lane London EC3V,EC3V,1.0
+118,1600000.0,"Dominion House, 59 Bartholomew Close, Farringdon, Barbican, London, EC1A",EC1A,2.0
+119,495000.0,"Seddon House, Barbican, London, EC2Y",EC2Y,0.0
+120,500000.0,"John Trundle Court, Barbican, London, EC2Y",EC2Y,0.0
+121,700000.0,"Blake Tower, 2 Fann Street, Barbican, London, EC2Y",EC2Y,1.0
+122,925000.0,"Barts Square, 56 West Smithfield, Smithfield Market, City Of London, EC1A",EC1A,1.0
+123,800000.0,"Pepys Street, London, EC3N",EC3N,2.0
+124,750000.0,"Pepys Street, London, EC3N",EC3N,2.0
+125,1995000.0,"Pinks Mews, The Dyers Building, Holborn, EC1N",EC1N,0.0
+126,2800000.0,"Sir John Lyon House, 8 High Timber Street, London, EC4V",EC4V,3.0
+127,425000.0,"John Trundle Court, Barbican, London, EC2Y",EC2Y,0.0
+128,4500000.0,"Sir John Lyon House, 8 High Timber Street, London, EC4V",EC4V,3.0
+129,499950.0,"10 Hosier Lane, EC1A 9LJ",EC1A,0.0
+130,900000.0,"47 Bartholomew Cl, Barbican, London, EC1A",EC1A,1.0
+133,575000.0,"Fenchurch House, 136-138 Minories, London, EC3N",EC3N,1.0
+134,6950000.0,"Landmark Place, London, EC3R",EC3R,3.0
+135,1125000.0,"High Timber Street, City, London, EC4V",EC4V,2.0
+137,1850000.0,"Lauderdale Tower, Barbican, London, EC2Y",EC2Y,4.0
+139,900000.0,"133- 137 Fetter Lane, Holburn, EC4A",EC4A,1.0
+140,700000.0,"Aston House, Furnival Street, Holburn, EC4A",EC4A,1.0
+141,900000.0,"Abernethy House, 47 Bartholomew Close, London, EC1A",EC1A,1.0
+142,4500000.0,"Sir John Lyon House, 8 High Timber Street, London, EC4V",EC4V,3.0
+143,400000.0,"Cullum Welch House, Golden Lane Estate, London, EC1Y",EC1Y,0.0
+144,575000.0,"Bartholomew Close, London, EC1A",EC1A,1.0
+145,575000.0,"Bartholomew Close, London, EC1A",EC1A,1.0
+146,1600000.0,Cromwell Tower Barbican EC2,EC2,3.0
+147,895000.0,"West Smithfield, London, EC1A",EC1A,2.0
+148,600000.0,"Defoe House, Barbican, London, EC2Y",EC2Y,1.0
+149,675000.0,"Blake Tower, 2 Fann Street, London, EC2Y",EC2Y,1.0
+150,679950.0,"Middle Street,
+London,
+EC1A",EC1A,2.0
+151,1000000.0,"The Cobalt Building, Barbican, London, EC2Y",EC2Y,2.0
+153,820000.0,"Roman House, Wood Street, London, EC2Y",EC2Y,1.0
+154,899995.0,"Britton, 35-37 Cock Lane, London, EC1A",EC1A,2.0
+155,679950.0,"Middle Street,
+London,
+EC1A",EC1A,2.0
+156,1800000.0,"Lauderdale Tower, Barbican, London, EC2Y",EC2Y,3.0
+157,825000.0,"St Dunstans Court, EC4A",EC4A,1.0
+158,3820000.0,"34.02-One Bishopsgate Plaza - 34.02, 150 Bishopsgate, City Of London, EC3A",EC3A,3.0
+159,525000.0,"Cock Lane, Farringdon, London, EC1A",EC1A,1.0
+160,1750000.0,"Dominion House, 59 Bartholomew Close, City of London, London, EC1A",EC1A,2.0
+161,1250000.0,"Tudor Street, City, London, EC4Y",EC4Y,2.0
+162,775000.0,"Willoughby House, Barbican, London, EC2Y",EC2Y,1.0
+164,625000.0,"27 Minories, London, EC3N",EC3N,1.0
+165,650000.0,"Bridgewater Square, EC2Y",EC2Y,1.0
+166,755000.0,"Ben Jonson House, Barbican, London EC2",EC2,1.0
+168,815000.0,Defoe House Barbican EC2,EC2,1.0
+169,899950.0,"Middle Street,
+London,
+EC1A",EC1A,3.0
+170,759950.0,"Middle Street,
+London,
+EC1A",EC1A,3.0
+171,1500000.0,"The Heron, Silk Street, City, EC2Y",EC2Y,2.0
+172,1750000.0,"Frobisher Crescent, Barbican, London, EC2Y",EC2Y,3.0
+173,649950.0,"Middle Street,
+London,
+EC1A",EC1A,2.0
+174,650000.0,"Tudor Rose Court, 35 Fann Street, City of London, London, EC2Y",EC2Y,2.0
+175,900000.0,"Dominion House, Barts Square, 59 Bartholomew Close, Barbican, Farringdon, London, EC1A",EC1A,1.0
+177,800000.0,"Bartholomew Close, Farringdon, Barbican, London, EC1A",EC1A,1.0
+179,550000.0,"Clifford's Inn, Fetter Lane, London, EC4A",EC4A,1.0
+180,550000.0,"Cliffords Inn, Fetter Lane, London, EC4A",EC4A,1.0
+183,725000.0,"Willoughby House, Barbican, London, EC2Y",EC2Y,1.0
+184,750000.0,"Bayer House, Golden Lane Estate, London EC1",EC1,2.0
+185,2395000.0,"The Postern, Barbican, London, EC2Y",EC2Y,4.0
+186,755000.0,Ben Jonson House Barbican EC2,EC2,1.0
+187,1000000.0,"The Cobalt Building, 10-15 Bridgewater Square, London, EC2Y",EC2Y,2.0
+188,699000.0,"5 Bream's Buildings, Holborn, EC4A",EC4A,1.0
+189,599000.0,Frobisher Crescent Barbican EC2,EC2,0.0
+190,749000.0,"London House, 172 Aldersgate Street, City of London, London, EC1A",EC1A,2.0
+191,575000.0,"Hosier Lane, London, EC1A",EC1A,0.0
+196,800000.0,"Moor Lane, City Of London, London, EC2Y",EC2Y,1.0
+197,824999.0,"Wood Street, St Pauls, EC2Y",EC2Y,1.0
+198,4000000.0,"Cashmere House, 37 Leman Street, London, E1",E1,3.0
+200,1800000.0,"22.11, One Bishopsgate Plaza, 150 Bishopsgate, City Of London, EC3A",EC3A,2.0
+201,750000.0,"Wood Street, Barbican, London, EC2Y",EC2Y,1.0
+202,1850000.0,"Lauderdale Tower, Barbican, London, EC2Y",EC2Y,4.0
+203,1595000.0,"Pinks Mews, 1-6 Dyer's Buildings, Holborn, London, EC1N",EC1N,2.0
+204,4020000.0,"One Bishopsgate Plaza, City Of London, EC2M",EC2M,3.0
+205,4350000.0,"One Bishopsgate Plaza, City Of London, EC2M",EC2M,3.0
+206,2045000.0,"One Bishopsgate Plaza, City Of London, EC2M",EC2M,2.0
+207,1800000.0,"One Bishopsgate Plaza, City Of London, EC2M",EC2M,2.0
+208,1325000.0,"One Bishopsgate Plaza, City Of London, EC2M",EC2M,1.0
+209,1795000.0,"W6, Pinks Mews, 1-6 Dyer's Buildings, Holborn, London, EC1N",W6,2.0
+210,3950000.0,"Aldersgate Street, London, EC1A",EC1A,5.0
+211,899950.0,"Willoughby House, Barbican, London, EC2Y",EC2Y,2.0
+212,800000.0,"The Heron, 5 Moor Lane, London, EC2Y",EC2Y,1.0
+213,1000000.0,"Victoria House, 25 Tudor Street, London, EC4Y",EC4Y,2.0
+215,600000.0,"The Heron, 5 Moor Lane, London, EC2Y",EC2Y,0.0
+216,630000.0,"5 Heron Tower, Moorgate, EC2Y",EC2Y,0.0
+218,3600000.0,"Roman House, Wood Street, London, EC2Y",EC2Y,3.0
+219,950000.0,"Barts Square, 56 West Smithfield, Clerkenwell, London, EC1A",EC1A,1.0
+220,615000.0,"Little Britain, London, EC1A",EC1A,1.0
+222,1050000.0,"Sugar Quay, Landmark Place, 16 Lower Thames Street, City, EC3R",EC3R,1.0
+223,1078000.0,"Worship Street, London, EC2A",EC2A,1.0
+224,2896000.0,"Worship Street, London, EC2A",EC2A,3.0
+225,1391000.0,"Worship Street, London, EC2A",EC2A,2.0
+226,1386000.0,"Worship Street, London, EC2A",EC2A,2.0
+227,1229000.0,"Worship Street, London, EC2A",EC2A,2.0
+228,1246000.0,"Worship Street, London, EC2A",EC2A,2.0
+229,1795000.0,"Pinks Mews, Holborn, EC1N",EC1N,2.0
+230,1795000.0,"Pinks Mews, 1-6 Dyer's Buildings, Holborn, London, EC1N",EC1N,2.0
+231,1539000.0,"Worship Street, London, EC2A",EC2A,2.0
+232,1349000.0,"Worship Street, London, EC2A",EC2A,2.0
+233,1597000.0,"Worship Street, London, EC2A",EC2A,2.0
+234,958000.0,"Worship Street, London, EC2A",EC2A,1.0
+235,1411000.0,"Worship Street, London, EC2A",EC2A,2.0
+236,869000.0,"Worship Street, London, EC2A",EC2A,1.0
+237,2750000.0,"The Postern, EC2Y",EC2Y,4.0
+238,2000000.0,"The Heron, 5 Moor Lane, London, EC2Y",EC2Y,3.0
+240,1999999.0,"The Heron, 5 Moor Lane, London, EC2Y",EC2Y,3.0
+241,900000.0,"Barts Square, Clerkenwell, EC1A",EC1A,1.0
+242,1374995.0,"Roman House, Wood Street, EC2Y",EC2Y,2.0
+244,4300000.0,"Ironmonger Lane, Bank, The City, London, EC2V",EC2V,4.0
+245,4300000.0,"Ironmonger Lane, City, London, EC2V",EC2V,4.0
+246,1500000.0,The Heron 5 Moor Lane EC2Y,EC2Y,2.0
+247,825000.0,"Roman House, Wood Street, St Pauls EC2Y",EC2Y,1.0
+249,1800000.0,"Barts Square, 56 West Smithfield, London, EC1A",EC1A,2.0

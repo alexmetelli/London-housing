@@ -1,0 +1,462 @@
+,price,address,postcode,number_bedrooms
+1,600000.0,"Stratton Drive, Barking, IG11",IG11,3.0
+4,450000.0,"Fellowship Close, Dagenham, RM8",RM8,4.0
+5,210000.0,"Whiting Avenue,
+Barking,
+IG11",IG11,1.0
+7,325000.0,"Warrington Square, Dagenham, RM8 ",RM8,2.0
+9,300000.0,"Mayswood Gardens, Dagenham, Essex, ., RM10",RM10,3.0
+10,325000.0,"Hunters Square, Dagenham, RM10",RM10,2.0
+12,400000.0,"Markyate Road, Dagenham, RM8",RM8,4.0
+15,325000.0,"Blackborne Road, Dagenham, London, RM10",RM10,2.0
+16,325000.0,"Lodge Avenue, Dagenham, RM8",RM8,3.0
+17,365000.0,"Orchard Road , RM10",RM10,3.0
+18,300000.0,"Rowdowns Road, Dagenham, RM9",RM9,3.0
+19,335000.0,"Gay Gardens, Dagenham, Essex, ., RM10",RM10,3.0
+21,400000.0,"Lincoln Avenue, Romford, RM7",RM7,3.0
+23,400000.0,"Fuller Road, Dagenham, RM8 ",RM8,3.0
+25,250000.0,"Blessing Way, Barking IG11",IG11,2.0
+26,225000.0,"Waterside close, IG11",IG11,1.0
+30,280000.0,"Saville Road, Chadwell Heath, RM6",RM6,2.0
+32,375000.0,"Sheppey Road, Dagenham, RM9",RM9,3.0
+35,260000.0,"Stern Close, Barking, IG11",IG11,2.0
+36,775000.0,"Westrow Drive, Barking, IG11",IG11,6.0
+38,375000.0,"Thorntons Farm Avenue, Rush Green, RM7",RM7,3.0
+40,310000.0,"Wren Road,Dagenham, RM9",RM9,2.0
+41,260000.0,"Bath House, 5 Arboretum Place, Barking, Essex, IG11 7PS",IG11,1.0
+42,200000.0,"Stansgate Road, Dagenham, RM10",RM10,2.0
+43,325000.0,"Porters Avenue, Dagenham, Essex, RM8",RM8,3.0
+44,300000.0,"41 Academy Way, Dagenham, RM8",RM8,3.0
+45,310000.0,"149-151 High Road, RM6",RM6,2.0
+46,215000.0,"Linsdell Road, Barking, IG11 7LJ",IG11,1.0
+48,325000.0,"Becontree Avenue, Dagenham, RM8",RM8,2.0
+50,260000.0,"22-30 Longbridge Road, Barking, Essex, IG11 ",IG11,1.0
+51,360000.0,"Movers Lane, Barking, Essex, United Kingdom, IG11",IG11,3.0
+55,425000.0,"Perth Road, Barking, IG11",IG11,4.0
+58,400000.0,"Harts Lane, Barking, IG11",IG11,4.0
+62,400000.0,"Rose Glen, Romford, RM7",RM7,3.0
+67,270000.0,"Abbey Road, BARKING, IG11",IG11,2.0
+69,650000.0,"Hulse Avenue, Barking, IG11",IG11,5.0
+72,200000.0,"Goresbrook Road, Dagenham, RM9",RM9,2.0
+78,340000.0,"Romsey Road, Dagenham, Essex, ., RM9",RM9,3.0
+79,250000.0,"Eagle Avenue, Romford, London, RM6",RM6,2.0
+81,330000.0,"Langhorne Road, Dagenham, Essex, ., RM10",RM10,3.0
+82,315000.0,"Kingsmill Road, Dagenham, RM9",RM9,2.0
+84,335000.0,"Hunters Square, Dagenham, RM10",RM10,2.0
+87,375000.0,"Baron Road, Dagenham, RM8",RM8,3.0
+89,325000.0,"Barnmead Road, Dagenham, RM9",RM9,2.0
+91,375000.0,"Strood Avenue, Romford, London, RM7",RM7,3.0
+92,325000.0,"Barnmead Road, Dagenham, RM9",RM9,2.0
+94,425000.0,"Middleton Grove, Barking IG11",IG11,3.0
+95,450000.0,"Foxglove Road, Rush Green, Romford, Essex, RM7",RM7,3.0
+96,440000.0,"Valentines Way, Rush Green, Romford, Havering, RM7",RM7,4.0
+97,400000.0,"Kenneth Road, Chadwell Heath, RM6 ",RM6,3.0
+98,335000.0,"Bragg Close, Dagenham, RM8",RM8,3.0
+99,325000.0,"Ernest Websdale House, 1 Harlequin Close, Barking, IG11",IG11,3.0
+101,400000.0,"Durell Road, Dagenham, RM9",RM9,3.0
+103,650000.0,"Upney Lane, Barking, IG11",IG11,4.0
+105,450000.0,"Burlington Gardens, Romford, RM6",RM6,3.0
+106,200000.0,"Chadview Court, Chadwell Heath Lane, Chadwell Heath, RM6",RM6,1.0
+109,500000.0,"Pelham Avenue, Barking, IG11",IG11,3.0
+112,245000.0,"Longbridge Road, Barking, IG11",IG11,2.0
+113,375000.0,"Grafton Road, Dagenham, London, RM8",RM8,3.0
+114,300000.0,"Central Park Avenue, Dagenham, RM10",RM10,2.0
+115,210000.0,"149-151 High Road, Romford, RM6 ",RM6,1.0
+116,160000.0,"Beam Avenue, Dagenham, RM10",RM10,1.0
+117,390000.0,"Edgehill Gardens, Dagenham, Essex, RM10",RM10,3.0
+118,475000.0,"Salisbury Avenue, Barking, IG11",IG11,3.0
+119,300000.0,"Grafton Road, Dagenham, Essex, RM8",RM8,2.0
+121,300000.0,"Neesham Road, Dagenham, RM8",RM8,2.0
+123,500000.0,"The Drive, Barking, Essex, IG11 ",IG11,3.0
+125,260000.0,"Stern Close, Barking, IG11",IG11,2.0
+128,325000.0,"Eastbrook Drive, Rush Green, RM7",RM7,3.0
+129,220000.0,"Blanchard Apartments, Ager Avenue, Dagenham, London, RM8",RM8,1.0
+130,170000.0,"Honey Close, Dagenham, RM10",RM10,1.0
+131,210000.0,"New Enterprise House, 149-151 High Road, Chadwell Heath, RM6",RM6,1.0
+134,650000.0,"Whalebone Lane North, Chadwell Heath, Romford, RM6",RM6,3.0
+135,435000.0,Felton Road IG11,IG11,3.0
+136,250000.0,"Rams Grove, Romfrod,  RM6",RM6,2.0
+139,230000.0,"Marine Drive, Barking, IG11",IG11,2.0
+140,385000.0,"Lake Gardens, Dagenham, Essex, RM10",RM10,4.0
+141,400000.0,"Eric Road, Chadwell Heath, RM6",RM6,3.0
+144,400000.0,"Fanshawe Avenue, Barking, IG11",IG11,3.0
+145,195000.0,"Aidan Close, Dagenham, London, RM8",RM8,1.0
+146,325000.0,"Stamford Gardens, Dagenham, RM9",RM9,3.0
+150,175000.0,"Tenby Close, Chadwell Heath, RM6",RM6,1.0
+152,300000.0,"Wood Lane, Dagenham, RM9",RM9,2.0
+154,375000.0,"Cambeys Road, Dagenham, London, RM10",RM10,3.0
+155,240000.0,"Thatches Grove, Romford, RM6",RM6,2.0
+156,390000.0,"The Gables, Barking, Essex, IG11",IG11,3.0
+157,550000.0,"Hulse Avenue, Barking, IG11",IG11,4.0
+160,325000.0,"Valence Wood Road, Dagenham, London, RM8",RM8,3.0
+164,315000.0,"Porters Avenue, Dagenham, RM8",RM8,3.0
+165,450000.0,"Maxey Road, Dagenham, RM9",RM9,4.0
+166,300000.0,"Broad Street, Dagenham, RM10",RM10,2.0
+169,210000.0,"Waterman Court, 118 Axe Street, Barking, IG11",IG11,1.0
+170,450000.0,"The Gables, Tanner Street, Barking, IG11",IG11,4.0
+171,220000.0,"The Odeon, 22-30 Longbridge Road, Barking, IG11",IG11,1.0
+172,350000.0,"Western Avenue, Dagenham, RM10",RM10,3.0
+173,290000.0,"Saville Road, RM6",RM6,2.0
+174,599995.0,"Whalebone Lane North, Chadwell Heath, RM6 6RJ",RM6,4.0
+176,315000.0,"3 Sackett Road, Barking, IG11",IG11,2.0
+177,112000.0,"Loxford Road, Barking, Essex, IG11",IG11,2.0
+178,210000.0,"Aidan Close, Dagenham, London, RM8",RM8,1.0
+180,325000.0,"Hitherfield Road, Dagenham, RM8",RM8,2.0
+181,240000.0,"Eastern Avenue West, Romford, RM6",RM6,2.0
+183,350000.0,"Grafton Road, Dagenham, London, RM8",RM8,3.0
+184,230000.0,"Lupin Close, Rush Green, Romford, RM7",RM7,2.0
+185,500000.0,"Suffolk Road, Barking, IG11",IG11,4.0
+186,439995.0,"Suffolk Road, Barking, Essex, IG11 ",IG11,3.0
+188,400000.0,"Stamford Road, Dagenham, Essex, ., RM9",RM9,3.0
+189,285000.0,"Dagenham , RM8",RM8,2.0
+191,499500.0,"Mill Lane, Chadwell Heath, Romford, RM6",RM6,5.0
+192,350000.0,"Frizlands Lane, Dagenham, London, RM10",RM10,3.0
+193,380000.0,"Cannington Road, Dagenham, Essex, RM9",RM9,4.0
+196,310000.0,"Grafton Gardens, Dagenham, RM8",RM8,2.0
+198,450000.0,"Strood Avenue, Romford, RM7",RM7,4.0
+200,260000.0,"22-30 Longbridge Road, Barking, Essex, IG11 ",IG11,1.0
+202,300000.0,"Royal Anglian Way, Dagenham, RM8 ",RM8,2.0
+206,425000.0,"Standfield Road , RM10",RM10,4.0
+207,400000.0,"Gorseway, Rush Green, RM7",RM7,4.0
+208,350000.0,"Hynton Road, Dagenham, RM8",RM8,3.0
+209,325000.0,"Bonham Road, Dagenham, RM8 ",RM8,3.0
+210,80500.0,"Montgomery Court, Dagenham, London, RM10",RM10,2.0
+211,290000.0,"Walnut Tree Road, RM8",RM8,2.0
+212,385000.0,"Simmons Drive, Dagenham, RM8",RM8,3.0
+216,325000.0,"Hollidge Way, Dagenham, RM10",RM10,3.0
+217,329995.0,"Cavalier Close, Romford, London, RM6",RM6,2.0
+218,245000.0," Tomlins Orchard,  Barking, IG11",IG11,2.0
+219,249495.0,"Renwick Road,
+Barking,
+IG11 0FU",IG11,2.0
+220,225000.0,"Causton Square, Dagenham, RM10",RM10,2.0
+221,325000.0,"High Road, Chadwell Heath, RM6 6DL",RM6,2.0
+222,275000.0,"Handley Page Road, Barking, IG11",IG11,1.0
+223,230000.0,"Bluebell Close, Rush Green, Romford, RM7",RM7,2.0
+224,200000.0,"Hudson Close, Dagenham, RM9",RM9,1.0
+226,330000.0,"Movers Lane, Barking, Essex, IG11",IG11,2.0
+227,200000.0,"Flamstead Road, Dagenham, London, RM9",RM9,1.0
+231,150000.0,"Gurney Close, Barking, Essex, IG11 ",IG11,1.0
+232,270000.0,"Longbridge Road, Barking, Essex, IG11 ",IG11,2.0
+234,420000.0,"Scholars Way, Dagenham, London RM8 2FL",RM8,4.0
+235,245000.0,"The Clarksons, Boundary Road, Barking, IG11",IG11,2.0
+239,210000.0,"Linsdell Road, Barking, IG11",IG11,1.0
+240,290000.0,"*VIDEO TOUR* 119 Lindisfarne Road, Dagenham, Essex, RM8 3SR",RM8,2.0
+241,325000.0,"Bentry Road, Dagenham, RM8",RM8,3.0
+242,375000.0,"Frizlands Lane, Dagenham, RM10",RM10,3.0
+249,400000.0,"Maud Gardens, Barking, IG11",IG11,2.0
+251,375000.0,"Fuller Road, Dagenham, RM8",RM8,3.0
+253,365000.0,"Cambridge Road,
+London,
+IG11",IG11,2.0
+254,340000.0,"Cambridge Road,
+London,
+IG11",IG11,2.0
+255,260000.0,"Cambridge Road,
+London,
+IG11",IG11,1.0
+256,300000.0,"Cornwallis Road, Dagenham, RM9",RM9,2.0
+260,310000.0,"Purland Close, Dagenham, RM8",RM8,2.0
+261,430000.0,"Ashbrook Road, Dagenham, London, RM10",RM10,3.0
+263,180000.0,"Burdetts Road, Dagenham, RM9",RM9,1.0
+264,260000.0,"39 Academy Way, Dagenham, RM8",RM8,2.0
+265,340000.0,"Alibon Road, Dagenham, RM10",RM10,3.0
+267,380000.0,"The Close, Chadwell Heath, RM6 ",RM6,3.0
+268,380000.0,"Ingleby Road, Dagenham, London, RM10",RM10,3.0
+271,350000.0,"Review Road, Dagenham, RM10",RM10,3.0
+272,240000.0,"Bluebell Close, Romford, RM7",RM7,2.0
+276,270000.0,"Morrison Road, Barking, IG11",IG11,2.0
+277,430000.0,"Highland Avenue, Dagenham, Essex, RM10",RM10,3.0
+278,535000.0,"Strathfield Gardens, Barking, IG11",IG11,4.0
+279,210000.0,"Tallow Close, Dagenham, RM9",RM9,1.0
+281,250000.0,"Blessing Way, Barking IG11",IG11,2.0
+282,425000.0,"Eastbrook Drive, Rush Green, Romford, Havering, RM7",RM7,2.0
+284,275000.0,"Spring Place, Barking, Essex, IG11",IG11,2.0
+285,375000.0,"Stansgate Road, Dagenham, Essex, RM10",RM10,3.0
+286,419000.0,"East Park Close, Chadwell Heath, RM6",RM6,3.0
+287,250000.0,"Freshwater Road, Dagenham, RM8 ",RM8,2.0
+288,375000.0,"Academy Court, Barking, RM8",RM8,2.0
+290,310000.0,"Haskard Road, RM9",RM9,2.0
+292,310000.0,"Sheppy Road, Dagenham, RM9",RM9,2.0
+293,530000.0,"Park Avenue, Barking, IG11",IG11,4.0
+296,499999.0,"Morley Road, Barking, IG11",IG11,3.0
+297,275000.0,"Roehampton House, Barking Academy, Dagenham, RM8 2FG",RM8,2.0
+298,339995.0,"Ivyhouse Road, Dagenham, RM9 5SA",RM9,2.0
+301,375000.0,"Dunbar Avenue, Dagenham, RM10",RM10,3.0
+303,220000.0,"Ashdown Court, Harts Lane, Barking, IG11",IG11,1.0
+304,240000.0,"Honey Close, Dagenham, RM10",RM10,2.0
+305,450000.0,"Lynett Road, Dagenham, RM8",RM8,6.0
+307,200000.0,"Davington Road, Dagenham, RM8",RM8,1.0
+308,475000.0,"Maxey Road, Dagenham, London, RM9",RM9,4.0
+309,299995.0,"Babington Road , Dagenham, Essex, RM8 2XP",RM8,2.0
+311,260000.0,"22-30 Longbridge Road, Barking, Essex, IG11 ",IG11,1.0
+312,550000.0,"Sandown Avenue, Dagenham, RM10",RM10,5.0
+313,300000.0,"Lancaster House, 37 Academy Way, Dagenham, RM8",RM8,3.0
+314,365000.0,"Alibon Road, Dagenham, London, RM10",RM10,3.0
+315,345000.0,"Temple Avenue, Dagenham, RM8",RM8,3.0
+316,230000.0,"Roberts Place, Dagenham, Essex, ., RM10",RM10,2.0
+320,250000.0,"Lupin Close, Romford, Havering, United Kingdom, RM7",RM7,2.0
+323,350000.0,"Hunters Hall Road, Dagenham, RM10",RM10,3.0
+328,235000.0,"Hooks Hall Drive, Dagenham, RM10",RM10,1.0
+329,200000.0,"Gurney Close, Barking, Essex, IG11",IG11,2.0
+330,449995.0,"Salcombe Drive, Romford, London, RM6",RM6,3.0
+331,399000.0,"Lake Close, Dagenham, Essex, RM8",RM8,3.0
+333,180000.0,"Honey Close, Dagenham, RM10",RM10,1.0
+334,400000.0,"Saville Road, Chadwell Heath, Romford, RM6",RM6,3.0
+335,250000.0,"Gurney Close, Barking, IG11",IG11,2.0
+336,325000.0,"Ilchester Road, Dagenham, RM8",RM8,2.0
+337,220000.0,"Cody Apartments, 34 Ager Avenue, Dagenham, RM8",RM8,1.0
+338,350000.0,"Ivyhouse Road, Dagenham, RM9",RM9,3.0
+339,425000.0,"Faircross Avenue, Barking, IG11",IG11,3.0
+341,179995.0,"Church Street, Dagenham, Rm10",Rm10,1.0
+343,220000.0,"Rainham Road South, Dagenham, RM10",RM10,2.0
+344,475000.0,"Beccles Drive, Barking, IG11",IG11,3.0
+345,350000.0,"Groveway, Dagenham, RM8 ",RM8,2.0
+347,240000.0,"Tallow Close, Dagenham, Essex, ., RM9",RM9,2.0
+348,220000.0,"Beansland Grove, Romford, ,, RM6 5QH",RM6,2.0
+349,75000.0,"Wiltshire Court, 54A Pittman Gardens, Ilford, Essex, IG1",IG1,1.0
+351,325000.0,"Green Lane, Dagenham, RM8",RM8,2.0
+352,440000.0,"Hulse Avenue, Barking, Essex, IG11 9UP",IG11,3.0
+353,192000.0,"Whiting Avenue,
+Barking,
+IG11",IG11,1.0
+354,390000.0,"Greenwood Avenue, Dagenham, Essex, ., RM10",RM10,3.0
+355,240000.0,"Thatches Grove, Romford RM6",RM6,2.0
+358,250000.0,"Dagenham Road, Romford, RM7",RM7,2.0
+359,360000.0,"Victoria Road, Barking, Essex, IG11 ",IG11,2.0
+361,200000.0,"Whiting Avenue,
+Barking,
+IG11",IG11,1.0
+362,330000.0,"Heathway, RM9",RM9,3.0
+363,340000.0,"Joan Road, Dagenham, Barking and Dagenham, London, RM8",RM8,3.0
+364,200000.0,"Eldridge Court, St Marks Place, RM10",RM10,1.0
+366,275000.0,"Marine Drive, Barking, IG11",IG11,2.0
+369,240000.0,"Causton Square, Dagenham, RM10",RM10,2.0
+370,349995.0,"Stockdale Road, Dagenham, London, RM8",RM8,4.0
+372,350000.0,"Handley Page Road, Barking, IG11",IG11,3.0
+373,220000.0,"Durell Road, Dagenham, RM9",RM9,1.0
+377,180000.0,"Ludlow Court, Dagenham, London, RM10",RM10,2.0
+379,335000.0,"Rowlands Road, Dagenham, RM8",RM8,3.0
+380,350000.0,"Gibbfield Close, Romford, RM6",RM6,2.0
+381,490000.0,"Whalebone Grove, Chadwell Heath, RM6",RM6,4.0
+382,325000.0,"Beam Avenue, Dagenham, RM10",RM10,3.0
+384,405000.0,"Charlotte Road, Dagenham, London, RM10",RM10,4.0
+385,775000.0,"Sandringham Road, Barking, IG11",IG11,5.0
+386,500000.0,"Oglethorpe Road, Dagenham, Essex, RM10 ",RM10,3.0
+387,475000.0,"Goodey Road, Barking, Essex, IG11 ",IG11,4.0
+388,330000.0,"Rugby Road , RM9",RM9,3.0
+392,130000.0,"Bridge House, 86 Essex Road, Barking, Essex, IG11",IG11,0.0
+395,245000.0,"Breacher House, Barking, IG11",IG11,1.0
+396,150000.0,"Winchester House, Keir Hardie Way, Barking, IG11",IG11,1.0
+397,225000.0,"Rainham Road South, Dagenham, RM10",RM10,2.0
+398,225000.0,"Review Lodge, Review Road, Dagenham, Essex, RM10",RM10,2.0
+401,350000.0,"Orchard Road, Dagenham, RM10",RM10,3.0
+402,245000.0,"The Shaftesburys, Barking, IG11 7JW",IG11,2.0
+404,190000.0,"Ibscott Close, Dagenham, RM10",RM10,1.0
+406,450000.0,"Verney Gardens, Dagenham, RM9",RM9,5.0
+409,325000.0,"Warrington Road, Dagenham, RM8",RM8,2.0
+410,370000.0,"New Road
+Rainham
+RM13 8DH",RM13,2.0
+414,475000.0,"Bakery Close, Chadwell Heath, RM6 ",RM6,4.0
+415,400000.0,"Albany Road, Chadwell Heath, RM6 ",RM6,3.0
+416,190000.0,"Honey Close, Dagenham, RM10",RM10,1.0
+417,190000.0,"Harts Lane, IG11",IG11,1.0
+418,194995.0,"Crosby Road, Dagenham, RM10",RM10,1.0
+419,184995.0,"Crosby Road, Dagenham, RM10",RM10,1.0
+421,325000.0,"Albany Road, Chadwell Heath, RM6",RM6,2.0
+426,319999.0,"Turnage Road, Dagenham, RM8",RM8,2.0
+428,410000.0,"Wadeville Avenue, Chadwell heath, RM6,",RM6,3.0
+430,235000.0,"Harts Lane, Barking, IG11",IG11,1.0
+431,475000.0,"Sherwood Gardens, Barking, IG11",IG11,3.0
+432,330000.0,"Shortcroft Road, Dagenham, London, RM9",RM9,3.0
+435,250000.0,"Bastable Avenue, Barking, IG11",IG11,2.0
+437,190000.0,"Blake Avenue, Barking, IG11",IG11,1.0
+438,245000.0,"3 Sackett Road, Barking, Essex, IG11 ",IG11,1.0
+442,305000.0,"Connor Road, Dagenham, London, RM9",RM9,2.0
+443,335000.0,"School Road, Dagenham, RM10",RM10,3.0
+444,325000.0,"Groveway, Dagenham, Essex, United Kingdom, RM8",RM8,2.0
+446,475000.0,"Sandringham Road, Barking, IG11",IG11,4.0
+447,250000.0,"Skipper Court, Barking, IG11 7GW",IG11,1.0
+448,325000.0,"Becontree Avenue, Dagenham, RM8",RM8,3.0
+449,325000.0,"Dagmar Road, Dagenham, London, RM10",RM10,3.0
+452,500000.0,"Dorrington Close, Barking, IG11",IG11,4.0
+453,270000.0,"Wivenhoe Road, Barking, IG11",IG11,3.0
+457,350000.0,"Winifred Road, Dagenham, Essex, RM8 ",RM8,3.0
+458,220500.0,"St Mark's Place, Dagenham, London, RM10",RM10,2.0
+459,400000.0,"Parsloes Avenue, RM9 5PB",RM9,3.0
+463,180000.0,"Ropeworks, 1 Arboretum Place, Barking, Essex, IG11",IG11,1.0
+464,259995.0,"Crabtree Avenue, Romford, London, RM6",RM6,3.0
+465,189950.0,Eastbury Court Barking Rssex IG11 9st,IG11,1.0
+467,400000.0,"Standfield Road, Dagenham, RM10",RM10,4.0
+468,220000.0,"The Shaftesburys, Essex, IG11",IG11,2.0
+469,340000.0,"Joan Road, Dagenham, Essex, RM8",RM8,3.0
+470,220000.0,"Wanderer Drive, Barking, IG11",IG11,1.0
+472,300000.0,"Osborne Square, Dagenham, RM9",RM9,2.0
+473,465000.0," Lodge Avenue,  Dagenham, RM8",RM8,5.0
+474,210000.0,"Ridley Close, Barking, Essex, IG11 9PJ",IG11,1.0
+475,250000.0,"Blessing Way, Barking IG11",IG11,2.0
+478,290000.0,"Lullington Road, Dagenham, Essex, RM9 ",RM9,3.0
+480,290000.0,"Longbridge Road, Dagenham, London, RM8",RM8,3.0
+482,230000.0,"Gurney Close, Barking, IG11",IG11,2.0
+485,350000.0,"Fleet Road,
+Barking,
+London,
+IG11",IG11,1.0
+486,288000.0,"New Road
+Rainham
+RM13 8DH",RM13,1.0
+487,250000.0,"Aidans Court, IG11, Barking, IG11",IG11,2.0
+489,495000.0,"Ripple Road, Barking, IG11",IG11,3.0
+490,190000.0,"Shafter Road, Dagenham, RM10",RM10,1.0
+491,269000.0,"Bastable Avenue, IG11, Barking, IG11",IG11,2.0
+492,375000.0,"New Road
+Rainham
+RM13 8DH",RM13,2.0
+493,365000.0,"New Road
+Rainham
+RM13 8DH",RM13,2.0
+496,600000.0,"Cecil Avenue, Barking, IG11",IG11,6.0
+498,255000.0,"Brook Court, Barking, IG11",IG11,2.0
+499,190000.0,"Pittman Gardens, Ilford, IG1",IG1,1.0
+501,450000.0,"Albany Road, Romford, RM6",RM6,3.0
+503,250000.0,"Bath House, 5 Arboretum Place, Barking, IG11",IG11,1.0
+508,230000.0,"Longbridge Road, Barking, Essex, IG11",IG11,1.0
+509,350000.0,"Frizlands Lane, Dagenham, Essex, ., RM10",RM10,3.0
+510,140000.0,"Law House, Maybury Road, Barking, IG11",IG11,1.0
+512,225000.0,"Reynolds Court, Chadwell Heath, RM6",RM6,3.0
+516,450000.0,"Rose Glen, Romford, London, RM7",RM7,3.0
+517,250000.0,"Ibscott Close, Dagenham, RM10",RM10,4.0
+518,250000.0,"Ibscott Close, Dagenham, RM10",RM10,4.0
+520,125000.0,"Wiltshire Court (Ilford), Ilford, IG1 2QE",IG1,1.0
+522,350000.0,"Oval Road South, Dagenham, London, RM10 9DP",RM10,3.0
+523,345000.0,"Hedgemans Road, Dagenham, London, RM9",RM9,3.0
+524,225000.0,"Adeliza Close, Barking, Essex, United Kingdom, IG11",IG11,2.0
+526,350000.0,"Durell Road, Dagenham, RM9",RM9,3.0
+528,214995.0,"Arboretum Place Barking, Essex, IG11",IG11,1.0
+530,490000.0,"Whalebone Grove, Romford, RM6 ",RM6,5.0
+531,400000.0,"Highland Avenue, Dagenham, RM10",RM10,3.0
+533,180000.0,"Stanley Avenue, Dagenham, RM8",RM8,1.0
+534,185000.0,"Stanley Avenue, Dagenham, RM8",RM8,1.0
+535,180000.0,"Stanley Avenue, Dagenham, RM8",RM8,1.0
+536,185000.0,"Stanley Avenue, Dagenham, RM8",RM8,1.0
+537,285000.0,"New Road
+Rainham
+RM13 8DH",RM13,1.0
+538,309995.0,"Sedgemoor Drive, Dagenham, London, RM10",RM10,2.0
+539,330000.0,"Lillechurch Road, Dagenham, RM8",RM8,3.0
+542,330000.0,"Padnall Road, Chadwell Heath, RM6",RM6,3.0
+543,375000.0,"Maxey Road, Dagenham, RM9",RM9,3.0
+545,335000.0,"Exeter House, Academy Way, Dagenham, RM8 2FP",RM8,3.0
+547,425000.0,"Hepworth Gardens, Barking, IG11",IG11,3.0
+549,295000.0,"Burdetts Road, Dagenham, RM9",RM9,2.0
+552,295000.0,"Durell Road, Dagenham, London, RM9",RM9,2.0
+556,195000.0,"Cutmore Ropeworks,  Arboretum Place, Barking IG11 7GS",IG11,1.0
+557,180000.0,"John Burns Drive, Barking, Essex, IG11",IG11,1.0
+558,200000.0,"Greenslade Road, Barking, Essex, United Kingdom, IG11",IG11,1.0
+559,150000.0,"Gurney Close, Barking, IG11",IG11,1.0
+560,600000.0,"Cavendish Gardens, Barking, Essex, IG11 ",IG11,4.0
+561,495000.0,"Morel Mews, Dagenham, RM8",RM8,4.0
+562,500000.0,"Westrow Drive, Barking, Essex, IG11 ",IG11,3.0
+565,250000.0,Adeliza Close Barking Essex IG11 8BQ,IG11,2.0
+566,475000.0,"Whalebone Lane North, Chadwell Heath, RM6",RM6,5.0
+567,315000.0,"Ballards Close, Dagenham, RM10",RM10,3.0
+568,260000.0,"Heynes Road, Dagenham, London, RM8",RM8,2.0
+571,460000.0,"Fleet Road,
+Barking,
+London,
+IG11",IG11,2.0
+574,360000.0,"New Road
+Rainham
+RM13 8DH",RM13,2.0
+576,175000.0,"Gosfield Road, Dagenham, RM8",RM8,2.0
+577,455000.0,"Fleet Road,
+Barking,
+London,
+IG11",IG11,2.0
+578,370000.0,"Fleet Road,
+Barking,
+London,
+IG11",IG11,1.0
+580,90000.0,"High Road, Romford, RM6",RM6,2.0
+581,244995.0,"Stern Close, Barking, Essex, IG11",IG11,2.0
+582,280000.0,"Spring Place, Barking, IG11",IG11,2.0
+583,190000.0,"Curzon Crescent, Barking, Essex, IG11 ",IG11,1.0
+584,180000.0,"Millard Terrace, Heathway, Dagenham, London, RM10",RM10,2.0
+585,360000.0,"Oculus House, Barking IG11",IG11,2.0
+587,115000.0,"Anglia Court, Dagenham, RM8 1SW",RM8,1.0
+589,250000.0,"Victoria Road, Barking, Essex, IG11",IG11,2.0
+590,235000.0,"Sutton Gardens, Barking, Essex, IG11",IG11,1.0
+592,400000.0,"Morley Road, Barking, IG11",IG11,3.0
+595,320000.0,"Victoria Road, BARKING, IG11",IG11,2.0
+596,240000.0,"3 Sackett Road, Barking, IG11",IG11,1.0
+597,300000.0,"Spring Close, Dagenham, RM8",RM8,3.0
+599,350000.0,"Exeter House, 41 Academy Way, Dagenham RM8 2FP",RM8,3.0
+603,180000.0,"Hyacinth Close, Ilford, IG1 ",IG1,1.0
+604,290000.0,"Walnut Tree Road, Dagenham, London, RM8",RM8,2.0
+605,475000.0,"Bakery Close, Chadwell Heath, RM6",RM6,4.0
+606,565000.0,"Pasture Road, Dagenham, London, RM9",RM9,5.0
+607,230000.0,"Hunters Square, RM10",RM10,1.0
+608,310000.0,"Reede Road, Dagenham, Essex, RM10",RM10,2.0
+609,180000.0,"Honey Close, Dagenham, Essex, ., RM10",RM10,1.0
+611,280000.0,"Elgin House, 235 High Road, Romford, RM6",RM6,2.0
+613,155000.0,"Maybury Road, Barking, IG11",IG11,1.0
+616,180000.0,"Cranborne Road, Barking, IG11",IG11,1.0
+617,575000.0," Victoria Road,  Barking, IG11",IG11,6.0
+618,250000.0,"High Road, Chadwell Heath, RM6",RM6,2.0
+622,369000.0,"Radius Tower, 360 Barking, Barking, IG11",IG11,2.0
+625,260000.0,"Bath House, 5 Arboretum Place, Barking, Essex, IG11 7PS",IG11,1.0
+626,300000.0,"Easebourne Road, Dagenham, London, RM8",RM8,2.0
+629,215000.0,"Kings House, Barking, IG11",IG11,1.0
+630,350000.0,"Gordon Road, Chadwell Heath, Romford, RM6",RM6,3.0
+631,535000.0,"Stratton Drive, Barking, IG11",IG11,4.0
+632,368000.0,"Panorama Tower, 360 Barking, Barking, IG11",IG11,2.0
+633,200000.0,"Longbridge Road, Dagenham, Essex, RM8 ",RM8,1.0
+634,330000.0,"Canterbury House, 1 Honour Gardens, Dagenham, Essex, RM8",RM8,3.0
+635,375000.0,"Campden Crescent, Dagenham, RM8",RM8,3.0
+638,299995.0,"Crosby Road, RM10",RM10,3.0
+639,375000.0,"Valence Avenue, Dagenham, RM8",RM8,3.0
+640,240000.0,"Waterside Close, Barking, Essex, IG11",IG11,2.0
+643,185000.0,"Faircross Avenue, Barking, Essex, United Kingdom, IG11",IG11,1.0
+647,440000.0,"Fitzstephen Road, Dagenham, RM8 2YP",RM8,4.0
+648,217000.0,"Ropeworks, 1 Arboretum Place, Barking, Essex, IG11",IG11,1.0
+649,350000.0,"Gordon Road, Chadwell Heath, RM6",RM6,3.0
+650,455000.0,"Fleet Road,
+Barking,
+London,
+IG11",IG11,2.0
+652,200000.0,"Bastable Avenue, Barking, Essex, IG11",IG11,1.0
+653,565000.0,"Pasture Road, RM9",RM9,5.0
+655,370000.0,"Tilney Road, Dagenham, Essex, RM9 ",RM9,3.0
+656,375000.0,"Building, Plot, Cambridge Road, Barking, IG11",IG11,2.0
+657,375000.0,"Cambridge Road, Barking, Essex, United Kingdom, IG11",IG11,2.0
+658,214950.0,"Schrier Ropeworks, Barking Central, Barking IG11",IG11,1.0
+659,425000.0,"Manor Road, Dagenham East, RM10",RM10,4.0
+660,369999.0,"The Heights, 360 Barking, Barking, IG11",IG11,2.0
+661,125000.0,"Anglia Court, Dagenham, RM8 1SW",RM8,1.0
+662,250000.0,"Brook Court, Barking, IG11",IG11,1.0
+665,289995.0,"Ridley Close, Barking, Essex, IG11",IG11,2.0
+666,390000.0,"Whitebarn Lane, Dagenham, RM10",RM10,3.0
+667,85000.0,"BARKING 360, Cambridge Road, Barking, IG11",IG11,2.0
+669,195000.0,"Shafter Road, Dagenham, Essex, RM10 8SE",RM10,1.0
+671,180000.0,"Whalebone Grove, Chadwell Heath, RM6",RM6,1.0
+672,425000.0,"Hardie Road, Dagenham, RM10",RM10,4.0
+673,400000.0,"Coniston Avenue, Barking, IG11",IG11,3.0
+674,230000.0,"Sandown Court, Rainham Road,RM10 8XU",RM10,2.0
+676,380000.0,"Panorama Tower, 360 Barking, Barking, IG11",IG11,2.0
+677,365000.0,"Lillechurch Road, DAGENHAM, Essex, RM8",RM8,3.0
+678,175000.0,"Tenby Close, Chadwell Heath, RM6",RM6,1.0
+679,200000.0,"Gurney Close, Barking, IG11",IG11,1.0
+680,205000.0,Cowbridge Lane Barking Essex IG11 8LF,IG11,1.0
+682,115000.0,"Cromwell Lodge, Barking, IG11 8UB",IG11,1.0
+683,355000.0,"New Road
+Rainham
+RM13 8DH",RM13,2.0
+684,320000.0,"Davington Road., Dagenham, RM8",RM8,3.0
+685,240000.0,"Waterside Close, Barking, Essex, IG11 ",IG11,2.0
+686,260000.0,Lonbridge Road Barking Essex IG11 9EH ,IG11,2.0
+687,550000.0,"Wilmington Gardens, Barking, IG11",IG11,3.0
+688,214995.0,"Longbridge Road, Barking, Essex, IG11",IG11,1.0
+689,875000.0,"Upney Lane, Barking, Essex, IG11 ",IG11,5.0
+690,300000.0,"Nash Road, Chadwell Heath, Essex, GB, RM6 5JP",RM6,3.0
+691,230000.0,"Lupin Close, Rush Green, Romford, RM7",RM7,2.0
